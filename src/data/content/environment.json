@@ -1,0 +1,166 @@
+{
+  "env_1": {
+    "title": "Ecology & Ecosystem Core Concepts (Food Chains, Webs, Ecological Pyramids)",
+    "phases": [
+      {
+        "phaseName": "Ecosystem Dynamics & Energetics",
+        "subtopics": [
+          {
+            "name": "Ecotones, Niches, and Energy Pyramids",
+            "bullets": [
+              "<b>Ecotone Dynamics:</b> A zone of junction or transition area between two or more diverse ecosystems (e.g., mangroves between marine and terrestrial zones). Characterized by the <b>Edge Effect</b>, where the population density and variety of species are often greater than in either flanking community.",
+              "<b>Ecological Niche:</b> The specific functional role and position a species occupies within an ecosystem, including its chemical, physical, and biological interactions. **UPSC Trap:** While multiple species can share the same habitat, <b>no two distinct species can occupy the exact same niche</b> indefinitely (Gause's Principle of Competitive Exclusion).",
+              "<b>Lindeman's 10% Rule:</b> Dictates that during the transfer of organic energy from one trophic level to the next, **only about 10% of the energy is stored as biomass**. The remaining 90% is lost as metabolic heat during respiration, which structurally limits food chains to 4-5 links.",
+              "<b>Pyramid Geometries:</b> The <b>Pyramid of Energy is always upright</b> in every ecosystem due to thermodynamic laws. However, the <b>Pyramid of Biomass is inverted in aquatic ecosystems</b> (like open oceans), because a very small standing crop of rapidly dividing phytoplankton supports a much larger consumer biomass of zooplankton and fish."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_2": {
+    "title": "Biogeochemical Cycles & Ecosystem Functions",
+    "phases": [
+      {
+        "phaseName": "Gaseous vs Sedimentary Nutrient Cycling",
+        "subtopics": [
+          {
+            "name": "Carbon, Nitrogen, Phosphorus, and Sulphur Cycles",
+            "bullets": [
+              "<b>Gaseous vs Sedimentary:</b> Gaseous cycles (Carbon, Nitrogen) have their primary nutrient reservoir in the atmosphere or hydrosphere. Sedimentary cycles (Phosphorus, Sulphur) have their primary reservoir locked in the earth's crust/sedimentary rocks, making their release much slower.",
+              "<b>Nitrogen Fixation Sequence:</b> Atmospheric nitrogen ($N_2$) cannot be directly absorbed by plants. It must undergo biological fixation: 1. <i>Rhizobium</i> or <i>Azotobacter</i> convert $N_2$ into Ammonia ($NH_3$). 2. <i>Nitrosomonas</i> bacteria oxidize ammonia into Nitrites ($NO_2^-$). 3. <i>Nitrobacter</i> convert nitrites into Nitrates ($NO_3^-$), which plants assimilate.",
+              "<b>Denitrification:</b> The process where fixed nitrogen compound matrices are converted back into nitrogen gas by anaerobic bacteria like <b>Pseudomonas</b> and <b>Thiobacillus</b>, completing the loop."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_3": {
+    "title": "Terrestrial & Aquatic Ecosystems (Wetlands, Mangroves, Coral Reefs)",
+    "phases": [
+      {
+        "phaseName": "High-Yield Coastal & Marine Ecosystems",
+        "subtopics": [
+          {
+            "name": "Mangrove Adaptations & Coral Bleaching Math",
+            "bullets": [
+              "<b>Mangrove Halophytic Adaptations:</b> Grow in high-salinity, intertidal oxygen-poor soils. They utilize <b>Pneumatophores</b> (blind respiratory roots growing upwards to breathe air), stilt roots for mechanical support against tides, and **Vivipary germination** (seeds germinate while still attached to the parent tree).",
+              "<b>Coral Symbiosis:</b> Corals are mutualistic colonies of polyp animals and photosynthetic <b>Zooxanthellae</b> algae. The algae provide oxygen and synthesized nutrients while giving corals their vibrant colors; the polyps provide a protected structure and carbon dioxide.",
+              "<b>Coral Bleaching Drivers:</b> When thermal limits are breached (sea surface temperatures rise 1-2°C above baseline), or when ocean acidification increases, the stressed coral polyps **expel the Zooxanthellae**. If the stress persists, the exposed white calcium carbonate skeleton starves, leading to coral mortality."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_4": {
+    "title": "Biodiversity - Threats, Hotspots & Conservation (In-situ vs Ex-situ)",
+    "phases": [
+      {
+        "phaseName": "Biogeographic Realms & Protection Stratagems",
+        "subtopics": [
+          {
+            "name": "Hotspot Criteria & In-situ vs Ex-situ Divisions",
+            "bullets": [
+              "<b>Norman Myers Hotspot Criteria:</b> To qualify as a global biodiversity hotspot, a region must strictly meet two criteria: 1. It must contain at least **1,500 species of endemic vascular plants** (>0.5% of the world total). 2. It must have lost at least **70% of its original primary native vegetation**.",
+              "<b>India's 4 Hotspots:</b> The Himalayas, the Western Ghats, the Indo-Burma region, and Sundaland (including the Nicobar group).",
+              "<b>In-situ Conservation (On-Site):</b> Conserving target species inside their natural habitats. Examples include National Parks, Wildlife Sanctuaries, **Biosphere Reserves, and Sacred Groves**.",
+              "<b>Ex-situ Conservation (Off-Site):</b> Moving endangered genetic resources away from their natural habitats for high-security maintenance. Examples include **Botanical Gardens, Zoological Parks, Seed Banks, and Cryopreservation** facilities."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_5": {
+    "title": "Environmental Pollution - Air, Water, Soil, Plastic & E-Waste Rules",
+    "phases": [
+      {
+        "phaseName": "Pollutant Mechanics & Statutory Regulatory Frameworks",
+        "subtopics": [
+          {
+            "name": "Eutrophication, Bioaccumulation, and E-Waste EPR",
+            "bullets": [
+              "<b>Cultural Eutrophication:</b> Nutrient enrichment (primarily Nitrates and Phosphates from fertilizer runoff) into water bodies causes an **Algal Bloom**. This limits light penetration, and when the algae die, aerobic decomposers consume all dissolved oxygen (DO), driving **Biological Oxygen Demand (BOD)** upwards, which chokes aquatic life.",
+              "<b>Bioaccumulation vs Biomagnification:</b> <i>Bioaccumulation</i> is the progressive increase in concentration of a non-biodegradable toxin within a **single individual organism's** tissues over time. <i>Biomagnification</i> is the progressive concentration increase as toxins travel **upwards across consecutive trophic levels** of a food chain (e.g., DDT or Mercury concentrations in apex predators).",
+              "<b>E-Waste & Plastic Rules (EPR):</b> The modern operational rules center around <b>Extended Producer Responsibility (EPR)</b>, which legally binds manufacturers to set up take-back mechanisms and meet mandatory recycling targets."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_6": {
+    "title": "Climate Change - Greenhouse Effect, Global Warming & Mitigation Drivers",
+    "phases": [
+      {
+        "phaseName": "Atmospheric Kinetics & Radiative Forcing",
+        "subtopics": [
+          {
+            "name": "Global Warming Potential & Ocean Acidification",
+            "bullets": [
+              "<b>Greenhouse Dynamics:</b> Shortwave solar radiation passes through the atmosphere, but longwave terrestrial infrared radiation emitted back from earth is absorbed by Greenhouse Gases (GHGs), warming the lower atmosphere.",
+              "<b>Global Warming Potential (GWP):</b> Evaluates a gas's heat-trapping capacity relative to Carbon Dioxide ($CO_2$, baseline GWP = 1). **UPSC Trap:** While $CO_2$ has the highest cumulative atmospheric abundance, gases like **Sulphur Hexafluoride ($SF_6$) and Hydrofluorocarbons (HFCs)** have GWPs thousands of times greater than $CO_2$.",
+              "<b>Ocean Acidification Chemistry:</b> As oceanic waters absorb excess atmospheric $CO_2$, it dissolves to form Carbonic Acid ($H_2CO_3$), which breaks down into bicarbonate ions ($HCO_3^-$) and free hydrogen ions ($H^+$). This lowers ocean pH and decreases the concentration of available **carbonate ions ($CO_3^{2-}$)**, making it harder for calcifying marine organisms (like corals and mollusks) to build their shells."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_7": {
+    "title": "Protected Area Network - National Parks, Wildlife Sanctuaries & Biosphere Reserves",
+    "phases": [
+      {
+        "phaseName": "Legal Tenures & Spatial Zonation Layouts",
+        "subtopics": [
+          {
+            "name": "National Parks vs Wildlife Sanctuaries vs MAB",
+            "bullets": [
+              "<b>National Parks (Highest Legal Protection):</b> Declared under the Wildlife Protection Act, 1972. **No human activity is permitted** inside a National Park—grazing, private land tenure, and resource collection are entirely prohibited.",
+              "<b>Wildlife Sanctuaries:</b> Also declared under the WPA 1972, but feature lower legal restrictions. **Certain human activities can be permitted** by the Chief Wildlife Warden (such as regulated cattle grazing or timber collection), provided they do not harm wildlife conservation.",
+              "<b>Biosphere Reserves (UNESCO Man and Biosphere):</b> Large territorial landscapes divided into three zones: 1. <i>Core Area:</i> Legally protected undisturbed sanctuary (equivalent to a National Park). 2. <i>Buffer Zone:</i> Surrounds the core; regulated research, tourism, and environmental education are permitted. 3. <i>Transition Area:</i> Outer zone where local communities engage in sustainable farming and forestry management."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_8": {
+    "title": "National Environmental Acts & Bodies (EPA 1986, WPA 1972, NGT, CPCB)",
+    "phases": [
+      {
+        "phaseName": "Domestic Constitutional Architecture & Legislative Statutes",
+        "subtopics": [
+          {
+            "name": "WPA Schedules Overhaul & Umbrella Acts",
+            "bullets": [
+              "<b>Wildlife Protection Act (WPA), 1972:</b> Establishes National Parks, Wildlife Sanctuaries, and the National Tiger Conservation Authority (NTCA). **High-Yield Amendment Update:** The historical 6 schedules have been consolidated into **4 updated schedules**: Schedule I (highest protection for endangered species), Schedule II (protected species with lower penalties), Schedule III (plants), and Schedule IV (specimens under CITES compliance). The separate category for 'Vermin' has been repealed.",
+              "<b>Environment Protection Act (EPA), 1986:</b> Enacted under **Article 253** of the Constitution in the wake of the Bhopal Gas Tragedy to implement Rio decisions. It acts as an **'Umbrella Act'**, giving the Central Government wide-ranging powers to coordinate state activities, set pollution thresholds, and declare Eco-Sensitive Zones (ESZs).",
+              "<b>National Green Tribunal (NGT) Act, 2010:</b> A specialized statutory tribunal established for speedy disposal of environmental disputes. It is **not bound by the Code of Civil Procedure, 1908**, but guided by the **principles of Natural Justice**. India is only the third country globally to set up a dedicated environmental tribunal."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_9": {
+    "title": "Global Conventions & Treaties (UNFCCC, Paris Agreement, CBD, Ramsar, CITES)",
+    "phases": [
+      {
+        "phaseName": "International Environmental Governance",
+        "subtopics": [
+          {
+            "name": "The Rio Trio & Species Trade Protocols",
+            "bullets": [
+              "<b>The Rio Earth Summit (1992):</b> Generated three major international treaties known as the **Rio Sisters**: 1. <i>UNFCCC</i> (Climate Change). 2. <i>Convention on Biological Diversity (CBD)</i>. 3. <i>UNCCD</i> (Desertification).",
+              "<b>Ramsar Convention on Wetlands (1971):</b> An intergovernmental treaty for the conservation and sustainable use of wetlands. It features the **Montreux Record**, a register of wetland sites on the List of Ramsar wetlands where changes in ecological character have occurred, are occurring, or are likely to occur due to technological developments or human pollution. (India's Keoladeo National Park and Loktak Lake are currently on it).",
+              "<b>CITES & Vienna/Montreal Loops:</b> CITES legally regulates the international trade of endangered wild fauna and flora specimens. The **Vienna Convention and its Montreal Protocol** are universally ratified treaties that successfully phased out ozone-depleting substances (ODSs) like Chlorofluorocarbons (CFCs). The subsequent **Kigali Amendment** legally binds nations to phase down Hydrofluorocarbons (HFCs)—which protect the ozone layer but act as potent greenhouse gases."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

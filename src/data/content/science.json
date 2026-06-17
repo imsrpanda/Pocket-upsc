@@ -1,0 +1,137 @@
+{
+  "sci_1": {
+    "title": "Space Technology - ISRO Launch Vehicles, Satellites & Orbits",
+    "phases": [
+      {
+        "phaseName": "Propellant Engineering & Orbital Mechanics",
+        "subtopics": [
+          {
+            "name": "PSLV vs GSLV Fuel Stratification",
+            "bullets": [
+              "<b>Polar Satellite Launch Vehicle (PSLV):</b> ISRO's highly reliable 4-stage workhorse. It features an alternating fuel profile: the 1st and 3rd stages use solid Hydroxyl-terminated polybutadiene (HTPB) propellant, while the 2nd and 4th stages rely on liquid **UH25 fuel mixed with Dinitrogen Tetroxide ($N_2O_4$)** oxidizers in indigenous Vikas engines.",
+              "<b>Geosynchronous Satellite Launch Vehicle (GSLV):</b> A heavy-lift 3-stage configuration designed for higher Geosynchronous Transfer Orbits (GTO). It features solid boosters, a liquid second stage, and a highly complex **Cryogenic Upper Stage (CUS)** that ignites sub-zero liquid hydrogen ($LH_2$) fuel and liquid oxygen ($LOX$) oxidizers for maximum thrust efficiency.",
+              "<b>LVM3 (Launch Vehicle Mark 3):</b> India's heaviest operational lifter. It bypasses lower-capacity tracking by utilizing twin massive S200 solid strap-on boosters, an L110 liquid core, and a C25 cryogenic upper stage, capable of deploying 4-ton payloads directly into GTO."
+            ]
+          },
+          {
+            "name": "Orbital Altitude Classifications",
+            "bullets": [
+              "<b>Low Earth Orbit (LEO):</b> Altitudes ranging from 160 km to 2,000 km. Host to remote sensing, earth observation satellites, and the International Space Station (ISS) due to low propagation delay.",
+              "<b>Geosynchronous (GSO) vs Geostationary (GEO):</b> Both orbit at exactly **35,786 km** with an orbital period matching Earth's rotation (23 hours, 56 minutes, 4 seconds). **UPSC Trap:** A GEO satellite must be placed directly over the **equator with a 0° inclination**, appearing completely stationary to a ground antenna. A GSO satellite has an inclined orbit and traces a figure-8 path relative to the ground."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sci_2": {
+    "title": "Defense Technology - Missiles, Submarines & Indigenization",
+    "phases": [
+      {
+        "phaseName": "Ballistic Delivery Systems & Strategic Deterrence",
+        "subtopics": [
+          {
+            "name": "Integrated Guided Missile Program & MIRV Architecture",
+            "bullets": [
+              "<b>IGMDP Blueprint:</b> Conceived by Dr. A.P.J. Abdul Kalam, developing 5 core systems: 1. <i>Prithvi:</i> Surface-to-surface short-range ballistic missile. 2. <i>Agni:</i> Surface-to-surface intermediate-to-intercontinental system. 3. <i>Trishul:</i> Short-range surface-to-air. 4. <i>Akash:</i> Medium-range surface-to-air using ramjet propulsion. 5. <i>Nag:</i> Third-generation anti-tank 'fire-and-forget' missile.",
+              "<b>Cruise vs Ballistic Trajectories:</b> Cruise missiles (e.g., BrahMos) fly at low altitudes within the atmosphere along flat paths, powered continuously by jet engines. Ballistic missiles (e.g., Agni) follow a high parabolic trajectory, leaving the atmosphere before gravity pulls the unpowered payload down onto the target.",
+              "<b>MIRV Technology (Agni-V):</b> India mastered **Multiple Independently Targetable Re-entry Vehicles (MIRVs)** under Mission Divyastra. It allows a single ballistic missile to carry multiple nuclear warheads, each capable of striking completely separate targets hundreds of kilometers apart.",
+              "<b>Nuclear Triad Submarines:</b> Completed via the deployment of INS Arihant, a nuclear-powered ballistic missile submarine (SSBN). Unlike diesel-electric submarines (SSKs) that must surface frequently to recharge batteries, nuclear submarines can remain submerged indefinitely, providing a survivable second-strike capability."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sci_3": {
+    "title": "Nuclear Technology - Nuclear Fission, Fusion & India's 3-Stage Program",
+    "phases": [
+      {
+        "phaseName": "Reactor Physics & Domestic Strategic Fuel Cycles",
+        "subtopics": [
+          {
+            "name": "Homi Bhabha's Three-Stage Nuclear Strategy",
+            "bullets": [
+              "<b>Stage 1 - PHWRs:</b> Utilizes **Pressurized Heavy Water Reactors** fueled by un-enriched, **Natural Uranium ($U^{238}$)**. It produces electricity while transmuting $U^{238}$ into a byproduct: **Plutonium-239 ($Pu^{239}$)**. Heavy water ($D_2O$) acts as both the coolant and neutron moderator.",
+              "<b>Stage 2 - FBRs:</b> Relies on **Fast Breeder Reactors** fueled by a Mixed Oxide (MOX) combination of the $Pu^{239}$ recovered from Stage 1 and a surrounding blanket of local **Thorium-232 ($Th^{232}$)**. It is called a 'breeder' because it creates more fissile Uranium-233 ($U^{233}$) than it consumes.",
+              "<b>Stage 3 - Thorium Reactors:</b> The ultimate long-term stage, utilizing reactors fueled by **Uranium-233 bred in Stage 2, surrounded by a Thorium blanket** to convert fresh Thorium into fissile fuel, creating a self-sustaining cycle. This leverages India's massive domestic Monazite sand Thorium reserves.",
+              "<b>Fission vs Fusion Traps:</b> Nuclear fission splits heavy, unstable atomic nuclei (like $U^{235}$) into lighter elements, leaving radioactive waste. Nuclear fusion forces light isotopes (like Deuterium and Tritium) together under extreme temperature and pressure to form Helium, generating clean energy without long-lived high-level waste (tracked globally via the **ITER project**)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sci_4": {
+    "title": "Biotechnology - Genetics, DNA Profiling & CRISPR-Cas9",
+    "phases": [
+      {
+        "phaseName": "Molecular Biology & Genetic Engineering",
+        "subtopics": [
+          {
+            "name": "CRISPR-Cas9 Mechanics & Somatic vs Germline Editing",
+            "bullets": [
+              "<b>CRISPR-Cas9 Gene Drive:</b> A molecular gene-editing technology. It uses a **Guide RNA (gRNA)** sequence to find a specific target location on a DNA strand, where the **Cas9 endonuclease protein** acts as genetic scissors to snip the double helix, allowing precise insertion, deletion, or repair of genes.",
+              "<b>Somatic vs Germline Modifications:</b> <i>Somatic Editing</i> targets non-reproductive cells (like blood or skin tissues) to cure disease in a single patient; these edits **cannot be passed down** to future generations. <i>Germline Editing</i> targets reproductive cells (sperm, eggs, or early embryos); these genetic modifications **alter the hereditary line permanently**.",
+              "<b>Recombinant DNA Tech:</b> Involves joining DNA molecules from two different species and inserting the hybrid string into a host organism (e.g., using plasmids in <i>E. coli</i> bacteria to mass-produce human insulin)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sci_5": {
+    "title": "Information Technology, Quantum Computing & Emerging Tech (AI, Blockchain)",
+    "phases": [
+      {
+        "phaseName": "Advanced Computing Architectures & Cryptographic Ledgers",
+        "subtopics": [
+          {
+            "name": "Quantum Superposition & Decentralized Ledgers",
+            "bullets": [
+              "<b>Quantum Qubit Physics:</b> Classical computers rely on silicon transistors processing binary bits as either a 0 or a 1. Quantum computing utilizes subatomic qubits that leverage **Superposition** (existing simultaneously as both 0 and 1) and **Entanglement** (qubits remaining linked regardless of distance), expanding computing power exponentially.",
+              "<b>Blockchain Cryptography:</b> A decentralized, distributed ledger system. Data is stored in chronological blocks secured using cryptographic hashes. Every block is linked immutably to the preceding one, creating a system that cannot be altered retroactively without rewriting the entire network history.",
+              "<b>Web 3.0 vs Web 2.0:</b> Web 2.0 is the centralized, interactive web dominated by tech platforms hosting user data. Web 3.0 is a decentralized internet architecture built on blockchain nodes, where users maintain sovereign ownership over their own data and identities through smart contracts."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sci_6": {
+    "title": "Nanotechnology & Materials Science (Graphene, Superconductors)",
+    "phases": [
+      {
+        "phaseName": "Nanoscale Physics & Molecular Carbon Allotropes",
+        "subtopics": [
+          {
+            "name": "Quantum Confinement Effects & Graphene Anomalies",
+            "bullets": [
+              "<b>The Nanoscale Shift:</b> At the nanoscale (1 to 100 nanometers), materials stop following classical physics and begin exhibiting **Quantum Confinement** effects. This changes their optical properties, electrical conductivity, and chemical reactivity relative to their bulk states.",
+              "<b>Graphene Allotropy:</b> A two-dimensional, single-atom-thick sheet of carbon arranged in a hexagonal honeycomb lattice. It is a phenomenal conductor of heat and electricity, flexible, and holds a tensile strength **200 times greater than steel**.",
+              "<b>Superconductivity Thresholds:</b> A physical state where certain materials exhibit **zero electrical resistance** and expel all internal magnetic fields when cooled below a specific Critical Temperature ($T_c$)—an effect known as the **Meissner Effect**."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "sci_7": {
+    "title": "Health & Disease - Viruses, Bacteria, Vaccines & Antimicrobial Resistance",
+    "phases": [
+      {
+        "phaseName": "Pathogen Kinetics & Immunological Therapeutics",
+        "subtopics": [
+          {
+            "name": "Antimicrobial Resistance & Vaccine Engineering",
+            "bullets": [
+              "<b>Antimicrobial Resistance (AMR):</b> Occurs when bacteria, viruses, or parasites mutate over time, rendering standard antibiotic medications completely ineffective. Driven by the misuse of antibiotics and **horizontal gene transfer** through plasmids (such as the spread of the NDM-1 superbug gene).",
+              "<b>Vaccine Platform Configurations:</b> 1. <i>Inactivated Vaccines:</i> Uses pathogens killed by heat or chemicals (e.g., Covaxin). 2. <i>Viral Vector Vaccines:</i> Uses a safe virus (like an adenovirus) as a delivery vehicle to carry genetic instructions for a pathogen's spike protein (e.g., Covishield). 3. <i>mRNA Vaccines:</i> Delivers synthetic messenger RNA strands wrapped in lipid nanoparticles to instruct cells to produce defensive antigens.",
+              "<b>Zoonotic Spillovers:</b> Infectious diseases caused by pathogens that jump directly from animal hosts to humans, often driven by deforestation, habitat fragmentation, and wildlife markets (e.g., Nipah, Ebola, and Avian Influenza)."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
