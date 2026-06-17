@@ -1,0 +1,72 @@
+[
+  {
+    "id": "q_1",
+    "subjectId": "polity",
+    "topicId": "pol_2",
+    "question": "Consider the following statements regarding the Right to Equality guaranteed under the Indian Constitution:\n1. The concept of 'Equal Protection of Laws' is derived from the British constitutional tradition.\n2. The concept of 'Equality Before Law' is a negative concept emphasizing the absence of any special privileges.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statement 1 is incorrect: The concept of 'Equal Protection of Laws' is taken from the American Constitution. Statement 2 is correct: 'Equality Before Law' is derived from the British tradition (Dicey's Rule of Law) and is considered a negative concept because it declares that no individual has special privileges over others."
+  },
+  {
+    "id": "q_2",
+    "subjectId": "economy",
+    "topicId": "eco_2",
+    "question": "Which of the following actions can the Reserve Bank of India (RBI) take to curb high inflation in the domestic economy?\n1. Increase the Cash Reserve Ratio (CRR).\n2. Sell Government Securities under Open Market Operations (OMO).\n3. Decrease the Repo Rate.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To curb inflation, RBI needs to absorb liquidity from the market. 1 is correct: Increasing CRR forces banks to lock more cash with RBI, reducing lending capacity. 2 is correct: Selling securities under OMO sucks out liquid cash from public circulation. 3 is incorrect: Decreasing the Repo rate makes borrowing cheaper, which increases inflation."
+  },
+  {
+    "id": "q_3",
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "question": "Consider the following pairs of rivers and their active tributaries:\n1. Brahmaputra — Manas\n2. Godavari — Indravati\n3. Krishna — Pranhita\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pair 1 is correctly matched: Manas, Lohit, and Subansiri are key tributaries of the Brahmaputra. Pair 2 is correctly matched: Indravati, Sabari, and Penganga feed the Godavari. Pair 3 is incorrectly matched: Pranhita is a major tributary of the Godavari river, not the Krishna river (Krishna's tributaries include Bhima, Tungabhadra, and Koyna)."
+  },
+  {
+    "id": "q_4",
+    "subjectId": "polity",
+    "topicId": "pol_1",
+    "question": "Which of the following British-era legislations introduced a bicameral legislature at the central level in India for the first time?",
+    "options": [
+      "The Indian Councils Act, 1909",
+      "The Government of India Act, 1919",
+      "The Government of India Act, 1935",
+      "The Indian Independence Act, 1947"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Government of India Act of 1919 (Montagu-Chelmsford Reforms) introduced bicameralism at the Center for the first time, establishing a Council of State (Upper House) and a Legislative Assembly (Lower House)."
+  },
+  {
+    "id": "q_5",
+    "subjectId": "economy",
+    "topicId": "eco_1",
+    "question": "The term 'Base Effect' frequently appearing in economic news records relates to which of the following phenomena?",
+    "options": [
+      "The calculation of core banking reserve assets",
+      "The impact of the previous year's price levels on current inflation calculations",
+      "The variation in global exchange rate parity indices",
+      "The calculation of corporate non-performing asset trends"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'Base Effect' refers to the impact of the corresponding price index level from the previous year on the current inflation rate percentage. If the price index in the base period was abnormally low, even a small absolute rise in prices today will appear as a massive inflation spike."
+  }
+]

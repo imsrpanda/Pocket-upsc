@@ -1,0 +1,107 @@
+[
+  {
+    "id": "polity",
+    "subject": "Indian Polity & Governance",
+    "topics": [
+      { "id": "pol_1", "title": "Historical Background & Making of the Constitution" },
+      { "id": "pol_2", "title": "Preamble, Salient Features, Union & its Territory" },
+      { "id": "pol_3", "title": "Citizenship (Constitutional Provisions & CAAs)" },
+      { "id": "pol_4", "title": "Fundamental Rights (Articles 12 to 35)" },
+      { "id": "pol_5", "title": "Directive Principles of State Policy (DPSPs)" },
+      { "id": "pol_6", "title": "Fundamental Duties (Article 51A)" },
+      { "id": "pol_7", "title": "Amendment of the Constitution & Basic Structure Doctrine" },
+      { "id": "pol_8", "title": "The Union Executive (President, VP, PM & Council of Ministers)" },
+      { "id": "pol_9", "title": "Parliament (Lok Sabha, Rajya Sabha, Sessions & Legislative Procedures)" },
+      { "id": "pol_10", "title": "The State Executive & Legislature (Governor, CM & Assembly)" },
+      { "id": "pol_11", "title": "The Indian Judiciary (Supreme Court, High Courts & Subordinate Courts)" },
+      { "id": "pol_12", "title": "Federal System, Center-State & Inter-State Relations" },
+      { "id": "pol_13", "title": "Emergency Provisions (Articles 352, 356 & 360)" },
+      { "id": "pol_14", "title": "Local Government (73rd & 74th Constitutional Amendment Acts)" },
+      { "id": "pol_15", "title": "Constitutional & Non-Constitutional Bodies (Election Commission, UPSC, NITI Aayog, NHRC)" }
+    ]
+  },
+  {
+    "id": "economy",
+    "subject": "Economic & Social Development",
+    "topics": [
+      { "id": "eco_1", "title": "National Income Accounting (GDP, GNP, NNP, Real vs Nominal)" },
+      { "id": "eco_2", "title": "Growth, Development & Structural Changes in Indian Economy" },
+      { "id": "eco_3", "title": "Monetary Policy & RBI Instruments (Repo, Reverse Repo, CRR, SLR)" },
+      { "id": "eco_4", "title": "Banking System in India, NPA Crisis & Financial Reforms" },
+      { "id": "eco_5", "title": "Fiscal Policy, Union Budget Framework & Deficit Indicators" },
+      { "id": "eco_6", "title": "Taxation Structure in India (Direct vs Indirect Taxes, GST Council)" },
+      { "id": "eco_7", "title": "Inflation - Types, Measuring Indices (WPI, CPI) & Control Mechanisms" },
+      { "id": "eco_8", "title": "Capital Markets & Money Markets (SEBI, Stocks, Bonds, T-Bills)" },
+      { "id": "eco_9", "title": "External Sector - Balance of Payments (BOP), Current & Capital Account" },
+      { "id": "eco_10", "title": "Foreign Exchange Markets, Convertibility & Trade Policies" },
+      { "id": "eco_11", "title": "International Financial Institutions (IMF, World Bank, WTO, ADB)" },
+      { "id": "eco_12", "title": "Poverty, Inequality, Unemployment & Social Sector Initiatives" },
+      { "id": "eco_13", "title": "Agriculture Sector - Land Reforms, Subsidies, MSP & Food Security" },
+      { "id": "eco_14", "title": "Poverty, Inequality, Unemployment Metrics & Human Development" },
+      { "id": "eco_15", "title": "Social Sector Initiatives, Sustainable Development & Inclusive Growth" }
+    ]
+  },
+  {
+    "id": "geography",
+    "subject": "Indian & World Geography",
+    "topics": [
+      { "id": "geo_1", "title": "Geomorphology (Earth's Interior, Plate Tectonics, Earthquakes, Volcanoes)" },
+      { "id": "geo_2", "title": "Climatology (Atmosphere Structure, Pressure Belts, Cyclones, Jet Streams)" },
+      { "id": "geo_3", "title": "Oceanography (Ocean Relief, Salinity, Currents, Tides)" },
+      { "id": "geo_4", "title": "Physiography of India (Himalayas, Peninsular Plateau, Northern Plains, Coasts)" },
+      { "id": "geo_5", "title": "Indian River Systems & Drainage Patterns (Himalayan vs Peninsular)" },
+      { "id": "geo_6", "title": "Climate of India (Monsoon Mechanisms, El Nino, La Nina, Koppen's Classification)" },
+      { "id": "geo_7", "title": "Soils and Natural Vegetation in India" },
+      { "id": "geo_8", "title": "Economic Geography - Mineral and Energy Resources of India and the World" },
+      { "id": "geo_9", "title": "Human Geography - Population Demographics & Urbanization Trends" },
+      { "id": "geo_10", "title": "World Mapping (Major Seas, Straits, Mountain Ranges & Conflict Locations)" }
+    ]
+  },
+  {
+    "id": "history",
+    "subject": "History of India & National Movement",
+    "topics": [
+      { "id": "his_1", "title": "Ancient India: Indus Valley Civilization & Vedic Age" },
+      { "id": "his_2", "title": "Ancient India: Buddhism, Jainism & Heterodox Philosophies" },
+      { "id": "his_3", "title": "Ancient India: Mauryan & Gupta Empires (Administration & Literature)" },
+      { "id": "his_4", "title": "Medieval India: Major Dynasties (Cholas, Delhi Sultanate, Vijayanagar Empire)" },
+      { "id": "his_5", "title": "Medieval India: Mughal Empire, Maratha Confederacy & Administrative Terms" },
+      { "id": "his_6", "title": "Art & Culture: Indian Architecture (Temples, Caves, Stupas & Indo-Islamic Styles)" },
+      { "id": "his_7", "title": "Art & Culture: Classical Dances, Music Schools, Paintings & Puppetry" },
+      { "id": "his_8", "title": "Modern India: British Expansion, Regulatory Acts & Economic Impact" },
+      { "id": "his_9", "title": "Modern India: Tribal & Peasant Uprisings, Revolt of 1857" },
+      { "id": "his_10", "title": "Modern India: Socio-Religious Reform Movements" },
+      { "id": "his_11", "title": "National Movement: Foundation of INC, Moderates vs Extremists, Swadeshi (1885-1915)" },
+      { "id": "his_12", "title": "National Movement: Gandhian Era (Non-Cooperation, Civil Disobedience, Quit India)" },
+      { "id": "his_13", "title": "National Movement: Revolutionary Extremism, INA & Partition Politics" }
+    ]
+  },
+  {
+    "id": "environment",
+    "subject": "Environment, Ecology & Climate Change",
+    "topics": [
+      { "id": "env_1", "title": "Ecology & Ecosystem Core Concepts (Food Chains, Webs, Ecological Pyramids)" },
+      { "id": "env_2", "title": "Biogeochemical Cycles & Ecosystem Functions" },
+      { "id": "env_3", "title": "Terrestrial & Aquatic Ecosystems (Wetlands, Mangroves, Coral Reefs)" },
+      { "id": "env_4", "title": "Biodiversity - Threats, Hotspots & Conservation (In-situ vs Ex-situ)" },
+      { "id": "env_5", "title": "Environmental Pollution - Air, Water, Soil, Plastic & E-Waste Rules" },
+      { "id": "env_6", "title": "Climate Change - Greenhouse Effect, Global Warming & Mitigation Drivers" },
+      { "id": "env_7", "title": "Protected Area Network - National Parks, Wildlife Sanctuaries & Biosphere Reserves" },
+      { "id": "env_8", "title": "National Environmental Acts & Bodies (EPA 1986, WPA 1972, NGT, CPCB)" },
+      { "id": "env_9", "title": "Global Conventions & Treaties (UNFCCC, Paris Agreement, CBD, Ramsar, CITES)" }
+    ]
+  },
+  {
+    "id": "science",
+    "subject": "General Science & Technology",
+    "topics": [
+      { "id": "sci_1", "title": "Space Technology - ISRO Launch Vehicles (PSLV, GSLV), Satellites & Space Missions" },
+      { "id": "sci_2", "title": "Defense Technology - Missile Systems (IGMDP), Submarines & Stealth Tech" },
+      { "id": "sci_3", "title": "Information Technology - 5G/6G, IoT, Artificial Intelligence, Blockchain & Quantum Computing" },
+      { "id": "sci_4", "title": "Biotechnology - Gene Editing (CRISPR-Cas9), GM Crops, Stem Cells & Cloning" },
+      { "id": "sci_5", "title": "Nanotechnology & Nuclear Energy Principles (Fission vs Fusion, India's Three-Stage Program)" },
+      { "id": "sci_6", "title": "Public Health, Diseases (Viral, Bacterial, Protozoan), Vaccines & Antimicrobial Resistance" },
+      { "id": "sci_7", "title": "Basic Physics, Chemistry & Biology Core Concepts" }
+    ]
+  }
+]
