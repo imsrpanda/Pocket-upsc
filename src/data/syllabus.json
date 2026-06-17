@@ -42,21 +42,26 @@
     ]
   },
   {
-    "id": "geography",
-    "subject": "Indian & World Geography",
-    "topics": [
-      { "id": "geo_1", "title": "Geomorphology (Earth's Interior, Plate Tectonics, Earthquakes, Volcanoes)" },
-      { "id": "geo_2", "title": "Climatology (Atmosphere Structure, Pressure Belts, Cyclones, Jet Streams)" },
-      { "id": "geo_3", "title": "Oceanography (Ocean Relief, Salinity, Currents, Tides)" },
-      { "id": "geo_4", "title": "Physiography of India (Himalayas, Peninsular Plateau, Northern Plains, Coasts)" },
-      { "id": "geo_5", "title": "Indian River Systems & Drainage Patterns (Himalayan vs Peninsular)" },
-      { "id": "geo_6", "title": "Climate of India (Monsoon Mechanisms, El Nino, La Nina, Koppen's Classification)" },
-      { "id": "geo_7", "title": "Soils and Natural Vegetation in India" },
-      { "id": "geo_8", "title": "Economic Geography - Mineral and Energy Resources of India and the World" },
-      { "id": "geo_9", "title": "Human Geography - Population Demographics & Urbanization Trends" },
-      { "id": "geo_10", "title": "World Mapping (Major Seas, Straits, Mountain Ranges & Conflict Locations)" }
-    ]
-  },
+  "id": "geography",
+  "subject": "Indian & World Geography",
+  "topics": [
+    { "id": "geo_1", "title": "Geomorphology (Earth's Interior, Plate Tectonics, Earthquakes, Volcanoes)" },
+    { "id": "geo_2", "title": "Climatology (Atmosphere Structure, Pressure Belts, Cyclones, Jet Streams)" },
+    { "id": "geo_3", "title": "Oceanography (Ocean Relief, Salinity, Currents, Tides)" },
+    { "id": "geo_4", "title": "Physiography of India (Himalayas, Peninsular Plateau, Plains, Coasts)" },
+    { "id": "geo_5", "title": "Indian River Systems & Drainage Patterns (Himalayan vs Peninsular)" },
+    { "id": "geo_6", "title": "Climate of India (Monsoon Mechanisms, El Nino, La Nina, Koppen's Classification)" },
+    { "id": "geo_7", "title": "Soils, Natural Vegetation & Biogeography" },
+    { "id": "geo_8", "title": "Economic Geography - Mineral, Energy & Strategic Resources" },
+    { "id": "geo_9", "title": "Human Geography - Demographics, Migration & Urbanization" },
+    { "id": "geo_10", "title": "Disaster Management (Floods, Droughts, Landslides, Cyclones)" },
+    { "id": "geo_11", "title": "Environment & Ecology (Biodiversity, Climate Change, Conservation)" },
+    { "id": "geo_12", "title": "Indian Mapping (River Basins, Protected Areas, Infrastructure & Peaks)" },
+    { "id": "geo_13", "title": "World Mapping (Straits, Seas, Conflict Zones & Geopolitical Corridors)" },
+    { "id": "geo_14", "title": "Environmental Geography (Pollution, EIA, Sustainable Development)" },
+    { "id": "geo_15", "title": "Geographical Current Affairs & Recent Phenomena" }
+  ]
+},
   {
     "id": "history",
     "subject": "History of India & National Movement",
