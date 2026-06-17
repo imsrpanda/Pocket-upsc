@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+/* You can write any global custom mobile styling tweaks right below this line */
+body {
+  background-color: #f8fafc; /* slate-50 */
+  color: #1e293b; /* slate-800 */
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* 🎯 THE NEW FIX: High-Performance Right-to-Left Swing Entrance */
+@keyframes cardSwingIn {
+  0% {
+    opacity: 0;
+    transform: translateX(40px) skewX(-4deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) skewX(0deg);
+  }
+}
+
+.animate-swing-card {
+  /* Executes instantly in 250ms with a crisp native hardware feel */
+  animation: cardSwingIn 1280ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
