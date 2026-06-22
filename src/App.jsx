@@ -10,6 +10,7 @@ import ClassicSheet from './components/ClassicSheet';
 import ReelMode from './components/ReelMode';
 import PracticeQuizEngine from './components/PracticeQuizEngine';
 import SettingsDesk from './components/SettingsDesk';
+import DashboardHub from './components/DashboardHub';
 
 export default function App() {
   // 🎯 CORE THEME HYDRATION HOOK: Syncs the class state inline on initial boot pass
@@ -22,8 +23,8 @@ export default function App() {
     }
   }, []);
 
-  // 🧭 Core Routing State
-  const [activeTab, setActiveTab] = useState('tracker');
+  // 🧭 Core Routing State — 🎯 MODIFIED: Default changed to 'dashboard' on launch
+  const [activeTab, setActiveTab] = useState('dashboard');
   const [expandedSubject, setExpandedSubject] = useState(null);
   const [selectedTopicId, setSelectedTopicId] = useState(null);
   const [readingMode, setReadingMode] = useState('sheet');
@@ -131,6 +132,9 @@ export default function App() {
 
       {/* CORE FRAME LAYOUT VIEWPORT STAGE */}
       <main className="flex-1 overflow-y-auto p-4 max-w-md mx-auto w-full flex flex-col pb-24">
+        {activeTab === 'dashboard' && (
+          <DashboardHub progressMetrics={progressMetrics} setActiveTab={setActiveTab} />
+        )}
         {activeTab === 'tracker' && (
           <SyllabusTracker 
             syllabusData={syllabusData} 
@@ -265,22 +269,75 @@ export default function App() {
       </main>
 
       {/* FIXED GLOBAL NAV RECTANGLE TRAY HEADER BUTTON FOOTER BLOCK */}
+      {/* 🎯 MODIFIED: Expanded layout tree grid structure over to grid-cols-5 for the main Hub inclusion */}
       <footer className="bg-white dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 p-2 shrink-0 fixed bottom-0 left-0 right-0 z-50 shadow-lg transition-colors duration-200">
-        <nav className="max-w-md mx-auto grid grid-cols-4 gap-1">
-          {['tracker', 'learn', 'quiz', 'settings'].map((tab) => (
-            <button 
-              key={tab} 
-              onClick={() => setActiveTab(tab)} 
-              className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
-                activeTab === tab 
-                  ? 'text-indigo-600 dark:text-indigo-400 font-extrabold bg-indigo-50/50 dark:bg-indigo-950/30' 
-                  : 'text-slate-400 dark:text-slate-500'
-              }`}
-            >
-              <span className="text-lg">{tab === 'tracker' ? '📋' : tab === 'learn' ? '📖' : tab === 'quiz' ? '⚡' : '⚙️'}</span>
-              <span className="text-[9px] mt-0.5 capitalize">{tab === 'learn' ? 'Learn Desk' : tab}</span>
-            </button>
-          ))}
+        <nav className="max-w-md mx-auto grid grid-cols-5 gap-1">
+          
+          {/* 🏛️ 1. CENTRAL HUB TARGET BUTTON */}
+          <button 
+            onClick={() => setActiveTab('dashboard')} 
+            className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
+              activeTab === 'dashboard' 
+                ? 'text-indigo-600 dark:text-indigo-400 font-extrabold bg-indigo-50/50 dark:bg-indigo-950/30' 
+                : 'text-slate-400 dark:text-slate-500'
+            }`}
+          >
+            <span className="text-lg">🏛️</span>
+            <span className="text-[9px] mt-0.5 capitalize">Hub</span>
+          </button>
+
+          {/* 📋 2. TRACKER TARGET BUTTON */}
+          <button 
+            onClick={() => setActiveTab('tracker')} 
+            className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
+              activeTab === 'tracker' 
+                ? 'text-indigo-600 dark:text-indigo-400 font-extrabold bg-indigo-50/50 dark:bg-indigo-950/30' 
+                : 'text-slate-400 dark:text-slate-500'
+            }`}
+          >
+            <span className="text-lg">📋</span>
+            <span className="text-[9px] mt-0.5 capitalize">Tracker</span>
+          </button>
+
+          {/* 📖 3. LEARN DESK TARGET BUTTON */}
+          <button 
+            onClick={() => setActiveTab('learn')} 
+            className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
+              activeTab === 'learn' 
+                ? 'text-indigo-600 dark:text-indigo-400 font-extrabold bg-indigo-50/50 dark:bg-indigo-950/30' 
+                : 'text-slate-400 dark:text-slate-500'
+            }`}
+          >
+            <span className="text-lg">📖</span>
+            <span className="text-[9px] mt-0.5 capitalize">Learn Desk</span>
+          </button>
+
+          {/* ⚡ 4. QUIZ TARGET BUTTON */}
+          <button 
+            onClick={() => setActiveTab('quiz')} 
+            className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
+              activeTab === 'quiz' 
+                ? 'text-indigo-600 dark:text-indigo-400 font-extrabold bg-indigo-50/50 dark:bg-indigo-950/30' 
+                : 'text-slate-400 dark:text-slate-500'
+            }`}
+          >
+            <span className="text-lg">⚡</span>
+            <span className="text-[9px] mt-0.5 capitalize">Quiz</span>
+          </button>
+
+          {/* ⚙️ 5. SETTINGS TARGET BUTTON */}
+          <button 
+            onClick={() => setActiveTab('settings')} 
+            className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
+              activeTab === 'settings' 
+                ? 'text-indigo-600 dark:text-indigo-400 font-extrabold bg-indigo-50/50 dark:bg-indigo-950/30' 
+                : 'text-slate-400 dark:text-slate-500'
+            }`}
+          >
+            <span className="text-lg">⚙️</span>
+            <span className="text-[9px] mt-0.5 capitalize">Settings</span>
+          </button>
+
         </nav>
       </footer>
 

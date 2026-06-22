@@ -1,65 +1,161 @@
 {
   "geo_1": {
-    "title": "Geomorphology & Earth's Interior (Layers, Rocks, Plate Tectonics)",
-    "phases": [
-      {
-        "phaseName": "Seismology & Tectonic Mechanics",
-        "subtopics": [
-          {
-            "name": "Seismic Wave Kinetics & Core Discontinuities",
-            "bullets": [
-              "<b>P-Waves vs S-Waves:</b> Primary (P) waves are compressional, longitudinal waves that travel through solid, liquid, and gaseous mediums. Secondary (S) waves are shear, transverse waves that can <b>only travel through solid mediums</b>.",
-              "<b>The Wave Shadow Zones:</b> S-waves disappear completely at the boundary with the liquid outer core, creating a massive wave shadow zone between 105° and 180° from an earthquake's epicenter. P-waves refract sharply when entering the core, creating a distinct shadow ring zone between 103° and 142°.",
-              "<b>Internal Discontinuities:</b> The transition zones between the earth's layers are bounded by distinct density structural lines: 1. <i>Conrad:</i> Upper vs lower crust. 2. <i>Mohorovicic (Moho):</i> Crust vs mantle. 3. <i>Repetti:</i> Upper vs lower mantle. 4. <i>Gutenberg:</i> Lower mantle vs outer core. 5. <i>Lehmann:</i> Liquid outer core vs solid inner core."
-            ]
-          },
-          {
-            "name": "Plate Boundary Interaction Dynamics",
-            "bullets": [
-              "<b>Divergent Boundaries:</b> Occur where plates pull apart, driven by upwelling mantle plumes (e.g., Mid-Atlantic Ridge). Characterized by shallow earthquakes, basaltic fissure eruptions, and the generation of new oceanic crust.",
-              "<b>Convergent Boundaries:</b> Occur where plates collide. Includes Ocean-Ocean subduction (forming island arcs like Japan), Ocean-Continent subduction (forming volcanic mountains like the Andes), and Continent-Continent collision (forming fold mountains like the Himalayas). **UPSC Trap:** Continent-Continent collisions feature severe earthquakes and crustal thickening but **lack active volcanism** because the continental crust is too thick and buoyant to subduct deep enough to melt."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Geomorphology (Earth's Interior, Plate Tectonics, Earthquakes, Volcanoes)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Earth's Interior & Structural Foundations",
+      "subtopics": [
+        {
+          "name": "Interior Structure and Seismic Evidence",
+          "bullets": [
+            " <b>Layered Structure: </b> The Earth consists of the **Crust** (Continental and Oceanic), <b>Mantle</b> (Asthenosphere is a critical, semi-plastic zone), and <b>Core</b> (Outer liquid core vs. Inner solid core).",
+            " <b>Seismic Discontinuities: </b> Essential memory markers for UPSC: <i>Conrad</i> (between upper/lower crust), <i>Mohorovicic</i> (Crust/Mantle), <i>Repetti</i> (Upper/Lower Mantle), <i>Gutenberg</i> (Mantle/Core), and <i>Lehmann</i> (Outer/Inner Core).",
+            " <b>Sources of Information: </b> Direct (volcanoes, deep drilling) vs. Indirect (meteors, gravitation, magnetic field, and most importantly, <b>Seismic Waves </b>— Body waves [P and S] vs. Surface waves)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Tectonic Evolution & Crustal Dynamics",
+      "subtopics": [
+        {
+          "name": "Plate Tectonics and Drifting",
+          "bullets": [
+            " <b>Continental Drift Theory: </b> Alfred Wegener’s hypothesis on Pangea and Panthalasa. Key evidence: Jigsaw fit of continents, fossil distribution, and glacial tillite deposits.",
+            " <b>Plate Boundaries: </b> 1. <i>Divergent</i> (Constructive/Mid-ocean ridges), 2. <i>Convergent</i> (Destructive/Subduction zones like the Himalayas), and 3. <i>Transform</i> (Conservative/San Andreas Fault).",
+            " <b>Mountain Building: </b> Concepts of Orogeny (mountain building) and Epeirogeny (continental uplift/subsidence) driven by tectonic plate interactions."
+          ]
+        },
+        {
+          "name": "Endogenic Disturbance: Earthquakes & Volcanoes",
+          "bullets": [
+            " <b>Earthquakes: </b> Focus vs. Epicenter. Understanding the <b>Shadow Zone</b>: The region where no seismic waves are recorded due to the refraction of P-waves and absorption of S-waves by the liquid outer core.",
+            " <b>Volcanism: </b> Classified by eruption type (Shield, Composite, Caldera, Flood Basalt) and location (Mid-ocean ridges, Hotspots, Convergent boundaries). Intrusive landforms: <b>Batholiths, Laccoliths, Sills, and Dykes </b>."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Surface Modification & Landform Evolution",
+      "subtopics": [
+        {
+          "name": "Exogenic Forces & Denudation",
+          "bullets": [
+            " <b>Weathering: </b> Physical (temperature, frost), Chemical (oxidation, carbonation, hydration), and Biological processes that prepare the surface for erosion.",
+            " <b>Mass Movements: </b> Slow (creep) vs. Rapid (landslides, mudflows). These are gravity-driven agents of slope modification.",
+            " <b>Geomorphic Agents: </b> The \"Gradation\" agents that shape the landscape: <b>Running Water </b> (V-valleys, gorges), <b>Groundwater </b> (Karst topography/Sinkholes), <b>Glaciers </b> (U-valleys, cirques), <b>Wind </b> (Barchans, Yardangs), and <b>Waves </b> (Cliffs, stacks)."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_2": {
-    "title": "Climatology - Atmosphere Layers, Pressure Belts & Wind Systems",
-    "phases": [
-      {
-        "phaseName": "Atmospheric Kinetics & Global Circulation",
-        "subtopics": [
-          {
-            "name": "Thermal Stratification & Planetary Circulation Cells",
-            "bullets": [
-              "<b>Troposphere vs Stratosphere:</b> The *Troposphere* contains 99% of atmospheric water vapor and features a Normal Lapse Rate where temperature falls with altitude. The *Stratosphere* contains the ozone layer ($O_3$) and features a **Temperature Inversion** (warmed by UV absorption), making it completely dry and dynamically stable, ideal for commercial jet aviation.",
-              "<b>Coriolis Force Traps:</b> An apparent force generated by Earth's rotation that deflects winds to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. It is **zero at the equator** and maximum at the poles. Because Coriolis force is absent at the equator, winds cross pressure gradients directly instead of rotating around centers, meaning **tropical cyclones can never form on the equator**.",
-              "<b>Three-Cell Global Wind Loop:</b> Driven by thermal differentials and earth's rotation: 1. <i>Hadley Cell:</i> Elevates warm air at the equator and drops it at 30° latitude, creating the Subtropical High Pressure belt. 2. <i>Ferrel Cell:</i> An indirect mid-latitude cell driven by the friction of flanking loops. 3. <i>Polar Cell:</i> Sinks freezing air over the poles, feeding the Polar Easterlies."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Climatology (Atmosphere Structure, Pressure Belts, Cyclones, Jet Streams)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Atmospheric Composition & Structure",
+      "subtopics": [
+        {
+          "name": "Vertical Layers & Energy Balance",
+          "bullets": [
+            " <b>Thermal Layers: </b> 1. <b>Troposphere: </b> Contains 99% of water vapor/aerosols; weather phenomena occur here. 2. <b>Stratosphere: </b> Contains the Ozone layer; temperature increases with altitude. 3. <b>Mesosphere: </b> Coldest layer. 4. <b>Thermosphere/Ionosphere: </b> Radio wave reflection. 5. <b>Exosphere: </b> Outermost boundary.",
+            " <b>Heat Budget: </b> Earth maintains thermal equilibrium via the <b>Albedo effect </b> (reflection of solar radiation). Short-wave solar radiation enters, but Earth radiates <b>long-wave terrestrial radiation </b> back, which is trapped by greenhouse gases."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Planetary Winds & Pressure Dynamics",
+      "subtopics": [
+        {
+          "name": "Global Circulation Model",
+          "bullets": [
+            " <b>Pressure Belts: </b> Driven by solar heating and Earth's rotation (Coriolis force). Belts: Equatorial Low, Sub-tropical High (Horse Latitudes), Sub-polar Low, and Polar High.",
+            " <b>Wind Systems: </b> 1. <b>Trade Winds: </b> Blow from Sub-tropical High to Equatorial Low. 2. <b>Westerlies: </b> Blow from Sub-tropical High to Sub-polar Low (responsible for rainfall in western margins of continents). 3. <b>Polar Easterlies: </b> Blow from Polar High to Sub-polar Low."
+          ]
+        },
+        {
+          "name": "Jet Streams and Rossby Waves",
+          "bullets": [
+            " <b>Jet Streams: </b> Narrow, fast-moving currents of air in the upper troposphere. <b>Sub-tropical Jet Stream </b> plays a crucial role in the onset and withdrawal of the Indian Monsoon. <b>Polar Night Jet </b> is essential for polar vortex dynamics.",
+            " <b>Rossby Waves: </b> Large-scale atmospheric waves caused by the Coriolis effect and planetary rotation; they define the meanderings of the Jet Streams."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Atmospheric Disturbances & Moisture",
+      "subtopics": [
+        {
+          "name": "Cyclonic Systems",
+          "bullets": [
+            " <b>Tropical Cyclones: </b> Require specific conditions: 1. Warm sea temperature (>26.5°C). 2. High humidity. 3. Existence of Coriolis force (absent at equator). 4. Low vertical wind shear. <b>Eye of the cyclone </b> is the area of calm, low pressure.",
+            " <b>Temperate Cyclones (Extra-tropical): </b> Occur due to the convergence of warm and cold air masses along a <b>Front </b> (Polar Front Theory). Unlike tropical cyclones, they cover a vast area and are associated with a series of weather changes."
+          ]
+        },
+        {
+          "name": "Moisture & Precipitation",
+          "bullets": [
+            " <b>Stability vs Instability: </b> Adiabatic lapse rates define the stability of air parcels. Orographic, Convectional, and Cyclonic rainfall are the primary mechanisms of precipitation.",
+            " <b>Cloud Classification: </b> Cirrus (high/wispy), Cumulus (puffy), Stratus (layered), and Nimbus (rain-bearing)."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_3": {
-    "title": "Oceanography - Ocean Floor Relief, Salinity & Ocean Currents",
-    "phases": [
-      {
-        "phaseName": "Marine Geomorphology & Thermohaline Dynamics",
-        "subtopics": [
-          {
-            "name": "Hypsographic Features & Planetary Gyre Loops",
-            "bullets": [
-              "<b>Continental Shelf Resources:</b> The shallow, gently sloping submerged edge of the continent. Although it represents only 7.5% of ocean area, it holds over 20% of global petroleum reserves and acts as the ultimate marine fishing ground due to shallow sunlight penetration supporting abundant plankton.",
-              "<b>Oceanic Salinity Drivers:</b> Salinity is not uniform across latitudes. It is **highest in the subtropics** (20°-30° latitude) due to high solar evaporation and low rainfall. It is lower at the equator due to heavy afternoon convective precipitation, and lower at the poles due to melting ice caps and low evaporation rates.",
-              "<b>Current Systems & Deserts Link:</b> Global ocean currents are driven by planetary winds and Coriolis deflection. **Cold Currents** run along the western coasts of continents in sub-tropical zones (e.g., Benguela, Canary, Peruvian currents). They stabilize the atmosphere by inhibiting vertical air lift, directly causing the formation of major **coastal subtropical deserts** adjacent to them (e.g., Namib, Sahara, Atacama)."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Oceanography (Ocean Relief, Salinity, Currents, Tides)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Submarine Relief & Topography",
+      "subtopics": [
+        {
+          "name": "Divisions of the Ocean Floor",
+          "bullets": [
+            " <b>Continental Margin: </b> Includes the <b>Continental Shelf </b> (the shallowest, most biologically productive part, where most oil/gas/fisheries are found), <b>Continental Slope </b> (the sharp drop-off marking the true edge of the continent), and <b>Continental Rise </b>.",
+            " <b>Abyssal Plains & Trenches: </b> Abyssal plains are the vast, flat, deep-sea floors. <b>Oceanic Trenches </b> are the deepest parts of the ocean, formed by subduction zones (e.g., Mariana Trench).",
+            " <b>Mid-Ocean Ridges: </b> The longest mountain ranges on Earth, formed by divergent plate boundaries where new seafloor is constantly being created."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Temperature, Salinity & Density",
+      "subtopics": [
+        {
+          "name": "Factors Governing Oceanic Thermodynamics",
+          "bullets": [
+            " <b>Salinity Drivers: </b> High salinity is found in areas with high evaporation and low freshwater inflow (e.g., Sub-tropics, Red Sea). Low salinity occurs near river mouths or high-rainfall equatorial regions.",
+            " <b>Halocline: </b> The distinct layer in the ocean where salinity changes rapidly with depth.",
+            " <b>Thermocline: </b> The transition layer between the warm surface water and the cold deep water. Crucially, the thermocline is <b>absent in polar regions </b>, where surface and deep waters remain cold throughout the year."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Oceanic Circulation & Tidal Mechanisms",
+      "subtopics": [
+        {
+          "name": "Surface Currents & Deep-Water Flows",
+          "bullets": [
+            " <b>Surface Currents: </b> Driven by planetary winds (Trade Winds/Westerlies), Coriolis force, and landmass configuration. <b>Gyres </b> are large circular current systems created by these forces.",
+            " <b>Thermohaline Circulation (The Great Ocean Conveyor): </b> Deep-ocean currents driven by density differences (caused by <b>temperature and salinity </b>). It is the slow, global process of redistributing heat and nutrients, essential for regulating global climate.",
+            " <b>Upwelling & Downwelling: </b> Upwelling brings nutrient-rich cold water to the surface (crucial for major fishing grounds like the Grand Banks or Humboldt Current areas), while downwelling carries oxygen-rich surface water to the depths."
+          ]
+        },
+        {
+          "name": "Tidal Dynamics",
+          "bullets": [
+            " <b>Tidal Causes: </b> Result of the gravitational pull of the Sun and Moon, combined with Earth's rotation (Centrifugal force).",
+            " <b>Spring vs Neap Tides: </b> <i>Spring Tides</i> occur when the Sun, Moon, and Earth are aligned (Syzygy), resulting in the highest high tides. <i>Neap Tides</i> occur when the Sun and Moon are at right angles to the Earth, resulting in the lowest high tides."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_4": {
     "title": "Physiography of India (Himalayas, Plains, Peninsular Plateau & Islands)",
     "phases": [

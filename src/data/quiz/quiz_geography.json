@@ -1,1 +1,2914 @@
-[]
+[
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "Which of the following describes the correct chemical and physical stratification of Earth's outermost layer?",
+        "options": [
+            "The crust is divided into a thinned, dense, basaltic oceanic crust and a thickened, buoyant, granitic continental crust.",
+            "The crust is mechanically homogenous with the core, extending to a uniform depth of 2,900 km.",
+            "The crust is a semi-plastic, partially molten zone composed of metallic iron-nickel alloys.",
+            "The crust is entirely granitic with a uniform thickness across oceanic and continental basins."
+        ],
+        "correct": 0,
+        "ex": "Earth's outermost layer, the crust, is structurally differentiated into low-density, buoyant granitic continental crust and thin, high-density basaltic oceanic crust."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "What is the primary geomorphic importance of the convective heat currents operating within the asthenosphere?",
+        "options": [
+            "They serve as the mechanical driving force for the movement of the rigid lithospheric plates above.",
+            "They directly generate the planet's primary geomagnetic field through solid silicate friction.",
+            "They compress the solid inner core to insulate it from high mantle temperatures.",
+            "They stabilize the lower crust to prevent any form of surface topographic deformation."
+        ],
+        "correct": 0,
+        "ex": "The asthenosphere is a semi-plastic, partially molten zone in the upper mantle whose convective heat currents drag and move the overlying rigid lithospheric plates."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "Why does the inner core of the Earth remain solid despite experiencing temperatures that exceed the melting point of iron?",
+        "options": [
+            "It is shielded from internal planetary heat by the solid silicate mantle.",
+            "It is held in a solid state by immense, crushing gravitational pressure.",
+            "It is composed of low-density peridotite rock that is highly resistant to melting.",
+            "Continuous convective flows of liquid iron from the outer crust cool it down."
+        ],
+        "correct": 1,
+        "ex": "Despite extreme thermal conditions at Earth's center, the immense gravitational pressure forces the metallic iron-nickel inner core into a solid physical state."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "What role does the convective flow of liquid iron in the outer core play in Earth's planetary system?",
+        "options": [
+            "It directly erodes the lower mantle across the Repetti boundary.",
+            "It generates Earth's geomagnetic field.",
+            "It drives the seasonal variations observed in atmospheric price indices.",
+            "It acts as a lubricant that allows the lithosphere to slide smoothly."
+        ],
+        "correct": 1,
+        "ex": "The outer core is fluid and metallic; the convective movement of its molten iron generates the planetary dynamo responsible for Earth's geomagnetic field."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "What is the classic 'Exam Trap' regarding the physical definition and composition of the lithosphere?",
+        "options": [
+            "The lithosphere is a semi-plastic ductile zone that completely excludes the continental crust.",
+            "The lithosphere is composed entirely of the liquid outer core.",
+            "The lithosphere is an administrative layer that handles macro-financial shocks.",
+            "The lithosphere is not just the crust; it includes the entire crust plus the uppermost rigid sliver of the mantle."
+        ],
+        "correct": 3,
+        "ex": "The lithosphere is defined mechanically as the rigid outer shell of the Earth, encompassing both the crust (continental and oceanic) and the uppermost rigid part of the mantle."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "Internal seismic discontinuities within the Earth are fundamentally defined as boundaries where:",
+        "options": [
+            "Gravitational anomalies cancel out to create a zero-density baseline.",
+            "Seismic wave velocities change sharply due to density or phase transitions.",
+            "Continental plates slide past each other conservative style.",
+            "Volcanic lava breaks through to form expansive flood basalts."
+        ],
+        "correct": 1,
+        "ex": "Seismic discontinuities mark chemical or physical boundaries where the elasticity and density of rocks change abruptly, causing seismic waves to change velocity or refract."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "Which seismic discontinuity forms the structural boundary separating the lower crust from the upper mantle?",
+        "options": [
+            "Mohorovicic (Moho) Discontinuity",
+            "Conrad Discontinuity",
+            "Repetti Discontinuity",
+            "Gutenberg Discontinuity"
+        ],
+        "correct": 0,
+        "ex": "The Mohorovicic (or Moho) discontinuity marks the boundary between the crust and the mantle, characterized by a sharp acceleration of seismic waves entering denser rock."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "What unique seismic wave response occurs at the Gutenberg Discontinuity, and what does it structurally prove?",
+        "options": [
+            "P-waves accelerate sharply while S-waves duplicate, proving the lower mantle is gaseous.",
+            "P-waves drop in velocity and S-waves are fully terminated, proving the outer core underneath is liquid.",
+            "Both P and S waves disappear completely, proving the core is an empty vacuum space.",
+            "Waves bounce off without any refraction, proving the inner core is granitic."
+        ],
+        "correct": 1,
+        "ex": "Because shear (S) waves cannot propagate through liquid media, their complete termination at the Gutenberg mantle-core boundary proves the outer core is liquid."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "The Conrad Discontinuity is dynamically positioned to form the boundary between which layers?",
+        "options": [
+            "The lower silicate mantle and the molten metallic core.",
+            "The plastic upper mantle and the solid lower mantle.",
+            "The liquid outer core and the solid inner core center.",
+            "The upper sialic crust and the lower simatic crust."
+        ],
+        "correct": 3,
+        "ex": "The Conrad discontinuity is an intra-crustal boundary that separates the upper, lower-density sialic (granitic) crust from the deeper, denser simatic (basaltic) crust."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "What physical or phase shift marks the deep Lehmann Discontinuity inside Earth's metallic center?",
+        "options": [
+            "The transition separating the liquid outer core from the solid inner core.",
+            "The point where secondary body waves fully terminate due to gas accumulation.",
+            "The transition where granitic rocks meet basaltic oceanic baselines.",
+            "The boundary where the mantle meets the uppermost asthenospheric edge."
+        ],
+        "correct": 0,
+        "ex": "The Lehmann discontinuity is the deepest primary boundary, separating the liquid outer core from the solid inner core due to a pressure-induced phase change."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "Which of the following is categorized as a DIRECT source of information regarding Earth's inner composition?",
+        "options": [
+            "Modeling the velocity paths of earthquake-generated seismic body waves.",
+            "Rock cores and materials extracted from deep scientific drilling projects like the Kola Superdeep Borehole.",
+            "Studying the iron-nickel composition of meteorites collected from surface impacts.",
+            "Analyzing density variations and gravitational anomalies from orbits."
+        ],
+        "correct": 1,
+        "ex": "Direct sources involve physical, laboratory contact with actual materials extracted from depth, such as deep drilling cores, deep mines, or volcanic ejecta."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "Why do models of the deep mantle and core rely almost entirely on INDIRECT sources instead of physical sampling?",
+        "options": [
+            "Deep earth materials are non-justiciable under international maritime conventions.",
+            "Tectonic plate movements automatically freeze all drill bits on day one.",
+            "The deep interior is a gaseous vacuum that cannot hold solid physical samples.",
+            "Human engineering and drilling capabilities can only scratch the thin outer crust, unable to survive deep temperatures and pressures."
+        ],
+        "correct": 3,
+        "ex": "Because our deepest drilling projects penetrate only a tiny fraction of the crust (~12 km), deep mantle and core conditions can only be interpreted using indirect physics data."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "What is the classic 'Exam Trap' listed regarding the usage of erupted volcanic lava as a sample of the solid deep mantle?",
+        "options": [
+            "Volcanic eruptions are classified as non-debt capital receipts on corporate ledgers.",
+            "Lava melts all incoming seismic P-waves, creating an artificial surface shadow zone.",
+            "Lava provides direct material, but it undergoes chemical alterations and contamination during its ascent through the crust.",
+            "Volcanic lava is an illusory indirect phenomenon containing zero real rock matter."
+        ],
+        "correct": 2,
+        "ex": "Lava brings up physical deep material, but as it ascents, it reacts with country rock and loses volatile gases, meaning its erupted state does not perfectly match its deep, solid origin."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "How does the study of meteorites serve as a valid indirect source for understanding Earth's internal metallic core?",
+        "options": [
+            "Meteorites are volcanic shards thrown out from the inner core during major earthquakes.",
+            "Meteorites provide direct samples of un-subsumed product taxes from outer space.",
+            "They track the rolling three-year target windows of the central statistics office.",
+            "They share a similar ancestral iron-silicate composition with the early solar system, reflecting how Earth's layers separated."
+        ],
+        "correct": 3,
+        "ex": "Meteorites represent leftover planetary building blocks. Since metallic meteorites consist of iron-nickel structures, they offer an excellent chemical analogy for Earth's own metallic core core."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "According to the target UPSC Revision text, how do earth scientists reconstruct the model profile of internal conditions?",
+        "options": [
+            "By applying a flat 40% sin tax layout to all surface rock formations.",
+            "By balancing the horizontal and vertical tax buoyancy ratios of the 28 individual states.",
+            "By relying on the 10-digit Import Export Code tracking systems at custom borders.",
+            "Deep earth modeling combines limited direct sampling with indirect analysis of seismic wave propagation to interpret internal conditions."
+        ],
+        "correct": 3,
+        "ex": "The revision block states the structural methodology exactly: 'Deep earth modeling combines limited direct sampling with indirect analysis of seismic wave propagation to interpret internal conditions.'"
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "Which indirect investigative method allows scientists to build a three-dimensional map of Earth's deep density boundaries?",
+        "options": [
+            "Monitoring the standard 90-day overdue default timelines of corporate loans.",
+            "Tracking variations in the velocity and paths of compressional P-waves and shear S-waves.",
+            "Measuring the exact length of the Kola Superdeep Borehole every quarter.",
+            "Analyzing the direct income support cash transfer networks in rural blocks."
+        ],
+        "correct": 1,
+        "ex": "Earthquake-generated seismic body waves act as an internal diagnostic tool; tracking their acceleration, reflection, and refraction paths maps the deep layers."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "According to the UPSC Revision text, what is the exact chronological sequence of boundaries from the surface downward?",
+        "options": [
+            "Gutenberg, Lehmann, Repetti, Moho, Conrad",
+            "Repetti, Moho, Conrad, Lehmann, Gutenberg",
+            "Moho, Conrad, Gutenberg, Lehmann, Repetti",
+            "Conrad, Moho, Repetti, Gutenberg, and Lehmann"
+        ],
+        "correct": 3,
+        "ex": "The structural ordering of seismic discontinuities from the outer shell to the center follows this sequence: Conrad, Moho, Repetti, Gutenberg, and Lehmann."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "Silicate peridotite rock that is ductile and semi-plastic characterizes which specific internal zone?",
+        "options": [
+            "The un-encumbered government security portfolio layer.",
+            "The solid phase crystalline inner core center.",
+            "The asthenospheric upper mantle layer.",
+            "The buoyant granitic continental crust layer."
+        ],
+        "correct": 2,
+        "ex": "The asthenosphere is physically ductile and composed of semi-plastic peridotite silicate rock, allowing convection currents to operate."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "The Repetti Discontinuity isolates which two major subsections of Earth's interior?",
+        "options": [
+            "The liquid outer core from the solid inner core.",
+            "The solid lower mantle from the liquid outer core.",
+            "The upper sialic crust from the lower simatic crust.",
+            "The upper mantle from the dense lower mantle."
+        ],
+        "correct": 3,
+        "ex": "The Repetti discontinuity is an intermediate boundary zone that separates the upper mantle from the higher-density lower mantle."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "Gravitational anomalies and density variations across different regions function as:",
+        "options": [
+            "Fluvial geomorphic agents that drive landscape denudation cycles.",
+            "Direct methods that physically retrieve pieces of the inner core.",
+            "Statutory frameworks born out of direct executive resolutions.",
+            "Indirect sources used by scientists to model deep earth internal structures."
+        ],
+        "correct": 3,
+        "ex": "Gravity mappings allow geologists to calculate the hidden distribution of high-density and low-density mass components inside the deep interior, acting as a crucial indirect source."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "The solid silicate mantle extends from the base of the crust down to what maximum depth parameter?",
+        "options": [
+            "Exactly 12 kilometers matching the deepest human borehole.",
+            "A variable window shifting every three quarters.",
+            "A depth of 2,900 km.",
+            " Capped at a hard statutory ceiling of 6,371 km."
+        ],
+        "correct": 2,
+        "ex": "The silicate mantle is the planet's thickest chemical layer, extending beneath the crust down to the core-mantle boundary at a depth of 2,900 km."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "P-waves accelerate sharply as they cross the Lehmann Discontinuity primarily because:",
+        "options": [
+            "The temperature drops to a flat interest-free floor baseline.",
+            "They cross from a solid silicate medium into a molten metal layer.",
+            "They cross from a liquid outer core phase into the highly dense solid inner core phase.",
+            "They are completely free from any risk-weighted asset restrictions."
+        ],
+        "correct": 2,
+        "ex": "Because compressional P-waves travel faster through solids than liquids, they experience an acceleration boost when entering the solid inner core from the liquid outer core."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "Models of the early solar system accretion derived from cosmic meteorites help confirm that Earth's metallic core is mainly composed of:",
+        "options": [
+            "Basaltic peridotite and liquid water.",
+            "Granitic silicates and quartz crystals.",
+            "Substandard loss assets and coking coal.",
+            "Iron and nickel."
+        ],
+        "correct": 3,
+        "ex": "Comparing Earth's bulk density with the chemical profile of metallic meteorites provides indirect evidence that our planet's core consists of an iron-nickel alloy."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "The chemical stratification of Earth's interior steps from the surface to the center in what density pattern?",
+        "options": [
+            "Maintaining a flat, perfectly homogenous density weight across all layers.",
+            "Fluctuating dynamically based on the velocity of daily solar wind cycles.",
+            "Progressing from high-density surface iron to low-density core silicates.",
+            "Progressing from low-density surface rocks to a high-density metallic center."
+        ],
+        "correct": 3,
+        "ex": "Due to gravity-driven differentiation during early formation, the planet is layered from light silicate crustal rocks down to a dense, heavy metallic core."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "Seismic body waves reflect and refract at internal boundaries primarily due to variations in which parameters?",
+        "options": [
+            "Material densities, elastic properties, or physical states.",
+            "The statutory tax rates applied across different provinces.",
+            "The time horizons specified inside macro vision documents.",
+            "The volume of agricultural food stocks held inside regional depots."
+        ],
+        "correct": 0,
+        "ex": "Seismic wave physics dictates that wave paths bend (refract) or bounce (reflect) whenever they hit a change in density, elasticity, or physical phase (solid vs. liquid)."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "Deep mines and drill holes provide direct data on crustal material but are limited because their depth penetration is:",
+        "options": [
+            "Extremely shallow, only scratching the outermost layer relative to the planet's radius.",
+            "Incompatible with the double-entry bookkeeping systems of science.",
+            "Subject to automatic vetoes by the Appointments Committee.",
+            "Locked inside an un-adjustable three-tier planning horizon."
+        ],
+        "correct": 0,
+        "ex": "Even our most advanced engineering drilling projects remain shallow skin-pricks, requiring the integration of indirect wave data to decode the vast bulk of the interior."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "The physical state of Earth's core is split into which two distinct layers?",
+        "options": [
+            "A semi-plastic upper core and a gaseous lower core.",
+            "A constructive granitic core and a destructive basaltic core.",
+            "A liquid outer core and a solid inner core.",
+            "A core that shifts phases every two crop seasons."
+        ],
+        "correct": 2,
+        "ex": "The planet's center features a dynamic phase split: a molten fluid outer metallic core shell wrapped around a dense, solid crystalline metal inner core ball."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 1,
+        "q": "A sharp acceleration of both primary and secondary waves as they pass deep beneath the crust defines the behavior at which boundary line?",
+        "options": [
+            "The Mohorovicic (Moho) Discontinuity.",
+            "The Lehmann center transition point.",
+            "The Conrad line inside the sial layer.",
+            "The Gutenberg core-mantle boundary zone."
+        ],
+        "correct": 0,
+        "ex": "The Moho discontinuity is clearly mapped by a sudden jump in seismic wave speeds, signaling that the waves have crossed out of the crust into the denser rocks of the upper mantle."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 2,
+        "q": "Model reconstructions of Earth's interior properties use gravitational data by tracking 'gravitational anomalies' which show:",
+        "options": [
+            "The out-of-court asset possession notices issued by secured creditors.",
+            "The location of deep volcanic calderas that have collapsed.",
+            "Deviations from standard gravity caused by the unequal distribution of mass inside Earth.",
+            "Changes in currency value relative to a 40-currency trade basket."
+        ],
+        "correct": 2,
+        "ex": "Gravity isn't uniform everywhere; mapping slight regional variations (anomalies) tells geophysicists where heavy metal or light silicate blocks are packed deep inside the crust and mantle."
+    },
+    {
+        "subjectId": "geography",
+        "topicId": "geo_1",
+        "phase": 0,
+        "subtopic": 0,
+        "bullet": 0,
+        "q": "According to the target UPSC Revision text, what physical states characterize the core sections of Earth's interior?",
+        "options": [
+            "Both outer and inner cores are highly ductile semi-plastic silicates.",
+            "The core exists as an un-adjusted nominal indicator that excludes the mantle.",
+            "The core sections are completely omitted from the aggregate zoning matrix.",
+            "The interior includes a liquid outer core and a solid inner core."
+        ],
+        "correct": 3,
+        "ex": "The revision block lists the exact mechanical state profiles clearly: 'Earth's interior is stratified into a rigid lithosphere, a semi-plastic asthenosphere, a solid lower mantle, a liquid outer core, and a solid inner core.'"
+    },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Alfred Wegener's 1912 Continental Drift hypothesis proposed that all global landmasses were initially assembled into which supercontinent?",
+    "options": [
+      "Laurasia",
+      "Gondwanaland",
+      "Pangea",
+      "Panthalassa"
+    ],
+    "correct": 2,
+    "ex": "Wegener postulated that a single massive supercontinent called Pangea existed during the late Paleozoic era before fracturing and drifting apart."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What name did Alfred Wegener give to the singular, all-encompassing global ocean that surrounded Pangea?",
+    "options": [
+      "Panthalassa",
+      "Tethys Sea",
+      "Laurasia",
+      "Gondwana"
+    ],
+    "correct": 0,
+    "ex": "According to Wegener's theory, the giant primeval landmass Pangea was completely encircled by an immense global ocean named Panthalassa."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which of the following was compiled by Wegener as morphological evidence to support his continental drift paradigm?",
+    "options": [
+      "The alignment of mid-ocean ridges across the Pacific floor.",
+      "The vertical subsidence of the East African Rift system.",
+      "The complementary jigsaw fit of the South American and African coastlines.",
+      "The distribution of deep-focus mantle earthquake epicenters."
+    ],
+    "correct": 2,
+    "ex": "Wegener noted that the shorelines of South America and western Africa matched remarkably well, resembling pieces of a matching jigsaw puzzle."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The discovery of identical fossils of which ancient flora on now widely separated landmasses provided key paleontological evidence for continental drift?",
+    "options": [
+      "Mesosaurus",
+      "Glossopteris",
+      "Peridotite",
+      "Silicate granites"
+    ],
+    "correct": 1,
+    "ex": "The identical fossil distribution of the seed fern Glossopteris across Africa, South America, Australia, India, and Antarctica confirmed past land connections."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What type of paleoclimatic evidence did Wegener observe in modern-day tropical environments like India and equatorial Africa to support his theory?",
+    "options": [
+      "Extensive desert loess deposits from wind abrasion.",
+      "Thick layers of marine limestone from warm shallow seas.",
+      "Late Paleozoic glacial tillite deposits.",
+      "Basaltic lava flows from active subduction zones."
+    ],
+    "correct": 2,
+    "ex": "Finding late Paleozoic glacial tillite deposits (sedimentary rock formed from compressed glacial debris) in tropical zones proved these landmasses were once located near the South Pole."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What is the classic 'Exam Trap' listed regarding the early scientific community's rejection of Wegener's theory?",
+    "options": [
+      "His empirical observations regarding fossils and jigsaw fits were proven to be entirely fabricated.",
+      "The theory was initially rejected because it lacked a viable mechanical driving force, not because his observations were false.",
+      "Physicists rejected the model because it predicted that the outer core was entirely liquid iron.",
+      "The concept was turned down because it violated the statutory targets of global trade treaties."
+    ],
+    "correct": 1,
+    "ex": "Wegener's descriptive evidence was solid, but his proposed mechanism—that tidal forces and polar fleeing forces pushed continents through solid basaltic seafloors—was physically impossible and correctly rejected by scientists."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "As Pangea began to break apart during its secondary phase, it fractured into which two massive northern and southern landmasses?",
+    "options": [
+      "Sial and Sima",
+      "Lithosphere and Asthenosphere",
+      "Laurasia and Gondwanaland",
+      "Pangea and Panthalassa"
+    ],
+    "correct": 2,
+    "ex": "Over geological time, Pangea split into a northern block called Laurasia and a southern block named Gondwanaland, separated by the Tethys sea lane."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Wegener's proposal that continents drifted across the face of the planet was heavily penalized by the physics of his era because:",
+    "options": [
+      "He claimed continents moved vertically like epeirogenic plateaus.",
+      "He could not provide an energy source powerful enough to move solid granite blocks through dense ocean floor beds.",
+      "He completely omitted the use of meteorites as planetary accretion models.",
+      "His data collection was restricted to unlisted tribal zones."
+    ],
+    "correct": 1,
+    "ex": "Wegener lacked a viable mechanical explanation for continental movement, which delayed the scientific acceptance of horizontal crustal displacement until plate tectonics was discovered decades later."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The match of matching geological rock structures and mountain belts across opposite sides of the Atlantic Ocean is an example of:",
+    "options": [
+      "Indirect seismic wave velocity tracking.",
+      "Exogenic denudation grading cycles.",
+      "Empirical evidence supporting the Continental Drift Theory.",
+      "A mechanical boundary zone within the inner core."
+    ],
+    "correct": 2,
+    "ex": "The alignment of ancient mountain ranges and rock strata when the Atlantic coastlines are reassembled provides strong empirical proof that the landmasses were once contiguous."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the target UPSC Revision text, what did Wegener combine to propose the existence of Pangea?",
+    "options": [
+      "He combined vertical epeirogenic movements with deep drilling borehole data.",
+      "He used jigsaw continental fits, fossil links, and glacial tillites, though his theory lacked a mechanical driving force.",
+      "He integrated the five primary discontinuities with the shadow zone arcs.",
+      "He balanced the horizontal and vertical tax buoyancy models of public finance."
+    ],
+    "correct": 1,
+    "ex": "The revision block encapsulates it directly: 'Wegener used jigsaw continental fits, fossil links, and glacial tillites to propose Pangea, though the theory lacked a mechanical driving force.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What type of relative motion characterizes a 'Divergent Tectonic Plate Boundary'?",
+    "options": [
+      "Plates compress and collide directly into each other.",
+      "Plates slide past each other horizontally along strike-slip faults.",
+      "Plates pull apart or separate from each other.",
+      "Plates undergo vertical radial subsidence into the core."
+    ],
+    "correct": 2,
+    "ex": "Divergent boundaries are tensional environments where plates move away from each other, allowing underlying material to escape."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Why are divergent plate boundaries explicitly categorized as 'Constructive' margins under plate tectonics theory?",
+    "options": [
+      "Because they consume the subducted oceanic crust to balance planetary volumes.",
+      "Because upwelling magma from the mantle fills the widening rift, cooling to generate brand new crust.",
+      "Because they build massive fold mountain chains without any volcanic ejecta.",
+      "Because they preserve crustal volumes perfectly along strike-slip fault networks."
+    ],
+    "correct": 1,
+    "ex": "Divergent margins are constructive because magma wells up from the mantle into the rift gap, creating new lithospheric rock as it cools."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which topographic feature is a direct product of a divergent plate boundary operating inside a continental land block?",
+    "options": [
+      "A deep ocean trench system",
+      "A continental rift system, such as the East African Rift",
+      "An island arc system like the Japanese archipelago",
+      "A linear transform fault zone"
+    ],
+    "correct": 1,
+    "ex": "When divergence occurs beneath a continent, the land splits apart, forming a deep continental rift valley like the East African Rift system."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What structural process defines a 'Convergent Tectonic Plate Boundary'?",
+    "options": [
+      "Plates move apart horizontally, producing basaltic flood volcanism.",
+      "Plates slide past each other laterally with zero crustal modification.",
+      "Plates collide or compress against each other.",
+      "Plates undergo broad radial vertical uplift over geological time."
+    ],
+    "correct": 2,
+    "ex": "Convergent boundaries are compressional zones where plates move toward each other, leading to collisions or the subduction of lithospheric slabs."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What geomorphic feature forms when an oceanic plate compresses against a continental plate at a convergent boundary?",
+    "options": [
+      "A mid-ocean ridge structure",
+      "A subduction zone with deep ocean trenches and volcanic arcs",
+      "A strike-slip fault system with shallow earthquakes",
+      "An elevated plateau with zero structural folding"
+    ],
+    "correct": 1,
+    "ex": "The denser oceanic plate is forced beneath the lighter continental plate into the asthenosphere, creating a destructive subduction zone marked by a deep trench and an adjacent volcanic arc."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What occurs when two buoyant, low-density continental crust blocks collide at a convergent destructive boundary?",
+    "options": [
+      "One continent easily subducts beneath the other down to the liquid outer core.",
+      "Subduction ceases and the crust buckles upward into massive fold mountain systems.",
+      "New constructive crust is generated via basaltic magma intrusions.",
+      "The plates transform into a conservative fault plane that eliminates earthquakes."
+    ],
+    "correct": 1,
+    "ex": "Because granitic continental crust is too light and buoyant to sink into the denser mantle, subduction stops during a continent-continent collision, forcing the rock to crunch and buckle upward into massive fold mountains like the Himalayas."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What is the classic 'Exam Trap' listed regarding the absence of volcanism at continental-continental convergent boundaries like the Himalayas?",
+    "options": [
+      "Volcanism is blocked because continental plates consist of frozen ice crystals.",
+      "The thick, buoyant continental crust prevents subducted material from melting and rising to the surface.",
+      "Volcanic eruptions are legally restricted by the 75% weighted majority rules of the GST Council.",
+      "Magma chambers are completely written off as loss assets by internal auditors."
+    ],
+    "correct": 1,
+    "ex": "The double thickness of the buoyant continental crust prevents subduction from reaching the depths required to melt rock into magma, and blocks any deep magma from rising to the surface, leaving the collision zone volcanic-free."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which plate boundary classification is considered 'Conservative' because lithospheric crust is neither created nor destroyed?",
+    "options": [
+      "Divergent Boundaries",
+      "Convergent Boundaries",
+      "Transform Boundaries",
+      "Epeirogenic Boundaries"
+    ],
+    "correct": 2,
+    "ex": "Transform boundaries are conservative because the plates slide horizontally past one another, meaning rock is neither created (like at divergent ridges) nor consumed (like at convergent trenches)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The San Andreas Fault line is a prominent geographic example of which type of boundary interaction?",
+    "options": [
+      "A constructive divergent mid-ocean rift",
+      "A destructive subduction trench zone",
+      "A transform boundary dominated by horizontal strike-slip friction and shallow earthquakes",
+      "A vertical epeirogenic radial uplift axis"
+    ],
+    "correct": 2,
+    "ex": "The San Andreas Fault is a classic transform fault where the Pacific and North American plates grind past each other horizontally, causing frequent shallow earthquakes."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the target UPSC Revision text, what is the core structural result across the three plate interaction boundaries?",
+    "options": [
+      "Plate interactions align with a 3-tier planning horizon model that updates dynamically.",
+      "Plate interactions form new crust at divergent boundaries, consume crust at subduction zones, and preserve crustal volumes along transform faults.",
+      "Plates turn all direct direct income brackets into tax-free rebate schedules.",
+      "Boundary operations are non-justiciable processes overseen by the Ministry of Commerce."
+    ],
+    "correct": 1,
+    "ex": "The revision panel synthesizes the crustal modifications across the matrix cleanly: 'Plate interactions form new crust at divergent boundaries, consume crust at subduction zones, and preserve crustal volumes along transform faults.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What directional mechanical forces define the operation of 'Epeirogenic Movements' in crustal deformation?",
+    "options": [
+      "Horizontal, tangential compression forces that buckle rock sequences.",
+      "Vertical, radial forces operating on a broad continental scale.",
+      "Lateral strike-slip shearing forces that slide plates past each other.",
+      "Short-term high-frequency vibrations from earthquake focus fractures."
+    ],
+    "correct": 1,
+    "ex": "Epeirogenic forces act vertically along Earth's radius, causing broad upwarping or sinking of continental interiors over vast periods."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Which topographic feature is a direct product of slow, vertical epeirogenic deformation?",
+    "options": [
+      "A jagged chain of linear fold mountains",
+      "Elevated continental plateaus and submerged coastlines",
+      "Deep ocean trenches and volcanic arcs",
+      "Perpendicular discordant dyke walls"
+    ],
+    "correct": 1,
+    "ex": "Because epeirogenic forces tilt or bend rock layers uniformly over broad areas, they elevate flat plateaus or submerge coastlines without creating folded mountain chains."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What types of forces drive 'Orogenic Movements' along convergent plate boundaries?",
+    "options": [
+      "Vertical radial forces that cause uniform subsidence.",
+      "Horizontal, tangential forces that drive mountain-building events.",
+      "Exogenic solar currents that weather rocks in-situ.",
+      "Core dynamo currents that generate planetary magnetic fields."
+    ],
+    "correct": 1,
+    "ex": "Orogenic movements are horizontal compressional or tensional forces that crunch, fracture, and deform the crust, driving active orogeny (mountain building)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Structural deformation features like folding, faulting, and thrust displacement are the hallmarks of which process?",
+    "options": [
+      "Epeirogeny",
+      "Orogeny",
+      "Denudation weathering",
+      "Conrad phase transitions"
+    ],
+    "correct": 1,
+    "ex": "Orogeny involves horizontal forces that compress rock sequences into folds and faults, constructing major linear mountain belts."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What is the classic 'Exam Trap' listed regarding the geometric difference between orogenic and epeirogenic crustal impacts?",
+    "options": [
+      "Orogeny acts vertically on broad continental shields, while epeirogeny crunches narrow linear lines.",
+      "Orogeny involves the folding and buckling of rock strata along narrow linear belts, whereas epeirogeny causes broad vertical movement across continental blocks without altering structural layering.",
+      "Orogeny requires prior weekly validation by the Monetary Policy Committee panel.",
+      "Epeirogeny can only occur if a financial emergency is operationally active under Article 360."
+    ],
+    "correct": 1,
+    "ex": "The trap is mixing up the geometric footprints. Epeirogeny pushes massive continental blocks straight up or down, keeping rock beds flat. Orogeny crunches and deforms rocks horizontally along narrow mountain tracks."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "The vertical uplift of the Colorado Plateau or the subsidence of broad sedimentary basins are examples of:",
+    "options": [
+      "Tangential compressional orogeny",
+      "Epeirogenic movements",
+      "Dynamic transport erosion",
+      "Discordant pluton plutonic activity"
+    ],
+    "correct": 1,
+    "ex": "Broad, uniform vertical movements that lift or lower wide continental expanses without folding the underlying rock layers are epeirogenic in origin."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Orogenic forces build regional mountain chains like fold mountain belts by operating along which domain?",
+    "options": [
+      "The stable interior core center of continental shields.",
+      "Convergent plate margins.",
+      "The intra-crustal boundary marked by the flat Conrad line.",
+      "The un-encumbered asset portfolio vaults of commercial bank loops."
+    ],
+    "correct": 1,
+    "ex": "Orogeny is concentrated along plate boundaries where the collision of lithospheric blocks provides the horizontal compression needed to deform rock beds into mountain chains."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Epeirogenic forces alter regional coastal shorelines over long periods by causing large landmasses to undergo:",
+    "options": [
+      "Horizontal displacement across transform strike-slip faults.",
+      "Upward uplift or downward subsidence without folding or faulting rock strata.",
+      "Severe internal magmatic cooling that creates dyke networks.",
+      "Automatic reclassifications from direct accounts to capital accounts."
+    ],
+    "correct": 1,
+    "ex": "Epeirogeny is a slow, macro-scale vertical process that warps continents up or down, leading to marine transgressions or regressions without altering the flat orientation of the rock strata."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Why do orogenic movements create high-altitude jagged topography compared to the flat structures of epeirogenic shifts?",
+    "options": [
+      "Because orogenic movements are non-contributory welfare programs.",
+      "Because they compress, compress, fold, and fracture rocks along active plate boundaries.",
+      "Because orogeny is restricted to territories managed under the 1985 Assam Accord.",
+      "Because orogeny operates strictly within a 14-day rule window."
+    ],
+    "correct": 1,
+    "ex": "The compressional nature of orogeny actively shortens and thickens the crust, pushing up jagged, structurally complex fold and fault-block mountain ranges."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "According to the target UPSC Revision text, what mechanical axes govern epeirogeny and orogeny?",
+    "options": [
+      "Epeirogeny uses a 3-tier matrix, while orogeny relies on 15-year destination targets.",
+      "Epeirogeny drives broad vertical continental movements, while orogeny utilizes horizontal forces to build folded and faulted mountain belts.",
+      "Epeirogeny operates via a progressive direct schedule, while orogeny uses regressive indirect slabs.",
+      "Both processes are non-justiciable directives checked by the Verma Committee."
+    ],
+    "correct": 1,
+    "ex": "The revision text summarizes the core kinetic distinction perfectly: 'Epeirogeny drives broad vertical continental movements, while orogeny utilizes horizontal forces to build folded and faulted mountain belts.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What defines the subterranean point where an earthquake rock fracture originates, releasing accumulated strain energy?",
+    "options": [
+      "Epicenter",
+      "Focus or Hypocenter",
+      "Shadow Zone boundary",
+      "Gutenberg line fracture"
+    ],
+    "correct": 1,
+    "ex": "The actual underground point of origin where the rock breaks and releases energy is called the focus or hypocenter."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What is the 'Epicenter' of an earthquake?",
+    "options": [
+      "The deepest point within the solid inner core where primary waves accelerate.",
+      "The point on the Earth's surface vertically above the focus.",
+      "The linear zone where shear waves are completely absorbed by fluids.",
+      "The administrative office that coordinates disaster relief grants."
+    ],
+    "correct": 1,
+    "ex": "The epicenter is the map location on the surface directly above the subterranean focus. It usually experiences the strongest shock waves."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Why do shear S-waves generate a broad surface shadow zone extending from 105° to 180° away from an earthquake's epicenter?",
+    "options": [
+      "They are refracted sharply upward by low-density crustal sial layers.",
+      "They can only travel through solid materials and are completely blocked by the liquid outer core.",
+      "They are converted into non-debt capital receipts upon hitting the mantle.",
+      "They match the standard 91-day duration cycle of treasury note auctions."
+    ],
+    "correct": 1,
+    "ex": "S-waves are transverse waves that cannot travel through liquids. The liquid outer core blocks them completely, leaving a massive shadow zone on the far side of the globe beyond 105°."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What physical phenomenon creates the distinct compressional P-wave shadow zone ring between 105° and 145° from the epicenter?",
+    "options": [
+      "P-waves are fully absorbed and terminated by the solid inner core.",
+      "P-waves are refracted downward at the mantle-core boundary due to velocity drops in the liquid outer core.",
+      "P-waves are blocked by the 75% weighted majority rules of the GST Council.",
+      "P-waves are converted into high-frequency user fees inside the public account."
+    ],
+    "correct": 1,
+    "ex": "P-waves can travel through the liquid outer core, but because the liquid metal slows them down, they bend (refract) sharply inward. This leaves an unrecorded 'shadow ring' on the surface between 105° and 145°."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What is the classic 'Exam Trap' listed regarding the surface footprint comparison between the P-wave and S-wave shadow zones?",
+    "options": [
+      "The P-wave shadow zone is significantly larger than the S-wave shadow zone.",
+      "The S-wave shadow zone is significantly larger than the P-wave shadow zone, covering the entire surface arc beyond 105°.",
+      "Both shadow zones are completely identical and locked within a 3-5% band.",
+      "The shadow zones apply exclusively to earthquakes inside non-assembly territories."
+    ],
+    "correct": 1,
+    "ex": "The trap is confusing the sizes. The P-wave shadow zone is a narrow ring (105°-145°), but the S-wave shadow zone is a giant blanket covering the entire hemisphere past 105° because the liquid core completely stops them."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Seismic body waves radiated from an earthquake focus provide crucial empirical data to verify what planetary properties?",
+    "options": [
+      "The vertical tax devolution rates structured under Article 280.",
+      "The density, composition, and physical boundaries of Earth's deep internal layers.",
+      "The number of operational sections inside the Income Tax code regulations.",
+      "The standard input-output norms used to calculate duty-free raw material imports."
+    ],
+    "correct": 1,
+    "ex": "Seismic wave monitoring is our best tool for deep earth mapping; tracking how waves bend, speed up, or stop provides direct clues about the composition and boundaries of internal layers."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Ground shaking intensity is typically recorded at its highest initial levels at which point?",
+    "options": [
+      "The deep Lehmann discontinuity phase boundary.",
+      "The surface Epicenter located directly above the focus.",
+      "The exact center of the P-wave shadow zone ring.",
+      "Inside the asset reconstruction clearing house framework vaults."
+    ],
+    "correct": 1,
+    "ex": "Because the epicenter is the surface point closest to the subterranean underground break, it is usually the spot that receives the highest concentration of seismic energy and experiences the most violent shaking."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which states of matter can transmit compressional primary (P) waves?",
+    "options": [
+      "Solids only, being fully blocked by liquid networks.",
+      "Solids, Liquids, and Gases.",
+      "Liquids and gases only, being fully terminated by solid rocks.",
+      "Only materials that cross a strict 90-day overdue default threshold."
+    ],
+    "correct": 1,
+    "ex": "P-waves are longitudinal compressional waves. They can push and pull through any medium—solid rock, liquid core, or atmospheric gas—which allows them to cross the entire planet."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "If a seismograph is stationed at 120° away from an earthquake epicenter, what will it record regarding body waves?",
+    "options": [
+      "It will record a normal, un-refracted sequence of both P and S waves.",
+      "It will record neither P nor S waves, as it sits within the shadow zone overlap for both wave types.",
+      "It will record highly accelerated S-waves while P-waves are terminated.",
+      "It will record an variable basket of consumer retail index options."
+    ],
+    "correct": 1,
+    "ex": "At 120°, the station sits past 105°. S-waves are blocked by the liquid core, and P-waves are bent away from this zone, meaning neither wave type is recorded at this location."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the target UPSC Revision text, what behavior characterizes P and S waves relative to the core boundary?",
+    "options": [
+      "Both waves accelerate past 12 km/s to clear the core without any refraction.",
+      "P-waves are refracted at the core boundary to form a shadow zone between 105° and 145°, while S-waves are stopped entirely by the liquid outer core beyond 105°.",
+      "P-waves are fully terminated on day 90, while S-waves degrade into sub-standard assets.",
+      "The waves are non-justiciable parameters that bypass the Earth's zoning matrix rules."
+    ],
+    "correct": 1,
+    "ex": "The revision text condenses the core wave mechanics flawlessly: 'P-waves are refracted at the core boundary to form a shadow zone between 105° and 145°, while S-waves are stopped entirely by the liquid outer core beyond 105°.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What magma characteristics determine whether a volcanic eruption will form a broad, flat Shield Volcano or an explosive Composite Volcano?",
+    "options": [
+      "The total common equity tier 1 capital buffer volume inside the chamber.",
+      "Silica content and magma viscosity.",
+      "Whether the vent is situated within a constructive or destructive tax year.",
+      "The total number of infrastructure ministries coordinating project clearances."
+    ],
+    "correct": 1,
+    "ex": "Low-silica, low-viscosity basaltic magmas flow easily to create flat shields; high-silica, sticky andesitic magmas trap gases and explode violently to build steep composite cones."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What is the structural definition of a 'Batholith' within Earth's intrusive plumbing layout?",
+    "options": [
+      "A horizontal tabular sheet that solidifies parallel to existing bedding planes.",
+      "A massive, deep dome-shaped mass of granite that solidifies deep within the crust, forming the core of mountain belts.",
+      "A vertical, wall-like sheet that cuts perpendicularly across surrounding rock layers.",
+      "A mushroom-shaped intrusion with a flat base that arches up overlying layers."
+    ],
+    "correct": 1,
+    "ex": "Batholiths are the largest plutonic features. They are massive granitic domes that cool deep underground, often forming the core roots of uplifted mountain ranges."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What is the fundamental difference between a magmatic 'Sill' versus a 'Dyke' regarding surrounding rock strata?",
+    "options": [
+      "Sills are vertical walls, while dykes are deep dome masses.",
+      "Sills run parallel to existing sedimentary layers (concordant), while dykes cut vertically through surrounding rock strata (discordant).",
+      "Sills are corporate liabilities, while dykes are direct banking assets.",
+      "Sills are formed by low-viscosity surface lavas, while dykes are explosive calderas."
+    ],
+    "correct": 1,
+    "ex": "Sills are concordant sheets that squeeze parallel between existing rock beds; dykes are discordant structures that cut vertically across older rock layers."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which volcanic feature is built by non-explosive, effusive eruptions of low-viscosity basaltic magma over massive geographic areas?",
+    "options": [
+      "Steep, layered composite cones.",
+      "Broad, flat Shield Volcanoes and expansive Flood Basalts.",
+      "Collapsed calderas that form deep sinkholes.",
+      "Tabular sills that run parallel to the Moho line."
+    ],
+    "correct": 1,
+    "ex": "Fluid basaltic lava spreads out like a puddle over vast ranges, constructing low-angle shield volcanoes (like Hawaii) or deep traps (like the Deccan Flood Basalts)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What is the structural geometry of a 'Laccolith'?",
+    "options": [
+      "A massive, deep plutonic dome that acts as the core of mountain belts.",
+      "A mushroom-shaped intrusion with a flat base that arches up the overlying rock layers.",
+      "A horizontal tabular sheet intruded parallel to existing bedding planes.",
+      "A vertical wall-like sheet that cuts perpendicularly across surrounding rock strata."
+    ],
+    "correct": 1,
+    "ex": "A laccolith is a concordant, mushroom-shaped magma pocket that forces the overlying sedimentary rock beds to warp upward into a dome shape."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Volcanic eruptions that cause a violent emptying of the magma chamber can result in the collapse of the volcanic cone, creating a giant depression called a:",
+    "options": [
+      "Shield Volcano",
+      "Caldera",
+      "Batholith core",
+      "Flood Basalt trap"
+    ],
+    "correct": 1,
+    "ex": "When a massive, explosive eruption empties an underground magma chamber, the volcanic mountain loses structural support and collapses into itself, creating a giant crater-like caldera."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Why does magma rise upward from the mantle toward the Earth's surface along lithospheric weaknesses?",
+    "options": [
+      "It is driven by pressure drops and gas expansions within the molten rock.",
+      "It is sucked upward by the vertical radial forces of epeirogenic uplift.",
+      "It is driven by the 39:39:22 public-private funding model ratios.",
+      "It moves to comply with the 10-digit registration code mandates of the DGFT."
+    ],
+    "correct": 0,
+    "ex": "Magma is buoyant and contains trapped volatile gases. As it moves toward areas of lower pressure along crustal cracks, the gases expand, driving the molten rock upward."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "When magma cools and solidifies before breaching the surface, the resulting crystalline structures are collectively known as:",
+    "options": [
+      "Effusive surface lava fields",
+      "Intrusive Landforms or plutons",
+      "Exogenic denudation grading landforms",
+      "Non-contributory welfare incentives"
+    ],
+    "correct": 1,
+    "ex": "Molten rock that cools and crystallizes safely beneath the surface forms intrusive landforms, or plutonic structures, which are later exposed by erosion."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which plutonic feature is classified as 'discordant' because it cuts perpendicularly across surrounding rock strata?",
+    "options": [
+      "Sill",
+      "Dyke",
+      "Laccolith",
+      "Bedding plane"
+    ],
+    "correct": 1,
+    "ex": "Dykes are discordant walls of igneous rock that blast vertically across pre-existing sedimentary or metamorphic layers."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "According to the target open UPSC Revision text, how are volcanic landforms categorized?",
+    "options": [
+      "They are split into 5% and 18% primary indirect tax slabs.",
+      "Volcanic activity builds varied surface structures based on magma viscosity, while sub-surface cooling creates concordant sills and discordant dykes.",
+      "They are organized under a 15-year vision and 3-year action agenda matrix.",
+      "They are non-justiciable anomalies managed by the Verma Committee."
+    ],
+    "correct": 1,
+    "ex": "The revision block condenses both surface and intrusive options perfectly: 'Volcanic activity builds varied surface structures based on magma viscosity, while sub-surface cooling creates concordant sills and discordant dykes.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The progressive macroeconomic landscape changes driven by exogenic forces operate through which comprehensive process?",
+    "options": [
+      "Orogenic tangential buckling",
+      "Epeirogenic radial upwarping",
+      "Denudation",
+      "Intrusive plutonic magmatism"
+    ],
+    "correct": 2,
+    "ex": "Denudation represents the collective structural stripping of the landscape, seamlessly combining the progressive stages of weathering, mass wasting, and active erosion."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What fundamental characteristic marks the operational layout of 'Weathering' compared to active erosion?",
+    "options": [
+      "It is a highly dynamic process involving swift downstream transport.",
+      "It is a strictly static, in-situ breakdown of surface rocks without transport.",
+      "It relies completely on fluid transport agents like wind and glaciers.",
+      "It is an extra-constitutional process managed via Cabinet Resolutions."
+    ],
+    "correct": 1,
+    "ex": "The defining parameter of weathering is its in-situ nature. Rocks fracture or decay chemically in a fixed place without moving across regions."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which of the following processes is a chemical weathering mechanism that uses atmospheric moisture and acids to weaken rock matrices?",
+    "options": [
+      "Frost wedging fracture",
+      "Carbonation and oxidation",
+      "Thermal expansion contraction",
+      "Down-slope gravity slipping"
+    ],
+    "correct": 1,
+    "ex": "Chemical weathering operates through pathways like hydration, oxidation, and carbonation, altering mineral compositions to break down rock resilience."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What is the classic 'Exam Trap' listed regarding the mechanical operational difference between weathering and erosion?",
+    "options": [
+      "Erosion is a static in-situ layout, whereas weathering is highly dynamic.",
+      "Weathering is a static, in-situ process that breaks down rock without transport, whereas erosion involves active movement by mobile agents.",
+      "Both processes have a rolling six-week duration limit before expiring.",
+      "Weathering is debt-creating, while erosion functions as a non-debt capital asset."
+    ],
+    "correct": 1,
+    "ex": "The trap is blurring the line of mobility. Weathering prepares the debris in place (static), but erosion actively scours and removes that debris using a mobile medium (dynamic)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Physical weathering mechanisms like frost wedging mechanically fracture rock structures without causing what change?",
+    "options": [
+      "Altering the rock's underlying mineral composition",
+      "Creating any surface debris elements",
+      "Weakening the overarching geological terrain",
+      "Subjecting the rock to gravitational down-slope pull"
+    ],
+    "correct": 0,
+    "ex": "Physical or mechanical weathering changes only the shape and size of the rock block, breaking it apart without rewriting its internal mineral chemistry."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What primary force serves as the central driving driver behind mass movements or mass wasting?",
+    "options": [
+      "High-velocity running water currents",
+      "The relentless force of gravity",
+      "Aeolian wind abrasion pressures",
+      "Thermal expansion cycles"
+    ],
+    "correct": 1,
+    "ex": "Mass movements are uniquely defined as downslope transfers of material driven directly by gravity, operating independently of fluid transport media."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which mass movement category is characterized by an extremely slow, continuous downslope shift of soil layers over decades?",
+    "options": [
+      "Mudflow",
+      "Soil Creep",
+      "Landslide",
+      "Caldera collapse"
+    ],
+    "correct": 1,
+    "ex": "Soil creep is the slowest velocity tier of mass wasting, moving material just millimeters per year, often noticed only by tilted fence posts or trees."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Under what conditional trigger do sudden, rapid mass movements like mudflows or earthflows typically develop?",
+    "options": [
+      "When a severe dry drought eliminates all moisture variables.",
+      "When heavy monsoon rainfall saturates weathered debris, increasing its weight and reducing internal friction.",
+      "When the central bank tightens its quantitative reserve ratios.",
+      "When an industrial asset achieves a 100% provisioning allocation."
+    ],
+    "correct": 1,
+    "ex": "Water acts as a classic catalyst for rapid slips. High moisture saturation loads the slope with weight while turning the underlying planes slick, triggering catastrophic failures."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What is the classic 'Exam Trap' listed regarding the exact role water plays within the mudflow mechanism?",
+    "options": [
+      "Water is the primary transport agent that carries debris like a river channel does.",
+      "Water acts as a catalyst by increasing weight and reducing friction, but gravity remains the primary driving force.",
+      "Water turns the mass movement into a statutory money bill allocation.",
+      "Water completely eliminates the threat of any sudden rapid slope failures."
+    ],
+    "correct": 1,
+    "ex": "The trap is misidentifying the fluid agent. Mudflows look like rivers, but they are mass wasting events; water merely triggers and lubricates the slide, while gravity does the pulling."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the target UPSC Revision text, how are mass movements structured and categorized?",
+    "options": [
+      "They are organized under a 39:39:22 public-private ratio framework.",
+      "Mass movements are gravity-driven transfers of surface materials classified into slow creep or rapid landslides based on velocity and moisture levels.",
+      "They are split into 5% concessional and 18% standard revenue bands.",
+      "They are non-justiciable anomalies managed by the central Statistics Bureau."
+    ],
+    "correct": 1,
+    "ex": "The revision block condenses the classification taxonomy cleanly: 'Mass movements are gravity-driven transfers of surface materials classified into slow creep or rapid landslides based on velocity and moisture levels.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Which distinctive erosional landscape features are carved out by high-velocity streams during the youth phase of running water?",
+    "options": [
+      "Oxbow lakes and meandering channels",
+      "Deep V-shaped valleys, gorges, and canyons",
+      "Sinkholes, dolines, and blind valleys",
+      "Steep flat-bottomed U-shaped valleys"
+    ],
+    "correct": 1,
+    "ex": "Young fluvial systems possess high kinetic energy focused downward, carving out steep vertical profiles like gorges, V-shaped incisions, and canyon networks."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Karst Topography is a unique landscape matrix developed exclusively through the chemical dissolution of which bedrock type?",
+    "options": [
+      "Dense, basaltic oceanic crust blocks",
+      "Soluble limestone bedrock",
+      "Buoyant granitic continental shields",
+      "Crystalline peridotite intrusive layers"
+    ],
+    "correct": 1,
+    "ex": "Karst features require soluble carbonate rocks like limestone. Rainwater mixed with carbon dioxide turns into a weak acid that easily dissolves these formations over time."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Which depositional features are found inside underground limestone caverns as a result of groundwater precipitation?",
+    "options": [
+      "Meanders and oxbow lakes",
+      "Stalactites, stalagmites, and pillars",
+      "Cirques, hanging valleys, and horns",
+      "Barchans and longitudinal dunes"
+    ],
+    "correct": 1,
+    "ex": "As mineral-rich water drips inside a karst cave, it leaves behind calcium carbonate deposits, building downward spikes (stalactites) and upward cones (stalagmites)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What specific topographic structure is gouged out by glacial plucking and abrasion across alpine valley networks?",
+    "options": [
+      "Narrow, deep V-shaped canyons",
+      "Steep, flat-bottomed U-shaped valleys",
+      "Surface sinkholes and shallow dolines",
+      "Erosional yardangs and mushroom rock shapes"
+    ],
+    "correct": 1,
+    "ex": "Unlike rivers that cut a V-shape, massive moving glaciers act as giant rock scrapers, widening and straightening pre-existing valleys into broad U-shaped troughs."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Crescent-shaped sand dunes built by wind transport in arid desert environments are formally classified as:",
+    "options": [
+      "Moraines",
+      "Barchans",
+      "Sea stacks",
+      "Eskers"
+    ],
+    "correct": 1,
+    "ex": "Barchans are classic aeolian features; they are crescent-shaped sand dunes whose tips point downwind, tracking steady wind directions over desert floors."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What is the classic 'Exam Trap' listed regarding the geometric difference between valley structures carved by rivers versus glaciers?",
+    "options": [
+      "Fluvial paths create broad U-shaped basins, while glaciers slice narrow V-shaped clefts.",
+      "Fluvial processes carve V-shaped valleys through downward stream erosion, whereas glacial abrasion gouges out steep, flat-bottomed U-shaped valleys.",
+      "Both agents produce identical circular structures that require an IEC code to categorize.",
+      "The shapes are completely identical and cannot be differentiated on surface maps."
+    ],
+    "correct": 1,
+    "ex": "The trap is confusing the valley profiles. Water cuts downward to outline a tight 'V', while moving ice ice carves both downward and outward, squaring off the terrain into a bold 'U' shape."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Landscape features like sea cliffs, wave-cut platforms, and arches are created by which geomorphic agent?",
+    "options": [
+      "Groundwater chemical actions",
+      "Oceanic coastal waves",
+      "Fluvial river youth currents",
+      "Arid desert wind currents"
+    ],
+    "correct": 1,
+    "ex": "Hydraulic impact and the crashing force of coastal waves break down shoreline headlands, eroding them into cliffs, arches, and sea stacks."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What name is given to the unsorted glacial debris deposited directly by a melting ice sheet?",
+    "options": [
+      "Alluvial fans",
+      "Moraines",
+      "Loess sheets",
+      "Offshore spit bars"
+    ],
+    "correct": 1,
+    "ex": "Glaciers dump everything they carry indiscriminately when they melt, creating ridges of unsorted rocky till known as moraines."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Mushroom rocks and yardangs are prominent landforms associated with which landscape domain?",
+    "options": [
+      "High-latitude alpine regions",
+      "Arid desert environments",
+      "Soluble carbonate karst networks",
+      "Humid coastal deltas"
+    ],
+    "correct": 1,
+    "ex": "Mushroom rocks and yardangs are classic products of wind erosion (aeolian), sculpted by blowing sand grains cutting away at desert rock formations."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_1",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "According to the target UPSC Revision text, what is the ongoing impact of mobile geomorphic agents?",
+    "options": [
+      "They enforce a strict 330-day time-bound timeline threshold limit.",
+      "Surface topography is continually modified by fluvial, karst, glacial, aeolian, and coastal agents, each generating distinct erosional and depositional landforms.",
+      "They match the 15-year long-term vision parameters established by NITI Aayog.",
+      "They alter the vertical tax devolution models passed by state assemblies."
+    ],
+    "correct": 1,
+    "ex": "The summary text maps the entire landscape cycle perfectly: 'Surface topography is continually modified by fluvial, karst, glacial, aeolian, and coastal agents, each generating distinct erosional and depositional landforms.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which atmospheric layer acts as the primary arena where all significant weather phenomena occur and hosts 99% of atmospheric water vapor?",
+    "options": [
+      "Stratosphere",
+      "Mesosphere",
+      "Troposphere",
+      "Thermosphere"
+    ],
+    "correct": 2,
+    "ex": "The troposphere is the densest, lowest layer of the atmosphere, containing almost all the water vapor, aerosols, and mass necessary to fuel daily weather systems."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Why does the temperature in the Stratosphere paradoxically increase with altitude, creating a thermal inversion layer?",
+    "options": [
+      "Due to the intense friction generated by incoming meteors burning up.",
+      "Due to the absorption of solar ultraviolet (UV) radiation by the Ozone layer.",
+      "Because it directly traps outgoing long-wave terrestrial infrared heat.",
+      "Because it is compressed by broad vertical epeirogenic radial forces."
+    ],
+    "correct": 1,
+    "ex": "The presence of the ozonosphere within the stratosphere captures solar UV rays, converting this radiation into thermal energy that warms the upper bounds of the layer."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What is the classic 'Exam Trap' listed regarding the vertical temperature gradients of the lowest two atmospheric layers?",
+    "options": [
+      "The troposphere experiences a temperature inversion, while the stratosphere follows a standard environmental lapse rate.",
+      "While the troposphere's temperature drops with altitude, the stratosphere's temperature rises due to UV absorption by ozone.",
+      "Both layers exhibit perfectly uniform temperature distributions locked at a zero baseline.",
+      "Temperature changes are non-justiciable anomalies omitted from cross-border climate matrices."
+    ],
+    "correct": 1,
+    "ex": "While the troposphere cools with height at the standard environmental lapse rate, the stratosphere experiences an inversion, warming with altitude due to ozone solar absorption."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which atmospheric layer contains electrically charged particles that function to reflect radio waves back to Earth, enabling long-distance communication?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct": 3,
+    "ex": "The thermosphere houses the ionosphere, where solar radiation ionizes gas molecules into electrically charged particles capable of bouncing radio signals back down to the surface."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the target UPSC Revision text, how are the primary tiers of Earth's atmosphere defined?",
+    "options": [
+      "They are split into three blocks that completely omit volatile fuel tracks.",
+      "The atmosphere consists of five thermal layers: Troposphere, Stratosphere, Mesosphere, Thermosphere, and Exosphere, each defined by alternating temperature gradients.",
+      "They follow a shared 39:39:22 public-private capital matrix outline.",
+      "They utilize a free-float capitalization model driven by 30 large-cap variables."
+    ],
+    "correct": 1,
+    "ex": "The revision statement synthesizes the structural zoning precisely: 'The atmosphere consists of five thermal layers: Troposphere, Stratosphere, Mesosphere, Thermosphere, and Exosphere, each defined by alternating temperature gradients.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Earth maintains its long-term global thermal equilibrium by balancing which two electromagnetic components?",
+    "options": [
+      "Incoming long-wave solar radiation with outgoing short-wave terrestrial radiation.",
+      "Incoming short-wave solar radiation with outgoing long-wave terrestrial radiation.",
+      "Reflected ultraviolet rays with incoming compressional primary body waves.",
+      "Nutrient-based cash subsidies with direct retention price controls."
+    ],
+    "correct": 1,
+    "ex": "The heat budget relies on a perfect input-output balance: high-energy short-wave solar inputs are absorbed, and an equivalent amount of low-energy long-wave infrared terrestrial heat is radiated back out into space."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The 'Albedo Effect' is formally defined within Earth's heat budget framework as the capacity of a surface to do what?",
+    "options": [
+      "Absorb short-wave visible light and convert it into deep crustal magmatic energy.",
+      "Reflect incoming solar radiation immediately back into space without absorption.",
+      "Trap outgoing infrared heat inside the lower tropospheric moisture clouds.",
+      "Fold and buckle rock strata horizontally along narrow mountain belts."
+    ],
+    "correct": 1,
+    "ex": "Albedo is a surface's reflectivity coefficient; highly reflective surfaces like ice caps, snow, and bright clouds bounce solar rays away immediately, preventing planetary heating."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Why are gases like carbon dioxide and water vapor able to generate a natural greenhouse effect that keeps the planet habitable?",
+    "options": [
+      "They are opaque to incoming short-wave radiation, blocking solar light from hitting the ground.",
+      "They are transparent to incoming short-wave radiation but opaque to outgoing long-wave terrestrial radiation, trapping heat.",
+      "They reflect 100% of solar visible light away via a high albedo effect coefficient.",
+      "They convert long-wave infrared heat into high-velocity horizontal jet streams."
+    ],
+    "correct": 1,
+    "ex": "Greenhouse gases allow high-energy short-wave sunlight to pass through easily to heat the surface, but absorb the lower-energy long-wave infrared heat emitted by the cooler Earth, trapping thermal energy."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What is the classic 'Exam Trap' listed regarding the mechanical cause of the global greenhouse effect?",
+    "options": [
+      "The greenhouse effect is caused by the atmosphere trapping incoming short-wave solar radiation, not by trapping outgoing long-wave terrestrial radiation.",
+      "The greenhouse effect is caused by the atmosphere trapping outgoing long-wave terrestrial radiation, not by trapping incoming short-wave solar radiation.",
+      "The greenhouse effect operates only when a financial emergency is active under Article 360.",
+      "The effect is a static in-situ layout that requires a 10-digit Import Export Code."
+    ],
+    "correct": 1,
+    "ex": "The trap is misidentifying the trapped wavelength. Greenhouse gases do not intercept incoming sunlight (short-wave); they blanket and trap the escaping heat (long-wave terrestrial infrared radiation) radiated by Earth's surface."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the target UPSC Revision text, how does Earth sustain its baseline global temperatures?",
+    "options": [
+      "By utilizing the input tax credit framework to prevent the compounding cascading effects.",
+      "Earth maintains its heat budget by radiating long-wave infrared energy, which greenhouse gases trap to sustain global temperatures.",
+      "By relying on a three-fourths weighted majority vote inside a joint constitutional forum.",
+      "By coordinating a dynamic GIS platform across 16 infrastructure ministries."
+    ],
+    "correct": 1,
+    "ex": "The revision block encapsulates the thermal equilibrium perfectly: 'Earth maintains its heat budget by radiating long-wave infrared energy, which greenhouse gases trap to sustain global temperatures.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What core force generates the Equatorial Low-Pressure Belt (Doldrums) across the globe?",
+    "options": [
+      "Dynamic forces derived from the high-speed centrifugal rotation of the planet.",
+      "Thermal forces where intense solar heating causes air to expand, lighten, and rise.",
+      "The physical collision of warm westerlies with cold polar easterly flows.",
+      "The out-of-court asset possession enforcement actions of primary lenders."
+    ],
+    "correct": 1,
+    "ex": "The equatorial belt is thermally induced; fierce solar radiation causes the air to superheat and expand upward, creating a semi-permanent low-pressure vacuum zone at sea level."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "How are the intermediate Sub-tropical High-Pressure Belts (Horse Latitudes) formed along 30° latitude?",
+    "options": [
+      "By extreme surface cold that forces dense air to sink at the geometric poles.",
+      "They are dynamically induced where cooling air from the equator descends and compresses.",
+      "Through an automatic reclassification of portfolio flows into direct infrastructure assets.",
+      "Through the static chemical dissolution of soluble limestone bedding planes."
+    ],
+    "correct": 1,
+    "ex": "The sub-tropical highs are dynamically generated. Air that rises at the equator spreads poleward aloft, cools down, and sinks back to the surface around 30° North and South, compressing into high-pressure cells."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What mechanical interaction forms the stormy Sub-polar Low-Pressure Belts at roughly 60° North and South latitudes?",
+    "options": [
+      "Intense localized thermal heating that sets a flat floor baseline.",
+      "The dynamic collision of warm westerlies with frigid polar easterlies, forcing air to rise.",
+      "The complete termination of shear body waves at the core-mantle boundary zone.",
+      "A progressive direct tax schedule adjustment that reduces consumer spending."
+    ],
+    "correct": 1,
+    "ex": "The sub-polar lows are dynamically induced by the convergence of contrasting wind streams; the collision of mild tropical air (westerlies) and frigid air (polar easterlies) forces air upward."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What is the classic 'Exam Trap' listed regarding the origin mechanisms of global pressure belts?",
+    "options": [
+      "All global pressure belts are exclusively thermally induced by temperature variations.",
+      "The Sub-tropical High and Sub-polar Low are dynamically induced by planetary rotation and air movements, not by direct thermal changes.",
+      "The belts require a prior three-fourths majority vote inside the GST Council to open.",
+      "The belts are short-term zero-coupon indices managed by the Ministry of Commerce."
+    ],
+    "correct": 1,
+    "ex": "The trap is treating all pressure fields as temperature products. While the equator and poles are thermal belts, the sub-tropical highs (30°) and sub-polar lows (60°) are dynamic belts built by wind cells and rotational physics."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the target UPSC Revision text, what basic template governs the global pressure configuration?",
+    "options": [
+      "It coordinates a 39:39:22 public-private funding matrix across regions.",
+      "Pressure belts alternate across latitudes, balancing thermally induced equatorial and polar zones with dynamically induced sub-tropical and sub-polar zones.",
+      "It relies on the input tax credit mechanism to prevent cascading distortions.",
+      "It tracks the standard 90-day overdue non-performing asset default timelines."
+    ],
+    "correct": 1,
+    "ex": "The revision text frames the latitudinal distribution perfectly: 'Pressure belts alternate across latitudes, balancing thermally induced equatorial and polar zones with dynamically induced sub-tropical and sub-polar zones.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "How does the Coriolis force redirect surface air streams as they move from high-pressure zones to low-pressure voids?",
+    "options": [
+      "It accelerates wind velocity lineally without altering vector direction pathways.",
+      "It deflects wind paths to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+      "It causes S-waves to terminate entirely upon entering the liquid core domain.",
+      "It reclassifies planetary winds into short-term unsecured corporate paper instruments."
+    ],
+    "correct": 1,
+    "ex": "The Coriolis force, caused by Earth's spin, deflects moving air sideways relative to its path, twisting winds clockwise in the north and counterclockwise in the south."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which parameters characterize the 'Trade Winds' within the planetary wind network?",
+    "options": [
+      "Stormy, variable wind systems that flow from the polar high toward sub-polar zones.",
+      "Steady, reliable winds that blow from the Sub-tropical Highs toward the Equatorial Low, converging at the ITCZ.",
+      "Upper-tropospheric high-velocity rivers that exceed speeds of 300 km/h.",
+      "Collateral-free micro-credit loans divided into Shishu, Kishor, and Tarun tiers."
+    ],
+    "correct": 1,
+    "ex": "Trade winds are remarkably steady surface winds flowing out of the horse latitudes toward the equator, where they merge at the Inter-Tropical Convergence Zone (ITCZ)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which planetary wind system is directly responsible for carrying significant moisture and year-round rainfall to the western margins of mid-latitude continents like Northwestern Europe?",
+    "options": [
+      "Trade Winds",
+      "Polar Easterlies",
+      "Westerlies",
+      "Moni Bonds"
+    ],
+    "correct": 2,
+    "ex": "The Westerlies flow from the sub-tropical highs to the sub-polar lows across mid-latitudes, driving stormy weather and rainfall onto western continental borders."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What is the classic 'Exam Trap' listed regarding the asymmetrical strength of the Westerlies across the Northern versus Southern Hemispheres?",
+    "options": [
+      "Westerlies are completely absent from the Southern Hemisphere due to high polar pressure.",
+      "Westerlies are much stronger in the Southern Hemisphere because there are no major continental landmasses to provide friction.",
+      "The winds are stronger in the north due to the 75% weighted voting block inside the council.",
+      "Southern westerlies are non-justiciable anomalies tracked only by the Labour Bureau."
+    ],
+    "correct": 1,
+    "ex": "The trap is ignoring surface friction. The Southern Hemisphere is mostly vast ocean; because it lacks giant mountain blocks or landmasses to break wind momentum, the westerlies blow fiercely (the Roaring Forties)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "According to the target UPSC Revision text, what functions as the primary conveyor of heat and moisture across latitudinal lines?",
+    "options": [
+      "The global circulation model relying on Trade Winds, Westerlies, and Polar Easterlies.",
+      "The 10-digit alpha-numeric passport code monitored by border checkpoint gates.",
+      "The two-slab structural rate rationalization framework of the tax code.",
+      "A three-tier planning horizon model that updates via real-time notifications."
+    ],
+    "correct": 0,
+    "ex": "The revision block outlines the macro system cleanly: 'The global circulation model relies on Trade Winds, Westerlies, and Polar Easterlies transporting heat and moisture across latitudinal pressure belts.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What atmospheric parameters define the nature and velocity of 'Jet Streams'?",
+    "options": [
+      "Slow, gravity-driven downslope movements of air along valley floors.",
+      "Narrow, high-velocity air currents in the upper troposphere driven by steep gradients.",
+      "In-situ static accumulations of water vapor locked under a 2011-12 base year.",
+      "Unsecured short-term borrowing facilities managed via the RBI's window."
+    ],
+    "correct": 1,
+    "ex": "Jet streams are powerful, high-altitude atmospheric rivers operating near the tropopause, rushing at speeds over 300 km/h along steep thermal and pressure boundaries."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "How does the seasonal migration of the Sub-tropical Jet Stream (STJ) impact South Asian climatology?",
+    "options": [
+      "Its southward shift across the Himalayas during summer destroys the Indian core infrastructure.",
+      "Its sudden northward migration across the Himalayas during summer triggers the onset of the Southwest Monsoon.",
+      "It forces the permanent reclassification of current accounts into capital assets.",
+      "It limits the peak marginal tax rate of agrarian sectors to a strict 10% floor."
+    ],
+    "correct": 1,
+    "ex": "The STJ sits south of the mountains in winter, blocking monsoon air. Its rapid northward leap over the Tibetan Plateau in summer clears the skies over the plains, triggering the monsoon's sudden burst."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What is the classic 'Exam Trap' listed regarding the permanence and lifespan of the Tropical Easterly Jet versus the Sub-tropical Westerly Jet?",
+    "options": [
+      "The Sub-tropical Westerly Jet is a temporary summer-only feature over northern India.",
+      "The Tropical Easterly Jet is a temporary, summer-only phenomenon, whereas the Sub-tropical Westerly Jet is a permanent global feature that merely shifts latitude.",
+      "Both jet streams are identical permanent structures that carry zero seasonal variability.",
+      "The jet systems require separate legal Money Bill certifications under Article 110."
+    ],
+    "correct": 1,
+    "ex": "The trap is confusing a local seasonal wind with a global macro wind. The Sub-tropical Westerly Jet flows around the earth year-round, but the Tropical Easterly Jet is a unique, seasonal summer feature born out of North Indian thermal topography."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which high-altitude jet stream forms exclusively in the stratosphere during the dark polar winter to maintain the stability of the polar vortex?",
+    "options": [
+      "Polar Front Jet Stream",
+      "Sub-tropical Jet Stream",
+      "Polar Night Jet",
+      "MUDRA Token Jet"
+    ],
+    "correct": 2,
+    "ex": "The Polar Night Jet wraps around the high-latitude winter stratosphere, acting as a structural fence that seals in ultra-cold air masses to sustain the polar vortex through the winter darkness."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the target UPSC Revision text, what is the primary meteorological trigger for the onset of the Indian Monsoon?",
+    "options": [
+      "The structural consolidation of the old four indirect tax slabs into two slabs.",
+      "The latitudinal migration of the upper-level Sub-tropical Jet Stream.",
+      "The out-of-court foreclosure of over-leveraged corporate real estate portfolios.",
+      "The matching of gross banking sector non-performing assets to a 5% limit."
+    ],
+    "correct": 1,
+    "ex": "The revision statement underscores the dynamic link: 'Jet streams are upper-level high-velocity winds; the migration of the Sub-tropical Jet Stream is the primary trigger for the onset of the Indian Monsoon.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What core atmospheric phenomenon is described by the term 'Rossby Waves'?",
+    "options": [
+      "Vertical, compressional sound wave pulses propagating through the outer core.",
+      "Large-scale atmospheric meanders or horizontal oscillations executed by upper-level jet streams.",
+      "In-situ static disintegration of rocks via carbonation and hydration pathways.",
+      "Unconditional direct cash transfer networks managed by the digital JAM trinity."
+    ],
+    "correct": 1,
+    "ex": "Rossby waves are planetary-scale meanders in the high-altitude jet streams, curling north and south rather than wrapping around the globe in tight, rigid lines."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What primary factors interact with the Earth's rotation and planetary Coriolis gradient to generate Rossby Waves?",
+    "options": [
+      "The deflection of air streams by massive mountain ranges like the Rockies or Himalayas.",
+      "The horizontal tax buoyancy ratios across mineral-exporting provinces.",
+      "The 40-currency trade-partner basket weighting adjustments of the central bank.",
+      "The 14-day statutory payment timelines imposed on sugar processing mills."
+    ],
+    "correct": 0,
+    "ex": "Rossby waves are generated as massive upper-air currents slide over planetary barriers—such as the massive topography of the Rockies or Tibet—inducing ripples in the flow."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "How do the 'troughs' and 'ridges' of Rossby wave meanders introduce extreme temperature variations to mid-latitudes?",
+    "options": [
+      "They compress the Conrad line down to a 0% exempted baseline floor.",
+      "Troughs pull frigid polar air deep into mid-latitudes (cold snaps), while ridges bulge warm tropical air northward (heatwaves).",
+      "They force all private firms to submit to a strict 100% provisioning fee.",
+      "They eliminate the distinction between previous financial years and assessment cycles."
+    ],
+    "correct": 1,
+    "ex": "The loops act as thermal air pumps: a deep southward-dipping trough carries freezing arctic currents deep into lower zones, while an upward-bulging ridge imports sweltering tropical air blocks."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What is the classic 'Exam Trap' listed regarding the directional movement and heat-transfer mechanism of Rossby Waves?",
+    "options": [
+      "Rossby waves move strictly from south to north, blocking all longitudinal trade lines.",
+      "While Rossby waves generally drift from west to east, their deep north-south meanders are what facilitate the global transfer of latitudinal heat.",
+      "The waves are static, in-situ structures that do not possess any drift vector.",
+      "The waves can only propagate through the liquid media of the planetary core."
+    ],
+    "correct": 1,
+    "ex": "The trap is missing the component split. The wave pattern slowly ripples eastward across the weather map, but the internal wind streams within the wave snake loops north and south, swapping cold polar and hot tropical air."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_2",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "According to the target UPSC Revision text, what primary role do Rossby waves fulfill in regional climates?",
+    "options": [
+      "They establish a legal statutory guarantee of 100 days of unskilled wage labor.",
+      "Rossby waves are massive atmospheric oscillations driven by the Coriolis effect that dictate the path of jet streams and determine regional temperature extremes.",
+      "They manage the 6-year/6-times export obligation multipliers of industrial sectors.",
+      "They apply a flat 40% uniform luxury tax adjustment metric across supply chains."
+    ],
+    "correct": 1,
+    "ex": "The revision block encapsulates the wave impact directly: 'Rossby waves are massive atmospheric oscillations driven by the Coriolis effect that dictate the path of jet streams and determine regional temperature extremes.'"
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which component of the continental margin represents the true geological boundary of a continent?",
+    "options": [
+      "Continental Shelf",
+      "Continental Slope",
+      "Continental Rise",
+      "Abyssal Plain"
+    ],
+    "correct": 1,
+    "ex": "The Continental Slope marks the sharp, steep drop-off at the outer edge of the shelf and represents the true geological boundary of the continent."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Despite covering a relatively small percentage of the total ocean area, which zone is known for housing major fishing grounds and vast commercial reserves of petroleum?",
+    "options": [
+      "Abyssal Plain",
+      "Continental Rise",
+      "Continental Shelf",
+      "Continental Slope"
+    ],
+    "correct": 2,
+    "ex": "The Continental Shelf is the shallowest, most biologically productive zone, housing major fishing grounds, coral reefs, and vast commercial reserves of petroleum and natural gas."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What primarily causes the formation of deep submarine canyons incising the Continental Slope?",
+    "options": [
+      "Powerful turbidity currents",
+      "Glacial movement during ice ages",
+      "Tectonic plate subduction",
+      "Upwelling of basaltic magma"
+    ],
+    "correct": 0,
+    "ex": "The steep Continental Slope is often deeply incised by submarine canyons carved by powerful turbidity currents."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "How is the Continental Rise geomorphically formed at the base of the slope?",
+    "options": [
+      "By the destructive diving of tectonic plates",
+      "By the thick accumulation of sediments transported down the slope",
+      "By continuous volcanic eruptions underwater",
+      "By the scraping of coral reef structures"
+    ],
+    "correct": 1,
+    "ex": "The Continental Rise is formed by the thick accumulation of sediments transported down the slope, creating a gentle gradient that merges into the abyssal plain."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the provided text, which components make up the transitional zone between terrestrial landmasses and the deep ocean basin?",
+    "options": [
+      "Abyssal plain, Trenches, and Ridges",
+      "Continental shelf, Abyssal plain, and Canyons",
+      "Continental shelf, Slope, and Rise",
+      "Continental slope, Rise, and Trenches"
+    ],
+    "correct": 2,
+    "ex": "The continental margin comprises the shelf, slope, and rise, forming the transitional zone between terrestrial landmasses and the deep ocean basin."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which tectonic plate boundary is exclusively responsible for the formation of Oceanic Trenches?",
+    "options": [
+      "Divergent boundaries",
+      "Transform boundaries",
+      "Constructive boundaries",
+      "Convergent boundaries"
+    ],
+    "correct": 3,
+    "ex": "Oceanic trenches are long, narrow, and steep-sided topographic depressions formed exclusively at convergent plate boundaries where one tectonic plate is forced to subduct under another."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What type of fine-grained sediments typically cover the vast, flat Abyssal Plains?",
+    "options": [
+      "Coarse terrigenous gravel and sand",
+      "Clay and biogenic ooze",
+      "Basaltic lava fragments",
+      "Alluvial sediment fans from rivers"
+    ],
+    "correct": 1,
+    "ex": "Abyssal Plains are covered with thick layers of fine-grained pelagic sediments like clay and biogenic ooze."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The Mariana Trench is cited as a global example of which type of geological feature?",
+    "options": [
+      "A constructive divergent mountain ridge",
+      "A stable passive oceanic crust interior",
+      "A destructive convergent boundary trench",
+      "An alluvial sediment deposition fan"
+    ],
+    "correct": 2,
+    "ex": "The Mariana Trench in the Pacific Ocean is a prominent global example of an oceanic trench formed at a destructive convergent boundary via subduction."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which of the following describes the topography and tectonic association of Abyssal Plains?",
+    "options": [
+      "Deep, steep-sided depressions at active boundaries",
+      "Extremely flat surfaces situated on passive, stable oceanic crust interiors",
+      "Continuous underwater mountain ranges with active volcanism",
+      "Heavily graded zones incised by deep submarine canyons"
+    ],
+    "correct": 1,
+    "ex": "Abyssal plains form the vast, flat deep-sea floor and are associated with passive, stable oceanic crust interiors."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What is the primary tectonic process taking place at Mid-Ocean Ridges?",
+    "options": [
+      "Tectonic plates push together and form fold mountains via continental collision",
+      "Tectonic plates slide past each other horizontally without creating crust",
+      "One tectonic plate dives under another into the mantle to be destroyed",
+      "Tectonic plates pull apart, allowing magma to rise and create brand new seafloor"
+    ],
+    "correct": 3,
+    "ex": "Mid-ocean ridges are formed at divergent plate boundaries where tectonic plates pull apart and basaltic magma rises, cools, and solidifies to create new oceanic seafloor."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "The global mid-ocean ridge system is characterized by which of the following features?",
+    "options": [
+      "Deep-sea trenches and deep earthquakes",
+      "Central rift valleys, frequent shallow earthquakes, and hydrothermal vents",
+      "Thick layers of continental alluvial fans and calm waters",
+      "Submarine canyons carved by turbidity currents"
+    ],
+    "correct": 1,
+    "ex": "The mid-ocean ridge system stretches over 65,000 kilometers and is characterized by central rift valleys, frequent shallow earthquakes, and active hydrothermal vents."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Why are mid-ocean ridges classified as 'constructive margins'?",
+    "options": [
+      "Because they continually generate new basaltic oceanic crust",
+      "Because they compress continental mass to build mountains",
+      "Because they allow the accumulation of biogenic ooze",
+      "Because they prevent earthquakes and stabilize ocean plates"
+    ],
+    "correct": 0,
+    "ex": "They have a constructive primary geologic function because the upwelling of magma continuously generates new basaltic oceanic crust at the divergent boundary."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Why does the equatorial region not experience the highest ocean salinity despite having high average temperatures?",
+    "options": [
+      "The high wind speeds at the equator prevent salt from accumulating.",
+      "Massive daily precipitation completely offsets the high evaporation rates.",
+      "Equatorial waters are constantly replaced by low-salinity water from the deep ocean floor.",
+      "The rapid growth of coral reefs absorbs the vast majority of dissolved mineral salts."
+    ],
+    "correct": 1,
+    "ex": "The equatorial belt is characterized by heavy and continuous daily rainfall, which acts as a massive freshwater influx that dilutes surface water salinity."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which geographic regions are typically characterized as high-salinity zones due to intense, dry heat and low freshwater dilution?",
+    "options": [
+      "Equatorial coastal belts",
+      "Polar estuaries and ice-melt boundaries",
+      "Sub-tropical regions like the Red Sea or the Mediterranean",
+      "Mouths of major river systems like the Amazon"
+    ],
+    "correct": 2,
+    "ex": "Sub-tropical zones experience intense, dry heat causing rapid evaporation alongside minimal rainfall or river runoff, which concentrates salts."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What primary atmospheric and geographic factors balance against each other to drive localized oceanic salinity variations?",
+    "options": [
+      "Submarine volcanic eruptions and tectonic plate subduction rates",
+      "The localized balance between evaporation rates and freshwater influx",
+      "The friction of wind-driven waves and total solar insolation directly on deep basins",
+      "The rate of biogenic ooze accumulation over the continental shelf"
+    ],
+    "correct": 1,
+    "ex": "Salinity changes dynamically across different regions based on localized thermodynamic and geographic conditions, specifically the balance between evaporation and freshwater addition."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Coastal areas near the mouths of massive river systems like the Ganga-Brahmaputra and Congo exhibit lower salinity because of which process?",
+    "options": [
+      "Continuous freshwater discharge from the continents",
+      "The blocking of direct sunlight by river sediment plumes",
+      "Rapid sinking of heavy saline water due to chemical precipitation",
+      "High localized relative humidity slowing down global evaporation cycles"
+    ],
+    "correct": 0,
+    "ex": "Massive rivers continuously flush large volumes of mineral-free freshwater directly into coastal ocean regions, diluting the localized salt content."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the text, where do ocean salinity values peak globally?",
+    "options": [
+      "Directly along the rainy equatorial belt",
+      "In the arid sub-tropics due to intense evaporation",
+      "Near river estuaries because of continental mineral transport",
+      "Deep inside the abyssal plains of the polar circles"
+    ],
+    "correct": 1,
+    "ex": "Ocean salinity peaks in arid sub-tropics due to intense evaporation, and drops near the equator and river mouths due to massive freshwater dilution."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which of the following terms describes the distinct vertical layer of ocean water where salinity changes rapidly with increasing depth?",
+    "options": [
+      "Thermocline",
+      "Halocline",
+      "Isothermal zone",
+      "Abyssal plain"
+    ],
+    "correct": 1,
+    "ex": "The halocline is strictly defined as a distinct vertical layer of water where salinity changes rapidly with increasing depth."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Why does the halocline layer often align very closely with the pycnocline layer?",
+    "options": [
+      "Because changes in water temperature are the only factor that dictates ocean water color.",
+      "Because the concentration of dissolved salts heavily increases the physical density of water.",
+      "Because surface atmospheric waves mix dissolved gasses completely down to the abyssal floor.",
+      "Because both layers are found exclusively within polar regions."
+    ],
+    "correct": 1,
+    "ex": "Because the concentration of dissolved salts increases the density of water, the halocline often aligns closely with the pycnocline (the layer of rapid density change)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What physical role does the sharp gradient of the halocline play in oceanic water column structural dynamics?",
+    "options": [
+      "It acts as a physical stratification barrier that limits vertical mixing.",
+      "It accelerates the horizontal speed of global surface wind waves.",
+      "It causes turbidity currents to carve deep submarine canyons.",
+      "It eliminates the deep ocean zone's stable, uniform bottom salinity completely."
+    ],
+    "correct": 0,
+    "ex": "This sharp gradient acts as a physical stratification barrier that limits the vertical mixing of surface waters with the deep ocean."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Where are the direct impacts of atmospheric interactions like evaporation, precipitation, and ice melt most heavily concentrated in the ocean?",
+    "options": [
+      "The Deep Ocean Zone",
+      "The Halocline Layer",
+      "The Surface Zone",
+      "The Isothermal Stratum"
+    ],
+    "correct": 2,
+    "ex": "Surface salinity is heavily influenced by atmospheric interactions such as evaporation, precipitation, and ice melt, but these localized impacts diminish rapidly as you descend."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Based on the provided text, what distinguishes the halocline from the thermocline and pycnocline?",
+    "options": [
+      "The halocline exclusively measures the rapid change in water temperature with depth.",
+      "The halocline specifically measures the rapid vertical change in salinity.",
+      "The halocline tracks the rate of basaltic crust construction along divergent boundaries.",
+      "The halocline acts as an indicator of light penetration and photosynthesis limits."
+    ],
+    "correct": 1,
+    "ex": "The exam trap highlights that the halocline specifically measures the rapid change in salinity, distinguishing it from the thermocline (temperature) and pycnocline (density)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Which geographic region lacks a thermocline layer entirely within its vertical water profile?",
+    "options": [
+      "The Arid Sub-tropics",
+      "The Equatorial Belt",
+      "Polar Regions",
+      "Mid-Latitude Enclosed Seas"
+    ],
+    "correct": 2,
+    "ex": "Crucially, the thermocline is geographically limited and is absent in polar regions due to low solar insolation matching the near-freezing deep ocean."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What is meant when a polar water column profile is described as being 'isothermal'?",
+    "options": [
+      "It possesses an incredibly high and variable concentration of dissolved salts.",
+      "It has a virtually uniform temperature from the surface down to the bottom.",
+      "It contains active hydrothermal vents creating strong localized heat spikes.",
+      "It is heavily stratified into separate layers that block all forms of vertical movement."
+    ],
+    "correct": 1,
+    "ex": "Because there is no warm surface layer to contrast with the deep, the entire water column in polar regions is virtually isothermal (uniform temperature)."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What major global process is dynamically driven by the absence of a thermocline in polar zones, allowing cold, dense surface water to sink freely?",
+    "options": [
+      "Subduction of oceanic plates at convergent boundaries",
+      "The global thermohaline circulation",
+      "The formation of extensive pelagic biogenic ooze",
+      "The creation of central rift valleys along underwater mountain ranges"
+    ],
+    "correct": 1,
+    "ex": "The absence of a thermocline in polar regions is the exact dynamic that allows cold, dense surface water to sink freely, driving the global thermohaline circulation."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "How deep into the ocean does solar radiation primarily penetrate to heat and create the well-mixed surface layer?",
+    "options": [
+      "The upper 200 meters",
+      "Down to 2,000 meters into the pycnocline",
+      "Exclusively within the first 2 meters of shoreline estuaries",
+      "Across the entire water column down to the abyssal plain"
+    ],
+    "correct": 0,
+    "ex": "Solar radiation primarily heats the upper 200 meters of the ocean, creating a warm, well-mixed surface layer."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What thermal states does the thermocline directly act as a transition boundary between?",
+    "options": [
+      "The high-salinity sub-tropics and low-salinity river estuaries",
+      "The warm, less dense surface water and the frigid, dense deep-ocean water",
+      "Active volcanic hydrothermal magma layers and passive crustal segments",
+      "Freshwater surface rain belts and heavy underground saline aquifers"
+    ],
+    "correct": 1,
+    "ex": "The thermocline acts as an intense thermal boundary separating the warm, less dense surface water from the frigid, dense deep-ocean water."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What proportion of the ocean's total volume moves in the distinct horizontal streams known as Surface Currents?",
+    "options": [
+      "The upper 10%",
+      "The upper 25%",
+      "The remaining 90%",
+      "Exactly 50%"
+    ],
+    "correct": 0,
+    "ex": "According to the text, the upper 10% of the ocean's volume moves in distinct horizontal streams known as Surface Currents."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which planetary wind systems provide the initial friction and kinetic push to drive surface ocean currents mechanically?",
+    "options": [
+      "Polar Easterlies and Monsoon Winds",
+      "Trade Winds and the Westerlies",
+      "Local Sea Breezes and Katabatic Winds",
+      "Cyclonic wind vortices and Jet Streams"
+    ],
+    "correct": 1,
+    "ex": "Surface currents are driven mechanically by the friction of persistent planetary winds, primarily the Trade Winds and the Westerlies."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "How does the Coriolis force modify the trajectory of wind-driven surface currents across the hemispheres?",
+    "options": [
+      "Deflects them to the left in the Northern Hemisphere and to the right in the Southern Hemisphere.",
+      "Deflects them to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+      "Accelerates them along the equator while slowing them down at both poles.",
+      "Forces currents to travel in straight vertical lines parallel to meridians."
+    ],
+    "correct": 1,
+    "ex": "The Coriolis force deflects surface currents to the right in the Northern Hemisphere and to the left in the Southern Hemisphere."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What massive geomorphic feature forces surface currents to close their loop and turn, forming circular basin-wide systems called Gyres?",
+    "options": [
+      "Deep subduction trenches",
+      "Vast continental landmasses acting as physical barriers",
+      "Submarine canyons carved by turbidity currents",
+      "Underwater mountain chains like mid-ocean ridges"
+    ],
+    "correct": 1,
+    "ex": "When deflected wind-driven currents encounter vast continental landmasses, they are forced to turn and run parallel to coastlines, closing the loop to form Gyres."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Based on the text's exam trap notes, what dictates the direction of rotation for ocean gyres (clockwise in the North, counter-clockwise in the South)?",
+    "options": [
+      "Seasonal variation in solar insolation",
+      "The Coriolis effect, mirroring planetary wind deflections",
+      "The gravitational pull of the full moon",
+      "The rapid discharge rate of continental rivers"
+    ],
+    "correct": 1,
+    "ex": "Ocean gyres rotate clockwise in the Northern Hemisphere and counter-clockwise in the Southern Hemisphere strictly due to the Coriolis effect, mirroring planetary wind deflections."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Unlike rapid wind-driven surface streams, what core physical properties motivate the deep-ocean Thermohaline Circulation?",
+    "options": [
+      "Atmospheric relative humidity and wind speed",
+      "Density differences resulting from temperature and salinity variations",
+      "Centrifugal forces combined with solar magnetic storms",
+      "Deep-sea tectonic movements and volcanic heat plumes"
+    ],
+    "correct": 1,
+    "ex": "Thermohaline circulation is a deep-ocean network driven entirely by density differences resulting from temperature (thermo) and salinity (haline) variations."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Where does the ultra-dense brine that feeds the global ocean conveyor belt originate and sink to the abyssal plains?",
+    "options": [
+      "In the warm, low-salinity equatorial belts",
+      "In the extreme polar regions during the freezing of seawater into ice",
+      "In shallow continental shelves near major river estuaries",
+      "Inside enclosed seas like the Mediterranean or Red Sea"
+    ],
+    "correct": 1,
+    "ex": "In the extreme polar regions, the freezing of seawater into ice leaves behind intensely cold, highly saline water. This ultra-dense brine sinks to the ocean floor to form the Great Ocean Conveyor Belt."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which of the following describes the global function of the Thermohaline Circulation network?",
+    "options": [
+      "Rapid horizontal heat distribution restricted exclusively to the upper 200 meters of water.",
+      "Regulating global climate, redistributing heat, delivering oxygen to the deep abyss, and recycling benthic nutrients.",
+      "Slowing down the rotation of the Earth's axis via bottom friction.",
+      "Generating mineral-rich alluvial fans along the steep continental rise."
+    ],
+    "correct": 1,
+    "ex": "The three-dimensional conveyor belt loop is essential for regulating global climate by redistributing heat, carrying dissolved atmospheric oxygen into the deep abyss, and recycling benthic nutrients."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the provided text's exam trap, approximately how long can it take for a single volume of water to complete the deep thermohaline circuit?",
+    "options": [
+      "Fewer than 10 days",
+      "Roughly 65,000 hours",
+      "Over 1,000 years",
+      "Exactly 1 lunar cycle"
+    ],
+    "correct": 2,
+    "ex": "The exam trap warns that thermohaline circulation is extremely slow compared to surface currents; a single volume of water may take over 1,000 years to complete the global circuit."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What parameter is true regarding the volume of the ocean that is involved in the thermohaline circulation?",
+    "options": [
+      "It represents the upper 10% of ocean volume.",
+      "It comprises the remaining 90% of ocean water volume.",
+      "It changes on a fortnightly basis during full moon cycles.",
+      "It is restricted entirely to the Humboldt Current off Peru."
+    ],
+    "correct": 1,
+    "ex": "The text explicitly states that the movement of the massive deep ocean comprises the remaining 90% of water volume and is driven by density differences."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What specific atmospheric wind pattern triggers the process of coastal ocean Upwelling?",
+    "options": [
+      "Winds blowing directly onshore, piling water against beach fronts",
+      "Prevailing winds blowing parallel to a coastline, pushing surface waters offshore",
+      "Calm, windless intervals that allow deep magma structures to heat the surface",
+      "Intense sub-tropical cyclones that create deep down-drifting vortices"
+    ],
+    "correct": 1,
+    "ex": "Upwelling occurs when prevailing winds blow parallel to a coastline, pushing surface waters offshore. This void allows cold, deep ocean water to rise and replace it."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Why are coastal upwelling zones like the Humboldt Current off Peru considered the world's most productive commercial fishing grounds?",
+    "options": [
+      "Because downwelling delivers massive quantities of surface dissolved oxygen to fish nests.",
+      "Because upwelling water brings accumulated benthic nutrients (nitrates/phosphates) that trigger phytoplankton blooms.",
+      "Because the warm surface layer forces deep-sea species to flee upward.",
+      "Because the absence of any wind allows fish to reproduce unhindered."
+    ],
+    "correct": 1,
+    "ex": "Deep upwelling water is rich in accumulated benthic nutrients. When it hits the sunlit surface layer, it triggers massive phytoplankton blooms, supporting highly productive fisheries."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What critical ecological life-cycle contribution does Downwelling offer to deep-sea benthic organisms?",
+    "options": [
+      "It transports accumulated nitrates and phosphates to dark ocean floors.",
+      "It creates warm, sunlit patches on the abyssal plain floor.",
+      "It transports dissolved atmospheric oxygen from the surface down to sustain them.",
+      "It isolates polar regions to generate new basaltic seafloor structures."
+    ],
+    "correct": 2,
+    "ex": "While downwelling areas lack biological nutrients, they are essential for the ocean's life cycle because they transport dissolved atmospheric oxygen from the surface down to deep habitats."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "According to the exam trap note on upwelling, what distinct environmental conditions are typical on coastlines adjacent to upwelling currents?",
+    "options": [
+      "Heavy tropical rain and thick swampy forests",
+      "Frequent heavy fogs and arid desert conditions due to the chilling effect",
+      "Extremely high sea temperatures and intense regional humidity",
+      "Frequent destructive volcanic activity and tsunamis"
+    ],
+    "correct": 1,
+    "ex": "The exam trap states that while upwelling zones are prime fishing grounds, the chilling effect of the cold water makes adjacent coastlines prone to heavy fogs and arid desert conditions."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Which vertical water movement is described as occurring when surface waters converge or are pushed strongly against a coast by prevailing winds?",
+    "options": [
+      "Upwelling",
+      "Downwelling",
+      "Thermohaline syzygy",
+      "Horizontal geostrophic streaming"
+    ],
+    "correct": 1,
+    "ex": "Downwelling is the inverse process of upwelling, occurring where surface waters converge or are pushed strongly against a coast by prevailing winds, forcing water to sink."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Why does the Moon exercise a more dominant gravitational influence over Earth's oceanic water bulges than the Sun?",
+    "options": [
+      "Because the Sun is made of gas and possesses no real gravitational mass.",
+      "Because the Moon has extreme physical proximity to Earth compared to the Sun.",
+      "Because the Moon rotates much faster on its own axis than the Earth.",
+      "Because lunar gravity aligns exclusively with passive divergent boundaries."
+    ],
+    "correct": 1,
+    "ex": "Although the Sun is massively larger, the Moon's extreme proximity to Earth gives its gravitational field a much stronger, dominant influence over ocean tides."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What secondary mechanical force is responsible for creating a high-tide bulge on the side of Earth directly opposite to the Moon?",
+    "options": [
+      "Solar thermal radiation pressure",
+      "Centrifugal force generated by the Earth's rotation",
+      "Frictional drag from planetary westerlies",
+      "Deep thermohaline vertical ocean mixing vectors"
+    ],
+    "correct": 1,
+    "ex": "While the Moon's gravity pulls water on the near side, centrifugal force generated by the Earth's rotation throws water outward to create an equal and opposite bulge on the far side."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "How do coastlines experience alternating daily cycles of high and low tides?",
+    "options": [
+      "By the expanding and contracting volume of the ocean basins due to global heat changes.",
+      "As the solid Earth rotates through two stationary, elongated water bulges daily.",
+      "Due to deep-sea seismic waves reflecting off the steep continental slope.",
+      "By the daily evaporation and precipitation cycles along the equatorial zone."
+    ],
+    "correct": 1,
+    "ex": "As the solid Earth rotates through the two stationary, elongated water bulges daily, coastlines pass through them, experiencing alternating cycles of high and low tides."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the text, what are ocean tides structurally defined as?",
+    "options": [
+      "Turbidity currents incised into the continental rise",
+      "The longest ocean waves, representing the rhythmic, periodic rise and fall of sea levels",
+      "Isothermal density profiles operating below the halocline layer",
+      "Horizontal streams of wind-driven water making up the upper 10% of volume"
+    ],
+    "correct": 1,
+    "ex": "Tides are defined as the longest ocean waves, representing the rhythmic, periodic rise and fall of global sea levels along the world's coastlines."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The exam trap for tidal causes explains that there are typically two high tides a day because of which feature?",
+    "options": [
+      "The sun and moon are always at 90-degree angles to each other.",
+      "Centrifugal force actively creates a second tidal bulge on the exact opposite side of the planet from the Moon.",
+      "The polar thermocline disappears every 12 hours.",
+      "Planetary trade winds reverse direction completely between day and night."
+    ],
+    "correct": 1,
+    "ex": "The exam trap specifies that there are typically two high tides a day because the centrifugal force of the Earth's rotation actively creates a second tidal bulge on the exact opposite side of the planet."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What celestial positioning geometry characterizes Spring Tides, and what is its astronomical name?",
+    "options": [
+      "Perpendicular positions at 90-degree angles, known as Quadrature.",
+      "The alignment of the Sun, Moon, and Earth in a straight line, known as Syzygy.",
+      "The dynamic clustering of planets within the sub-tropical belt, known as Conjunction.",
+      "An isothermal rotation pattern across polar zones, known as Isopycnal."
+    ],
+    "correct": 1,
+    "ex": "Spring Tides occur when the Sun, Moon, and Earth align in a straight line, an astronomical position known as Syzygy. Their combined gravitational pull compounds to create an extreme tidal range."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "During which moon phases do Neap Tides occur, and what is their resulting physical effect on the ocean's tidal range?",
+    "options": [
+      "Full moon and new moon phases; resulting in the maximum amplitude range.",
+      "First and third quarter moons; resulting in the smallest tidal range due to perpendicular interference.",
+      "Equatorial solar eclipse phases; resulting in a uniform isothermal water column.",
+      "Fortnightly planetary line-ups; resulting in high upwelling indices."
+    ],
+    "correct": 1,
+    "ex": "Neap Tides occur during the first and third quarter moons when the Sun and Moon are at right angles, causing their gravity to partially cancel out and produce the smallest tidal range."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which of the following summaries accurately matches the tidal range outcome to its cosmic geometry?",
+    "options": [
+      "Syzygy alignment leads to moderate Neap Tides; Right-angle alignment leads to extreme Spring Tides.",
+      "Syzygy straight-line alignment causes extreme amplitude Spring Tides; right-angle celestial alignment causes moderate Neap Tides.",
+      "Coastal onshore wind alignment produces Spring Tides; coastal offshore wind alignment produces Neap Tides.",
+      "Polar isothermal alignment produces Spring Tides; sub-tropical evaporative alignment produces Neap Tides."
+    ],
+    "correct": 1,
+    "ex": "As verified by the UPSC Revision notes, straight-line syzygy alignment causes extreme Spring Tides, while right-angle alignment cancels gravitational vectors to create moderate Neap Tides."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "According to the provided text's exam trap notes, what does the term 'Spring' mean in the context of Spring Tides?",
+    "options": [
+      "It refers explicitly to the climatic season of Spring when global snowmelt raises sea level.",
+      "It refers to the water 'springing' forth due to the compounded lunar and solar gravity during a linear alignment.",
+      "It matches the mechanical elasticity of tectonic plates along active convergent boundaries.",
+      "It indicates fresh water springing out from sub-surface coastal aquifers into the ocean shelf."
+    ],
+    "correct": 1,
+    "ex": "The exam trap clarifies that 'Spring' tide has nothing to do with the season of Spring; it refers to the water 'springing' forth due to the compounded lunar and solar gravity during a linear syzygy alignment."
+  },
+  {
+    "subjectId": "geography",
+    "topicId": "geo_3",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What is the structural effect of Neap Tides on high and low tide markers?",
+    "options": [
+      "They produce the highest high tides and the lowest low tides of the month.",
+      "They result in moderate tides with the lowest high tides and the highest low tides.",
+      "They completely halt tidal waves, creating an entirely motionless sea level.",
+      "They reverse the Coriolis force, driving water from left to right."
+    ],
+    "correct": 1,
+    "ex": "Neap tides feature perpendicular gravitational interference, which results in moderate tides with the lowest high tides and highest low tides (the smallest overall tidal range)."
+  }
+]
