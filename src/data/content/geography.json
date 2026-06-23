@@ -157,148 +157,651 @@
   ]
 },
   "geo_4": {
-    "title": "Physiography of India (Himalayas, Plains, Peninsular Plateau & Islands)",
-    "phases": [
-      {
-        "phaseName": "Subcontinental Structural Stratigraphy",
-        "subtopics": [
-          {
-            "name": "Mountain Passing Links & Block Relicts",
-            "bullets": [
-              "<b>Himalayan Frontal Faults:</b> The Northern Plains are divided from the Himalayan foothills by the Himalayan Frontal Fault (HFF). The Himalayan ranges themselves are structured by parallel deep fault zones: the Greater Himalayas are split from the Lesser Himalayas by the **Main Central Thrust (MCT)**, while the Lesser Himalayas are split from the Shiwaliks by the **Main Boundary Thrust (MBT)**.",
-              "<b>Strategic High Mountain Passes:</b> 1. <i>Zoji La:</i> Connects Srinagar with Leh. 2. <i>Shipki La:</i> Located in Himachal Pradesh; the Sutlej river cuts through this pass to enter India. 3. <i>Nathu La:</i> Located in Sikkim; links India with Tibet. 4. <i>Bomdi La:</i> Located in Arunachal Pradesh.",
-              "<b>The Western Ghats (Sahyadris):</b> An continuous structural escarpment or block edge formed by the down-faulting of the Arabian Sea basin, rather than a true tectonic mountain range. It can only be crossed through specific gap passes: <b>Thal Ghat</b> (Mumbai to Nashik), <b>Bhor Ghat</b> (Mumbai to Pune), and <b>Pal Ghat</b> (Coimbatore to Kochi, dividing the Nilgiris from the Anaimalai hills)."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Physiography of India (Himalayas, Peninsular Plateau, Northern Plains, Coasts)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Northern Mountain Complex & Morpho-Tectonic Zones",
+      "subtopics": [
+        {
+          "name": "The Himalayan Tri-Fold Structural Stratigraphy",
+          "bullets": [
+            " <b>Greater Himalayas (Himadri): </b> The structural core of the arcuate mountain belt. Formed of ancient archean crystalline rocks (granites and gneisses), it represents the most continuous, un-eroded, and highest crustal alignment, hosting premier peak massifs like Mount Everest and Kanchenjunga.",
+            " <b>Lesser Himalayas (Himachal): </b> Characterized by highly compressed, fractured, and metamorphosed rock sequences. Famous for hosting structural longitudinal structural depressions called **Duns** (e.g., Dehradun, Patli Dun) formed by temporary river blockages during tectonic uplifts.",
+            " <b>Outer Himalayas (Shivaliks): </b> The youngest, southernmost structural zone composed of unconsolidated deposits of sands, gravels, and conglomerates (molasse) eroded from the higher ranges. Prone to severe **mass-wasting** and landslides due to active ongoing tectonic compression."
+          ]
+        },
+        {
+          "name": "Regional and Morphological Discontinuities",
+          "bullets": [
+            " <b>Tectonic Fault Lines: </b> The collision zones are bounded by distinct longitudinal thrust faults: 1. <b>HFT (Himalayan Frontal Thrust) </b> between Shivaliks and the Indo-Gangetic plains. 2. <b>MBT (Main Boundary Thrust) </b> separating Shivaliks and Lesser Himalayas. 3. <b>MCT (Main Central Thrust) </b> between Lesser and Greater Himalayas. 4. <b>ITSZ (Indus-Tsangpo Suture Zone) </b> marking the deep continental boundary between the Indian and Eurasian plates.",
+            " <b>Syntaxial Bends: </b> Sharp, acute hairpin-like structural bends at the western terminus (Nanga Parbat) and eastern terminus (Namcha Barwa) where the entire geological strike line swings sharply southward."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Aggradational Plains & The Ancient Indian Shield",
+      "subtopics": [
+        {
+          "name": "The Indo-Gangetic Alluvial Sedimentary Gradation",
+          "bullets": [
+            " <b>Bhabar Belt: </b> A narrow, porous band running parallel to the Shivalik foothills composed of heavy pebble and boulder scree. Due to extreme porosity, surface streams **completely sink and flow underground** beneath the gravel beds.",
+            " <b>Terai Zone: </b> A marshy, damp, and highly damp tract located south of the Bhabar, where the lost underground streams **re-emerge on the surface** without clear channels, giving rise to unique swampy ecosystems and endemic biodiversity.",
+            " <b>Bangar vs Khadar: </b> **Bangar** represents older, structural alluvial terraces situated well above the active flood line, frequently containing calcified kankar nodules. **Khadar** represents the highly fertile, low-lying, fresh alluvial deposits replenished annually by river floods."
+          ]
+        },
+        {
+          "name": "The Peninsular Plateau Block Architecture",
+          "bullets": [
+            " <b>Gondwanaland Relic: </b> An ancient, stable block composed of highly re-crystallized archean granites, greenstones, and gneisses, completely unaffected by major mountain-building orogenies since the paleozoic era.",
+            " <b>Deccan Traps: </b> A massive flood basalt landscape formed by fissure volcanic eruptions during the late Cretaceous era when the Indian plate passed over the **Réunion hotspot**, creating deep, nutrient-rich regur (black cotton soil) zones.",
+            " <b>The Orographic Asymmetry: </b> The **Western Ghats (Sahyadri)** form a highly continuous, unbroken structural escarpment forcing heavy monsoonal orographic rainfall on its windward face, while the **Eastern Ghats** are highly discontinuous, eroded, and broken into isolated hills by large east-flowing rivers."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Peripheral Maritime Systems & Island Archipelagos",
+      "subtopics": [
+        {
+          "name": "Coastal Plains - Emergence vs Submergence Controls",
+          "bullets": [
+            " <b>Western Coastal Plains: </b> Primarily a **submerged coastline** landscape. It is exceptionally narrow, structurally restricted, and characterized by cliffs, rocky headlands, and a unique absence of large deltas, giving rise instead to fast-flowing streams and tidal **estuaries** and backwaters (Kayals).",
+            " <b>Eastern Coastal Plains: </b> Primarily an **emergent coastline** landscape. It is broad, flat, and structurally rich, characterized by expansive prograding **river deltas** (Mahanadi, Godavari, Krishna, Kaveri) and shallow coastal lagoons like Chilika and Pulicat."
+          ]
+        },
+        {
+          "name": "The Geomorphic Divergence of Indian Islands",
+          "bullets": [
+            " <b>Andaman and Nicobar Islands: </b> Represents an elevated, volcanic submarine ridge system that forms a structural geomorphic extension of the tertiary **Arakan Yoma** mountain fold belt of Myanmar. Features active volcanism (Barren Island).",
+            " <b>Lakshadweep Archipelago: </b> A cluster of tiny islands purely **coral (atoll) in origin**, built on top of a submerged volcanic ridge system (Chagos-Laccadive Ridge) in the Arabian Sea, characterized by fringing reefs and shallow internal lagoons."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_5": {
-    "title": "Drainage System of India (Himalayan vs Peninsular Rivers)",
-    "phases": [
-      {
-        "phaseName": "Fluvial Hydrology & Catchment Systems",
-        "subtopics": [
-          {
-            "name": "Anticipated Rivers & Concordant Tributary Networks",
-            "bullets": [
-              "<b>Antecedent Rivers:</b> The Indus, Sutlej, and Brahmaputra are antecedent rivers. They existed before the Himalayas were uplifted and maintained their paths by continuously cutting deep, narrow gorges through the rising mountains.",
-              "<b>Indus River Network:</b> Originates near Lake Mansarovar. Its major left-bank Himalayan tributaries include the Jhelum (originates at Verinag), Chenab (largest tributary, formed by Chandra and Bhaga rivers), Ravi, Beas, and Sutlej. **UPSC Trap:** The Shyok, Gilgit, and Kabul are critical **right-bank tributaries**.",
-              "<b>Ganga River Evolution:</b> Formed at **Devprayag** by the confluence of the Alaknanda and Bhagirathi rivers. Its major right-bank tributaries are the Yamuna and Son. Its left-bank tributaries include the Ramganga, Gomti, Ghaghara, Gandak, and Kosi (known as the 'Sorrow of Bihar' due to frequent channel migrations).",
-              "<b>West-Flowing Peninsular Rivers:</b> The Narmada (originates at Amarkantak) and Tapi flow westward through structural **Rift Valleys** formed by tectonic down-warping. Because they flow through hard rock channels, they carry minimal sediment loads and form crisp **Estuaries rather than sprawling deltas** at the Arabian Sea."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Indian River Systems & Drainage Patterns (Himalayan vs Peninsular)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Hydrological Evolution & Drainage Geometry",
+      "subtopics": [
+        {
+          "name": "Himalayan vs Peninsular Evolutionary Mechanics",
+          "bullets": [
+            " <b>Himalayan River Characteristics: </b> Perennial systems fed by both glacial meltwater and monsoon rainfall. These rivers are **antecedent** in nature, meaning they existed before the Himalayas up-thrusted, cutting deep, vertical **V-shaped gorges** (e.g., Indus Gorge) as the mountains rose. They are active in their youthful stage, performing intense down-cutting and forming massive meanders.",
+            " <b>Peninsular River Characteristics: </b> Non-perennial, seasonal systems completely dependent on monsoonal precipitation. They flow through broad, shallow, graded valleys representing advanced **senile maturity**. They are characterized by a highly stable geologic course, a near-complete absence of active meanders, and are classified structurally as **consequent or superposed** drainage lines."
+          ]
+        },
+        {
+          "name": "Geomorphic Drainage Patterns",
+          "bullets": [
+            " <b>Dendritic Pattern: </b> A tree-like branching layout where tributaries match the slope of the terrain, dominant throughout the flat alluvial plains of the **Ganga system**.",
+            " <b>Radial & Trellis Layouts: </b> 1. <b>Radial: </b> Rivers originate from a central high dome and flow outward in all directions (e.g., the **Amarkantak Plateau** radiating the Narmada, Son, and Mahanadi). 2. <b>Trellis: </b> Primary tributaries flow parallel to each other, while secondary streams join them at sharp **90-degree right angles** (dominant in the folded rock strata of the Shivaliks and the old Singhbhum craton)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Three Himalayan River Networks",
+      "subtopics": [
+        {
+          "name": "The Indus & Brahmaputra Trans-Himalayan Systems",
+          "bullets": [
+            " <b>Indus System (Sindhu): </b> Originates near Lake Mansarovar (Bokhar Chu glacier). It flows northwest between the **Ladakh and Zanskar ranges**, cutting through the Karakoram line. The sequence of its major five left-bank Punjab tributaries from North to South is a mandatory UPSC sequence: <b>Jhelum -> Chenab (largest tributary by volume) -> Ravi -> Beas -> Satluj </b>.",
+            " <b>Brahmaputra System (Tsangpo): </b> Rises from the Chemayungdung glacier. It flows east parallel to the Himalayas through Tibet as the Tsangpo. It takes a sharp structural hairpin **syntaxial turn around Namcha Barwa** to enter Arunachal Pradesh as the Dihang. Its major North-bank tributaries include the **Subansiri, Kameng, Manas, and Sankosh**, while its South-bank tributaries are the **Dihing and Dhansiri**."
+          ]
+        },
+        {
+          "name": "The Ganga Confluence and Tributary Grid",
+          "bullets": [
+            " <b>The Panch Prayag Confluences: </b> Headwaters originate as the Bhagirathi (Gaumukh) and Alaknanda (Satopanth). The Alaknanda meets: 1. Dhauliganga at <i>Vishnuprayag</i>. 2. Nandakini at <i>Nandaprayag</i>. 3. Pindar at <i>Karnaprayag</i>. 4. Mandakini at <i>Rudraprayag</i>. 5. Bhagirathi at <b>Devprayag to officially form the Ganga </b>.",
+            " <b>Tributary Classifications: </b> 1. <b>Left-Bank Tributaries: </b> West-to-East sequence: <i>Ramganga -> Gomti -> Ghaghara -> Gandak -> Kosi (The Sorrow of Bihar) -> Mahananda</i>. 2. <b>Right-Bank Tributaries: </b> The Yamuna (originating at Yamunotri, meeting at Prayagraj) and the **Son River** (a direct non-tributary right-bank addition rising from Amarkantak)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Peninsular Drainage Systems",
+      "subtopics": [
+        {
+          "name": "East-Flowing Deltaic Systems",
+          "bullets": [
+            " <b>Godavari (The Dakshin Ganga): </b> The **largest Peninsular river system**. Rises at Trimbakeshwar (Nashik, Maharashtra) and drains into the Bay of Bengal. Its massive structural basin covers nearly 10% of India's geographical area. High-yield tributaries include the **Penganga, Wardha, Wainganga (together forming the Pranhita), Indravati, Sabari, and Manjira**.",
+            " <b>Krishna and Kaveri Grids: </b> **Krishna** originates at Mahabaleshwar; its primary tributaries are the *Tungabhadra, Bhima, Ghataprabha, Malaprabha, and Musi*. **Kaveri** rises at Talakaveri (Brahmagiri hills); fed by both Southwest and Northeast monsoon systems, making it nearly perennial. Its core tributaries are the *Arkavati, Hemavati, Kabini, Bhavani, and Amaravati*."
+          ]
+        },
+        {
+          "name": "West-Flowing Estuarine Exceptions",
+          "bullets": [
+            " <b>Narmada & Tapi Rift Valleys: </b> The **Narmada** (Amarkantak) and **Tapi** (Betul) flow west through structural **fault troughs/rift valleys** created by the northern drift of the Indian plate. Because they travel through hard rock surfaces devoid of alluvial debris, they terminate in deep, tide-cleared **estuaries instead of deltas**.",
+            " <b>West Coastal Streams: </b> Short, fast, steep gradient rivers flowing from the Western Ghats to the Arabian Sea (e.g., Mandovi and Zuari in Goa, Sharavati in Karnataka, and Periyar and Pamba in Kerala), vital for hydroelectric generation."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_6": {
-    "title": "Indian Monsoon - Mechanism, Jet Streams & El Niño / La Niña",
-    "phases": [
-      {
-        "phaseName": "Teleconnections & Atmospheric Dynamics",
-        "subtopics": [
-          {
-            "name": "Tibetan Heating, Somali Jet, and IOD",
-            "bullets": [
-              "<b>Thermal Monsoon Engine:</b> Driven by the differential heating of land and sea, causing the **Inter-Tropical Convergence Zone (ITCZ)** to shift northward to the plains during summer, creating a deep low-pressure trough that draws in the Southwest Monsoon winds.",
-              "<b>The Tibetan Plateau & Jet Streams:</b> Intense summer solar heating transforms the elevated Tibetan Plateau into an active thermal engine. The rising hot air creates an **Easterly Jet Stream** in the upper troposphere over India, which intensifies the low-pressure system over the plains.",
-              "<b>El Niño vs La Niña Mechanics:</b> <i>El Niño</i> involves abnormal warming of the Peruvian coast, which creates a low-pressure zone over the eastern Pacific that disrupts the walker circulation and severely weakens the Indian monsoon. <i>La Niña</i> involves abnormal cooling of the eastern Pacific, strengthening the walker circulation and boosting rainfall in India.",
-              "<b>Indian Ocean Dipole (IOD):</b> A teleconnection measuring sea surface temperature anomalies between the western and eastern Indian Ocean. A **Positive IOD** features a warmer western Indian Ocean near Africa, which can neutralize the negative impacts of El Niño and bring above-average rainfall to India."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Climate of India (Monsoon Mechanisms, El Niño, La Niña, Köppen's Classification)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Macro Mechanics of the Indian Monsoon",
+      "subtopics": [
+        {
+          "name": "Thermal Adjustments & Jet Stream Steering",
+          "bullets": [
+            " <b>The Classical Thermal Theory: </b> Driven by the intense differential seasonal heating of the landmass of South Asia relative to the cooler waters of the Indian Ocean, establishing a deep continental **Low-Pressure trough** that draws in moisture-laden marine winds.",
+            " <b>The ITCZ Migration: </b> In summer, the <b>Inter-Tropical Convergence Zone (ITCZ) </b> shifts sharply northward to position itself over the Indo-Gangetic plains (around 20°N-25°N), acting as the absolute focal core for the entry of the Southwest Monsoon winds.",
+            " <b>Upper Atmospheric Dynamics: </b> A premier UPSC conceptual area. The **onset of the monsoon** is triggered by the complete withdrawal and northward relocation of the **Sub-Tropical Western Jet Stream** away from the southern slopes of the Himalayas, combined with the sudden establishment of the **Tropical Easterly Jet Stream** over the Peninsular plateau, which forces a deep anti-cyclonic sinking motion over the southern Indian Ocean near Mascarene."
+          ]
+        },
+        {
+          "name": "The Dual-Branch Outset Grid",
+          "bullets": [
+            " <b>Arabian Sea Branch: </b> Strikes the western coast of India first. It hits the continuous wall of the **Western Ghats**, forcing intense, immediate orographic precipitation along the windward slopes of the Konkan and Malabar coasts while leaving the Deccan interior in a deep rain-shadow zone.",
+            " <b>Bay of Bengal Branch: </b> Moves northward up the bay, picking up additional moisture. It bypasses Tamil Nadu (leaving the Coromandel coast dry in summer), strikes the **Arakan Hills and Khasi hills** to cause extreme orographic downpours (e.g., Mawsynram), and is deflected westward along the Gangetic plain by the Himalayan mountain wall."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Oceanic Teleconnections & Global Oscillations",
+      "subtopics": [
+        {
+          "name": "ENSO (El Niño Southern Oscillation) Impacts",
+          "bullets": [
+            " <b>El Niño Phase (The Deficit Trigger): </b> An abnormal warming of surface waters along the central and eastern tropical Pacific Ocean. This shifts the atmospheric Walker Circulation eastward, weakening the trade winds and leading to a **subdued Indian Monsoon** that historically triggers widespread drought conditions across the subcontinent.",
+            " <b>La Niña Phase (The Surplus Trigger): </b> The exact inverse of El Niño, characterized by the exceptional cooling of eastern Pacific waters. It intensifies the traditional Walker Circulation, boosting the strength of the Southwest Monsoon and leading to **above-normal rainfall** and severe flooding events in India."
+          ]
+        },
+        {
+          "name": "The Indian Ocean Dipole (IOD)",
+          "bullets": [
+            " <b>Positive IOD (The Monsoon Booster): </b> Characterized by warmer-than-normal sea surface temperatures in the western Indian Ocean (near the African coast) and cooler temperatures in the eastern Indian Ocean (near Indonesia). This localized thermal gradient enhances convective activity over India, frequently **neutralizing the negative drought impacts of a concurrent El Niño**.",
+            " <b>Negative IOD: </b> Occurs when the eastern Indian Ocean turns exceptionally warm relative to the western side, pulling moisture-heavy winds away from South Asia toward Australia, which severely suppresses standard monsoonal rainfall."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Regional Climatic Zonations",
+      "subtopics": [
+        {
+          "name": "Köppen's Empirical Classification System",
+          "bullets": [
+            " <b>Amw (Monsoon Type with Short Dry Season): </b> Restricted to the **Western Coastal Plains**, where the heavy orographic impact of the Southwest monsoon guarantees dense tropical evergreen rainforest covers.",
+            " <b>As (Monsoon Type with Dry Summer): </b> A unique climatic inversion found along the **Coromandel Coast of Tamil Nadu**. This region remains completely dry during the Southwest monsoon but receives its primary annual precipitation from the retreating Northeast monsoon winds during winter.",
+            " <b>Aw, BShw & Cwg Zones: </b> 1. <b>Aw (Tropical Savanna): </b> Covers the absolute bulk of the Peninsular plateau block. 2. <b>BShw (Semi-Arid Steppe): </b> A narrow, north-south rain-shadow belt running immediately east of the Western Ghats. 3. <b>Cwg (Monsoon Type with Dry Winter): </b> Dominates the entire expanse of the **Indo-Gangetic Alluvial Plains**."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_7": {
-    "title": "Soils & Natural Vegetation of India",
-    "phases": [
-      {
-        "phaseName": "Pedology & Silviculture Frameworks",
-        "subtopics": [
-          {
-            "name": "Soil Mineral Profiles & Forest Canopy Stratas",
-            "bullets": [
-              "<b>Alluvial Soils (Largest Share):</b> Cover over 40% of India's land area. Divided into <i>Khadar</i> (new, fertile, fine-grained annual floodplain silt) and <i>Bhangar</i> (older, coarser alluvium containing calcium carbonate nodules known as Kankar). Structurally rich in potash but **deficient in nitrogen and phosphorus**.",
-              "<b>Black Cotton Soils (Regur):</b> Formed by the weathering of Deccan basaltic lava sheets. They are highly argillaceous (clayey), rich in iron and lime, and exhibit deep **self-ploughing cracks** when dry. They have high moisture-retention capacities, but turn sticky when wet.",
-              "<b>Tropical Evergreen Forests:</b> Found in regions with annual rainfall exceeding 250 cm (Western Ghats, Northeast India, Andaman Islands). Characterized by a dense, multi-layered canopy structure with trees reaching heights above 60 meters. **UPSC Trap:** These forests do **not drop their leaves simultaneously**, keeping the canopy green year-round.",
-              "<b>Tropical Deciduous Forests (Most Widespread):</b> Also known as Monsoon Forests. Divided into Moist Deciduous (100-200 cm rainfall, dominated by **Teak and Sal**) and Dry Deciduous (70-100 cm rainfall). Trees shed their leaves for 6-8 weeks during the dry spring and summer seasons to conserve moisture."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Soils, Natural Vegetation & Biogeography",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Pedogenesis & Indian Soil Architecture",
+      "subtopics": [
+        {
+          "name": "Major Soil Orders and Chemical Profiles",
+          "bullets": [
+            " <b>Alluvial Soils (Inceptisols/Entisols): </b> The **largest soil group** in India, covering roughly 40% of the total land area. Formed by transportational aggradation across the Indo-Ganga-Brahmaputra plains. Structurally **rich in potash and lime**, but characteristically **deficient in nitrogen, phosphorus, and organic humus matter**.",
+            " <b>Black Cotton Soils (Regur/Vertisols): </b> Derived from the weathering of Deccan lava basalt. High clay content gives them a unique **self-ploughing character**—developing deep, wide cracks during dry periods that assist in soil aeration, and turning highly sticky when wet. Rich in iron, lime, calcium, and magnesium, but severely **deficient in nitrogen and phosphorus**.",
+            " <b>Red and Yellow Soils (Alfisols): </b> Developed over ancient crystalline igneous rocks in low-rainfall zones of the Peninsular shield. The red color is a direct result of the wide diffusion of **iron oxides** in the rock matrix; it turns yellow when hydrated. Highly deficient in nitrogen, phosphorus, and humus."
+          ]
+        },
+        {
+          "name": "The High-Leaching Craton Exception",
+          "bullets": [
+            " <b>Laterite Soils (Oxisols): </b> Formed in tropical regions experiencing distinct alternating wet and dry seasons with intense rainfall. This triggers severe **intense leaching**, washing away silica and lime, leaving behind a residuum rich in **aluminum and iron oxides**. They are highly acidic, poor in organic matter, and structurally ideal for brick-making and plantation crops (cashews, tea)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Natural Vegetation Silos & Forest Ecology",
+      "subtopics": [
+        {
+          "name": "The Macro Climatic Forest Matrix",
+          "bullets": [
+            " <b>Tropical Wet Evergreen Forests: </b> Restricted to areas with annual rainfall exceeding 250 cm and temperatures around 25°C–27°C (e.g., Western Ghats windward slopes, Andaman islands). Characterized by a dense, multi-layered stratified canopy with **no distinct leaf-shedding season**. Core economic indicator species: <b>Rosewood, Mahogany, Ebony, and Aini </b>.",
+            " <b>Tropical Moist and Dry Deciduous Forests: </b> The **most widespread forest cover in India**. Moist deciduous forests occupy regions with 100–200 cm rainfall, dominated by **Teak and Sal**. Dry deciduous forests occupy the 70–100 cm rainfall bands, characterized by complete leaf-shedding during the dry spring season to minimize transpirational water loss.",
+            " <b>Tropical Thorn and Mangrove (Littoral) Systems: </b> Thorn forests dominate semi-arid zones (<50 cm rainfall), featuring xerophytic adaptations (deep roots, succulent stems, thorns). Mangroves dominate active deltaic coastlines (e.g., Sundarbans), characterized by halophytic adaptations like **pneumatophores (breathing roots) ** and viviparity to survive in anaerobic, saline waters."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Biogeographical Conservation Frameworks",
+      "subtopics": [
+        {
+          "name": "Zonation and Protected Enclaves",
+          "bullets": [
+            " <b>Biogeographic Zones: </b> India is divided into **10 distinct Biogeographic Zones** (e.g., Trans-Himalayan, Desert, Western Ghats, Deccan Peninsula) based on macro-distribution patterns of flora and fauna.",
+            " <b>Biosphere Reserve Architecture: </b> Implemented under UNESCO’s Man and the Biosphere (MAB) program. It utilizes a strict structural tri-zonation layout: 1. <b>Core Area: </b> Strictly protected ecosystem completely free from human interference. 2. <b>Buffer Zone: </b> Surrounds the core; restricted to controlled research, tourism, and educational activities. 3. <b>Transition Zone: </b> The outermost zone where sustainable human settlement and traditional agricultural practices are legally permitted."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_8": {
-    "title": "Economic & Human Geography (Resources, Minerals, Industries & Demographics)",
-    "phases": [
-      {
-        "phaseName": "Mineral Distribution & Industrial Clusters",
-        "subtopics": [
-          {
-            "name": "Gondwana Coal Coal Fields & Metallic Belts",
-            "bullets": [
-              "<b>Coal Resource Horizons:</b> India's coal infrastructure is divided into two distinct geological systems: 1. **Gondwana Coal Fields:** Over 250 million years old, accounts for **98% of India's total coal reserves**, and provides high-quality bituminous coal located primarily in the Damodar, Mahanadi, and Godavari river basins. 2. **Tertiary Coal Fields:** Only 15-60 million years old, contains high-sulphur lignite coal found mainly in Neyveli (Tamil Nadu), Assam, and Jammu & Kashmir.",
-              "<b>Metallic Mineral Belts:</b> 1. <i>North-Eastern Peninsular Belt:</i> The richest mineral belt in India, covering the Chota Nagpur Plateau; contains massive iron ore, manganese, bauxite, and mica reserves. 2. <i>South-Western Belt:</i> Extends over Karnataka and Goa; characterized by high-grade **Dharwar system iron ores** (e.g., Kudremukh and Baba Budan hills)."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Economic Geography - Mineral, Energy & Strategic Resources",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Metallic and Non-Metallic Mineral Belts",
+      "subtopics": [
+        {
+          "name": "India's Mineral Core Cratons",
+          "bullets": [
+            " <b>The North-Eastern Peninsular Belt: </b> The absolute **powerhouse of India’s metallurgical minerals**, encompassing the Chota Nagpur Plateau, Odisha highlands, and Jharkhand belts. It contains world-class, high-grade hematite iron ore reserves (e.g., Mayurbhanj, Keonjhar) and the country's primary coking coal reserves.",
+            " <b>The South-Western and North-Western Belts: </b> The South-Western belt runs through Karnataka and Goa, rich in magnetite iron ore (e.g., Kudremukh) and manganese. The North-Western belt follows the ancient **Aravalli range** in Rajasthan, acting as India's premier source for non-ferrous strategic metals like lead, zinc, silver, and copper (e.g., Khetri copper belt).",
+            " <b>Strategic Non-Metallic Distribution: </b> Mica deposits are heavily concentrated in the **Nellore mica belt** of Andhra Pradesh, making India a global leader in sheet mica production. Limestone, essential for cement infrastructure, is distributed across Madhya Pradesh, Rajasthan, and Andhra Pradesh."
+          ]
+        },
+        {
+          "name": "Global Mineral Aggregations",
+          "bullets": [
+            " <b>The Iron and Copper Global Corridors: </b> Major global iron ore deposits are anchored in the **Hamersley Range** (Australia), Carajás region (Brazil), and the Mesabi Range (USA). Global copper dominance is concentrated along the convergent porphyry belts of the **Andes Mountains** (Chile and Peru) and the Katanga copper belt in Africa."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Conventional Energy Reservoirs",
+      "subtopics": [
+        {
+          "name": "Coal Gondwana vs Tertiary Layouts",
+          "bullets": [
+            " <b>Gondwana Coal Framework: </b> Accounts for over **98% of India’s total coal reserves** and nearly all of its commercial production. It is completely bituminous or sub-bituminous, free of anthracite, and concentrated in old river valleys: the Damodar (Jharkhand-West Bengal), Mahanadi (Odisha), Godavari (Andhra Pradesh-Telangana), and Son.",
+            " <b>Tertiary Coal Anomalies: </b> Represents younger, low-carbon, high-sulfur coal formations. It is primarily **lignite (brown coal)**, found in Neyveli (Tamil Nadu), Palana (Rajasthan), and structural pockets of Jammu & Kashmir and Assam."
+          ]
+        },
+        {
+          "name": "Hydrocarbon Sedimentary Basins",
+          "bullets": [
+            " <b>Onshore vs Offshore Grids: </b> India's primary petroleum and natural gas resources are located in structural anticlines and fault traps within marine sedimentary basins. Major hubs include the offshore **Mumbai High and Bassein fields**, the legacy **Digboi and Naharkatiya belts** in Assam, and the prolific onshore **Barmer basin** (Mangala field) in Rajasthan.",
+            " <b>The KG Basin Gas Paradigm: </b> The Krishna-Godavari deepwater offshore basin represents India's most critical strategic natural gas reservoir, characterized by complex deepwater extraction infrastructure."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Strategic Nuclear & Critical Future Transitions",
+      "subtopics": [
+        {
+          "name": "The Rare Earth & Nuclear Fuel Matrix",
+          "bullets": [
+            " <b>The Monazite Beach Sands: </b> India holds some of the world's largest reserves of **Thorium**, locked inside the heavy **monazite beach sands** along the Malabar and Coromandel coasts (principally Kerala, Tamil Nadu, and Odisha). This forms the bedrock anchor for the third stage of India’s Three-Stage Nuclear Power Programme.",
+            " <b>Uranium Mining Pockets: </b> Conventional Uranium extraction is heavily concentrated in the **Jaduguda mines** of Jharkhand (Singhbhum shear zone) and the deep **Tummalapalle carbonate sediment deposits** in Andhra Pradesh."
+          ]
+        },
+        {
+          "name": "Critical Minerals and Global Supply Monopolies",
+          "bullets": [
+            " <b>The Lithium Triangle: </b> A premier strategic geography area. Over 50% of global lithium deposits are concentrated within the high-altitude salt flats of Chile, Argentina, and Bolivia. Conversely, processing and refining lines for green-transition metals (Lithium, Cobalt, Rare Earth Elements) are heavily monopolized by **China**, driving international security alliances like the Mineral Security Partnership (MSP)."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_9": {
-    "title": "Maps, Locations & Places in News (Geopolitical Flashpoints)",
-    "phases": [
-      {
-        "phaseName": "Global Geopolitical Mapping & Borders",
-        "subtopics": [
-          {
-            "name": "The Mediterranean, Red Sea & West Asian Borders",
-            "bullets": [
-              "<b>Bordering Nations of the Mediterranean Sea:</b> Surrounded by 21 nations. High-yield groupings to memorize: 1. <i>Levant/West Asia:</i> Israel, Lebanon, Syria. **Trap:** Jordan, Iraq, and Saudi Arabia do NOT touch the Mediterranean. 2. <i>North Africa:</i> Egypt, Libya, Tunisia, Algeria, Morocco.",
-              "<b>Red Sea Enclosure:</b> Enclosed by 6 nations, easily tracked using the acronym <b>DESSEY</b>: Djibouti, Egypt, Sudan, Saudi Arabia, Eritrea, and Yemen.",
-              "<b>Caspian Sea Basin:</b> The largest enclosed inland body of water on earth. Bounded by 5 nations tracked via the acronym <b>TARIK</b>: Turkmenistan, Azerbaijan, Russia, Iran, and Kazakhstan."
-            ]
-          },
-          {
-            "name": "African Rift Valleys & Eastern European Borders",
-            "bullets": [
-              "<b>Black Sea Rim Boundaries:</b> Surrounded by 6 nations. Think of the mnemonic <b>BURGER-T</b>: Bulgaria, Ukraine, Russia, Georgia, Romania, and Turkey.",
-              "<b>Horn of Africa:</b> Comprises 4 nations on the eastern peninsula: Somalia, Ethiopia, Eritrea, and Djibouti. **UPSC Trap:** Ethiopia is a completely **landlocked country** and relies heavily on Djibouti's ports for maritime access.",
-              "<b>Nordic & Baltic Segments:</b> The Baltic Sea is bounded by nations like Sweden, Finland, Estonia, Latvia, Lithuania, Poland, and Germany. The *Gulf of Bothnia* sits between Sweden and Finland, while the *Gulf of Finland* links Helsinki with St. Petersburg."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Human Geography - Demographics, Migration & Urbanization",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Demographic Dynamics & Transitions",
+      "subtopics": [
+        {
+          "name": "The Demographic Transition Model (DTM)",
+          "bullets": [
+            " <b>Stage 1 to Stage 2 (The Growth Explosion): </b> Stage 1 is characterized by high birth rates and high death rates, resulting in a stable but low population. Stage 2 triggers a sharp decline in mortality rates due to improvements in healthcare and sanitation, while birth rates remain high, leading to **rapid population expansion** (the historical phase of post-independence India).",
+            " <b>Stage 3 to Stage 4 (Stabilization): </b> Stage 3 witnesses a contraction in birth rates driven by urbanization, access to contraception, and changing social choices. Stage 4 achieves a low birth rate and low death rate equilibrium, resulting in structural population stabilization.",
+            " <b>The Demographic Dividend: </b> Occurs when a nation's population pyramid bulges in the **working-age window (15–59 years) **, lowering the dependency ratio. This offers a transient, high-yield economic growth window that requires immediate job creation and skill development to be realized."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Structural Dynamics of Human Migration",
+      "subtopics": [
+        {
+          "name": "Push-Pull Mechanics and Spatial Models",
+          "bullets": [
+            " <b>Push vs Pull Factors: </b> *Push factors* force individuals to leave their native origins (e.g., agrarian distress, local conflict, lack of employment). *Pull factors* attract migrants to destination hubs due to perceived economic incentives, superior educational infrastructure, and socio-economic security.",
+            " <b>Lee's Theory of Migration: </b> Introduces the concept of **Intervening Obstacles** (e.g., physical distance, border regulations, cultural barriers) that sit between the origin and destination points, determining the final volume and direction of migratory flows.",
+            " <b>Ravenstein's Laws: </b> Establishes that the absolute bulk of migrants travel only **short distances** (step-by-step migration), females dominate short-distance social movements (prominent in India due to marriage migration), and urban dwellers migrate less than rural populations."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Urbanization Trends & Structural Maladies",
+      "subtopics": [
+        {
+          "name": "Morphology of Urban Sprawl",
+          "bullets": [
+            " <b>The Conurbation and Megalopolis: </b> Continuous urban networks formed by the merging of historically separate towns and cities (e.g., the Delhi-NCR region).",
+            " <b>Urban Heat Islands (UHI): </b> A critical micro-climatic phenomenon where urban metropolitan areas experience significantly **higher temperatures than surrounding rural fringes**. Driven by the heavy concentration of heat-absorbing concrete and asphalt surfaces, low albedo, lack of vegetation, and high anthropogenic waste-heat emissions from vehicles and air conditioners.",
+            " <b>The Sub-Urbanization Trap: </b> The rapid growth of peripheral towns and shantytowns leading to **unplanned urban sprawl**, which outpaces the structural capacity of municipal local bodies to supply basic public utilities like clean water, sewage systems, and waste disposal grids."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "geo_10": {
-    "title": "Major International Rivers, Seas & Straits",
-    "phases": [
-      {
-        "phaseName": "Global Maritime Chokepoints & Fluvial Systems",
-        "subtopics": [
-          {
-            "name": "Strategic Global Chokepoints & Straits",
-            "bullets": [
-              "<b>Strait of Malacca:</b> Connects the Indian Ocean (Andaman Sea) with the Pacific Ocean (South China Sea). It runs between the Malay Peninsula and the Indonesian island of Sumatra, acting as the primary energy trade corridor for East Asia.",
-              "<b>Strait of Hormuz:</b> Connects the Persian Gulf with the Gulf of Oman and the Arabian Sea. Located between Iran and Oman, it is the world's most critical crude oil shipping chokepoint.",
-              "<b>Bab-el-Mandeb (Gate of Tears):</b> Connects the Red Sea with the Gulf of Aden and the Arabian Sea. It separates Eritrea and Djibouti in Africa from Yemen on the Arabian Peninsula.",
-              "<b>Strait of Gibraltar:</b> Connects the Atlantic Ocean with the Mediterranean Sea, separating Spain (Europe) from Morocco (Africa)."
-            ]
-          },
-          {
-            "name": "Major Trans-Boundary International Rivers",
-            "bullets": [
-              "<b>The Danube River Loop:</b> The world's most international river. It originates in the Black Forest of Germany and flows eastward through **10 European nations** and 4 capital cities before draining into the Black Sea.",
-              "<b>Mekong River (Southeast Asia):</b> Originates in the Tibetan Plateau and flows through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam before draining into the South China Sea. India co-anchors the *Mekong-Ganga Cooperation (MGC)* framework here.",
-              "<b>Nile River Hydrology:</b> The longest river in the world. Formed by the confluence of the **White Nile** (originates at Lake Victoria) and the **Blue Nile** (originates at Lake Tana in Ethiopia). They merge at Khartoum, Sudan, before flowing north through Egypt into the Mediterranean Sea."
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "title": "Disaster Management (Floods, Droughts, Landslides, Cyclones)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Geophysical Hazards & Tectonic Risks",
+      "subtopics": [
+        {
+          "name": "Landslides & Mass Wasting Dynamics",
+          "bullets": [
+            " <b>Himalayan vs Western Ghats Vulnerability: </b> A premier UPSC core conceptual area. The **Himalayas** are highly prone to massive, debris-heavy landslides due to active ongoing tectonic uplift, unstable folded sedimentary rock formations, steep youthful slopes, and heavy monsoonal orographic triggering. Conversely, the **Western Ghats** experience landslides driven primarily by intense, concentrated human activities (mining, deforestation) acting on highly weathered, un-tectonic **lateritic rock caps** under extreme rain events.",
+            " <b>Mitigation Architecture: </b> Structural controls require slope stabilization using geotextiles, shotcreting, retaining walls, and the construction of catch-drains to intercept surface run-off. Non-structural controls rely heavily on **Landslide Hazard Zonation (LHZ) mapping** to restrict construction in high-risk red zones."
+          ]
+        },
+        {
+          "name": "Earthquakes and Seismic Zonation",
+          "bullets": [
+            " <b>India's Seismic Footprint: </b> India is divided into <b>four distinct Seismic Zones (Zone II, III, IV, and V) </b> under the Bureau of Indian Standards (BIS) criteria (Zone I is structurally non-existent). Zone V encompasses the entire North-Eastern region, parts of Jammu & Kashmir, Himachal Pradesh, Uttarakhand, the Rann of Kutch (Gujarat), and the Andaman & Nicobar Islands.",
+            " <b>Structural Preparedness: </b> Mandating strict compliance with retrofitting guidelines and the construction of **earthquake-resistant base-isolation buildings** in metropolitan high-risk clusters."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Hydro-Meteorological Extremes",
+      "subtopics": [
+        {
+          "name": "Floods and The Urban Heat Water Crisis",
+          "bullets": [
+            " <b>Riverine vs Flash Floods: </b> Riverine floods are slow-onset events covering vast alluvial floodplains (common along the Kosi and Brahmaputra basins due to massive siltation raising the riverbeds). **Flash Floods** are sudden, high-velocity surges triggered by cloudbursts or glacial lake outbursts (GLOFs) in mountainous terrains.",
+            " <b>Urban Flooding Diagnostics: </b> Distinct from rural flooding, it is driven by the **obliteration of natural hydrological paths**. The concrete waterproofing of cities prevents groundwater infiltration, turning stormwater into immediate surface run-off that completely overwhelms obsolete, clogged municipal drainage networks."
+          ]
+        },
+        {
+          "name": "Cyclones and Coastal Shielding",
+          "bullets": [
+            " <b>The Asymmetric Basin Threat: </b> The **Bay of Bengal** witnesses nearly four times more intense tropical cyclones than the Arabian Sea. This is driven by its high sea surface temperatures, low wind shear, and its semi-enclosed funneling shape that amplifies devastating **storm surges** along the low-lying, flat eastern coast.",
+            " <b>Early Warning & Bio-Shields: </b> India's primary defense relies on Doppler Weather Radar tracking systems and the conservation of **Mangrove bio-shields**, which absorb the kinetic energy of incoming storm waves."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Institutional Protocols & Global Blueprints",
+      "subtopics": [
+        {
+          "name": "The Disaster Management Act, 2005",
+          "bullets": [
+            " <b>The Institutional Hierarchy: </b> Established a statutory, multi-tiered institutional framework. The <b>National Disaster Management Authority (NDMA) </b>, chaired directly by the **Prime Minister**, acts as the apex policy-making body. It is supported by State (SDMAs chaired by Chief Ministers) and District authorities (DDMAs co-chaired by the District Magistrate and local elected representatives).",
+            " <b>The Paradigm Shift: </b> Transitioned India's administrative approach away from legacy **post-disaster relief and rehabilitation** over to a proactive, comprehensive strategy focusing on **pre-disaster mitigation, risk reduction, and capacity building**."
+          ]
+        },
+        {
+          "name": "International Policy Blueprints",
+          "bullets": [
+            " <b>The Sendai Framework (2015-2030): </b> A non-binding global agreement under the UN office for disaster risk reduction. It outlines seven distinct targets focused on substantially reducing global disaster mortality, economic losses, and damage to critical infrastructure while explicitly championing the concept of <b>'Building Back Better' </b> during the post-disaster recovery phase."
+          ]
+        }
+      ]
+    }
+  ]
+},
+  "geo_11": {
+  "title": "Environment & Ecology (Biodiversity, Climate Change, Conservation)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Ecosystem Dynamics & Bio-Geochemical Cycles",
+      "subtopics": [
+        {
+          "name": "Trophic Levels and Energy Efficiency",
+          "bullets": [
+            " <b>Lindeman’s 10% Law of Energy Transfer: </b> Dictates that during the transfer of organic energy from one trophic level to the next higher level, only about <b>10% of the entry energy </b> is physically stored as biomass. The remaining 90% is lost via respiration, metabolic heat, and decomposition, structurally limiting the absolute length of food chains to 4-5 tiers.",
+            " <b>Pyramids of Biomass and Numbers: </b> Terrestrial ecosystems feature upright pyramids. However, a major UPSC trap area is the <b>Inverted Pyramid of Biomass in Marine Ecosystems </b>, where a tiny standing crop of phytoplankton supports a vastly larger consumer biomass of zooplankton and fish due to exceptionally high reproduction turnover rates.",
+            " <b>Bioaccumulation vs Biomagnification: </b> *Bioaccumulation* is the gradual increase in the concentration of a persistent pollutant inside a **single individual organism** over time. *Biomagnification* is the progressive increase in chemical concentration as the toxin travels **up the food chain**, heavily impacting apex predators (e.g., DDT thinning eagle eggshells)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Global Climate Governance & UNFCCC Frameworks",
+      "subtopics": [
+        {
+          "name": "The Evolution of Carbon Market Regimes",
+          "bullets": [
+            " <b>The Kyoto Protocol Legacies: </b> Enacted a rigid, top-down allocation model dividing the world into Annex-I (developed states with binding emission cuts) and Non-Annex-I nations. It pioneered early carbon monetization structures like the **Clean Development Mechanism (CDM)**.",
+            " <b>The Paris Agreement (Article 6 Machinery): </b> Replaced Kyoto with a bottom-up framework anchored by **Nationally Determined Contributions (NDCs)**. Article 6 establishes the rules for next-gen global carbon markets: 1. <i>Article 6.2</i> allows bilateral transfers of **Internationally Transferred Mitigation Outcomes (ITMOs)**. 2. <i>Article 6.4</i> creates a centralized UN mechanism to credit and trade verified public/private emission reductions.",
+            " <b>The Global Stocktake (GST): </b> A periodic inventory mechanism mandated every five years under the Paris Agreement to systematically evaluate collective global progress toward capping global warming well below 2°C (ideally 1.5°C) above pre-industrial levels."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: India's Statutory Conservation Architecture",
+      "subtopics": [
+        {
+          "name": "The Wild Life (Protection) Act, 1972",
+          "bullets": [
+            " <b>Streamlined Legal Protection Slabs: </b> Following comprehensive statutory amendments, the old multi-tier classification was collapsed into a streamlined schedule architecture: 1. <b>Schedule I: </b> Grants absolute, highest legal protection to endangered species (e.g., Tiger, Great Indian Bustard), making hunting or trade offenses subject to severe penal sentences. 2. <b>Schedule II: </b> Houses species with a slightly lesser degree of protection. 3. <b>Schedule III: </b> Dedicated explicitly to protected plant species. 4. <b>Schedule IV: </b> Governs species protected under the **CITES** international convention.",
+            " <b>The Vermin Declaration Power: </b> The central government can temporarily shift specific wild animals from lower schedules into a vermin classification for a defined region if they pose a severe threat to human life or crops, legally permitting culling operations."
+          ]
+        },
+        {
+          "name": "The Biological Diversity Act, 2002",
+          "bullets": [
+            " <b>The Tri-Tier Institutional Grid: </b> Implemented to regulate access to biological resources and prevent **biopiracy**. Operates across three layers: 1. **National Biodiversity Authority (NBA)** at the center (approves access to resources for foreign entities). 2. **State Biodiversity Boards (SBBs)**. 3. **Biodiversity Management Committees (BMCs)** at the local local body level, which maintain the **People’s Biodiversity Registers (PBRs)** to safeguard traditional indigenous knowledge."
+          ]
+        }
+      ]
+    }
+  ]
+},
+  "geo_12": {
+  "title": "Indian Mapping (River Basins, Protected Areas, Infrastructure & Peaks)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Mountain Orography, Peaks & Passes",
+      "subtopics": [
+        {
+          "name": "The Himalayan and Trans-Himalayan Crests",
+          "bullets": [
+            " <b>The Karakoram and Ladakh Alignments: </b> Houses **K2 (Godwin Austen) **, the second-highest peak globally, located in the Karakoram range. Crucial structural passes include **Sia La** and **Bilafond La** leading to the Siachen Glacier, and the strategic **Karakoram Pass** connecting Ladakh with Xinjiang.",
+            " <b>The Greater Himalayan Longitudinal Passes: </b> Essential spatial markers for West-to-East cross-sections: 1. <b>Zoji La: </b> Connects Srinagar with Leh. 2. <b>Bara-Lacha La: </b> Connects Lahaul in Himachal Pradesh with Ladakh. 3. <b>Shipki La: </b> The entry gateway for the Satluj River from Tibet into Himachal Pradesh. 4. <b>Jelep La & Nathu La: </b> Strategic passes in Sikkim opening into the Chumbi Valley. 5. <b>Bomdi La: </b> Connects western Arunachal Pradesh with Lhasa."
+          ]
+        },
+        {
+          "name": "Peninsular Relicts and Coastal Gateways",
+          "bullets": [
+            " <b>The Structural High Points: </b> 1. <b>Anamudi (2,695m): </b> Located in the Anaimalai Hills of Kerala, it stands as the absolute highest peak in the entire Peninsular India. 2. <b>Doddabetta: </b> The highest summit in the Nilgiri Hills knot where the Western and Eastern Ghats converge. 3. <b>Guru Shikhar: </b> The highest peak of the ancient Aravalli range in Rajasthan.",
+            " <b>The Western Ghats Gaps: </b> The continuous escarpment is broken by key structural passes from North to South: <b>Thal Ghat </b> (connects Mumbai to Nashik), <b>Bhor Ghat </b> (connects Mumbai to Pune), and the **Palghat Gap** (a major 30-km wide break connecting Coimbatore in Tamil Nadu with Palakkad in Kerala)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Hydrological Basins & Riverine Infrastructure",
+      "subtopics": [
+        {
+          "name": "River Basins and Interlinking Corridors",
+          "bullets": [
+            " <b>The Ken-Betwa River Interlinking Project: </b> India’s premier operational river interlinking project, designed to transfer surplus water from the Ken basin to the water-deficit Betwa basin across the semi-arid **Bundelkhand region**. A critical mapping checkpoint is that the project requires structural submergence within the core territory of the **Panna Tiger Reserve**.",
+            " <b>The National Waterways (NW) Spatial Grid: </b> 1. <b>NW-1: </b> Runs along the Ganga-Bhagirathi-Hooghly river system from Allahabad (Prayagraj) to Haldia. 2. <b>NW-2: </b> Utilizes the Brahmaputra River from Dhubri to Sadiya in Assam. 3. <b>NW-3: </b> Formed by the West Coast Canal, Champakara Canal, and Udyogmandal Canal in Kerala."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Environmental Enclaves & Protected Areas",
+      "subtopics": [
+        {
+          "name": "National Parks Intersecting Hydrological Features",
+          "bullets": [
+            " <b>The North-Eastern Wetland Enclaves: </b> <b>Kaziranga National Park </b> sits on the floodplains of the Brahmaputra River, characterized by elephant grass and marshland that hosts the world's largest population of the Great Indian One-Horned Rhinoceros. It is bordered by the Karbi Anglong hills to the south.",
+            " <b>The Terai and Central Highlands Matrices: </b> 1. <b>Jim Corbett National Park: </b> Located in the sub-Himalayan belt of Uttarakhand, drained fundamentally by the **Ramganga River** (a left-bank tributary of the Ganga). 2. <b>Kanha National Park: </b> Located in the Maikal range of Madhya Pradesh, structurally associated with the Banjar and Halon valley systems. 3. <b>Keoladeo Ghana National Park: </b> A man-made wetland site in Bharatpur, Rajasthan, situated at the confluence of the Gambhir and Banganga rivers."
+          ]
+        }
+      ]
+    }
+  ]
+}
+  "geo_13": {
+  "title": "World Mapping (Straits, Seas, Conflict Zones & Geopolitical Corridors)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Maritime Choke Points & Strategic Straits",
+      "subtopics": [
+        {
+          "name": "Eurasian and Middle Eastern Gateways",
+          "bullets": [
+            " <b>Strait of Hormuz: </b> The world's most critical energy transit artery, linking the **Persian Gulf** with the **Gulf of Oman** and the Arabian Sea. It separates Iran from the Oman enclave of Musandam, serving as a persistent geopolitical flashpoint for global oil supply security.",
+            " <b>Bab-el-Mandeb & Strait of Malacca: </b> **Bab-el-Mandeb** (The Gate of Tears) connects the **Red Sea** with the **Gulf of Aden** and the Indian Ocean, separating Yemen on the Arabian Peninsula from Djibouti and Eritrea in the Horn of Africa. The **Strait of Malacca** is a vital choke point between the Indonesian island of Sumatra and the Malay Peninsula, linking the **Indian Ocean** with the **South China Sea**.",
+            " <b>The Turkish Straits & Gibraltar: </b> 1. <b>Bosporus and Dardanelles Straits: </b> Form the maritime boundary between Europe and Asia. The Bosporus connects the **Black Sea** to the **Sea of Marmara**, while the Dardanelles connects the Sea of Marmara to the **Aegean/Mediterranean Sea**. 2. <b>Strait of Gibraltar: </b> The lone natural opening connecting the **Atlantic Ocean** to the **Mediterranean Sea**, separating Spain from Morocco."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Marginal Seas & Bordering National Matrices",
+      "subtopics": [
+        {
+          "name": "The High-Yield Sea Border Lineups",
+          "bullets": [
+            " <b>The Mediterranean Sea Rim: </b> A classic UPSC boundary target. Bordered by three continents. Key nations include **Levant states** (Syria, Lebanon, Israel) and North African nations (Egypt, Libya, Tunisia, Algeria, Morocco). It connects to the Red Sea artificially via the **Suez Canal**.",
+            " <b>The Caspian and Red Sea Encircling Nations: </b> 1. <b>Caspian Sea (The TARIK Mnemonic): </b> Bordered by **Turkmenistan, Azerbaijan, Russia, Iran, and Kazakhstan**. 2. <b>Red Sea (The DESSEY Mnemonic): </b> Bordered by **Djibouti, Eritrea, Saudi Arabia, Sudan, Egypt, and Yemen**.",
+            " <b>The Black Sea Drainage Border: </b> Encircled by six nations: **Ukraine, Russia, Georgia, Turkey, Bulgaria, and Romania**. The Sea of Azov sits directly north of it, connected by the narrow **Kertch Strait**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Contemporary Conflict Zones & Transit Corridors",
+      "subtopics": [
+        {
+          "name": "West Asian and African Geopolitical Flashpoints",
+          "bullets": [
+            " <b>The Levant and Horn of Africa: </b> Includes the **Gaza Strip** and the **West Bank** along the Jordan River. In the Horn of Africa, the **Tigray region** in northern Ethiopia remains a highly volatile focal area bordering Eritrea.",
+            " <b>The Sahel Strip: </b> A transitional eco-climatic zone stretching across Africa from Senegal to Sudan. It serves as a modern theater for political transitions and resource conflicts, encompassing nations like **Mali, Burkina Faso, Niger, and Chad**."
+          ]
+        },
+        {
+          "name": "Strategic Transit Corridors",
+          "bullets": [
+            " <b>IMEC (India-Middle East-Europe Economic Corridor): </b> A multi-modal economic network designed to counter traditional continental trade monopolies. It splits into two segments: 1. <b>East Corridor: </b> Connecting India to the Arabian Gulf via sea lanes. 2. <b>Northern Corridor: </b> Connecting the Gulf to Europe via rail networks traversing Jordan and Israel.",
+            " <b>INSTC (International North-South Transport Corridor): </b> A multi-modal transit network linking **Mumbai to Moscow** via Iran (utilizing the strategic **Chabahar Port** and Bandar Abbas) and Azerbaijan, bypassing traditional European maritime routes."
+          ]
+        }
+      ]
+    }
+  ]
+}
+  "geo_14": {
+  "title": "Environmental Geography (Pollution, EIA, Sustainable Development)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Advanced Pollution Mechanics & Eutrophication",
+      "subtopics": [
+        {
+          "name": "Atmospheric Pollution Dynamics",
+          "bullets": [
+            " <b>Photochemical Smog vs Classical Smog: </b> A premier UPSC conceptual target. <b>Classical Smog </b> occurs in cool, humid climates, driven by sulfur dioxide ($SO_2$) and particulate matter from coal combustion (reducing smog). <b>Photochemical Smog </b> occurs in warm, dry, sunny urban areas, driven by solar radiation acting on **Nitrogen Oxides ($NO_x$) and Volatile Organic Compounds (VOCs)** to produce secondary pollutants like **Ozone ($O_3$) and Peroxyacetyl Nitrate (PAN)** (oxidizing smog).",
+            " <b>Acid Rain Chemistry: </b> Triggered by the atmospheric transformation of $SO_2$ and $NO_x$ into sulfuric acid ($H_2SO_4$) and nitric acid ($HNO_3$). It lowers soil pH, causing **nutrient leaching** (dissolving essential calcium and magnesium) and releasing toxic aluminum ions into aquatic ecosystems."
+          ]
+        },
+        {
+          "name": "Aquatic Degradation & Eutrophication",
+          "bullets": [
+            " <b>Cultural Eutrophication: </b> The accelerated nutrient enrichment of water bodies caused by agricultural runoff (phosphates and nitrates from fertilizers) and sewage discharge. This triggers massive **algal blooms** that block sunlight, halting submerged aquatic photosynthesis.",
+            " <b>BOD vs COD Diagnostics: </b> **Biochemical Oxygen Demand (BOD)** measures the amount of dissolved oxygen required by aerobic biological organisms to decompose *organic* matter in water. **Chemical Oxygen Demand (COD)** measures the oxygen required to chemically oxidize *both organic and inorganic* matter, making COD a faster, more comprehensive index of industrial toxic pollution."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Statutory EIA Frameworks & Environmental Auditing",
+      "subtopics": [
+        {
+          "name": "The Environmental Impact Assessment (EIA) Machinery",
+          "bullets": [
+            " <b>The Legal Anchor: </b> Mandated in India under the <b>Environment (Protection) Act, 1986 </b>. It is a tool that evaluates the potential environmental impacts of a proposed industrial or infrastructural project prior to granting executive clearance.",
+            " <b>The Four Structural Stages of EIA: </b> A critical process flow for examination: 1. <b>Screening: </b> Determining whether a project requires full EIA clearance based on scale and location. 2. <b>Scoping: </b> Defining the specific spatial and environmental boundaries of the study. 3. <b>Public Consultation: </b> A mandatory statutory platform allowing local communities to voice objections regarding resource displacement. 4. <b>Appraisal: </b> Scrutiny of the final EIA report by an Expert Appraisal Committee (EAC) before formal clearance is granted."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Global Waste Governance & Sustainable Paradigms",
+      "subtopics": [
+        {
+          "name": "Hazardous Waste & Marine Pollution Treaties",
+          "bullets": [
+            " <b>The Basel and Stockholm Conventions: </b> The <b>Basel Convention </b> regulates the transboundary movement of hazardous chemical wastes and their disposal, explicitly blocking developed nations from dumping toxic waste into developing states. The <b>Stockholm Convention </b> targets the total elimination or restriction of **Persistent Organic Pollutants (POPs)** like DDT and Dioxins that resist environmental degradation.",
+            " <b>The MARPOL Convention: </b> The primary international treaty regulating marine pollution from operational or accidental ship discharges, covering oil spills, noxious liquids, sewage, and plastics across international waters."
+          ]
+        },
+        {
+          "name": "Extended Producer Responsibility (EPR)",
+          "bullets": [
+            " <b>The Circular Economy Tool: </b> Integrated into India's Plastic Waste and E-Waste Management Rules. It places the ultimate **financial and physical life-cycle responsibility** on the original manufacturers to collect, recycle, or safely dispose of their products post-consumer use, driving sustainable eco-design transitions."
+          ]
+        }
+      ]
+    }
+  ]
+}
+  "geo_15": {
+  "title": "Geographical Current Affairs & Recent Phenomena",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Cryospheric Dynamics & Polar Shifts",
+      "subtopics": [
+        {
+          "name": "Permafrost Thaw & Feedback Mechanisms",
+          "bullets": [
+            " <b>The Methane Feedback Loop: </b> Accelerated Arctic amplification is driving the rapid melting of high-latitude **permafrost grids**. As the frozen ground thaws, organic matter decomposes anaerobically, releasing massive volumes of **Methane ($CH_4$) and Carbon Dioxide ($CO_2$)**, which creates a dangerous warming feedback loop.",
+            " <b>Zombie Fires: </b> A recent phenomenon where peat fires burn slowly underground beneath the winter snowpack, surviving on residual oxygen and organic matter, only to reignite on the surface during the subsequent dry spring."
+          ]
+        },
+        {
+          "name": "Polar Vortex & Jet Stream Meandering",
+          "bullets": [
+            " <b>Tropospheric Weakening: </b> The shrinking temperature gradient between the Arctic and the tropics has weakened the **Polar Night Jet Stream**. This causes the jet stream to meander into extreme, high-amplitude **Rossby Waves**, allowing cold polar air to plunge deep into mid-latitudes (causing extreme winter freezes in North America and Europe) while warm air pushes north into the Arctic."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Marine Thermal Anomalies & Ecosystem Shocks",
+      "subtopics": [
+        {
+          "name": "Marine Heatwaves (MHWs)",
+          "bullets": [
+            " <b>Thermal Spikes in Marine Basins: </b> Extended periods of abnormally high sea surface temperatures ($>90$th percentile of historical baselines) occurring across distinct ocean regions. MHWs disrupt local thermohaline circulation and trigger catastrophic **mass coral bleaching events** (e.g., across the Great Barrier Reef and Lakshadweep atolls) by forcing symbiotic zooxanthellae algae out of host coral tissues.",
+            " <b>Sargassum Invasions: </b> Massive, unprecedented blooms of pelagic brown macroalgae expanding across the Atlantic equatorial belts, driven by rising sea temperatures and heavy nutrient dumping from the Amazon and Mississippi river basins."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Anthropogenic Anthropocene Geographies",
+      "subtopics": [
+        {
+          "name": "The Sink Sink Phenomenon & Hydro-Politics",
+          "bullets": [
+            " <b>Land Subsidence in Deltaic Megacities: </b> The rapid sinking of major coastal metropolitan centers (e.g., Jakarta, Bangkok, parts of Chennai) driven by the aggressive **over-extraction of groundwater aquifers** combined with the heavy structural weight of urban infrastructure, forcing nations to plan administrative capital relocations.",
+            " <b>Glacial Lake Outburst Floods (GLOFs): </b> The rapid melting of mountain glaciers has led to the formation of unstable moraine-dammed lakes. Tectonic tremors or avalanches can breach these natural dams, sending catastrophic, high-velocity water surges down Himalayan valleys (e.g., South Lhonak Lake event), threatening downstream hydropower networks."
+          ]
+        }
+      ]
+    }
+  ]
+}
+
 }
