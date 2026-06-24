@@ -121,7 +121,7 @@ export default function SyllabusTracker({
                     // 🎯 THE FIX: Evaluates prefix rules universally to allow eco, geo, env, and sci routes to resolve instantly!
                     const isLoadable = topic.id && (
                       topic.id.startsWith('pol') || 
-                      topic.id.startsWith('hist') || 
+                      topic.id.startsWith('his') || 
                       topic.id.startsWith('eco') || 
                       topic.id.startsWith('geo') || 
                       topic.id.startsWith('env') || 
