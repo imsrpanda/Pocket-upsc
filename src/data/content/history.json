@@ -1,266 +1,834 @@
 {
   "his_1": {
-    "title": "Ancient India: Indus Valley Civilization & Vedic Period",
-    "phases": [
-      {
-        "phaseName": "Bronze Age Urbanism & Indo-Aryan Transition",
-        "subtopics": [
-          {
-            "name": "Harappan Urban Planning & Material Culture",
-            "bullets": [
-              "<b>Advanced Urban Grid System:</b> Characterized by an organized grid iron street layout, standardized burnt bricks (ratio 4:2:1), and covered brick-lined drainage networks running along main roads.",
-              "<b>High-Yield Site Artifacts:</b> 1. <i>Lothal:</i> An artificial brick **dockyard basin** connected to the tidal waters of the Bhogava river, showing maritime trade. 2. <i>Dholavira:</i> Features a unique **three-tier town configuration** (Citadel, Middle Town, Lower Town) and a sophisticated water management network with large rock-cut reservoirs. 3. <i>Mohenjo-daro:</i> Location of the Great Bath, the bronze Dancing Girl statue (lost-wax technique), and the steatite Bearded Priest.",
-              "<b>Metallurgical & Script Boundaries:</b> The Indus Valley was a Bronze Age civilization that mastered copper and bronze work, but **iron was entirely unknown** to them. Their pictographic script remains undeciphered and utilized alternating line directions (Boustrophedon)."
-            ]
-          },
-          {
-            "name": "Rig-Vedic vs Later-Vedic Societal Evolution",
-            "bullets": [
-              "<b>Early Vedic Pastorals (1500–1000 BCE):</b> Centered in the Sapta-Sindhu region. Primarily a pastoral, semi-nomadic society where the chief wealth was cows (Gau), and tribal assemblies like the <b>Sabha, Samiti, and Vidatha</b> exercised democratic control over the tribal chief (Rajan). Status of women was high, with participation in assemblies.",
-              "<b>Later Vedic Sedentarization (1000–600 BCE):</b> Marked by the migration eastward into the Gangetic plains, driven by the **discovery and mastery of iron (Shyama Ayas)**. Society transitioned to settled agriculture, tribal assemblies lost power to territorial monarchies (Janapadas), and the flexible class structure hardened into a hereditary, birth-based **Chaturvarnya system**."
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  "his_2": {
-    "title": "Buddhism, Jainism & Heterodox Sects",
-    "phases": [
-      {
-        "phaseName": "Sramana Philosophies & Royal Councils",
-        "subtopics": [
-          {
-            "name": "Buddhist Doctrines, Literature & Council Matrix",
-            "bullets": [
-              "<b>Core Doctrines:</b> Founded on the Four Noble Truths and the Eightfold Path (Ashtangika Marga). Rejects the absolute authority of the Vedas and the efficacy of priestly rituals. Operates on **Pratityasamutpada** (the doctrine of dependent origination/cause-and-effect).",
-              "<b>The Canonical Tipitaka:</b> 1. <i>Vinaya Pitaka:</i> Rules and regulations for monastic discipline. 2. <i>Sutta Pitaka:</i> Collected discourses and sermons of the Buddha. 3. <i>Abhidhamma Pitaka:</i> Philosophical interpretation and analysis of doctrines.",
-              "<b>Sect Splits & Councils (High-Yield):</b> 1. <i>First Council:</i> Held at Rajgriha under King Ajatashatru. 2. <i>Third Council:</i> Held at Pataliputra under Ashoka, where the Abhidhamma was compiled. 3. <i>Fourth Council:</i> Held in Kashmir under **Kanishka**, causing the final split into **Hinayana** (orthodox, treats Buddha as a guide) and **Mahayana** (deifies Buddha, introduces Bodhisattva worship and Sanskrit canons)."
-            ]
-          },
-          {
-            "name": "Jain Philosophy, Tirthankaras & Canonical Splits",
-            "bullets": [
-              "<b>Core Epistemology:</b> Anchored by Vardhamana Mahavira (the 24th Tirthankara). Rejects the creator God concept and posits that every living and non-living entity possesses a soul (Jiva). Features two major philosophical tenets: 1. <b>Anekantavada:</b> The doctrine of the multiplicity of viewpoints. 2. <b>Syadvada:</b> The relativity of all knowledge.",
-              "<b>Ascetic Vows & Sect Splits:</b> Prescribes five great vows (Mahavratas): Ahimsa (extreme non-violence), Satya, Asteya, Aparigraha (non-possession), and Brahmacharya (added by Mahavira). Split into **Digambaras** (sky-clad, led by Bhadrabahu, orthodox) and **Svetambaras** (white-clad, led by Sthulabhadra) during a severe Magadha famine."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Ancient India: Indus Valley Civilization & Vedic Age",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Indus Valley Civilization (Proto-Historic Bronze Age)",
+      "subtopics": [
+        {
+          "name": "Urban Morphology & Engineering Architecture",
+          "bullets": [
+            " <b>The Citadel vs Lower Town Layout: </b> Cities were strictly divided into a raised, fortified <b>Citadel </b> on the west (housing public buildings like the Great Bath at Mohenjo-daro, granaries, and administrative elites) and a larger **Lower Town** on the east, laid out in an advanced grid system with residential quarters.",
+            " <b>Hydraulic Engineering: </b> Characterized by highly standardized burnt brick masonry, covered street drains with inspection manholes, and household soak pits. **Lothal** featured a sophisticated artificial tidal dockyard connected to the Bhogava River, while **Dholavira** showcases advanced stone-cut water reservoirs and a unique tri-furcated city planning layout."
+          ]
+        },
+        {
+          "name": "Socio-Economic Matrix & Artifact Stratigraphy",
+          "bullets": [
+            " <b>Trade and Script: </b> Conducted extensive maritime trade with Mesopotamia (referred to as *Meluha* in cuneiform inscriptions) using standardized weights based on binary and decimal systems (multiples of 16). The Harappan script remains **undeciphered** and follows a **Boustrophedon** writing style (alternating directions from right-to-left and left-to-right).",
+            " <b>Metallurgy and Artforms: </b> Mastered the lost-wax technique (*cire perdue*) to cast bronze figures, such as the **Dancing Girl of Mohenjo-daro**. Notable artifacts include the steatite **Pashupati Seal**, Chert weight series, terracotta seals depicting the humped bull, and red-slipped painted pottery with black geometric designs."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Early Vedic Period (c. 1500 BCE – 1000 BCE)",
+      "subtopics": [
+        {
+          "name": "Pastoral Economy & Tribal Polity",
+          "bullets": [
+            " <b>Rig Vedic Rigidity: </b> A nomadic, pastoral economy centered heavily around cattle wealth (**Gau/Gavyuti**). Wars were fought over cattle herds, termed **Gavisthi** (search for cows).",
+            " <b>Tribal Democratic Assemblies: </b> The political structure was tribal (*Jana*), headed by a *Rajan* whose power was checked by democratic popular assemblies: the <b>Sabha </b> (council of elders/elites), <b>Samiti </b> (general tribal assembly), and *Vidatha* (assembly with religious/military functions). Women held the legal right to participate in Sabha and Samiti debates.",
+            " <b>Deities and Rituals: </b> Religion was naturalistic and anthropomorphic, dominated by male personifications of nature. **Indra** (Purandara/Breaker of Forts) was the premier deity, followed by **Agni** (the sacrificial mediator) and **Varuna** (upholder of cosmic order or *Rta*). Rituals focused on material boons (*Praja* and *Pasu*) via simple chants and offerings, free of complex priestly hierarchies."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Later Vedic Period & Transition (c. 1000 BCE – 600 BCE)",
+      "subtopics": [
+        {
+          "name": "Sedentary Agriculture & The Iron Age Axis",
+          "bullets": [
+            " <b>The PGW Economy: </b> Associated archaeologically with **Painted Grey Ware (PGW)** sites. The discovery and widespread adoption of iron (**Shyama Ayas** / Krishna Ayas) enabled the clearing of dense monsoon forests in the Gangetic plains, transforming the pastoral economy into an advanced, settled agrarian society.",
+            " <b>Territorial Consolidation & Social Stratification: </b> Political identity shifted from tribal ties (*Jana*) to fixed territorial kingdoms called <b>Janapadas </b> (e.g., Kuru, Panchala). The democratic assemblies (*Vidatha* disappeared; *Sabha* and *Samiti* lost power) were replaced by royal courts, and women lost their assembly participation rights.",
+            " <b>Varna Crystallization and Ritualism: </b> The fluid occupational divisions of the Rig Veda hardened into a rigid, hereditary **four-fold Varna system**. Religious practices shifted toward elaborate, highly expensive sacrifices (*Yajnas*) like the *Ashvamedha* (horse sacrifice) and *Rajasuya* (consecration ceremony), creating an institutionalized priestly class that triggered the subsequent heterodox backlash."
+          ]
+        }
+      ]
+    }
+  ]
+},
+  "his_2":{
+  "title": "Ancient India: Buddhism, Jainism, Ajivikas & Heterodox Philosophies",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Shramanic Revolution & Causative Matrix",
+      "subtopics": [
+        {
+          "name": "Socio-Economic Triggers of the 6th Century BCE",
+          "bullets": [
+            " <b>Material and Varna Conflict: </b> The expansion of the iron-backed settled agrarian economy in the middle Gangetic plains led to the rise of a powerful merchant class (**Vaishyas**). Despite their economic dominance, they were placed third in the rigid Vedic Varna hierarchy. The **Kshatriyas** also reacted sharply against the ritualistic monopolies and supremacy claimed by the Brahmins.",
+            " <b>The Agrarian Conflict: </b> The expanding agricultural economy relied heavily on animal husbandry and draft oxen. The mass slaughter of cattle during elaborate Vedic sacrificial rituals (*Yajnas*) caused severe economic distress among the farming populations, creating a fertile ground for philosophies preaching **Ahimsa** (non-violence)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Core Doctrinal Frameworks & Evolution",
+      "subtopics": [
+        {
+          "name": "Buddhism: Philosophy, Literature and Councils",
+          "bullets": [
+            " <b>Core Doctrines: </b> Anchored on the Four Noble Truths (*Arya Satyani*) and the **Ashtangika Marga** (Eightfold Path) as the path of moderation (*Madhyama Pratipada*). Rejects the authority of the Vedas and the concept of an eternal soul (*Atman*), instead introducing **Anatta** (non-self) and **Anicca** (impermanence), along with the causal chain of **Pratityasamutpada** (Dependent Origination).",
+            " <b>Canonical Stratigraphy (The Tripitakas): </b> 1. <b>Vinaya Pitaka: </b> Monastic rules and code of conduct for the Sangha. 2. <b>Sutta Pitaka: </b> Core structural discourses and teachings of the Buddha (contains the *Dhammapada*). 3. <b>Abhidhamma Pitaka: </b> Philosophical interpretation and psychological analysis of the doctrines.",
+            " <b>The Four Councils: </b> 1. <i>Rajgriha</i> (Ajatashatru; compilation of Vinaya and Sutta). 2. <i>Vaishali</i> (Kalashoka; first ideological schism). 3. <i>Pataliputra</i> (Ashoka; compilation of Abhidhamma). 4. <i>Kashmir</i> (Kanishka; formal split into **Hinayana and Mahayana**)."
+          ]
+        },
+        {
+          "name": "Jainism: Metaphysics and Ascetic Rigor",
+          "bullets": [
+            " <b>Doctrinal Pillars: </b> Led by Vardhamana Mahavira (the 24th Tirthankara). Based on **Triratna** (Right Faith, Knowledge, and Conduct) and the five vows, with absolute emphasis on *Ahimsa* extending to inanimate matter. Its core epistemological theories are <b>Anekantavada </b> (the multi-faceted nature of reality) and <b>Syadvada </b> (the relativity of all knowledge/judgments).",
+            " <b>The Great Schism: </b> Driven by a severe famine in Magadha, leading to a split into: 1. <b>Digambaras (Sky-clad): </b> Led by Bhadrabahu; migratory southern faction favoring complete nudity and strict adherence to original tenets. 2. <b>Shvetambaras (White-clad): </b> Led by Sthulabhadra; stayed in Magadha, adopted white garments, and organized the compilation of the **Jain Angas** at the Pataliputra Council."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Heterodox Fringe & Materialist Schools",
+      "subtopics": [
+        {
+          "name": "Ajivikas, Charvakas and Contemporary Thinkers",
+          "bullets": [
+            " <b>Ajivika Philosophy (Fatalism): </b> Founded by Makkhali Gosala (a contemporary of Mahavira). Centered on the absolute doctrine of <b>Niyati (Destiny/Fate) </b>, which states that human effort is completely futile and all cosmic events, births, and transitions are entirely predetermined. Received royal patronage from Ashoka and Dasharatha, visible in the rock-cut **Barabar Caves**.",
+            " <b>Charvaka/Lokayata (Radical Materialism): </b> Founded by Brihaspati. A strictly materialist, heterodox school that completely rejects the Vedas, an afterlife, karma, and any spiritual liberation. It recognizes **Pratyaksha (Direct Perception)** as the *only* valid source of epistemic knowledge (*Pramana*), advocating that the universe is made of four physical elements alone.",
+            " <b>Other Shramanic Offshoots: </b> Includes the philosophy of *Akriya-vada* (Non-action) led by Purana Kassapa, and *Anatta/Unchanging Atomism* led by Pakudha Kaccayana."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_3": {
-    "title": "Mauryan Empire, Ashokan Edicts & Administrative Machinery",
-    "phases": [
-      {
-        "phaseName": "Imperial Centralization & Dhamma Propagation",
-        "subtopics": [
-          {
-            "name": "Bureaucratic Structure & Epigraphic Proclamations",
-            "bullets": [
-              "<b>Kautilyan Saptanga Theory:</b> Defines the state as an organic body with 7 limbs: Swami (King), Amatya (Bureaucracy), Janapada (Territory/Population), Durga (Fort), Kosa (Treasury), Danda (Army), and Mitra (Ally).",
-              "<b>Ashokan Epigraphy:</b> Edicts were written primarily in the **Prakrit language using the Brahmi script** in mainland India. In the northwestern frontiers, they utilized the Kharosthi script (written left-to-right), and in Afghanistan, they used Aramaic and Greek scripts. **James Prinsep** deciphered them in 1837.",
-              "<b>Major Rock Edicts (High-Yield):</b> 1. <i>Major Rock Edict XIII:</i> Describes the Kalinga War devastation and Ashoka's change of heart from Bherighosha (war drum) to Dhammaghosha (peace/righteousness). 2. <i>Minor Rock Edict:</i> Explicitly contains his personal name 'Ashoka' at Maski, Netter, and Gujjarra (otherwise he used his titles *Devanampiya Piyadasi*)."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Ancient India: Mahajanapadas, Mauryan & Gupta Empires (Polity & Lit)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Mahajanapadas & Mauryan Imperial Centralization",
+      "subtopics": [
+        {
+          "name": "The Second Urbanization & Magadhan Hegemony",
+          "bullets": [
+            " <b>The 16 Mahajanapadas: </b> Characterized by the growth of fortified cities and Northern Black Polished Ware (NBPW) archaeology. Included monarchies and oligarchic tribal republics (**Ganasanghas** like the Vajji confederacy), where power was held by a clan council rather than a single hereditary monarch.",
+            " <b>Magadhan Rise: </b> Supported by geopolitical factors: vast iron ore deposits in Rajgir for weaponry, thick forests supplying war elephants, and strategic riverine positions (Patliputra at the confluence of the Ganga, Son, and Gandak) controling inland trade."
+          ]
+        },
+        {
+          "name": "Mauryan Administrative and Fiscal Machinery",
+          "bullets": [
+            " <b>Centralized Bureaucracy: </b> Highly centralized state apparatus described in Kautilya's <i>Arthashastra</i>. The king was advised by the *Mantriparishad* and supported by an elaborate spy network (*Gudha-purushas*). Key officials included the <b>Samaharta </b> (chief tax collector) and <b>Sannidhata </b> (chief treasury custodian).",
+            " <b>Ashokan Dhamma Policy: </b> A non-sectarian, ethical code designed to integrate a diverse empire. Circulated via rock and pillar edicts written in Prakrit (using Brahmi and Kharosthi scripts) and Aramaic/Greek along northwestern trade routes. Regulated by a new cadre of officials called **Dhamma-Mahamattas**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Gupta Empire & Decentralized Feudalization",
+      "subtopics": [
+        {
+          "name": "The Imperial Sub-Provincial Hierarchy",
+          "bullets": [
+            " <b>Administrative Divisions: </b> The empire was partitioned into provinces termed <b>Bhuktis </b>, governed by royal princes or high officials called *Uparikas*. Bhuktis were subdivided into districts called <b>Visayas </b>, managed by a *Visayapati* who was assisted by a local advisory council representing merchant guilds and artisans.",
+            " <b>Decentralization & Land Grants: </b> Unlike the cash-salaried Mauryan bureaucracy, the Guptas pioneered the extensive assignment of tax-free land grants (**Agraharas**) to Brahmins and temples. These grants transferred fiscal, administrative, and judicial rights to the beneficiaries, initiating the **feudalization of the Indian economy**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Classical Golden Age of Literature & Science",
+      "subtopics": [
+        {
+          "name": "Courtly Sanskrit Literature & Plays",
+          "bullets": [
+            " <b>The Kalidasa Corpus: </b> Reached its peak under Chandragupta II (Vikramaditya). Masterpieces include dramas like <i>Abhijnanasakuntalam</i> and <i>Malavikagnimitram</i>, and epic poems (*Mahakavyas*) like <i>Raghuvamsa</i> and <i>Meghaduta</i>. Notably, Gupta court plays feature a **linguistic class barrier**: elites speak classical Sanskrit, while women and lower socio-economic classes speak Prakrit.",
+            " <b>Secular & Political Treatises: </b> Includes Vishakhadatta’s <b>Mudrarakshasa </b> (a political drama detailing Chanakya’s strategies against the Nandas) and *Devichandraguptam*, Shudraka’s *Mricchakatika* (The Little Clay Cart, depicting urban life), and Kamandaka's *Nitisara*."
+          ]
+        },
+        {
+          "name": "Scientific & Mathematical Advances",
+          "bullets": [
+            " <b>Astronomy and Metallurgy: </b> **Aryabhata** authored the *Aryabhatiya*, formulating the table of sines, calculating $\\pi$, discovering that the earth rotates on its axis, and explaining eclipses scientifically. **Varahamihira** wrote the *Pancha-Siddhantika* and *Brihat-Samhita*. Advanced metallurgy is preserved in the rust-free **Mehrauli Iron Pillar**."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_4": {
-    "title": "Gupta Empire & The Classical Age (Art, Literature & Science)",
-    "phases": [
-      {
-        "phaseName": "Feudal Decentralization & Cultural Renaissance",
-        "subtopics": [
-          {
-            "name": "Land Grants, Literature, and Scientific Frontiers",
-            "bullets": [
-              "<b>The Rise of Land Grants (Agrahara):</b> Characterized by the extensive institutionalization of tax-free land grants to Brahmins and temples. These grants included administrative and judicial immunities, which accelerated political decentralization and laid the groundwork for Indian feudalism.",
-              "<b>Sanskrit Literature Peak:</b> Supported by royal patronage (like Chandragupta II's Navaratnas). Kalidasa compiled masterworks like <i>Abhijnanasakuntalam</i>, and Vishnusharma wrote the <i>Panchatantra</i>. **UPSC Trap:** While religious texts like the Puranas were finalized, secular plays showed a social hierarchy: upper-caste males spoke refined Sanskrit, while women and lower-caste characters spoke Prakrit dialects.",
-              "<b>Scientific Frontiers:</b> Aryabhata authored the <i>Aryabhatiya</i>, describing the heliocentric rotation of the earth, calculating the exact value of $\\pi$, and explaining solar/lunar eclipses. Varahamihira authored the <i>Brihat Samhita</i>, an encyclopedia of astronomy and geography."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Ancient & Early Medieval South India: Sangam Age, Cholas, Pallavas & Chalukyas",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Sangam Age (Proto-Historic South India)",
+      "subtopics": [
+        {
+          "name": "The Five Eco-Landscapes (Tinais) and Economy",
+          "bullets": [
+            " <b>The Tinai Matrix: </b> Society and landscape were categorized into five distinct ecological zones (*Tinais*), each associated with a specific deity, occupation, and socio-economic lifestyle: 1. <b>Kurinji </b> (Hilly tracks; hunting/gathering; Murugan). 2. <b>Mullai </b> (Pastoral plains; shifting cultivation/animal husbandry; Mayon). 3. <b>Marutam </b> (Wetlands/agricultural valleys; intensive rice cultivation; Ventan). 4. <b>Neital </b> (Coastal fringes; fishing and salt-making; Varunan). 5. <b>Palai </b> (Parched/arid zones; cattle-lifting and plundering; Korravai).",
+            " <b>Maritime Indo-Roman Trade: </b> Characterized by thriving long-distance oceanic trade. Ports like <b>Arikamedu </b> (Poduca in Roman texts), Puhar (Kaveripattinam), and Muziris exported black pepper ('Yavana-priya'), textiles, semi-precious stones, and pearls, in exchange for Roman gold/silver coins (*Denarii*), amphorae wine, and glassware."
+          ]
+        },
+        {
+          "name": "Literary Assemblies and Stratigraphy",
+          "bullets": [
+            " <b>The Three Sangams: </b> Patronized by the Pandya kings in Madurai. The surviving corpus is divided into: 1. <b>Ettutokai </b> (Eight Anthologies) and <b>Pattupattu </b> (Ten Idylls), which are subdivided into *Akam* (subjective, inner themes of love) and *Puram* (objective, outer themes of war, statecraft, and heroism). 2. <b>Tolkappiyam: </b> Authored by Tolkappiyar; the oldest surviving treatise on Tamil grammar and poetics, offering deep insights into contemporary social stratification."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Imperial Cholas (Maritime Hegemony & Local Polity)",
+      "subtopics": [
+        {
+          "name": "Institutional Village Autonomy",
+          "bullets": [
+            " <b>The Uttaramerur Inscriptions (919 and 921 CE): </b> A premier UPSC institutional target. Details the highly democratic, autonomous village assembly layout of the **Sabha** (Brahmin settlements) or **Ur** (non-Brahmin villages). Village administration was run by committees (*Variyams*) managing irrigation, gardens, and justice. Members were selected through **Kudavolai** (a secret pot-ticket lottery system) subject to strict property, educational, and moral eligibility criteria.",
+            " <b>Revenue and Administrative Tiers: </b> The empire was divided into provinces termed <b>Mandalams </b>, which were split into districts called <b>Valanadus </b>, further partitioned into village clusters named **Nadus**."
+          ]
+        },
+        {
+          "name": "Thalassocracy and Indian Ocean Dominance",
+          "bullets": [
+            " <b>Naval Power and Guilds: </b> Rajaraja I and Rajendra I converted the Bay of Bengal into a 'Chola Lake' using advanced naval fleets. They launched successful maritime expeditions against the Srivijaya Empire (Sumatra/Malaya) to secure unimpeded trade routes to China, backed by powerful, autonomous merchant guilds like the <b>Manigramam </b> and <b>Ayyavole-Five Hundred </b>."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Pallava-Chalukya Geo-Political Axis",
+      "subtopics": [
+        {
+          "name": "The Krishna-Tungabhadra Doab Conflict",
+          "bullets": [
+            " <b>Tectonic Structural Wars: </b> The Pallavas (capital at Kanchipuram) and the Western Chalukyas of Badami clashed continuously over the fertile agricultural zone of the **Krishna-Tungabhadra Doab**. This geopolitical conflict is highlighted by Pulakeshin II’s victory over Harshavardhana of Kannauj along the Narmada River line, and his subsequent multi-decade war with the Pallava king Narasimhavarman I (Mamalla), who sacked Badami."
+          ]
+        },
+        {
+          "name": "Evolution of Structural and Rock-Cut Monuments",
+          "bullets": [
+            " <b>The Mamallapuram Stratigraphy: </b> Narasimhavarman I pioneered monolithic rock-cut art at Mamallapuram, including the **Pancha Rathas** (monolithic shrines cut out of single whale-backed granite boulders) and the monumental bas-relief panel depicting the <b>Descent of the Ganga </b> (or Arjuna's Penance).",
+            " <b>The Chalukyan Lab: </b> The Chalukyas developed a distinct regional style under royal patronage at **Aihole** (termed the 'Cradle of Indian Temple Architecture', featuring the Durga Temple), **Badami**, and **Pattadakal** (showcasing a hybrid blending of Northern Nagara and Southern Dravida architectural forms)."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_5": {
-    "title": "Major Dynasties of South India (Cholas, Pallavas, Chalukyas & Rashtrakutas)",
-    "phases": [
-      {
-        "phaseName": "Maritime Projections & Architectural Monuments",
-        "subtopics": [
-          {
-            "name": "Imperial Chola Administration & Rock-Cut Pallava Shrines",
-            "bullets": [
-              "<b>Chola Local Self-Government:</b> Celebrated for its village assemblies described in the **Uttaramerur Inscriptions** (919 and 921 CE). The village was managed by two assemblies: the <i>Ur</i> (general assembly) and the <i>Sabha/Mahasabha</i> (exclusive assembly of Brahmins). Members were selected via a lottery system (Kudavolai) from wards, subject to strict property and educational qualifications.",
-              "<b>Dravidian Architecture Peak:</b> Raja Raja I constructed the **Brihadisvara Temple at Thanjavur**, featuring a massive monolithic stone vimana tower. Chola artisans perfected the production of **lost-wax bronze Nataraja statues** representing Shiva's cosmic dance.",
-              "<b>Pallava Rock-Cut Evolution:</b> Pioneered rock-cut temple engineering under Narasimhavarman I, who built the **Pancha Rathas** (monolithic rock temples) and the open-air relief 'Descent of the Ganges' at Mahabalipuram."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Medieval India: Delhi Sultanate & Vijayanagar Empire (Structures & Economy)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Delhi Sultanate Administrative Machinery",
+      "subtopics": [
+        {
+          "name": "Centralized Bureaucracy & Core Ministries",
+          "bullets": [
+            " <b>The Four Pillars of State: </b> The Sultanate administration operated through four primary central ministries: 1. <b>Diwan-i-Wizarat: </b> Led by the *Wazir*; handled state finance, revenue collection, and fiscal expenditures. 2. <b>Diwan-i-Ariz: </b> Founded by Balban; managed the military department, including troop recruitment, inspections, and branding of horses (*Dagh* system). 3. <b>Diwan-i-Insha: </b> Managed royal correspondence and state decrees. 4. <b>Diwan-i-Rasalat: </b> Handled foreign affairs, diplomatic missions, and humanitarian/religious endowments.",
+            " <b>Specialized Executive Portfolios: </b> Alauddin Khalji introduced the **Diwan-i-Mustakhraj** to systematically audit and recover tax arrears from corrupt revenue officials, while Muhammad bin Tughlaq established the **Diwan-i-Amir-Kohi** to oversee agricultural expansion, provide state crop loans (*Sondhar*), and manage famine relief."
+          ]
+        },
+        {
+          "name": "The Iqta Revenue Framework",
+          "bullets": [
+            " <b>Agrarian Feudal Alternative: </b> Institutionalized by Iltutmish. The empire's land was partitioned into **Iqtas** (revenue-yielding territorial assignments) allocated to military commanders (**Iqtadars/Muqtis**) in lieu of cash salaries. The Iqtadar collected local land revenue (*Kharaj*), maintained a designated troops quota for the Sultan, met their own administrative expenses, and was legally bound to send the surplus balance (**Fawazil**) directly to the central treasury."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Economic Transformations & Market Control Systems",
+      "subtopics": [
+        {
+          "name": "Khalji Agrarian and Price Control Regulations",
+          "bullets": [
+            " <b>Market Price Standardization: </b> Alauddin Khalji fixed the prices of all essential commodities (grains, cloth, horses, slaves) in Delhi to maintain a massive standing army at low pay. The market was split into specialized zones (e.g., *Sana-i-Mandi* for grain) supervised by a market superintendent (**Shahna-i-Mandi**) and checked by state spies (**Munhiyans**).",
+            " <b>Direct Fiscal Measurement: </b> Abolished the intermediary local chiefs (*Khuts, Muqaddams, Chaudhuris*) and instituted land revenue based on actual measurement of land (**Masahat**), fixing the state demand at a strict 50% of the gross produce, alongside grazing taxes (*Ghari*) and house taxes (*Chari*)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Vijayanagar Empire (The Southern Medieval Matrix)",
+      "subtopics": [
+        {
+          "name": "The Nayankara Military-Agrarian Axis",
+          "bullets": [
+            " <b>The Amara-Nayaka System: </b> The defining structural framework of the Vijayanagar state. The king (**Raya**) assigned fixed territorial tracts to military chieftains called **Amara-Nayakas**. In return, they collected land revenue, administered justice, maintained a standing military contingent for royal campaigns, and paid an annual financial tribute to the king during the Mahanavami festival.",
+            " <b>The Ayagar Village Grid: </b> Local village governance was managed by a body of **12 officials called Ayagars**. They were granted tax-free lands (*Manyams*) in perpetuity in exchange for conducting local police, judicial, and revenue tracking functions."
+          ]
+        },
+        {
+          "name": "Urban Morphology & Hydraulic Civil Engineering",
+          "bullets": [
+            " <b>The Fortification Rings: </b> As documented by foreign travelers like Abdul Razzaq, Hampi featured **seven concentric rings of massive stone walls** that enclosed not just the royal palaces, but also agricultural fields, orchards, and extensive water channels to survive long military sieges.",
+            " <b>Hydraulic Engineering: </b> Mastered large-scale water management using massive stone tanks, aqueducts, and canals like the **Hiriya Canal**, which diverted the waters of the **Tungabhadra River** directly into the urban and agricultural cores."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_6": {
-    "title": "Delhi Sultanate - Slave, Khalji, Tughlaq Dynasties & Administration",
-    "phases": [
-      {
-        "phaseName": "Centralized Autocracy & Agrarian-Market Interventions",
-        "subtopics": [
-          {
-            "name": "Iqta Mechanics & Alauddin Khalji's Price Controls",
-            "bullets": [
-              "<b>The Iqta System:</b> Institutionalized by Iltutmish. Territorial land revenues were assigned to military commanders (Iqtadars/Muqtis) in lieu of cash salaries. Iqtadars were responsible for collecting land revenue, maintaining a standing army contingency for the Sultan, and **did not possess permanent ownership rights** over the land.",
-              "<b>Alauddin Khalji's Market Reforms:</b> Implemented strict price controls on essential commodities in Delhi to maintain a large standing army on low cash wages. He set up three independent markets (grain, cloth, horses/cattle) overseen by intelligence inspectors known as <b>Shahna-i-Mandi</b>.",
-              "<b>Muhammad bin Tughlaq's Policy Failures:</b> 1. <i>Capital Shift:</i> Moved the capital from Delhi to Daulatabad (Devagiri) to better manage South India, but had to reverse it due to defense vulnerabilities against Mongol incursions. 2. <i>Token Currency:</i> Introduced copper/brass token coins at par value with silver tankas, which failed completely due to widespread illegal private minting."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Medieval India: Mughal Empire, Maratha Confederacy & Bhakti-Sufi Movements",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Mughal Imperial Architecture & Fiscal Grid",
+      "subtopics": [
+        {
+          "name": "The Mansabdari and Jagirdari Nexus",
+          "bullets": [
+            " <b>The Mansab System: </b> Institutionalized by Akbar as a non-hereditary administrative-military ranking structure. Each officer held a dual rank: 1. <b>Zat: </b> Indicated personal status, position in the court hierarchy, and salary scale. 2. <b>Sawar: </b> Dictated the exact number of cavalrymen (*Tabinan*) the officer was legally bound to maintain and present for state review.",
+            " <b>Jagirdari & Transfers: </b> Mansabdars were rarely paid in cash; instead, they received **Jagirs** (land revenue assignments). To prevent these elite officials from developing deep roots or regional power bases that could threaten the throne, the state enforced regular **compulsory rotations of Jagirs** every 3-4 years.",
+            " <b>The Dahsala/Zabt Revenue Matrix: </b> Perfected by Raja Todar Mal. Land revenue was calculated based on a comprehensive 10-year average of crop yields and localized market prices. Cultivable land was strictly classified based on continuity of farming: 1. *Polaj* (annually cultivated). 2. *Parauti* (fallowed for 1-2 years). 3. *Chachar* (fallowed for 3-4 years). 4. *Banjar* (uncultivated for 5+ years)."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Maratha Sovereignty & Swarajya Administration",
+      "subtopics": [
+        {
+          "name": "The Ashtapradhan & Fiscal Extractions",
+          "bullets": [
+            " <b>The Ashtapradhan Council: </b> Shivaji instituted an eight-member advisory ministerial council. The apex minister was the <b>Peshwa </b> (Prime Minister handling general administration), followed by the *Amatya* (Finance), *Wakianavis* (Intelligence/Household), and *Senapati* (Commander-in-Chief). Notably, all ministers except the *Nyayadhish* (Justice) and *Panditrao* (Charity) were required to command active military campaigns.",
+            " <b>Chauth vs Sardeshmukhi: </b> The economic pillars of Maratha expansion into peripheral zones. 1. <b>Chauth: </b> A **one-fourth (25%) tax** on the land revenue of non-Maratha territories levied in exchange for a formal guarantee against Maratha raiding parties. 2. <b>Sardeshmukhi: </b> An **additional 10% levy** claimed by Shivaji by virtue of his hereditary position as the supreme head (*Sardeshmukh*) of the land."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Bhakti-Sufi Mystical Integration",
+      "subtopics": [
+        {
+          "name": "Sufi Silsilahs and Syncretic Tiers",
+          "bullets": [
+            " <b>Chishti vs Naqshbandi Approaches: </b> 1. <b>Chishti Silsilah: </b> Founded in India by Moinuddin Chishti; championed radical simplicity, stayed completely detached from state politics and royal courts, and embraced music (**Sama**) to achieve spiritual ecstasy. 2. <b>Naqshbandi Silsilah: </b> A highly orthodox, conservative reaction that strictly opposed any musical innovations, vigorously enforced orthodox Sharia laws, and maintained active, close interactions with political rulers.",
+            " <b>The Concept of Wahdat-al-Wujud: </b> The foundational philosophy of 'Unity of Being' which posited that God and the universe are identical, establishing a deep metaphysical bridge with the non-dualistic *Advaita Vedanta* of Hindu philosophy."
+          ]
+        },
+        {
+          "name": "Bhakti Strata: Nirguna vs Saguna",
+          "bullets": [
+            " <b>Nirguna Formations (The Non-Anthropomorphic Line): </b> Led by mystics like **Kabir** and **Guru Nanak**. They rejected idol worship, institutional caste hierarchies, and formal religious rituals, advocating instead for the internal devotion to an abstract, formless, omnipresent divine entity.",
+            " <b>Saguna Formations (The Anthropomorphic Line): </b> Led by saints like Chaitanya Mahaprabhu, Tulsidas, and Mirabai. Focused on intensely emotional, personalized devotion (*Premo-bhakti*) directed toward specific physical incarnations of deities, heavily utilizing vernacular poetry, community singing (**Kirtans**), and local languages."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_7": {
-    "title": "Mughal Empire - Policies, Mansabdari System & Art/Architecture",
-    "phases": [
-      {
-        "phaseName": "Imperial Consolidation & Mansab Stratigraphy",
-        "subtopics": [
-          {
-            "name": "The Mansabdari-Zabt Framework & Indo-Islamic Aesthetics",
-            "bullets": [
-              "<b>The Mansabdari System:</b> The unique administrative and military structure established by Akbar. Every officer was assigned a rank (Mansab) divided into two numerical scales: 1. <b>Zat:</b> Determined the officer's personal status, position in the court hierarchy, and salary scale. 2. <b>Sawar:</b> Indicated the exact number of cavalrymen the officer was legally required to maintain.",
-              "<b>Zabt and Dahsala Revenue Systems:</b> Engineered by Raja Todar Mal. It involved the detailed survey and measurement of agricultural lands, followed by calculating the average yield and prices of crops over the **past 10 years (Dahsala)**. One-third of the average produce was collected as the state tax share, settled primarily in cash.",
-              "<b>Mughal Architectural Evolution:</b> Transitioned from red sandstone under Akbar (Fatehpur Sikri, Buland Darwaza) to white marble under Shah Jahan. Introduced the **Pietra Dura** technique (inlaying polished semi-precious colored stones into marble walls) and built magnificent structures featuring central bulbous domes and symmetrical minarets (Taj Mahal)."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Art & Culture: Evolution of Indian Architecture (Caves, Stupas & Temples)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Rock-Cut Caves & Stupa Architecture",
+      "subtopics": [
+        {
+          "name": "Subterranean Evolution: Maurya to Post-Gupta",
+          "bullets": [
+            " <b>Mauryan Foundations: </b> Initiated architectural rock-cut cave engineering utilizing hard granite. Shrines like the **Barabar Caves** (Sudama and Lomas Rishi caves) feature a highly polished glass-like inner finish and a layout comprising a rectangular outer hall linked to a circular inner chamber.",
+            " <b>The Hinayana vs Mahayana Cave Shift: </b> Early Western Ghats caves (Karle, Bhaja, Ajanta's early phase) are strictly **Hinayana**, focusing on plain rock-cut <i>Chaityas</i> (prayer halls with stupas) and <i>Viharas</i> (monastic cells) devoid of physical idols. Post-Gupta and late western caves (Ellora, Elephanta, Ajanta's later phase) display **Mahayana and Brahmanical** shifts, featuring massive pillared mandapas, deep relief sculptures of deities, and standalone rock carvings (e.g., the monolithic **Kailashnath Temple at Ellora**, carved top-down out of a single basalt hill block)."
+          ]
+        },
+        {
+          "name": "The Structural Anatomy of a Buddhist Stupa",
+          "bullets": [
+            " <b>The Sanchi Model Matrix: </b> Developed from simple earthen burial mounds into monumental hemispherical brick-and-stone structures. The core architectural elements include: 1. <b>Anda: </b> The solid hemispherical dirt mound symbolizing the cosmic dome. 2. <b>Harmika: </b> The square railed balcony atop the Anda housing sacred relics. 3. <b>Chhatra: </b> The central triple-tiered umbrella axis denoting spiritual sovereignty. 4. <b>Pradakshina Patha: </b> The raised circular circumambulation path enclosed by a stone railing (*Vedika*). 5. <b>Toranas: </b> Heavily sculpted gateway structures aligned to the four cardinal directions, depicting the Jataka tales."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Three Classical Temple Style Paradigms",
+      "subtopics": [
+        {
+          "name": "The Northern Nagara Architectural Style",
+          "bullets": [
+            " <b>Core Structural Footprint: </b> Constructed on a raised stone platform (**Jagati**). Features a central sanctum sanctorum (**Garbhagriha**) crowned by a curved, curvilinear spire known as a <b>Shikhara </b>, which is topped by a ribbed stone disc called an <b>Amalaka </b> and a kalasha.",
+            " <b>Sub-Regional Nagara Frameworks: </b> 1. <b>Khajuraho School (Chandela): </b> Features both inner and outer walls covered in intricate sculptures, with side-porches and a unique progression of interconnected spires (**Urushringas**) that rise sequentially toward the main Shikhara (e.g., Kandariya Mahadeva). 2. <b>Odisha School: </b> The Shikhara is vertically straight until bending sharply inward at the top, termed a *Deula*, while the assembly hall is called a *Jagamohana* (e.g., Sun Temple at Konark, Lingaraja at Bhubaneswar). 3. <b>Solanki School (Gujarat): </b> Characterized by a complete absence of carvings on the external walls, featuring stepped temple water tanks (**Surya Kund**) with tiny shrines built directly into the steps (e.g., Modhera Sun Temple)."
+          ]
+        },
+        {
+          "name": "The Southern Dravida Architectural Style",
+          "bullets": [
+            " <b>The Chola Structural Typology: </b> Enclosed within a fortified compound wall. The entrance gateway is marked by a massive, highly decorative pyramidal tower known as a <b>Gopuram </b>. The main tower over the Garbhagriha is a multi-story, stepped pyramid called a <b>Vimana </b>, which rises vertically and is crowned by a single monolithic octagonal dome-shaped stone called a **Shikhara**.",
+            " <b>Distinct Dravidian Assets: </b> Includes pillared assembly halls (*Mandapas*), dedicated water tanks (*Kalyani/Pushkarani*) located inside the temple walls, and a large open courtyard around the central shrine."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Hybridizations & Regional Transitions",
+      "subtopics": [
+        {
+          "name": "The Vesara and Hoysala Manifestations",
+          "bullets": [
+            " <b>The Vesara Style (Chalukya and Rashtrakuta): </b> A hybrid architectural style that blends the circular or star-shaped floor plan of the Nagara style with the stepped, tiered Vimana layout of the southern Dravida style. Its development can be traced across sites like Badami, Aihole, and Pattadakal.",
+            " <b>The Hoysala Idiom: </b> Built using soft, fine-grained **Soapstone (Chloritic Schist)**, which allowed artisans to execute extremely intricate, jewel-like deep carvings. Shrines are built on a star-shaped (**Stellated**) ground plan raised on a wide platform called a *Jagati*, featuring multiple shrines clustered together around a common assembly space (e.g., Chennakesava Temple at Belur, Hoysaleswara Temple at Halebidu)."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_8": {
-    "title": "Bhakti Movement, Sufism & Vijayanagara Empire",
-    "phases": [
-      {
-        "phaseName": "Socio-Religious Mysticism & Deccani Imperialism",
-        "subtopics": [
-          {
-            "name": "Bhakti Dualism, Sufi Silsilahs & Nayaka Administration",
-            "bullets": [
-              "<b>Bhakti Philosophical Splits:</b> 1. <i>Saguna Bhakti:</i> Worshipped God in a personalized, anthropomorphic form with distinct attributes (e.g., Tulsidas, Chaitanya, Mirabai). 2. <i>Nirguna Bhakti:</i> Worshipped an abstract, formless, omnipresent reality without physical attributes (e.g., Kabir, Guru Nanak).",
-              "<b>Sufi Order (Silsilah) Dynamics:</b> 1. <i>Chishti Silsilah:</i> Established in India by Moinuddin Chishti; emphasized simple living, spiritual music (Sama), and **stayed away from state politics**. 2. <i>Suhrawardi Silsilah:</i> Accepted state appointments, accumulated wealth, and operated primarily in Punjab and Sindh.",
-              "<b>Vijayanagara Empire (1336–1646):</b> Founded by Harihara and Bukka of the Sangama dynasty. Reached its peak under **Krishnadevarva** (Tuluva dynasty), who authored the Telugu classic <i>Amuktamalyada</i>. Developed the **Ayagar and Nayaka systems**, where military chiefs (Nayakas) were granted land revenues (Amaram) in exchange for maintaining military forces for the King. Visited by foreign travelers like Nicolo de Conti, Abdur Razzaq, and Domingo Paes."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Modern India: European Descent, British Expansion & Economic Drain Theory",
+  "phases": [
+    {
+      "phaseName": "Phase 1: European Mercantilism & The Struggle for Hegemony",
+      "subtopics": [
+        {
+          "name": "Chronology and Factory Cartography",
+          "bullets": [
+            " <b>The Arrival Sequence: </b> The entry of European trading powers followed a strict chronological order: 1. <b>Portuguese </b> (1498; pioneered by Vasco da Gama, establishing factories at Calicut, Cochin, and Goa). 2. <b>Dutch </b> (1602; Vereenigde Oostindische Compagnie, focusing on Masulipatnam and Pulicat). 3. <b>English </b> (1600/1608; Surat, Madras, Calcutta). 4. <b>Danes </b> (1616; Tranquebar and Serampore). 5. <b>French </b> (1664; Compagnie des Indes Orientales, anchored at Surat and Pondicherry).",
+            " <b>The Portuguese Cartaz System: </b> Long before British dominance, the Portuguese established a naval monopoly in the Indian Ocean using the **Cartaz system** (mercantile licenses/passports), forcing all merchant ships to pay customs duties at their fortified bases."
+          ]
+        },
+        {
+          "name": "The Carnatic Wars & French Elimination",
+          "bullets": [
+            " <b>The Anglo-French Duel: </b> A reflection of European geopolitical rivalries (War of the Austrian Succession and the Seven Years' War) fought on Indian soil. Dupleix pioneered the strategy of intervening in the internal succession disputes of local rulers to secure political leverage.",
+            " <b>The Climax: </b> The **Battle of Wandiwash (1760)** saw British forces under Eyre Coote decisively defeat the French under Lally, permanently reducing French presence in India to isolated, unfortified commercial enclaves (Pondicherry, Chandernagore) and clearing the path for absolute British mercantile monopoly."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: British Expansionist and Diplomatic Stratagems",
+      "subtopics": [
+        {
+          "name": "The Dual Governance Pattern in Bengal",
+          "bullets": [
+            " <b>The Battles of Foundation: </b> The **Battle of Plassey (1757)** secured a political foothold in Bengal through conspiracy, while the **Battle of Buxar (1764)** established the British East India Company as a sovereign power. The resulting **Treaty of Allahabad (1765)** granted the Company the formal <b>Diwani Rights </b> (fiscal tax collection) over Bengal, Bihar, and Orissa.",
+            " <b>Robert Clive’s Dual System (1765–1772): </b> Separated executive power from administrative responsibility. The Company held the **Diwani** (revenue collection) and controlled the **Nizamat** (military power/internal security) without any public accountability, while the puppet Nawab of Bengal was left with the responsibility of civil administration and maintaining law and order without any financial resources."
+          ]
+        },
+        {
+          "name": "Annexation Frameworks: Wellesley and Dalhousie",
+          "bullets": [
+            " <b>The Subsidiary Alliance System (Lord Wellesley): </b> A diplomatic tool used to subjugate Indian princely states without direct annexation. Allying rulers were legally bound to permanently station a British standing army within their territory at their own expense, dismiss all non-English Europeans from their service, and route all foreign diplomacy through a resident British official. The Nizam of **Hyderabad (1798)** was the first to sign.",
+            " <b>The Doctrine of Lapse (Lord Dalhousie): </b> An aggressive annexation policy stating that if an allied princely state's ruler died without a natural male heir, the sovereignty of the state lapsed directly to the British Crown, explicitly rejecting the traditional right of adopting an heir. Used to annex **Satara (1848)**, **Jhansi (1853)**, and **Nagpur (1854)**. **Awadh (1856)** was annexed using a unique alternative justification: chronic administrative 'misgovernance'."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Imperial Economic Matrix & Drain Theory",
+      "subtopics": [
+        {
+          "name": "De-Industrialization and Commercialization of Agriculture",
+          "bullets": [
+            " <b>The One-Way Free Trade Model: </b> British fiscal policy systematically dismantled India's traditional handloom and handicraft industries. High protective tariffs were levied against Indian textiles entering Britain, while British machine-made cotton goods flooded Indian markets duty-free, transforming India from a major exporter of finished goods into a classic colonial supplier of raw materials.",
+            " <b>Forced Cash-Crop Cultivation: </b> Shipped the agrarian economy away from food grains toward market-driven commercial crops like **Indigo, Opium, Cotton, and Tea** to feed British manufacturing lines and export networks, making Indian peasants highly vulnerable to global market fluctuations and causing severe, localized food famines."
+          ]
+        },
+        {
+          "name": "The Economic Drain Framework",
+          "bullets": [
+            " <b>Dadabhai Naoroji’s Poverty and Un-British Rule in India: </b> Formulated the <b>'Economic Drain Theory' </b>, explaining that a significant portion of India’s national wealth and revenues was being systematically exported to Britain annually without any equivalent material or economic return.",
+            " <b>The Channels of Drain: </b> This drain operated primarily through **'Home Charges'** remitted to London, which included: 1. Interest payments on the public debt incurred to fund British expansionist wars. 2. Military expenditures and pensions of British officers. 3. Guaranteed interest returns (5%) promised to British private investors in the Indian Railways network. This systematic siphon was also analyzed by RC Dutt in his work *Economic History of India*."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_9": {
-    "title": "British Expansion - Battle of Plassey, Buxar & Subsidiary Alliance",
-    "phases": [
-      {
-        "phaseName": "Mercantile Hegemony & Annexation Treaties",
-        "subtopics": [
-          {
-            "name": "Military Engagements & Imperial Land Alliances",
-            "bullets": [
-              "<b>Battle of Plassey (1757):</b> Robert Clive defeated Nawab Siraj-ud-Daulah of Bengal through the defection of military commander Mir Jafar. It marked the EIC's transition from a purely commercial entity to a political kingmaker in India.",
-              "<b>Battle of Buxar (1764):</b> The combined forces of Mir Qasim (Bengal), Shuja-ud-Daulah (Awadh), and Shah Alam II (Mughal Emperor) were defeated by Hector Munro's British troops. This led to the **Treaty of Allahabad (1765)**, which granted the East India Company the **Diwani Rights** (the right to collect civil revenue) over Bengal, Bihar, and Odisha.",
-              "<b>Subsidiary Alliance System:</b> Perfected by **Lord Wellesley**. Indian rulers who entered the alliance had to permanently disband their own armies and maintain a British contingent within their territory at their own expense. They also had to station a British Resident at their court and could not employ any other European or enter into foreign alliances without EIC consent. **Hyderabad** was the first state to accept it (1798).",
-              "<b>Doctrine of Lapse:</b> Implemented by **Lord Dalhousie**. It dictated that if an Indian ruler of a dependent state died without a natural male heir, the state was automatically annexed by the British Crown; adopted heirs were not recognized. Used to annex Satara (1848), Sambalpur, Jhansi (1853), and Nagpur. **Trap:** Awadh was annexed in 1856 on charges of **misgovernance**, not the Doctrine of Lapse."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Modern India: Tribal & Peasant Uprisings, Revolt of 1857",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Tribal Resistance and Forest Rebellions",
+      "subtopics": [
+        {
+          "name": "The Anti-Encroachment Outbursts",
+          "bullets": [
+            " <b>Santhal Rebellion (Hool - 1855-56): </b> Led by Sidhu and Kanhu in the Rajmahal hills (Damin-i-koh). It was a fierce reaction against the introduction of the Permanent Settlement, which brought in corrupt moneylenders (**Dikus**) and British police who seized ancestral lands. It resulted in the creation of the separate **Santhal Pargana** district to pacify the region.",
+            " <b>Munda Rebellion (Ulgulan - 1899-1900): </b> Spearheaded by Birsa Munda south of Ranchi. The movement targeted the destruction of the **Khuntkatti System** (traditional tribal joint land ownership) by colonial land contracts and contractors. Birsa used messianic imagery to declare the end of British rule, leading to the enactment of the **Chota Nagpur Tenancy Act, 1908**.",
+            " <b>Rampa Rebellion (1922-24): </b> Formed along the Godavari agency tracts, led by Alluri Sitarama Raju (a non-tribal leader). It was triggered by the **Madras Forest Act, 1882**, which restricted the tribal community's freedom to practice traditional shifting cultivation (*Podu*) and collect minor forest produce."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Peasant Insurgencies & Radical Agrarian Fronts",
+      "subtopics": [
+        {
+          "name": "The Anti-Planter and Anti-Landlord Movements",
+          "bullets": [
+            " <b>Indigo Revolt (Nil Vidroha - 1859-60): </b> Began in Nadia, Bengal, led by Digambar and Bishnu Biswas. Peasants refused to grow indigo under the exploitative **Dadni system** (forced advance contracts). Notably supported by Bengali intellectuals, highlighted in Dinabandhu Mitra's play <i>Nil Darpan</i> and championed by Harish Chandra Mukherjee’s journal *Hindu Patriot*.",
+            " <b>Deccan Riots (1875): </b> Centered in Pune and Ahmednagar. It was a targeted uprising where ryots systematically attacked Marwari and Gujarati moneylenders, burning debt bonds and account books. The unrest was triggered by steep land revenue hikes under the Ryotwari system and post-American Civil War cotton price crashes, leading to the **Deccan Agriculturists Relief Act, 1879**.",
+            " <b>Pabna Agrarian Leagues (1873): </b> Emerged in East Bengal against excessive rent hikes by Zamindars. Peasants formed a league to fight legal battles, stating they wanted to be 'ryots of Her Majesty the Queen' alone, displaying a **constitutional approach to resistance** rather than anti-British sentiment."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Revolt of 1857",
+      "subtopics": [
+        {
+          "name": "Socio-Military and Administrative Triggers",
+          "bullets": [
+            " <b>The Multi-Layered Causation Matrix: </b> 1. *Economic:* Direct destruction of artisans and exploitation of peasants via land revenue settlements. 2. *Political:* Discontent among elites due to the Doctrine of Lapse and the annexation of Awadh. 3. *Socio-Religious:* Fear of forced conversions driven by the Lex Loci Act, 1850 (allowing Christian converts to inherit ancestral property) and the General Service Enlistment Act, 1856 (forcing sepoys to cross the seas, violating caste taboos).",
+            " <b>The Immediate Trigger: </b> The introduction of the **Enfield Rifle**, which required sepoys to bite off grease-paper cartridges rumored to be coated with beef and pork fat, directly offending both Hindu and Muslim religious sentiments."
+          ]
+        },
+        {
+          "name": "Spatial Distribution, Leaders, and Failure Mechanics",
+          "bullets": [
+            " <b>The Urban Storm Centers: </b> Delhi (nominal leadership under Bahadur Shah Zafar, military command under **Bakht Khan**), Kanpur (**Nana Sahib** and Tantia Tope), Lucknow (**Begum Hazrat Mahal**), Jhansi (**Rani Lakshmibai**), and Arrah/Jagdishpur (**Kunwar Singh**).",
+            " <b>Structural Failures: </b> The revolt remained geographically isolated, failing to affect southern India, the Punjab, or Bengal. Modern educated Indians and major princely rulers (e.g., Scindia of Gwalior, Nizam of Hyderabad) actively supported the British, leading Governor-General Canning to call them **'breakwaters in the storm'**."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_10": {
-    "title": "Economic Impact of British Rule & Land Revenue Systems",
-    "phases": [
-      {
-        "phaseName": "Colonial Agrarian Settlements & Wealth Drain",
-        "subtopics": [
-          {
-            "name": "Permanent Settlement, Ryotwari, Mahalwari & Deindustrialization",
-            "bullets": [
-              "<b>Permanent Settlement (Bengal, 1793):</b> Introduced by Lord Cornwallis. **Zamindars were recognized as absolute owners of the land**. The land revenue demand was fixed permanently, and if a Zamindar failed to pay by sunset on a specified day, their land was auctioned off (**Sunset Law**). The state received $\\frac{10}{11}$ of the revenue, leaving $\\frac{1}{11}$ for the Zamindar.",
-              "<b>Ryotwari Settlement (Madras/Bombay):</b> Developed by Thomas Munro and Captain Alexander Read. Settlements were made **directly with the individual cultivators (Ryots)** without intermediate Zamindars. The revenue was fixed for 20-30 years based on soil productivity and could be revised upward, with the tax rate set around 50-60%.",
-              "<b>Mahalwari Settlement (North-West Provinces):</b> Engineered by Holt Mackenzie. The revenue settlement was made collectively with the **village community or estate (Mahal)**. Village headmen (Lambardars) were responsible for collecting the tax share.",
-              "<b>Economic Drain Theory:</b> Popularized by **Dadabhai Naoroji** in his book <i>Poverty and Un-British Rule in India</i> (1901). He demonstrated that Britain was systematically extracting unilateral wealth and resources out of India without equivalent economic returns, using instruments like 'Home Charges' and public debt balances."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "Modern India: Socio-Religious Reform Movements",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Rationalist Reform Waves in Bengal (The Early Phase)",
+      "subtopics": [
+        {
+          "name": "The Brahmo Samaj Evolution & Schisms",
+          "bullets": [
+            " <b>Raja Ram Mohan Roy & Foundation (1828): </b> Championed a rationalist, monotheistic purge of Hinduism based on a modern synthesis of the Upanishads. He vigorously attacked idol worship, the hereditary caste hierarchy, and spearheaded the intellectual crusade against Sati, which culminated in the landmark **Sati Abolition Regulation XVII of 1829** by Lord William Bentinck.",
+            " <b>The Structural Schisms: </b> Following Roy's demise, the movement split along ideological lines: 1. <b>Adi Brahmo Samaj: </b> Led by Debendranath Tagore (who also founded the *Tattvabodhini Sabha*), favoring a gradualist approach rooted strictly in pure Hindu monotheism. 2. <b>Brahmo Samaj of India (1866): </b> Led by Keshab Chandra Sen, adopting a radical, universalist approach that integrated Christian and Islamic scriptures. This faction split further into the **Sadharan Brahmo Samaj (1878)** after Sen violated his own progressive principles by marrying off his minor daughter to the Maharaja of Cooch Behar."
+          ]
+        },
+        {
+          "name": "The Radical Young Bengal Movement",
+          "bullets": [
+            " <b>Henry Vivian Derozio's Legacy: </b> An intellectual storm center at Hindu College. Derozio inspired his students (**Derozians**) to draw inspiration from the French Revolution, passionately preaching radical free thought, questioning all traditional authority, and demanding women's education and freedom of expression."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Revivalist Currents & Pan-Indian Expansions",
+      "subtopics": [
+        {
+          "name": "Arya Samaj and The Vedic Revival",
+          "bullets": [
+            " <b>Swami Dayanand Saraswati (1875): </b> Issued the call **'Back to Vedas'**, viewing the later Puranic literature as a source of corruption for Hindu society. He rejected polytheism and child marriage, and championed merit-based Varna mobility while authoring the *Satyarth Prakash*.",
+            " <b>Suddhi and The DAV Split: </b> Introduced the controversial **Shuddhi Movement** to convert or reconvert individuals back to Hinduism. The organization later suffered a permanent structural split over educational curriculum formatting: 1. *The College Party (Radicals like Lala Lajpat Rai and Hansraj):* Favored modern, western English education, establishing the **Dayanand Anglo-Vedic (DAV)** network. 2. *The Gurukul Party (Conservatives like Swami Shraddhanand):* Advocated for traditional, Sanskrit-heavy indigenous education, founding the *Gurukul Kangri* at Haridwar."
+          ]
+        },
+        {
+          "name": "Ramakrishna Mission and Theosophical Invasions",
+          "bullets": [
+            " <b>Swami Vivekananda (1897): </b> Synthesized the mystical teachings of Ramakrishna Paramahamsa with practical **Neo-Vedanta** philosophy. He emphasized human dignity and social service over isolated monastic ritualism, capturing global attention at the 1893 Parliament of Religions in Chicago.",
+            " <b>Theosophical Society (Annie Besant): </b> Founded globally by Blavatsky and Olcott, but anchored in India at Adyar (Madras) by Annie Besant. It acted as an external revivalist force, glorifying ancient Hindu philosophical achievements to restore national self-respect, and laid infrastructure foundations like the **Central Hindu College at Benares (1898)**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Subaltern Anti-Caste & Islamic Reform Formations",
+      "subtopics": [
+        {
+          "name": "Western and Southern Subaltern Awakenings",
+          "bullets": [
+            " <b>Satyashodhak Samaj (1873): </b> Founded in Maharashtra by **Jyotirao Phule** (author of *Gulamgiri* and *Sarvajanik Satyadharma*). It was a powerful, direct assault against Brahminical priestly hegemony, explicitly championing the socio-educational liberation of low-caste Shudras and Ati-Shudras.",
+            " <b>Self-Respect Movement & SNDP Axis: </b> In the South, **E.V. Ramaswamy Naicker (Periyar)** launched the radical *Self-Respect Movement* to dismantle Brahminical dominance and promote rationalism. Simultaneously, **Sri Narayana Guru** led the *SNDP Yogam* among the marginalized Ezhavas of Kerala, coinining the immortal socio-religious directive: <i>'One Caste, One Religion, One God for Mankind'</i>."
+          ]
+        },
+        {
+          "name": "Islamic Reform Formations: Aligarh vs Deoband",
+          "bullets": [
+            " <b>Aligarh Movement (Sir Syed Ahmed Khan): </b> A progressive, pro-modernization initiative centered around the **Muhammadan Anglo-Oriental College (1875)**. It advocated for the adoption of modern Western scientific education and rationalist interpretations of the Quran to uplift the Muslim community within the British framework.",
+            " <b>Deoband School (Orthodox Revival): </b> Founded by Mohammad Qasim Nanautavi and Rashid Ahmad Gangohi as a conservative counter-force. It operated as a strict **revivalist seminary** (*Dar-ul-Uloom*) that rejected Western education, aiming instead to preserve orthodox Islamic scriptural purity and train students for active anti-colonial resistance."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_11": {
-    "title": "Revolt of 1857 & Socio-Religious Reform Movements",
-    "phases": [
-      {
-        "phaseName": "Anti-Colonial Rebellions & Renaissance Re-awakenings",
-        "subtopics": [
-          {
-            "name": "The Sepoy Mutiny & Modern Rationalist Reforms",
-            "bullets": [
-              "<b>The Revolt of 1857 Mechanics:</b> Sparked at Meerut by sepoys protesting the introduction of Enfield rifles with greased cartridges. It spread rapidly across northern India, drawing in displaced rulers like Nana Sahib, Tantia Tope, and Rani Laxmibai. **UPSC Trap:** The revolt remained geographically limited, failing to gain traction in southern India, and was **opposed by western-educated middle classes** and major princely rulers.",
-              "<b>Raja Ram Mohan Roy & Brahmo Samaj:</b> Founded the Brahmo Samaj in 1828 to promote rationalism, monotheism, and human dignity, while campaigning against idolatry and polygamy. His persistent efforts led to the **Abolition of Sati Regulation in 1829** by Governor-General Lord William Bentinck.",
-              "<b>Key Reformers to Memorize:</b> 1. <i>Ishwar Chandra Vidyasagar:</i> His tireless legal advocacy led to the passage of the **Hindu Widows' Remarriage Act, 1856**. 2. <i>Jyotirao Phule:</i> Founded the **Satyashodhak Samaj** (1873) in Maharashtra to challenge caste oppression and champion anti-priestly education for lower castes. 3. <i>Swami Dayanand Saraswati:</i> Founded the Arya Samaj (1875), coined the slogan **'Back to the Vedas'**, and rejected hereditary caste hierarchies."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "National Movement: Foundation of INC, Moderates vs Extremists, Swadeshi (1885-1915)",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Foundation of INC & The Moderate Era (1885-1905)",
+      "subtopics": [
+        {
+          "name": "Pre-Congress Political Formations & The Safety Valve Debate",
+          "bullets": [
+            " <b>The Pre-INC Institutional Crucible: </b> Nationalist consciousness was organized by key regional bodies prior to 1885, including the **Indian Association of Calcutta** (founded by Surendranath Banerjee and Ananda Mohan Bose), the **Poona Sarvajanik Sabha** (led by MG Ranade), and the **Bombay Presidency Association** (led by Pherozeshah Mehta and Badruddin Tyabji).",
+            " <b>The Safety Valve vs Lightning Conductor Models: </b> A premier UPSC historiographical debate. The legacy *'Safety Valve Theory'* suggests the Indian National Congress (INC) was engineered by retired British civil servant A.O. Hume under instructions from Viceroy Dufferin to provide a peaceful outlet for growing political discontent. Modern historians champion the *'Lightning Conductor Theory'*, arguing early Indian leaders used Hume as an organizing catalyst to avoid immediate British suppression."
+          ]
+        },
+        {
+          "name": "Moderate Strategy & Constitutional Agitation",
+          "bullets": [
+            " <b>The 3Ps Methodology: </b> Dominated by early elites like Dadabhai Naoroji, Dinshaw Wacha, and Gopal Krishna Gokhale. Their political strategy relied on constitutional methods: <b>Prayer, Petition, and Protest</b>, aimed at reforming the colonial administration from within rather than demanding absolute independence.",
+            " <b>The Economic Critique Legacy: </b> The greatest achievement of the Moderates was building a devastating economic critique of British rule. Through meticulous fiscal data, they exposed the economic drainage of wealth, the systematic destruction of handicrafts, and the creation of artificial agrarian famines, permanently undermining the moral legitimacy of British imperialism."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Ideological Radicalization & The Extremist Rise",
+      "subtopics": [
+        {
+          "name": "The Ideological and Tactical Fault Lines",
+          "bullets": [
+            " <b>The Lal-Bal-Pal Triumph: </b> Driven by escalating discontent with Moderate failures, rising unemployment among educated youth, and aggressive imperial policies under Lord Curzon. Led by **Lala Lajpat Rai, Bal Gangadhar Tilak, and Bipin Chandra Pal**, alongside **Aurobindo Ghosh**.",
+            " <b>Tactical Shifts: </b> Extremists rejected the Moderate 3Ps, replacing them with a philosophy of militant nationalism. They demanded immediate **Swaraj** (Absolute Self-Rule), utilized mass boycotts of British goods, promoted national education grids, and integrated cultural symbols like Tilak’s **Ganpati and Shivaji Festivals** to build popular mass consciousness."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Swadeshi Movement & The Surat Split",
+      "subtopics": [
+        {
+          "name": "The Anti-Partition Explosion (1905)",
+          "bullets": [
+            " <b>Curzon's Spatial Cleavage: </b> Lord Curzon partitioned Bengal in 1905 under the administrative pretext of managing a massive province. The true strategic goal was to break the intellectual center of Indian nationalism by dividing the population along religious lines: Muslim-majority East Bengal and Hindu-majority West Bengal.",
+            " <b>The Swadeshi Toolkit: </b> Triggered on August 7, 1905, with mass protests at Calcutta Town Hall. The movement introduced **Atmasakti (Self-Reliance)**, witnessed Rabindranath Tagore composing *Amar Shonar Bangla* as a symbol of unity, and saw the widespread picketing of foreign cloth shops. A major UPSC trap is that **industrial workers and students** mobilized massively, but the movement failed to systematically bridge the gap to the wider agrarian peasantry."
+          ]
+        },
+        {
+          "name": "The Surat Split (1907) & Colonial Repression",
+          "bullets": [
+            " <b>The Break at Surat: </b> Tensions between Moderates and Extremists peaked at the **1907 Surat Session** (presided over by Rash Behari Ghosh) over two major issues: the selection of the Congress President and the geographical expansion of the Swadeshi/Boycott movement outside Bengal (which the Moderates resisted). The resulting organizational split left the leaderless Congress vulnerable to targeted British crackdowns.",
+            " <b>The Repressive Legislative Guillotine: </b> Following the split, the British government passed a series of harsh laws to suppress the nationalist press and public meetings, including the **Seditious Meetings Act (1907)**, the **Newspapers (Incitement to Offences) Act (1908)**, and the **Indian Press Act (1910)**, while sentencing Tilak to six years of exile in Mandalay Prison."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_12": {
-    "title": "Indian National Movement - Moderate, Extremist & Gandhian Phases",
-    "phases": [
-      {
-        "phaseName": "The Struggle for Swaraj & Mass Mobilization",
-        "subtopics": [
-          {
-            "name": "Moderate Politics vs Swadeshi Surge & Gandhian Satyagrahas",
-            "bullets": [
-              "<b>Indian National Congress Foundation (1885):</b> Founded at Bombay by retired British civil servant **Allan Octavian Hume**. The first official session was presided over by Womesh Chandra Bonnerjee.",
-              "<b>Moderate Phase (1885–1905):</b> Led by leaders like Dadabhai Naoroji, Pherozeshah Mehta, and Gopal Krishna Gokhale. They utilized constitutional methods summarized as the **3 Ps: Petition, Prayer, and Protest**, focusing on highlighting colonial economic exploitation.",
-              "<b>The Swadeshi Movement (1905–1908):</b> Launched to protest **Lord Curzon's Partition of Bengal** along communal lines. It introduced mass political tactics like boycotting British goods, promoting national education, and fostering indigenous industries. Led by Extremist leaders like Lal, Bal, and Pal (Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal). It culminated in the **Surat Split of 1907**, where Moderates expelled the Extremists from the INC.",
-              "<b>The Gandhian Mass Satygraha Movements:</b> 1. <i>Non-Cooperation Movement (1920–1922):</i> Integrated with the Khilafat movement to build cross-community mobilization against the Rowlatt Act. Abruptly suspended by Gandhi following the outbreak of violence at the **Chauri Chaura incident**. 2. <i>Civil Disobedience Movement (1930):</i> Initiated by the **Dandi Salt March** to break the state salt monopoly. 3. <i>Quit India Movement (1942):</i> Launched during WWII following the failure of the Cripps Mission. Gandhi gave the call **'Do or Die'**, leading to instant preemptive arrests under Operation Zero Hour and sparking a widespread, decentralized popular uprising."
-            ]
-          }
-        ]
-      }
-    ]
-  },
+  "title": "National Movement: Gandhian Mass Movements & Evolving Press/Education Policies",
+  "phases": [
+    {
+      "phaseName": "Phase 1: The Satyagraha Transition & Early Mass Mobilization",
+      "subtopics": [
+        {
+          "name": "The Regional Laboratories of Satyagraha",
+          "bullets": [
+            " <b>The Early Trilogy (1917-1918): </b> Before launching pan-Indian movements, Gandhi refined his political methods through three localized interventions: 1. <b>Champaran Satyagraha (1917): </b> India's first civil disobedience movement, launched against European planters enforcing the exploitative <b>Tinkathia System </b> (forcing peasants to cultivate indigo on 3/20th of their land). 2. <b>Ahmedabad Mill Strike (1918): </b> First hunger strike, intervening in a dispute between mill owners and workers over the withdrawal of the 'Plague Bonus'. 3. <b>Kheda Satyagraha (1918): </b> First non-cooperation movement, demanding revenue suspensions due to crop failures.",
+            " <b>The Rowlatt Satyagraha (1919): </b> The first pan-Indian political agitation, directed against the Rowlatt Act which allowed indefinite detention without trial. It led to the **Jallianwala Bagh Massacre**, prompting Rabindranath Tagore to renounce his British Knighthood in protest."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: The Three Great Waves of Nation-Wide Agitation",
+      "subtopics": [
+        {
+          "name": "Non-Cooperation & Khilafat Movement (1920-1922)",
+          "bullets": [
+            " <b>Strategic Integration: </b> Merged the anti-imperialist Hindu grievance over the Rowlatt Act and Punjab wrongs with the Muslim **Khilafat Movement** (led by the Ali brothers to restore the Ottoman Caliphate), creating unprecedented communal harmony.",
+            " <b>The Program and Halt: </b> Involved the systematic boycott of government schools, courts, and foreign cloth, replaced by *Charkha* weaving and *Khadi*. Gandhi abruptly suspended the movement in February 1922 following the **Chauri Chaura incident**, where a mob burned a police station, asserting that the masses had not yet fully understood the discipline of non-violence (*Ahimsa*)."
+          ]
+        },
+        {
+          "name": "Civil Disobedience & The Dandi March (1930-1934)",
+          "bullets": [
+            " <b>Salt as a Universal Catalyst: </b> Launched on March 12, 1930, with the **Dandi March** from Sabarmati Ashram to the Gujarat coast. Salt was chosen because it was an absolute necessity for every section of society, exposed the injustice of the government monopoly, and bypassed internal class conflicts.",
+            " <b>The Spatial Grid of Resistance: </b> Mobilized massive participation among women, peasants, and merchants. Key regional fronts included the salt satyagraha at **Vedaranyam** led by C. Rajagopalachari in Tamil Nadu, the **Dharasana Satyagraha** led by Sarojini Naidu, and the *Khudai Khidmatgar* (Red Shirts) movement led by Khan Abdul Ghaffar Khan in the Northwest Frontier."
+          ]
+        },
+        {
+          "name": "Quit India Movement & The Leadership Vacuum (1942)",
+          "bullets": [
+            " <b>The Do or Die Mandate: </b> Launched in the wake of the failure of the **Cripps Mission**. With the outbreak of World War II and the threat of a Japanese invasion, Gandhi issued the slogan **'Do or Die'** at the Gowalia Tank Maidan in Bombay.",
+            " <b>Spontaneous Decentralization: </b> Unlike previous movements, the British pre-emptively arrested the entire top-tier Congress leadership under **Operation Zero Hour** on day one. This triggered a spontaneous, highly decentralized mass uprising characterized by underground radio networks (run by Usha Mehta) and the formation of **Parallel Governments** (*Prati Sarkars*) in Satara, Baliya, and Tamluk."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Colonial Policy Matrices: Press and Education",
+      "subtopics": [
+        {
+          "name": "Evolution of Press Censors and Controls",
+          "bullets": [
+            " <b>The Vernacular Press Act (1878): </b> Introduced by Lord Lytton to suppress nationalist critique in local languages, earning it the title **'Gagging Act'**. It empowered District Magistrates to confiscate printing presses without any right of appeal. Notably, the *Amrita Bazar Patrika* overnight converted itself into an English weekly to escape the law.",
+            " <b>The Press Emergency Codes: </b> Included the **Metcalfe Act (1835)**, which liberated the early press, and the harsh **Indian Press Act of 1910**, which reinstituted heavy security deposits to silence the expanding nationalist editorial grids."
+          ]
+        },
+        {
+          "name": "Educational Dispatches and Ideological Contests",
+          "bullets": [
+            " <b>Macaulay’s Minute (1835): </b> Settled the Orientalist-Anglicist controversy by enforcing Western English-medium education, aiming to create a class of Indians 'Indian in blood and color, but English in taste and intellect'.",
+            " <b>The Policy Landmarks: </b> 1. <b>Wood’s Despatch (1854): </b> Termed the **'Magna Carta of English Education in India'**; created a structured hierarchy of vernacular primary schools, Anglo-vernacular high schools, and universities. 2. <b>Hunter Commission (1882): </b> Recommended transferring control of primary education to district and municipal boards. 3. <b>Wardha Scheme of Basic Education (1937): </b> Engineered by Gandhi, focusing on *Nai Talim* (learning through crafts and manual labor in mother tongues)."
+          ]
+        }
+      ]
+    }
+  ]
+},
   "his_13": {
-    "title": "Post-Independence Consolidation & Reorganization of States",
-    "phases": [
-      {
-        "phaseName": "Immediate Integration & Princely States Tensions",
-        "subtopics": [
-          {
-            "name": "The Patel-Menon Plan & Tribal Accessions",
-            "bullets": [
-              "<b>The Integration Crucible:</b> At independence, India was fragmented into British provinces and over <b>562 princely states</b>. Sardar Vallabhbhai Patel (States Minister) and V.P. Menon (Secretary) orchestrated their integration using a mix of diplomacy, geopolitical pressure, and the <b>Instrument of Accession</b>.",
-              "<b>The Three Holdout States (High-Yield):</b> 1. <i>Junagadh:</i> The Muslim Nawab desired accession to Pakistan despite a majority Hindu population; integrated in late 1947 following a popular uprising and a subsequent **Plebiscite** that voted overwhelmingly for India. 2. <i>Hyderabad:</i> The Nizam attempted to remain independent or join Pakistan, unleashing militant 'Razakars' on the population; integrated in September 1948 via a decisive 5-day military operation code-named <b>Operation Polo</b>. 3. <i>Jammu & Kashmir:</i> Maharaja Hari Singh signed the Instrument of Accession on **October 26, 1947**, only after tribal Pathan raiders backed by the Pakistani army invaded the state, prompting immediate Indian military intervention."
-            ]
-          }
-        ]
-      },
-      {
-        "phaseName": "Linguistic Reorganization & Redrawing Borders",
-        "subtopics": [
-          {
-            "name": "Commission Timelines & The 1956 Structural Overhaul",
-            "bullets": [
-              "<b>The Dhar Commission (1948):</b> Appointed by the Government to examine the demand for linguistic states; it strongly **rejected language as the primary basis** for redrawing borders, recommending administrative convenience instead.",
-              "<b>The JVP Committee (1948):</b> Comprised Jawaharlal Nehru, Vallabhbhai Patel, and Pattabhi Sitaramayya. It also formally **rejected language as a basis for state creation**, fearing it would threaten national security and unity in the wake of partition.",
-              "<b>The Potti Sriramulu Catalyst (1952):</b> Following a historic 56-day hunger strike unto death by Telugu activist Potti Sriramulu, intense public pressure forced the government to concede, creating the **first linguistic state: Andhra State** in October 1953 (carved out of Madras province).",
-              "<b>Fazl Ali Commission & State Reorganisation Act (1956):</b> A 3-member States Reorganisation Commission (SRC) comprising Fazl Ali, K.M. Panikkar, and H.N. Kunzru. It **accepted language as a broad basis** for reorganization but rejected the 'one language, one state' theory. This directly led to the <b>States Reorganisation Act of 1956</b>, which abolished the old complex Part A, B, C, D state categories and established a clean matrix of <b>14 States and 6 Union Territories</b>."
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "title": "National Movement: Revolutionary Nationalists, Left Politics, INA & Partition",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Revolutionary Nationalism & Underground Formations",
+      "subtopics": [
+        {
+          "name": "The First Wave: Bengal and Punjab Secret Societies",
+          "bullets": [
+            " <b>Anushilan and Jugantar Lines: </b> Early underground networks in Bengal practicing political assassinations and targeted expropriations. **Anushilan Samiti** (founded by Pramathanath Mitra, Jatindranath Banerjee, and Barindra Kumar Ghosh) operated as a highly disciplined secret society. Its cadre attempted the assassination of Magistrate Kingsford at Muzaffarpur (1908), which exposed the clandestine **Alipore Bomb Case** manufacturing grid.",
+            " <b>The Ghadar Movement (1913): </b> An international revolutionary conspiracy organized by expatriate Punjabi workers in North America, centered around headquarters (*Yugantar Ashram*) in San Francisco. Led by **Lala Hardayal, Sohan Singh Bhakna, and Rash Behari Bose**, the movement sought to trigger a multi-regimental mutiny across the British Indian Army during World War I, but was systematically dismantled via pre-emptive intelligence leaks."
+          ]
+        },
+        {
+          "name": "The Second Wave: HSRA and the Chittagong Armoury Raid",
+          "bullets": [
+            " <b>The Socialist Shift (HSRA): </b> Founded originally as HRA (1924) by Ram Prasad Bismil and Sachin Sanyal (associated with the *Kakori Train Robbery*), it was reconstituted at Feroz Shah Kotla in 1928 as the **Hindustan Socialist Republican Association (HSRA)** under the ideological leadership of **Bhagat Singh, Sukhdev, and Chandrashekhar Azad**. This phase marked a transition from individual terrorism toward mass socialist mobilization, highlighted by the bombing of the Central Legislative Assembly (1929) to protest the anti-labor Public Safety Bill.",
+            " <b>Surya Sen’s Chittagong Raid (1930): </b> Surya Sen ('Masterda') organized the **Chittagong Revolutionary Army**, mounting a coordinated paramilitary raid on the local government armoury. Notably, the raid featured extensive, front-line combat participation by women revolutionaries like **Pritilata Waddedar and Kalpana Dutt**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Left Penetration & Wartime Internationalism",
+      "subtopics": [
+        {
+          "name": "Rise of Socialist and Communist Fronts",
+          "bullets": [
+            " <b>CPI and CSP Crystallization: </b> The **Communist Party of India (CPI)** was formed in Tashkent (1920) by M.N. Roy, later shifting underground into India via a series of British conspiracy trials (Peshawar, Kanpur, and the **Meerut Conspiracy Case of 1929**). Within the Congress, the **Congress Socialist Party (CSP)** was formed in 1934 by Jayaprakash Narayan, Acharya Narendra Deva, and Ram Manohar Lohia to systematically push the INC toward radical agrarian and labor platforms.",
+            " <b>The Trade Union Expansion: </b> Nationalist politics integrated the industrial working class through the **All India Trade Union Congress (AITUC)**, founded in 1920 with Lala Lajpat Rai serving as its inaugural president."
+          ]
+        },
+        {
+          "name": "Subhas Chandra Bose and the Indian National Army (INA)",
+          "bullets": [
+            " <b>The Tripuri Crisis & Forward Bloc: </b> Ideological rifts within the INC peaked at the **1939 Tripuri Session**, where Subhas Chandra Bose defeated Gandhi’s preferred candidate, Pattabhi Sitaramayya, for the presidency. Facing absolute resistance from the Congress Working Committee, Bose resigned and formed the **Forward Bloc** inside the Congress framework.",
+            " <b>The INA (Azad Hind Fauj) Strategy: </b> Initially conceptualized in Malaya by **Mohan Singh** with captured British Indian prisoners of war, the army was later revitalized by Bose in Singapore (1943). Backed by Imperial Japan, the INA launched an offensive into Northeast India, besieging Imphal and Kohima. Though militarily unsuccessful, the subsequent **Red Fort Trials (1945)** of INA officers (Prem Sehgal, Gurbaksh Dhillon, Shah Nawaz Khan) triggered a powerful wave of pan-Indian anti-colonial unity, culminating in the **Royal Indian Navy (RIN) Mutiny of 1946**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Evolving Constitutional Deadlocks & Partition Politics",
+      "subtopics": [
+        {
+          "name": "Wartime Declarations and Proposals",
+          "bullets": [
+            " <b>August Offer & Cripps Mission: </b> 1. <b>August Offer (1940): </b> Promised 'Dominion Status' at an unspecified date following World War II, which was rejected out of hand by Congress. 2. <b>Cripps Mission (1942): </b> Offered a post-war constituent assembly but introduced a dangerous loophole allowing individual provinces to opt out of the Indian Union, prompting Gandhi to call it a *'post-dated cheque on a crashing bank'*.",
+            " <b>The C.R. Formula (1944) & Wavell Plan: </b> C. Rajagopalachari proposed a tactical compromise allowing a plebiscite on Pakistan in Muslim-majority zones after independence, provided the Muslim League supported the immediate demand for freedom. This was rejected by Jinnah. The **Simla Conference (1945)** collapsed over Jinnah's demand that the Muslim League hold an absolute monopoly over nominating all Muslim members to the Viceroy's Executive Council."
+          ]
+        },
+        {
+          "name": "The Final Breakdown and Plan Balkan",
+          "bullets": [
+            " <b>Cabinet Mission Plan (1946): </b> Rejected the outright creation of Pakistan, recommending instead a loose, **three-tier federal grouping layout** (Groups A, B, and C based on communal majorities) with a weak center managing only defense, foreign affairs, and communications. Its collapse triggered the Muslim League's **Direct Action Day (August 16, 1946)**, igniting widespread communal violence.",
+            " <b>Mountbatten Plan & Partition: </b> Enacted via the **June 3rd Plan (1947)**, which formalized the partition of India and the immediate bisection of Bengal and Punjab. This layout was executed via the hasty, geographically blind boundaries drawn by the **Radcliffe Boundary Commission**, resulting in massive refugee migrations and unprecedented cross-border violence."
+          ]
+        }
+      ]
+    }
+  ]
+},
+  "his_14": {
+  "title": "National Movement: Revolutionary Nationalists, Left Politics, INA & Partition",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Revolutionary Nationalism & Underground Formations",
+      "subtopics": [
+        {
+          "name": "The First Wave: Bengal and Punjab Secret Societies",
+          "bullets": [
+            " <b>Anushilan and Jugantar Lines: </b> Early underground networks in Bengal practicing political assassinations and targeted expropriations. **Anushilan Samiti** (founded by Pramathanath Mitra, Jatindranath Banerjee, and Barindra Kumar Ghosh) operated as a highly disciplined secret society. Its cadre attempted the assassination of Magistrate Kingsford at Muzaffarpur (1908), which exposed the clandestine **Alipore Bomb Case** manufacturing grid.",
+            " <b>The Ghadar Movement (1913): </b> An international revolutionary conspiracy organized by expatriate Punjabi workers in North America, centered around headquarters (*Yugantar Ashram*) in San Francisco. Led by **Lala Hardayal, Sohan Singh Bhakna, and Rash Behari Bose**, the movement sought to trigger a multi-regimental mutiny across the British Indian Army during World War I, but was systematically dismantled via pre-emptive intelligence leaks."
+          ]
+        },
+        {
+          "name": "The Second Wave: HSRA and the Chittagong Armoury Raid",
+          "bullets": [
+            " <b>The Socialist Shift (HSRA): </b> Founded originally as HRA (1924) by Ram Prasad Bismil and Sachin Sanyal (associated with the *Kakori Train Robbery*), it was reconstituted at Feroz Shah Kotla in 1928 as the **Hindustan Socialist Republican Association (HSRA)** under the ideological leadership of **Bhagat Singh, Sukhdev, and Chandrashekhar Azad**. This phase marked a transition from individual terrorism toward mass socialist mobilization, highlighted by the bombing of the Central Legislative Assembly (1929) to protest the anti-labor Public Safety Bill.",
+            " <b>Surya Sen’s Chittagong Raid (1930): </b> Surya Sen ('Masterda') organized the **Chittagong Revolutionary Army**, mounting a coordinated paramilitary raid on the local government armoury. Notably, the raid featured extensive, front-line combat participation by women revolutionaries like **Pritilata Waddedar and Kalpana Dutt**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Left Penetration & Wartime Internationalism",
+      "subtopics": [
+        {
+          "name": "Rise of Socialist and Communist Fronts",
+          "bullets": [
+            " <b>CPI and CSP Crystallization: </b> The **Communist Party of India (CPI)** was formed in Tashkent (1920) by M.N. Roy, later shifting underground into India via a series of British conspiracy trials (Peshawar, Kanpur, and the **Meerut Conspiracy Case of 1929**). Within the Congress, the **Congress Socialist Party (CSP)** was formed in 1934 by Jayaprakash Narayan, Acharya Narendra Deva, and Ram Manohar Lohia to systematically push the INC toward radical agrarian and labor platforms.",
+            " <b>The Trade Union Expansion: </b> Nationalist politics integrated the industrial working class through the **All India Trade Union Congress (AITUC)**, founded in 1920 with Lala Lajpat Rai serving as its inaugural president."
+          ]
+        },
+        {
+          "name": "Subhas Chandra Bose and the Indian National Army (INA)",
+          "bullets": [
+            " <b>The Tripuri Crisis & Forward Bloc: </b> Ideological rifts within the INC peaked at the **1939 Tripuri Session**, where Subhas Chandra Bose defeated Gandhi’s preferred candidate, Pattabhi Sitaramayya, for the presidency. Facing absolute resistance from the Congress Working Committee, Bose resigned and formed the **Forward Bloc** inside the Congress framework.",
+            " <b>The INA (Azad Hind Fauj) Strategy: </b> Initially conceptualized in Malaya by **Mohan Singh** with captured British Indian prisoners of war, the army was later revitalized by Bose in Singapore (1943). Backed by Imperial Japan, the INA launched an offensive into Northeast India, besieging Imphal and Kohima. Though militarily unsuccessful, the subsequent **Red Fort Trials (1945)** of INA officers (Prem Sehgal, Gurbaksh Dhillon, Shah Nawaz Khan) triggered a powerful wave of pan-Indian anti-colonial unity, culminating in the **Royal Indian Navy (RIN) Mutiny of 1946**."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: Evolving Constitutional Deadlocks & Partition Politics",
+      "subtopics": [
+        {
+          "name": "Wartime Declarations and Proposals",
+          "bullets": [
+            " <b>August Offer & Cripps Mission: </b> 1. <b>August Offer (1940): </b> Promised 'Dominion Status' at an unspecified date following World War II, which was rejected out of hand by Congress. 2. <b>Cripps Mission (1942): </b> Offered a post-war constituent assembly but introduced a dangerous loophole allowing individual provinces to opt out of the Indian Union, prompting Gandhi to call it a *'post-dated cheque on a crashing bank'*.",
+            " <b>The C.R. Formula (1944) & Wavell Plan: </b> C. Rajagopalachari proposed a tactical compromise allowing a plebiscite on Pakistan in Muslim-majority zones after independence, provided the Muslim League supported the immediate demand for freedom. This was rejected by Jinnah. The **Simla Conference (1945)** collapsed over Jinnah's demand that the Muslim League hold an absolute monopoly over nominating all Muslim members to the Viceroy's Executive Council."
+          ]
+        },
+        {
+          "name": "The Final Breakdown and Plan Balkan",
+          "bullets": [
+            " <b>Cabinet Mission Plan (1946): </b> Rejected the outright creation of Pakistan, recommending instead a loose, **three-tier federal grouping layout** (Groups A, B, and C based on communal majorities) with a weak center managing only defense, foreign affairs, and communications. Its collapse triggered the Muslim League's **Direct Action Day (August 16, 1946)**, igniting widespread communal violence.",
+            " <b>Mountbatten Plan & Partition: </b> Enacted via the **June 3rd Plan (1947)**, which formalized the partition of India and the immediate bisection of Bengal and Punjab. This layout was executed via the hasty, geographically blind boundaries drawn by the **Radcliffe Boundary Commission**, resulting in massive refugee migrations and unprecedented cross-border violence."
+          ]
+        }
+      ]
+    }
+  ]
+},
+  "his_15": {
+  "title": "Post-Independence India: Tribal Integration, Linguistic Reorganization & Land Reforms",
+  "phases": [
+    {
+      "phaseName": "Phase 1: Princely Integration & Tribal Panchsheel",
+      "subtopics": [
+        {
+          "name": "The Geopolitical Consolidation (1947-1950)",
+          "bullets": [
+            " <b>The Accession Triumvirate: </b> Coordinated by Sardar Vallabhbhai Patel and V.P. Menon using the Instrument of Accession. While most states signed smoothly, three critical geopolitical deadlocks required unconventional interventions: 1. <b>Junagadh: </b> The Nawab acceded to Pakistan against the wishes of his majority population, resolved via a decisive **Plebiscite (1948)** in favor of India. 2. <b>Hyderabad: </b> The Nizam attempted to maintain an independent state backed by a brutal paramilitary force (*Razakars*), integrated into the Indian Union via a targeted military action code-named <b>Operation Polo (1948) </b>. 3. <b>Jammu & Kashmir: </b> Maharaja Hari Singh signed the Instrument of Accession in October 1947 following an invasion by Pakistani tribal raiders, leading to the deployment of Indian troops."
+          ]
+        },
+        {
+          "name": "Nehru's Tribal Panchsheel Policy",
+          "bullets": [
+            " <b>The Integrationist Alternative: </b> Formulated to protect indigenous communities from sudden market exploitation while avoiding isolation. The five guiding pillars mandated: 1. People should develop along the lines of their own genius, avoiding the imposition of external values. 2. Tribal rights in land and forests must be legally respected. 3. Train and build a team of their own people to administer and develop their regions. 4. Avoid over-administering tribal areas with too many external administrative frameworks. 5. Results should be judged by the quality of human character evolved, not by the amount of state money spent."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 2: Linguistic Reorganization & The Border Commission Matrix",
+      "subtopics": [
+        {
+          "name": "The Constitutional Boundary Agitations",
+          "bullets": [
+            " <b>The Early Commissions: </b> The **SK Dhar Commission (1948)** and the **JVP Committee** (Jawaharlal Nehru, Vallabhbhai Patel, Pattabhi Sitaramayya) strongly rejected the creation of states based on language, prioritizing administrative convenience, national unity, and economic security instead.",
+            " <b>The Andhra Catalyst: </b> The fast-unto-death of Gandhian activist **Potti Sriramulu (1952)** triggered massive widespread riots, forcing the government to concede the creation of the first linguistic state, **Andhra State**, carved out of the Madras Presidency in 1953.",
+            " <b>The States Reorganization Commission (SRC - 1953): </b> Comprising **Fazl Ali, K.M. Panikkar, and H.N. Kunzru**. The SRC formally accepted language as a major criterion for state boundaries, leading to the landmark <b>States Reorganization Act of 1956 </b>, which collapsed the old complex Part A, B, C, D state classifications into a streamlined map of 14 states and 6 Union Territories."
+          ]
+        }
+      ]
+    },
+    {
+      "phaseName": "Phase 3: The Agrarian Structural Overhaul & Land Reforms",
+      "subtopics": [
+        {
+          "name": "The Legislative Tiers of Reform",
+          "bullets": [
+            " <b>Abolition of Intermediaries: </b> The first and most successful phase of post-independence land reform. It legally dismantled the century-old British **Zamindari, Ryotwari, and Mahalwari intermediary networks**, bringing nearly 20 million tenants into direct contact with the state and reclaiming massive acres of uncultivated lands for redistribution.",
+            " <b>Tenancy Reforms & Land Ceilings: </b> 1. *Tenancy Laws:* Aimed at providing security of tenure, fixing fair rents (regulated between 20-25% of gross produce), and granting ownership rights to tenants. 2. *Land Ceiling Acts:* Fixed the maximum legal limit of agricultural land an individual or family could own. A major UPSC structural failure target is that **land ceilings largely failed** across India (except in Kerala and West Bengal) due to landlords utilizing fraudulent benami transactions and divorces to split holdings on paper.",
+            " <b>The Bhoodan-Gramdan Experiment: </b> A voluntary, non-violent land gift movement launched by **Acharya Vinoba Bhave (1951)** at Pochampally. It aimed to persuade wealthy landlords to voluntarily donate a percentage of their land to landless peasants, later expanding into the *Gramdan* movement (pooling entire village lands for equitable management)."
+          ]
+        }
+      ]
+    }
+  ]
+}
 }

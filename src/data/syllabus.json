@@ -62,25 +62,28 @@
     { "id": "geo_15", "title": "Geographical Current Affairs & Recent Phenomena" }
   ]
 },
-  {
-    "id": "history",
-    "subject": "History of India & National Movement",
-    "topics": [
-      { "id": "his_1", "title": "Ancient India: Indus Valley Civilization & Vedic Age" },
-      { "id": "his_2", "title": "Ancient India: Buddhism, Jainism & Heterodox Philosophies" },
-      { "id": "his_3", "title": "Ancient India: Mauryan & Gupta Empires (Administration & Literature)" },
-      { "id": "his_4", "title": "Medieval India: Major Dynasties (Cholas, Delhi Sultanate, Vijayanagar Empire)" },
-      { "id": "his_5", "title": "Medieval India: Mughal Empire, Maratha Confederacy & Administrative Terms" },
-      { "id": "his_6", "title": "Art & Culture: Indian Architecture (Temples, Caves, Stupas & Indo-Islamic Styles)" },
-      { "id": "his_7", "title": "Art & Culture: Classical Dances, Music Schools, Paintings & Puppetry" },
-      { "id": "his_8", "title": "Modern India: British Expansion, Regulatory Acts & Economic Impact" },
-      { "id": "his_9", "title": "Modern India: Tribal & Peasant Uprisings, Revolt of 1857" },
-      { "id": "his_10", "title": "Modern India: Socio-Religious Reform Movements" },
-      { "id": "his_11", "title": "National Movement: Foundation of INC, Moderates vs Extremists, Swadeshi (1885-1915)" },
-      { "id": "his_12", "title": "National Movement: Gandhian Era (Non-Cooperation, Civil Disobedience, Quit India)" },
-      { "id": "his_13", "title": "National Movement: Revolutionary Extremism, INA & Partition Politics" }
-    ]
-  },
+ {
+  "id": "history",
+  "subject": "History of India & National Movement",
+  "topics": [
+    { "id": "his_1", "title": "Ancient India: Indus Valley Civilization & Vedic Age" },
+    { "id": "his_2", "title": "Ancient India: Buddhism, Jainism, Ajivikas & Heterodox Philosophies" },
+    { "id": "his_3", "title": "Ancient India: Mahajanapadas, Mauryan & Gupta Empires (Polity & Lit)" },
+    { "id": "his_4", "title": "Ancient & Early Medieval South India: Sangam Age, Cholas, Pallavas & Chalukyas" },
+    { "id": "his_5", "title": "Medieval India: Delhi Sultanate & Vijayanagar Empire (Structures & Economy)" },
+    { "id": "his_6", "title": "Medieval India: Mughal Empire, Maratha Confederacy & Bhakti-Sufi Movements" },
+    { "id": "his_7", "title": "Art & Culture: Evolution of Indian Architecture (Caves, Stupas & Temples)" },
+    { "id": "his_8", "title": "Art & Culture: Indo-Islamic Architecture, Classical Dances, Music & Paintings" },
+    { "id": "his_9", "title": "Modern India: European Descent, British Expansion & Economic Drain Theory" },
+    { "id": "his_10", "title": "Modern India: Constitutional Acts (1773-1858), Tribal & Peasant Uprisings" },
+    { "id": "his_11", "title": "Modern India: Socio-Religious Reform Movements & The Revolt of 1857" },
+    { "id": "his_12", "title": "National Movement: Foundation of INC, Moderates, Extremists & Swadeshi" },
+    { "id": "his_13", "title": "National Movement: Gandhian Mass Movements & Evolving Press/Education Policies" },
+    { "id": "his_14", "title": "National Movement: Revolutionary Nationalists, Left Politics, INA & Partition" },
+    { "id": "his_15", "title": "Post-Independence India: Tribal Integration, Linguistic Reorganization & Land Reforms" }
+  ]
+}
+,
   {
     "id": "environment",
     "subject": "Environment, Ecology & Climate Change",
