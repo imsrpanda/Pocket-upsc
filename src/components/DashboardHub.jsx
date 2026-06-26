@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function DashboardHub({ progressMetrics, setActiveTab }) {
-  // Calculated high-level metrics safely
+  // Extract high-level curriculum tracking metrics safely
   const currentGlobalMastery = progressMetrics?.globalPercentage || 0;
   const completedCount = progressMetrics?.completedTopics || 0;
   const totalCount = progressMetrics?.totalTopics || 0;
@@ -46,7 +46,7 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
           {/* Card 1: Syllabus Tracker */}
           <div 
             onClick={() => setActiveTab('tracker')}
-            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900 transition-all transform active:scale-98 animate-dashboard-card stagger-delay-0"
+            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900/60 transition-all transform active:scale-98"
           >
             <div className="text-xl">📈</div>
             <h4 className="text-xs font-black text-slate-800 dark:text-slate-100 mt-2">Syllabus Tracker</h4>
@@ -58,7 +58,7 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
           {/* Card 2: Learn Desk */}
           <div 
             onClick={() => setActiveTab('learn')}
-            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900 transition-all transform active:scale-98 animate-dashboard-card stagger-delay-1"
+            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900/60 transition-all transform active:scale-98"
           >
             <div className="text-xl">📖</div>
             <h4 className="text-xs font-black text-slate-800 dark:text-slate-100 mt-2">Learn Desk</h4>
@@ -70,12 +70,12 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
           {/* Card 3: Practice Vault */}
           <div 
             onClick={() => setActiveTab('quiz')}
-            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900 transition-all transform active:scale-98 animate-dashboard-card stagger-delay-2"
+            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900/60 transition-all transform active:scale-98"
           >
             <div className="text-xl">⚡</div>
             <h4 className="text-xs font-black text-slate-800 dark:text-slate-100 mt-2">Practice Vault MCQs</h4>
             <p className="text-[10px] text-slate-400 dark:text-slate-500 font-medium mt-0.5 leading-normal">
-              Launch targeted mock test sessions with an integrated timed countdown countdown engine.
+              Launch targeted mock test sessions with an integrated timed countdown engine.
             </p>
           </div>
 
@@ -87,18 +87,20 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
         <h3 className="text-xs font-black text-slate-400 dark:text-slate-500 uppercase tracking-wider pl-1">
           Official Civil Services Reference Archives
         </h3>
-        <div className="grid grid-cols-2 gap-3">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           
-          {/* Item A: Prelims PYQs */}
+          {/* Item A: Prelims PYQs - Routed seamlessly directly into your archive deck component */}
           <div 
-            onClick={() => alert("Loading official UPSC Civil Services Prelims (Paper I & II) original PDFs archive...")}
-            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-all flex items-start gap-3.5 transform active:scale-98 animate-dashboard-card stagger-delay-3"
+            onClick={() => setActiveTab('past_papers')}
+            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900/60 transition-all flex items-start gap-3.5 transform active:scale-98 group"
           >
-            <div className="h-8 w-8 shrink-0 flex items-center justify-center bg-amber-50 dark:bg-amber-950/40 border border-amber-100/30 dark:border-amber-900/30 rounded-lg text-amber-500 text-sm">
+            <div className="h-8 w-8 shrink-0 flex items-center justify-center bg-amber-50 dark:bg-amber-950/40 border border-amber-100/30 dark:border-amber-900/30 rounded-lg text-amber-500 text-sm transition-colors group-hover:bg-amber-100 dark:group-hover:bg-amber-900/60">
               📜
             </div>
             <div>
-              <h4 className="text-xs font-black text-slate-800 dark:text-slate-100">Prelims PYQ Papers</h4>
+              <h4 className="text-xs font-black text-slate-800 dark:text-slate-100 transition-colors group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                Prelims PYQ Papers
+              </h4>
               <p className="text-[9px] text-slate-400 dark:text-slate-500 font-medium mt-0.5 leading-normal">
                 Previous year test keys arranged by chronological year thresholds.
               </p>
@@ -108,7 +110,7 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
           {/* Item B: Mains Examination Matrix */}
           <div 
             onClick={() => alert("Loading official UPSC Mains GS Papers 1-4 and Essay prompt blueprint vault...")}
-            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-all flex items-start gap-3.5 transform active:scale-98 animate-dashboard-card stagger-delay-4"
+            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-all flex items-start gap-3.5 transform active:scale-98 group"
           >
             <div className="h-8 w-8 shrink-0 flex items-center justify-center bg-indigo-50 dark:bg-indigo-950/40 border border-indigo-100/30 dark:border-indigo-900/30 rounded-lg text-indigo-500 text-sm">
               ✒️

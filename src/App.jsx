@@ -3,6 +3,7 @@ import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from './data/db';
 import syllabusData from './data/syllabus.json';
 import learningContent from './data/learningContent';
+import PastPaperDeck from './components/PastPaperDeck';
 
 // Import segregated layout sub-components
 import SyllabusTracker from './components/SyllabusTracker';
@@ -29,6 +30,7 @@ export default function App() {
   const [selectedTopicId, setSelectedTopicId] = useState(null);
   const [readingMode, setReadingMode] = useState('sheet');
   const [quizTopicId, setQuizTopicId] = useState(null);
+  const [selectedPastPaperMeta, setSelectedPastPaperMeta] = useState(null);
 
   // Tracks expanded subjects inside the Learn Desk overview panel
   const [learnActiveSubject, setLearnActiveSubject] = useState(null);
@@ -146,6 +148,18 @@ export default function App() {
             handleStudyNavigation={(id) => { setSelectedTopicId(id); setActiveTab('learn'); }}
           />
         )}
+
+        {activeTab === 'past_papers' && (
+  <PastPaperDeck 
+    onBack={() => setActiveTab('dashboard')}
+    onLaunchExam={(year, paper) => {
+      // This callback hooks beautifully into your existing PracticeQuizEngine!
+      setSelectedPastPaperMeta({ year, paper });
+      setQuizTopicId(`archive_${year}_${paper.toLowerCase()}`);
+      setActiveTab('quiz');
+    }}
+  />
+)}
 
         {activeTab === 'learn' && (
           <div className="flex flex-col flex-1 min-h-0">

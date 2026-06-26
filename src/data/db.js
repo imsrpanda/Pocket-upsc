@@ -8,6 +8,7 @@ export const db = new Dexie('pocketUpscDatabase');
 db.version(1).stores({
   syllabusProgress: 'id', 
   questions: 'id, subjectId, topicId', 
+  pastPapers: 'id, year, paper', // Dedicated table tracking official Commission archives
   savedSnippets: 'id, topicId',
   userNotes: '++id, topicId, savedAt',
   detailedContent: 'subtopicKey', 
@@ -18,10 +19,10 @@ export async function seedDatabaseIfEmpty() {
   const isDevelopment = import.meta.env.DEV;
 
   // ==========================================
-  // PHASE 1: DYNAMIC & SAFE QUIZ QUESTIONS UPSERT
+  // PHASE 1: BULLETPROOF LOCAL-INDEXED QUIZ UPSERT
   // ==========================================
   try {
-    console.log("⚡ Syncing question bundles safely via atomic non-destructive upserts...");
+    console.log("⚡ Syncing question bundles via file-isolated localized indexing...");
     
     const polity = await import('./quiz/quiz_polity.json');
     const economy = await import('./quiz/quiz_economy.json');
@@ -30,32 +31,94 @@ export async function seedDatabaseIfEmpty() {
     const history = await import('./quiz/quiz_history.json');
     const science = await import('./quiz/quiz_science.json');
     
-    const rawMasterPool = [
-      ...(polity.default || polity),
-      ...(economy.default || economy),
-      ...(geography.default || geography),
-      ...(environment.default || environment),
-      ...(history.default || history),
-      ...(science.default || science)
-    ];
+    const bundles = {
+      polity: polity.default || polity,
+      economy: economy.default || economy,
+      geography: geography.default || geography,
+      environment: environment.default || environment,
+      history: history.default || history,
+      science: science.default || science
+    };
 
-    const mappedQuestions = rawMasterPool.map((q, idx) => ({
-      id: `${q.subjectId || 'sub'}_${q.topicId || 'top'}_${idx}`,
-      subjectId: q.subjectId,
-      topicId: q.topicId,
-      q: q.q,
-      options: q.options,
-      correct: q.correct,
-      ex: q.ex
-    }));
+    const mappedQuestions = [];
 
-    // 🎯 PRODUCTION SAFE: bulkPut upserts new/edited entries inline. 
-    // Your users' personal tracking/notes tables are NEVER cleared or disturbed.
+    Object.entries(bundles).forEach(([subjectKey, questionsArray]) => {
+      if (!Array.isArray(questionsArray)) return;
+
+      questionsArray.forEach((q, localIdx) => {
+        if (!q.q) return;
+
+        const normalizedSubject = subjectKey.toLowerCase().trim();
+        const normalizedTopic = (q.topicId || 'top').toLowerCase().trim();
+
+        mappedQuestions.push({
+          id: `${normalizedSubject}_${normalizedTopic}_q${localIdx}`,
+          subjectId: normalizedSubject,
+          topicId: q.topicId,
+          q: q.q,
+          options: q.options,
+          correct: q.correct,
+          ex: q.ex
+        });
+      });
+    });
+
+    if (isDevelopment) {
+      await db.questions.clear();
+    }
+
     await db.questions.bulkPut(mappedQuestions);
-    console.log(`✅ Verified ${mappedQuestions.length} question rows synced up-to-date.`);
+    console.log(`✅ Verified ${mappedQuestions.length} master question rows synced up-to-date.`);
 
   } catch (error) {
     console.error("❌ Database quiz seeding encountered an asset parsing error:", error);
+  }
+
+  // ==========================================
+  // PHASE 1.5: AUTOMATED INGESTION FOR OFFICIAL PAPERS
+  // ==========================================
+  try {
+    console.log("⚡ Checking for official UPSC paper archives...");
+    // Read every single file structure sitting in your archives folder dynamically
+    const archiveFiles = import.meta.glob('./archives/**/*.json');
+    let mappedPastQuestions = [];
+
+    for (const path in archiveFiles) {
+      const module = await archiveFiles[path]();
+      const paperDataArray = module.default || module;
+      
+      if (Array.isArray(paperDataArray)) {
+        paperDataArray.forEach((item) => {
+          if (!item.q) return;
+          
+          const paperYear = item.year || 2026;
+          const paperType = (item.paper || 'GS1').toUpperCase().trim();
+          const questionNum = item.question || 1;
+
+          mappedPastQuestions.push({
+            // Primary key layout: 2026_gs1_q6
+            id: `${paperYear}_${paperType.toLowerCase()}_q${questionNum}`,
+            year: paperYear,
+            paper: paperType,
+            question: questionNum,
+            q: item.q, // ✅ Fixed item variable tracking mapping mismatch
+            options: item.options,
+            correct: item.correct,
+            ex: item.ex
+          });
+        });
+      }
+    }
+
+    if (mappedPastQuestions.length > 0) {
+      if (isDevelopment) {
+        await db.pastPapers.clear();
+      }
+      await db.pastPapers.bulkPut(mappedPastQuestions);
+      console.log(`📜 Verified ${mappedPastQuestions.length} official UPSC PYQ rows synchronized.`);
+    }
+  } catch (archiveError) {
+    console.error("❌ Automated past papers ingestion run failed:", archiveError);
   }
 
   // ==========================================
@@ -80,18 +143,13 @@ export async function seedDatabaseIfEmpty() {
         imageBlob: null 
       }));
 
-
-      // 🎯 THE FIX: If you delete a topic in development files, we want the UI to reflect it immediately.
-      // But in production, we skip the clear() completely, allowing bulkPut to cleanly add/edit entries!
       if (isDevelopment) {
         const currentDbCount = await db.detailedContent.count();
-        // Only clear if the file sizes mismatched, preventing unnecessary write-flicker
         if (currentDbCount !== recordsToPut.length) {
           await db.detailedContent.clear();
         }
       }
 
-      // Safe, non-destructive upsert loop pass. Leaves other database tables completely isolated.
       await db.detailedContent.bulkPut(recordsToPut);
       console.log(`✅ Verified ${recordsToPut.length} 'Learn More' cards sync-verified.`);
     }
@@ -109,10 +167,7 @@ export async function seedDatabaseIfEmpty() {
     });
 
     if (progressRows.length > 0) {
-      // 🎯 THE FIX: Instead of checking if table count is exactly 0, we look for *new additions*
-      // bulkAdd ignores keys that are already present, ensuring previous user checked marks remain safe!
       await db.syllabusProgress.bulkAdd(progressRows).catch(err => {
-        // Dexie throws a bulk error if duplicates are ignored, which is exactly what we expect on updates!
         if (isDevelopment) console.log("ℹ️ Existing tracker keys verified.");
       });
       console.log("✅ Syllabus checklist verified up-to-date.");
