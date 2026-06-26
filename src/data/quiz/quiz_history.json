@@ -4890,5 +4890,3208 @@
     ],
     "correct": 1,
     "ex": "The data table tracks that the red sandstone cave interiors at Badami feature early iconographic forms, highlighting detailed Nataraja (dancing Shiva) and Trivikrama relief carvings."
+  },
+,
+{
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The administrative framework of the Delhi Sultanate operated through four foundational central ministries. Which of these acted as the apex financial body of the state?",
+    "options": [
+      "Diwan-i-Ariz",
+      "Diwan-i-Wizarat",
+      "Diwan-i-Insha",
+      "Diwan-i-Rasalat"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the Diwan-i-Wizarat, led by the Wazir (Prime Minister), served as the apex financial body of the state, controlling land revenue models, tracking regional expenditures, and organizing fiscal audits."
+  },
+  {
+    "subjectId": "history",
+    "history": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Under which Sultan was the military ministry (Diwan-i-Ariz) institutionalized as an independent executive body to manage the state's armed apparatus?",
+    "options": [
+      "Alauddin Khalji",
+      "Ghiyasuddin Balban",
+      "Shamsuddin Iltutmish",
+      "Muhammad bin Tughlaq"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Diwan-i-Ariz was institutionalized as an independent body under Ghiyasuddin Balban to manage the military apparatus."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In the Delhi Sultanate's military administration, what was the primary function of the specialized tracking system known as 'Dagh'?",
+    "options": [
+      "Maintaining descriptive rolls of infantry soldiers.",
+      "The compulsory branding of war horses to prevent fraud and substitution.",
+      "Auditing land revenue records inside the central treasury.",
+      "Drafting official diplomatic correspondence for foreign envoys."
+    ],
+    "correct": 1,
+    "ex": "The text details that the military ministry handled horse-branding (Dagh) and descriptive rolls (Chehra) tracking systems to manage and verify the cavalry contingents."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which official title designated the chief administrator who directed the central military ministry (Diwan-i-Ariz)?",
+    "options": [
+      "The Wazir",
+      "Ariz-i-Mamalik",
+      "Dabir-i-Khas",
+      "Sadr-us-Sudur"
+    ],
+    "correct": 1,
+    "ex": "As verified by the data table, the executive official head of the Diwan-i-Ariz was the Ariz-i-Mamalik."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The primary operational mandate of the central ministry known as the Diwan-i-Insha focused on which administrative task?",
+    "options": [
+      "Tracking land revenue arrears and provincial expenditure models.",
+      "Drafting royal correspondence, imperial edicts, and state decrees.",
+      "Managing foreign affairs and coordinating diplomatic missions.",
+      "Recruiting, reviewing, and paying out cash salaries to soldiers."
+    ],
+    "correct": 1,
+    "ex": "The text and matrix table explicitly map the Diwan-i-Insha (led by the Dabir-i-Khas) to the task of drafting royal correspondence, imperial edicts, and state decrees."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The central ministry known as the Diwan-i-Rasalat was led by the Sadr-us-Sudur to coordinate which structural mandate?",
+    "options": [
+      "Enforcing horse-branding codes across cavalry units.",
+      "Foreign diplomacy, envoy reception, and managing state-sponsored religious charities.",
+      "Auditing the annual land revenue balances collected by local chiefs.",
+      "Managing stationary spy networks across urban centers."
+    ],
+    "correct": 1,
+    "ex": "The reference data details that the Diwan-i-Rasalat managed foreign affairs, coordinated diplomatic missions, and handled state-sponsored religious or humanitarian endowments."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The term 'Chehra' used in Sultanate military administration designated which tracking mechanism managed by the Ariz-i-Mamalik?",
+    "options": [
+      "The verification of silver coin purity standards.",
+      "Detailed descriptive roll profiles of individual soldiers to check fraudulent substitutions.",
+      "A map tracking the physical boundaries of provincial Iqtas.",
+      "A ritual manual used to establish the divinely sanctioned status of the ruler."
+    ],
+    "correct": 1,
+    "ex": "Parallel to horse-branding (Dagh), the military ministry maintained the Chehra system, which kept descriptive rolls of individual soldiers to ensure that only verified personnel were maintained on the rolls."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In a study of Delhi Sultanate political structures, an answer option asserts that the Ariz-i-Mamalik served as the automatic commander-in-chief of all wartime military campaigns. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the Ariz-i-Mamalik was a purely religious official with no military training.",
+      "Because supreme military command was reserved exclusively for the Sultan or explicitly delegated to a royal general (Khan).",
+      "Leads to the conclusion that the Sultanate lacked any centralized standing armies.",
+      "Because all active military operations were directed by foreign merchant guilds."
+    ],
+    "correct": 1,
+    "ex": "The text warns against this Exam Trap because while the Ariz-i-Mamalik controlled military recruitment, inspections, and payroll processing, he did not hold automatic combat command, which remained a royal prerogative of the Sultan or his appointed Khan."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The centralized military-bureaucratic state model of the Delhi Sultanate adapted its foundational ministerial structures from which classical lineage?",
+    "options": [
+      "Ancient Greek maritime city-states",
+      "Classical Persian administrative frameworks",
+      "Early Roman provincial codes",
+      "Old Kingdom Egyptian temple networks"
+    ],
+    "correct": 1,
+    "ex": "The text confirms that the administrative structure of the Delhi Sultanate was a highly centralized military-bureaucratic state that adapted classical Persian administrative frameworks to Indian conditions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which data accurately matches the central ministries to their primary functional targets as mapped in your reference profile?",
+    "options": [
+      "Wizarat: Foreign diplomacy; Ariz: Royal correspondence; Insha: State finance.",
+      "Wizarat: State finance; Ariz: Military recruitment/inspections; Insha: Royal correspondence; Rasalat: Foreign diplomacy/charities.",
+      "Wizarat: Monetary coinage; Ariz: Agricultural loans; Insha: Judicial trials.",
+      "Wizarat: Elite spy monitoring; Ariz: Land measurement; Insha: Religious endowments."
+    ],
+    "correct": 1,
+    "ex": "The core operational matrix table confirms that the Diwan-i-Wizarat managed state finance, the Diwan-i-Ariz directed military affairs, the Diwan-i-Insha handled royal edicts, and the Diwan-i-Rasalat managed foreign affairs and endowments."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which specialized executive auditing portfolio was introduced by Alauddin Khalji to systematically track down and recover long-overdue tax balances?",
+    "options": [
+      "Diwan-i-Amir-Kohi",
+      "Diwan-i-Mustakhraj",
+      "Diwan-i-Wizarat",
+      "Diwan-i-Rasalat"
+    ],
+    "correct": 1,
+    "ex": "The text states that to secure state revenues, Alauddin Khalji introduced the Diwan-i-Mustakhraj (Department of Arrears) to track, audit, and recover long-overdue tax balances from corrupt or resistant local revenue officials."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which Sultan established the specialized agricultural department known as the Diwan-i-Amir-Kohi in response to massive agrarian instability in the Doab region?",
+    "options": [
+      "Ghiyasuddin Balban",
+      "Muhammad bin Tughlaq",
+      "Alauddin Khalji",
+      "Firoz Shah Tughlaq"
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, Muhammad bin Tughlaq established the Diwan-i-Amir-Kohi (Department of Agriculture) to resolve agrarian crises and optimize production networks."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The direct agricultural loans provided by Muhammad bin Tughlaq's state to peasants for crop funding and land expansion were designated by what term?",
+    "options": [
+      "Fawazil",
+      "Sondhar",
+      "Kharaj",
+      "Masahat"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the Diwan-i-Amir-Kohi provided direct state agricultural loans known as Sondhar to peasants to rebuild rural production networks after major famines."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What primary structural strategy defined the functional mandate of Alauddin Khalji's Diwan-i-Mustakhraj department?",
+    "options": [
+      "Providing emergency seed grain loans to landless laborers.",
+      "Auditing and forcefully recovering financial tax arrears from corrupt regional revenue officials.",
+      "Reorganizing the macro-boundaries of provincial Iqta tracts.",
+      "Monitoring price cap violations inside the livestock and slave markets."
+    ],
+    "correct": 1,
+    "ex": "The specialized data table explicitly matches the Diwan-i-Mustakhraj to its core operational remedy: it audited and forcefully recovered financial tax arrears to curb leakages across provinces."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What operational strategies were designed into Muhammad bin Tughlaq's Diwan-i-Amir-Kohi department to optimize medieval agrarian outputs?",
+    "options": [
+      "Enforcing a mandatory fifty percent tax rate based on Masahat land measurement.",
+      "Systematic expansion of cultivable land, implementation of crop rotations, and direct state crop funding.",
+      "Replacing cash salaries entirely with permanent hereditary land ownership titles.",
+      "Banning the use of draft livestock within the fertile Doab boundaries."
+    ],
+    "correct": 1,
+    "ex": "The text outlines that the agricultural department was designed to systematically expand cultivable land, optimize crop rotations, and distribute Sondhar loans to bolster rural production."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "In an examination of Tughlaq-era reforms, a prompt states that the Diwan-i-Amir-Kohi successfully transformed the Doab into an elite tax-rich model. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the agricultural department was completely fictional, never existing in reality.",
+      "Because the project collapsed due to widespread corruption among low-level officers, short execution timelines, and because the state selected uncultivable, infertile lands for its experimental zones.",
+      "Because the peasants revolted and chose to convert all lands into Buddhist monasteries.",
+      "Because the entire state treasury was stolen by foreign Mongol military forces."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly warns that despite its progressive design, the Diwan-i-Amir-Kohi failed in practice. Corruption, impractical timelines, and poor agricultural zoning criteria led to the collapse of the experiment."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The introduction of specialized, targeted departments like the Diwan-i-Mustakhraj and Diwan-i-Amir-Kohi indicates what development in Sultanate history?",
+    "options": [
+      "A transition away from permanent standing armies toward tribal militia reliance.",
+      "An increasing institutional and bureaucratic focus on absolute fiscal control, economic auditing, and state development.",
+      "The complete handover of central administrative authority to local village oligarchies.",
+      "The systematic legal elimination of the office of the central Wazir."
+    ],
+    "correct": 1,
+    "ex": "As verified by the UPSC Revision note, these specialized offshoots show that the Sultanate state became increasingly bureaucratic, developing focused administrative bodies to intervene directly in fiscal auditing and agrarian development."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The primary cause of revenue leakages that Alauddin Khalji sought to curb via the Diwan-i-Mustakhraj was centered on which group?",
+    "options": [
+      "Foreign maritime merchants operating at coastal ports.",
+      "Corrupt or resistant local and regional revenue officials who hoarded tax balances.",
+      "Landless agricultural Shudra laborers who refused to cultivate fields.",
+      "The inner circle of advisory nobles sitting on the central Mantriparishad."
+    ],
+    "correct": 1,
+    "ex": "The text notes that local and regional tax collectors frequently hoarded the collections, short-changing the center. The Diwan-i-Mustakhraj was built specifically to audit these regional networks and forcefully extract arrears."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Muhammad bin Tughlaq’s direct intervention in Doab agriculture was a response to which environmental and economic catastrophe?",
+    "options": [
+      "Massive volcanic tremors that destroyed urban storehouses.",
+      "Severe agrarian failure and economic disruption following major famines in the region.",
+      "A total lack of iron ore assets for manufacturing tools.",
+      "Continuous flash river flooding that converted the entire Doab into an unfortified lake."
+    ],
+    "correct": 1,
+    "ex": "The paragraphs show that Tughlaq encountered severe agrarian disruption and famines in the Doab, which prompted him to construct the specialized agricultural department to systematically inject loans and fund land clearance."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which data accurately tracks the specialized portfolio creator match as detailed in your reference text?",
+    "options": [
+      "Diwan-i-Mustakhraj created by Balban; Diwan-i-Amir-Kohi created by Iltutmish.",
+      "Diwan-i-Mustakhraj created by Alauddin Khalji; Diwan-i-Amir-Kohi created by Muhammad bin Tughlaq.",
+      "Diwan-i-Mustakhraj created by Firoz Shah; Diwan-i-Amir-Kohi created by Akbar.",
+      "Diwan-i-Mustakhraj created by Udayin; Diwan-i-Amir-Kohi created by Bimbisara."
+    ],
+    "correct": 1,
+    "ex": "The structural portfolio table explicitly confirms that Alauddin Khalji created the Department of Arrears (Mustakhraj), while Muhammad bin Tughlaq created the Department of Agriculture (Amir-Kohi)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which prominent Sultan institutionalized and organized the Iqta revenue framework to provide the Delhi Sultanate with an effective tool for fiscal and military mobilization?",
+    "options": [
+      "Alauddin Khalji",
+      "Shamsuddin Iltutmish",
+      "Ghiyasuddin Balban",
+      "Muhammad bin Tughlaq"
+    ],
+    "correct": 1,
+    "ex": "The text states that to integrate conquests without relying on permanent land transfers, Shamsuddin Iltutmish institutionalized the Iqta system."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Under the Iqta revenue framework, the military commanders and bureaucrats assigned to manage these revenue tracts were designated as what?",
+    "options": [
+      "Adhyakshas",
+      "Iqtadars or Muqtis",
+      "Gudha-purushas",
+      "Shahna-i-Mandi"
+    ],
+    "correct": 1,
+    "ex": "According to the text, the empire's territory was partitioned into revenue-yielding tracts assigned to military commanders and bureaucrats known as Iqtadars or Muqtis."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The primary financial obligation of an Iqtadar required him to remit his surplus financial collections to the central treasury. What was this surplus balance called?",
+    "options": [
+      "Sondhar",
+      "Fawazil",
+      "Kharaj",
+      "Masahat"
+    ],
+    "correct": 1,
+    "ex": "The text defines that the Iqtadar was required to calculate his collections against approved expenses and remit any financial surplus, termed Fawazil, directly to the central treasury."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What specific administrative right did an Iqtadar hold over his assigned territory within the classical Iqta framework?",
+    "options": [
+      "The right to sell the land as absolute personal property to foreign merchants.",
+      "The administrative right to collect localized agricultural land tax (Kharaj) from the tract.",
+      "The authority to rewrite the central succession laws of the crown.",
+      "The monopoly over printing gold and silver coins inside his provincial capital."
+    ],
+    "correct": 1,
+    "ex": "The text notes that the Iqtadar held the administrative right to collect localized agricultural tax (Kharaj) from his assigned zone to cover administrative and troop maintenance costs."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "From the localized land tax (Kharaj) extractions, an Iqtadar was required to meet which essential operational expenses?",
+    "options": [
+      "Funding the construction of massive stone pyramids in the capital.",
+      "Meeting his personal salary costs, funding regional administration, and maintaining a fixed contingent of troops for royal service.",
+      "Purchasing fine silk imports from Song Dynasty China for the central Wazir.",
+      "Paying out direct state agricultural Sondhar loans to all landless outcasts."
+    ],
+    "correct": 1,
+    "ex": "The operational structure details that from his Kharaj collections, the Muqti met his personal salary costs, handled regional governance operations, and maintained a combat-ready force for the Sultan."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "In a competitive history analysis mapping land systems, a prompt states that an Iqtadar functioned identical to a European hereditary feudal lord. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because an Iqta was a permanent property grant that allowed the Iqtadar to own the peasantry.",
+      "Because the assignment transferred only the right to collect revenue, carrying zero ownership rights over the land or peasantry, and Iqtadars were regularly rotated across regions every 3-4 years to prevent local power bases.",
+      "Because Iqtadars were selected exclusively via a direct popular democratic vote.",
+      "Because the Iqta system completely prohibited the maintenance of any military forces."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly details that an Iqta was a non-feudal, non-hereditary revenue extraction right with zero real estate ownership. Compulsory rotations every 3-4 years kept the Iqtadars dependent on and accountable to the central crown."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The penalty or central administrative consequence for an Iqtadar who chose to illegally hoard the state's 'Fawazil' balances was classified as what?",
+    "options": [
+      "An automated promotion to the advisory inner council.",
+      "Treated as embezzlement, subject to strict tracking and audits by the central treasury.",
+      "A total exemption from any future administrative oversight.",
+      "The mandatory transfer of his lineage to coastal maritime ports."
+    ],
+    "correct": 1,
+    "ex": "The financial component table confirms that hoarding Fawazil was treated as serious state embezzlement, as the central accountability rules mandated the direct flow of these surplus balances to the core treasury."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The agricultural land tax extracted from the local cultivators under the supervision of the Iqtadar was designated by what literary term?",
+    "options": [
+      "Sondhar",
+      "Kharaj",
+      "Bali",
+      "Masahat"
+    ],
+    "correct": 1,
+    "ex": "The text identifies the localized agricultural land tax collected from cultivators across the assigned Iqta tracts as Kharaj."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What primary political danger did the central crown mitigate by enforcing frequent compulsory rotations of Iqtadars across different geographic regions?",
+    "options": [
+      "The spread of agricultural crop diseases across provincial fields.",
+      "The danger of Iqtadars developing localized independent power bases or entrenched alliances with rural elites.",
+      "A decline in the number of war elephants entering the capital zone.",
+      "The complete urbanization of the rural peasant population."
+    ],
+    "correct": 1,
+    "ex": "By continuously shifting Muqtis from one province to another every few years, the Sultanate high command systematically disrupted the formation of regional dynasties or entrenched territorial factions that could challenge the central sovereign."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The ultimate institutional value of the Iqta revenue framework within the early evolution of the Delhi Sultanate is best summarized by which choice?",
+    "options": [
+      "The total return of all executive authority to decentralized tribal assemblies.",
+      "An integrative administrative mechanism that paired regional revenue rights with strict central accountability, bypassing hereditary decentralization.",
+      "The complete abolition of metallic currencies in favor of exclusive barter operations.",
+      "The mandatory establishment of a unique four-fold social caste system."
+    ],
+    "correct": 1,
+    "ex": "As verified by the UPSC Revision note, the Iqta system allowed the Sultanate to expand territory and maintain armies without fracturing the state into autonomous feudal zones, using the mechanics of Fawazil remittance to assert centralized treasury control."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Alauddin Khalji implemented strict price controls and specialized market systems across his capital zone to fulfill what primary strategic objective?",
+    "options": [
+      "To encourage the widespread migration of wealthy merchants out to western ports.",
+      "To maintain a massive standing army to counter Mongol invasions without bankrupting the central treasury.",
+      "To convert the entire Delhi Sultanate into a direct democratic agricultural collective.",
+      "To enforce the exclusive use of Prakrit languages inside all retail businesses."
+    ],
+    "correct": 1,
+    "ex": "The text notes that facing constant threats of Mongol invasions, Alauddin Khalji introduced ambitious economic interventions to maintain a massive standing army without bankrupting the state treasury."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Under Khalji's economic regulations, the specialized market zone designated as the 'Sana-i-Mandi' was reserved exclusively for which commodities?",
+    "options": [
+      "Manufactured luxury cloths, sugars, and oils",
+      "Food grain supplies",
+      "Livestock, horses, and slave labor",
+      "Smelted iron weapons and armor pieces"
+    ],
+    "correct": 1,
+    "ex": "The text details that the trade system was split into three specialized market zones, explicitly designating the Sana-i-Mandi for food grain supplies."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The specialized market zone known as the 'Sarai-i-Adl' was established under Khalji price regulations to manage the trade of which items?",
+    "options": [
+      "Raw war horses and military equipment.",
+      "Manufactured cloths, sugars, and oils.",
+      "Unprocessed wheat and barley grain stocks.",
+      "Terracotta pottery jars and chert weights."
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, the Sarai-i-Adl was the specific market zone engineered for trading manufactured cloths, sugars, and oils under fixed pricing schedules."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The powerful administrative official who functioned as the strict market superintendent over a specialized zone was designated by what title?",
+    "options": [
+      "The Ariz-i-Mamalik",
+      "The Shahna-i-Mandi",
+      "The Samaharta",
+      "The Visayapati"
+    ],
+    "correct": 1,
+    "ex": "The text identifies the Shahna-i-Mandi as the specific market superintendent who kept official price registries and inspected weights within each zone."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "To prevent merchant fraud and ensure absolute price compliance, the market superintendents were monitored by a network of secret state spies known as what?",
+    "options": [
+      "Gudha-purushas",
+      "Munhiyans",
+      "Vellalas",
+      "Samantas"
+    ],
+    "correct": 1,
+    "ex": "The text details that to prevent market fraud, these officers were monitored by a network of secret state spies called Munhiyans, who reported directly to the Sultan."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In an examination tracking medieval economic policies, a statement praises Khalji's price caps as an early humanitarian welfare policy for poor peasants. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the price regulations were actually written entirely by foreign Roman merchants.",
+      "Because they were practical military measures enforced mostly in Delhi and military centers, while wider rural areas faced aggressive extractions to keep urban grain reserves filled.",
+      "Because the market regulations completely banned the sale of any grains or food items.",
+      "Because the entire price control framework was managed by non-armed Buddhist monastics."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap points out that Khalji's market rules were functional military interventions to keep army maintenance cheap. The economic burden was transferred to rural zones, which were drained of grain to artificially stabilize prices in the capital."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What direct disciplinary punishment did a Shahna-i-Mandi enforce against merchants who tried to cheat customers on the weight of commodities?",
+    "options": [
+      "Immediate exile to the high mountains of Kashmir.",
+      "Enforced fixed pricing schedules and physical or operational punishments as recorded in registries.",
+      "The total closure of all grain production across the empire.",
+      "A mandate forcing the merchant to join the frontline cavalry unit."
+    ],
+    "correct": 1,
+    "ex": "The controller controller table confirms that the Shahna-i-Mandi held operational powers to enforce fixed schedules and punish shopkeepers who cheated on weights or hoarded goods."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The continuous secret checks on shopkeepers performed by the Munhiyans focused primarily on monitoring which market violation?",
+    "options": [
+      "The import of luxury silks from Afghanistan trade hubs.",
+      "Low-level retail fraud, under-weighing, and black-market hoarding of essentials.",
+      "The calculation of binary decimal chert weight increments.",
+      "The use of vernacular Prakrit scripts on business signs."
+    ],
+    "correct": 1,
+    "ex": "The Munhiyans functioned as an un-official intelligence layer inside the markets, monitoring under-the-table transactions, price manipulation, and illegal hoarding that could subvert the price cap codes."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which essential commodities had their prices legally fixed by the state under the comprehensive market codes of the Khalji state?",
+    "options": [
+      "Only imported gold jewelry and elite palace ornaments.",
+      "Food grains, horses, manufactured cloth, and slave labor.",
+      "Terracotta clay pottery and iron axes exclusively.",
+      "Papyrus sheets and writing ink supplies."
+    ],
+    "correct": 1,
+    "ex": "The market regulations were sweeping and detailed, fixing the maximum legal retail prices of basic necessities like food grains, textiles, essential oils, transport animals, horses, and labor to maintain low living costs."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The ultimate macro-social character of the Khalji price control system is best summarized by which choice?",
+    "options": [
+      "The total liberation of the free market from any state monitoring or tax codes.",
+      "A highly militarized economic framework combining fixed price regulations with specialized market tracking to sustain a large standing military force.",
+      "The transition of the urban core back into a non-monetized primitive barter system.",
+      "A decentralized layout giving absolute pricing autonomy to merchant guilds."
+    ],
+    "correct": 1,
+    "ex": "As verified by the UPSC Revision note, the Khalji market matrix combined intensive price capping with aggressive bureaucratic oversight (Shahna-i-Mandi) to structurally guarantee cheap supplies for the Sultanate's massive military machine."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Alauddin Khalji implemented major agrarian reforms across northern India, introducing land revenue assessments based on actual physical measurement under which model name?",
+    "options": [
+      "Kharaj",
+      "Masahat",
+      "Sondhar",
+      "Fawazil"
+    ],
+    "correct": 1,
+    "ex": "The text states that Khalji introduced land revenue based on the actual measurement of cultivable land, a model designated as Masahat."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "At what specific, high percentage rate of the gross agricultural produce did the Khalji state fix its primary land revenue demand?",
+    "options": [
+      "Twenty-five percent",
+      "Fifty percent",
+      "Ten percent with absolute exemptions",
+      "Thirty-three percent managed by guilds"
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, the state demand under the Masahat model was fixed at a strict, high rate of fifty percent of the gross produce."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "To centralize resource extraction, the Khalji state systematically sidelined which traditional local intermediary chief classes from collection networks?",
+    "options": [
+      "The Adhyakshas and Visayapatis",
+      "Khuts, Muqaddams, and Chaudhuris",
+      "The Nagarasresthins and Sarthavahas",
+      "The Dhamma-Mahamattas and Viri-marais"
+    ],
+    "correct": 1,
+    "ex": "The text states that the state bypassed traditional local intermediary chiefs—known as Khuts, Muqaddams, and Chaudhuris—abolishing their privileges to establish direct revenue relations."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "To keep urban storehouses and market granaries filled, the high fifty percent state land revenue was primarily collected in what medium?",
+    "options": [
+      "Gold and silver coin currency exclusively",
+      "Grain produce",
+      "Livestock and horses",
+      "Imported silk textiles"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the high tax demand was collected mostly in grain to keep urban storehouses filled and support price stabilization in the capital."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which secondary tax was introduced by the Khalji agrarian administration to extract revenue specifically from rural dairy livestock assets?",
+    "options": [
+      "Chari",
+      "Ghari",
+      "Kharaj",
+      "Bali"
+    ],
+    "correct": 1,
+    "ex": "The text outlines that direct collections were accompanied by new secondary taxes, explicitly designating Ghari as the grazing tax on dairy livestock."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The secondary house tax imposed by the central Khalji state on domestic rural properties was designated by what term?",
+    "options": [
+      "Ghari",
+      "Chari",
+      "Masahat",
+      "Fawazil"
+    ],
+    "correct": 1,
+    "ex": "The paragraphs detail that parallel to livestock extractions, a house tax designated as Chari was enforced on domestic properties to maximize rural extraction."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What primary political motivation prompted the Khalji state to strip the traditional local Khuts and Muqaddams of their tax exemptions and privileges?",
+    "options": [
+      "To encourage them to enlist as frontline cavalry archers.",
+      "To weaken potential regional rivals and prevent local chiefs from hoarding wealth by passing the tax burden onto lower-class cultivators.",
+      "To force them to convert their lineages into urban merchant guilds.",
+      "To completely decouple the countryside from central revenue workflows."
+    ],
+    "correct": 1,
+    "ex": "Traditional intermediary chiefs had historically accumulated wealth by over-taxing common peasants while evading their own payments. Sidelining them centralized wealth extraction and reduced their capacity to fund regional rebellions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "In a study of medieval agrarian systems, a statement claims that the Masahat system significantly reduced the tax burden on ordinary peasants. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the Masahat system was a fictional myth described only in poetry.",
+      "Because it did not reduce the burden; by removing the cushion provided by local Khuts, the central state collected a high fifty percent tax aggressively, leaving rural communities with minimal surplus.",
+      "Because the peasants were entirely exempted from any tax obligations under the reform.",
+      "Because all taxes were paid by foreign Roman merchants operating in Delhi."
+    ],
+    "correct": 1,
+    "ex": "The reference text highlights as an Exam Trap that while Masahat introduced more accurate physical land measurement models, it was paired with aggressive collection techniques and an absolute fifty percent demand, leaving common cultivators near subsistence levels."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What was the pre-reformed structural character of land revenue assessment before Alauddin Khalji introduced the Masahat model?",
+    "options": [
+      "Absolute measurement using high-pressure iron indicators.",
+      "Rough crop estimates, arbitrary local levies, and historical regional averages.",
+      "A complete reliance on voluntary donations managed by Buddhist monastics.",
+      "A metric calculation system based on binary chert sequences."
+    ],
+    "correct": 1,
+    "ex": "The comparative revenue management table confirms that before the reform, assessments relied on loose crop estimates and averages, which allowed local intermediaries to manipulate figures and extract arbitrary levies."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The ultimate systemic impact of Khalji's agrarian policies is best summarized by which choice?",
+    "options": [
+      "The complete decentralization of fiscal sovereignty to village Ur councils.",
+      "Using the Masahat measurement model and direct state collections to maximize tax yields while reducing the influence of traditional local chiefs.",
+      "The total conversion of all Gangetic agricultural fields into non-cultivated forest zones.",
+      "A reliance on open-market pricing systems with zero central interventions."
+    ],
+    "correct": 1,
+    "ex": "As verified by the UPSC Revision note, Khalji's land policy used physical audits (Masahat) and direct state intervention to maximize revenue extraction for the treasury while breaking the economic power of the traditional rural aristocracy."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The distinctive military-agrarian administrative framework introduced by the Vijayanagar Empire in 1336 was known by what name?",
+    "options": [
+      "The Mansabdari rank hierarchy",
+      "The Amara-Nayaka system",
+      "The Iqta revenue rotation scheme",
+      "The Ayagar village corporate grid"
+    ],
+    "correct": 1,
+    "ex": "The text states that the defining political structure of the Vijayanagar state was the Amara-Nayaka system, which adapted elements of the Sultanate Iqta system to southern military-agrarian institutions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What core resource management power was held by the powerful military chieftains designated as the Amara-Nayakas?",
+    "options": [
+      "The absolute right to mint gold coins exclusively inside the capital.",
+      "The administrative right to extract regional land taxes and manage local judicial networks.",
+      "The legal authority to unilaterally reassign crown land boundaries.",
+      "A monopoly over conducting long-distance maritime trade with Song Dynasty China."
+    ],
+    "correct": 1,
+    "ex": "According to the text, the Amara-Nayakas held absolute administrative and fiscal authority within their assigned zones, collecting land revenues, organizing markets, and managing local justice networks."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In return for the territory and revenue rights granted by the Raya, what structural military obligation did the Amara-Nayakas owe to the crown?",
+    "options": [
+      "To personally build dry-stone fortifications around local mountain passes.",
+      "To maintain a designated contingent of infantry, cavalry, and war elephants ready for royal campaigns.",
+      "To surrender their entire family lineage as permanent hostages at court.",
+      "To completely ban the use of any non-living material models in rituals."
+    ],
+    "correct": 1,
+    "ex": "The text notes that in return for these resource rights, the Amara-Nayakas were legally bound to maintain a designated contingent of infantry, cavalry, and war elephants ready for royal campaigns."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "During which grand annual festival at the capital were the Amara-Nayakas required to present a formal financial tribute to the Raya?",
+    "options": [
+      "The Chauri Chaura gatherings",
+      "The Mahanavami festival",
+      "The Tripuri council sessions",
+      "The Valabhi scripture councils"
+    ],
+    "correct": 1,
+    "ex": "The text details that the Amara-Nayakas were required to attend the royal court in person during the annual Mahanavami festival, presenting a substantial financial tribute to publicly confirm their loyalty."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In a study of Deccan institutional models, why is the claim that the Amara-Nayaka system was identical to the Sultanate Iqta framework in terms of rotation considered an error?",
+    "options": [
+      "Because the Amara-Nayakas were rotated every single month by the central court.",
+      "Because unlike the frequently rotated Sultanate Muqtis, the Amara-Nayakas often held assignments for long periods or passed them down through families, which eventually allowed clans to break away.",
+      "Because the Iqta system completely prohibited the maintenance of any military forces.",
+      "Because the Amara-Nayaka system did not involve any collection of land revenues."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly warns that unlike the frequently rotated Sultanate Muqtis, the Amara-Nayakas often retained their assignments or turned them into hereditary fiefdoms, allowing powerful clans to break away when central authority weakened."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What ultimate sovereignty right was retained by the Vijayanagar King (the Raya) over the land tracts assigned to the Amara-Nayakas?",
+    "options": [
+      "He had zero authority to ever intervene once land was assigned.",
+      "The right to legally reassign or confiscate land tracts to assert central leverage.",
+      "The requirement to pay direct cash salaries to the Amara-Nayakas from the central treasury.",
+      "The monopoly over appointing local village accountants."
+    ],
+    "correct": 1,
+    "ex": "As shown in the data table, the Raya held absolute ultimate sovereignty, which included the structural right to reassign land tracts to maintain control over potentially rebellious chieftains."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The military-agrarian statecraft model developed by the Vijayanagar Empire served which main geopolitical purpose?",
+    "options": [
+      "The complete conversion of the entire Deccan into a single open-air fire altar.",
+      "To balance localized land management with immediate military mobilization across the competitive Deccan theater.",
+      "The systematic abolition of all standing lineage cavalry units.",
+      "To replace traditional temple networks with secular corporate trade factories."
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note summarizes that the state relied on the Amara-Nayaka system to effectively pair regional land revenues with rapid military mobilization, utilizing central court rituals to reinforce central control."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which class of assets was an Amara-Nayaka required to maintain under his army quota, as checked during courtly inspections?",
+    "options": [
+      "Subterranean lead aqueducts exclusively",
+      "Infantry, cavalry, and war elephants",
+      "Iron axes and deep plowshares for state farming",
+      "Monolithic stone-carved model chariots"
+    ],
+    "correct": 1,
+    "ex": "The text confirms that the resource rights granted to the Amara-Nayakas carried a legal obligation to field a specific combat-ready force composed of infantry, cavalry horsemen, and war elephants."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The performance of formal presentations and financial tributes at the Mahanavami festival served which socio-political function?",
+    "options": [
+      "It allowed the Amara-Nayakas to vote on selecting a new prime minister.",
+      "It functioned as a mandatory ritual to publicly confirm their allegiance and submission to the central crown.",
+      "It completely centralized the retail markets under the exclusive ownership of merchants.",
+      "It signaled the legal conversion of all temple lands into tax-free Agraharas."
+    ],
+    "correct": 1,
+    "ex": "The annual courtly attendance during the grand Mahanavami festival allowed the Raya to display imperial power, forcing the regional military lords to openly present tribute and validate the sovereign hierarchy."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The structural derivation of the Amara-Nayaka system maps an adaptation of which previous subcontinental administrative model?",
+    "options": [
+      "The Mauryan Adhyaksha system",
+      "The Sultanate Iqta revenue framework",
+      "The Gupta Visayapati district councils",
+      "The Chola Kudavolai lottery system"
+    ],
+    "correct": 1,
+    "ex": "The text states that the defining structural framework of the Vijayanagar state adapted elements of the Sultanate Iqta system to the existing socio-political institutions of southern India."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "While regional zones were managed by military lords, local village administration in Vijayanagar was run by a specialized corporate body of 12 officials known as what?",
+    "options": [
+      "The Variyams",
+      "The Ayagars",
+      "The Adhistanadhikaranas",
+      "The Gudha-purushas"
+    ],
+    "correct": 1,
+    "ex": "The text notes that local village administration shifted away from old models toward a more structured corporate framework managed by a specialized body of 12 officials called Ayagars."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which official title designated the corporate village accountant within the 12-member Ayagar system?",
+    "options": [
+      "Reddi",
+      "Karnam",
+      "Talari",
+      "Gaudu"
+    ],
+    "correct": 1,
+    "ex": "The text outlines that the 12-member body included the village headman (Reddi or Gaudu), the accountant (Karnam), and the watchman (Talari)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "How were the 12 Ayagar officials systematically compensated by the state for managing local municipal and law-and-order tasks?",
+    "options": [
+      "They received fixed monthly cash salaries paid in silver coins from the central treasury.",
+      "They were granted tax-free land assignments, known as Manyams, held in perpetuity.",
+      "They were allowed to claim a percentage of wild war elephants captured in forests.",
+      "They were given direct ownership titles over coastal maritime trade factories."
+    ],
+    "correct": 1,
+    "ex": "The text explicitly states that instead of receiving cash salaries or a share of the harvest, the Ayagars were granted tax-free lands, known as Manyams, in perpetuity."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The official designated as the 'Talari' inside the corporate Ayagar grid was tasked with which primary responsibility?",
+    "options": [
+      "Writing and maintaining the local crop accounting books.",
+      "Serving as the village watchman and executing local police and security functions.",
+      "Regulating the flow of river water through irrigation locks.",
+      "Assessing custom tariffs on foreign merchant caravans."
+    ],
+    "correct": 1,
+    "ex": "As shown in the data table, the Talari functioned as the village watchman, carrying out local security, police duties, and property tracking."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "In a study of South Indian history, an option states that the Ayagar system revived the democratic folk assemblies of the Cholas. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the Ayagar system completely outlawed any cultivation of rice crops.",
+      "Because the rise of the Ayagar system marked the formal decline of the autonomous assemblies (Sabha and Ur), shifting administration to a hereditary, state-approved corporate office.",
+      "Because the Ayagars were selected exclusively via a universal direct franchise.",
+      "Because the system was managed exclusively by foreign European trading partners."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap points out that local administration shifted from democratic, community-wide assembly participation (*Sabha/Ur*) to an institutionalized, hereditary, and state-sanctioned corporate office, increasing rural centralization."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The tax-free land assignments granted to the Ayagars in perpetuity were designated by what term?",
+    "options": [
+      "Agraharas",
+      "Manyams",
+      "Bhuktis",
+      "Iqtas"
+    ],
+    "correct": 1,
+    "ex": "The text and matrix table explicitly note that the compensation mechanism for the Ayagar corporate framework consisted of tax-free land allocations called Manyams."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which municipal responsibilities were executed directly under the jurisdiction of the 12 Ayagar officials?",
+    "options": [
+      "Forging rust-free iron pillars and conducting long-range naval raids.",
+      "Tracking property boundaries, auditing local land sales, collecting taxes, and managing law and order.",
+      "Translating classical high Sanskrit literature into local Prakrit dialects.",
+      "Managing the complex hydrostatic pressure lines inside uphill step-tanks."
+    ],
+    "correct": 1,
+    "ex": "The Ayagars held absolute control over village affairs, ensuring that property deeds were tracked and local order was maintained, connecting local production to the broader imperial economy."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Who functioned as the village headman inside the structured 12-member Ayagar administrative system?",
+    "options": [
+      "The Karnam",
+      "The Reddi or Gaudu",
+      "The Talari",
+      "The Visayapati"
+    ],
+    "correct": 1,
+    "ex": "The text identifies the village headman by the regional terms Reddi or Gaudu, serving as the central executive figure within the local corporate grid."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The composition of the Ayagar body included traditional village leaders alongside which other essential category?",
+    "options": [
+      "Foreign Roman maritime merchant ambassadors",
+      "Local operational artisans like blacksmiths and water managers",
+      "Brahmin priests who held monopolies over state yajnas",
+      "Underground spy agents belonging to the Gudha-purushas"
+    ],
+    "correct": 1,
+    "ex": "The corporate village framework was self-contained, incorporating both administrative supervisors (headman, scribe) and essential functional artisans (blacksmiths, water managers) to ensure economic and municipal survival."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The ultimate systemic impact of the Ayagar framework on the rural economy is best summarized by which choice?",
+    "options": [
+      "The total liberation of the agricultural land market from any state oversight.",
+      "The creation of a highly self-contained layer of local governance that directly connected rural production with the broader imperial economy.",
+      "The total migration of the peasant population into fortified coastal hubs.",
+      "The substitution of cash transactions with primitive barter loops."
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note confirms that the system stabilized rural extraction by replacing old community assemblies with a corporate body of 12 officials compensated through tax-free Manyam lands, keeping rural networks accountable."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The strategic challenges of the Deccan theater prompted Vijayanagar builders to enclose their capital city of Hampi within how many concentric rings of massive stone walls?",
+    "options": [
+      "Three brick rings",
+      "Seven concentric rings of massive stone walls",
+      "A single wide river moat with zero masonry structures",
+      "Sixteen tiered fortification lines built of soft clay soapstone"
+    ],
+    "correct": 1,
+    "ex": "The text notes that as documented by foreign travelers, the capital city of Hampi was enclosed within seven concentric rings of massive stone walls."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which prominent Persian envoy visited the Deccan and left detailed eyewitness records documenting the urban layout and concentric defense rings of Hampi?",
+    "options": [
+      "Megasthenes",
+      "Abdur Razzaq",
+      "Stafford Cripps",
+      "Cyril Radcliffe"
+    ],
+    "correct": 1,
+    "ex": "The text explicitly validates the historical accounts of Hampi by referencing the Persian envoy Abdur Razzaq and the Portuguese chronicler Domingo Paes."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What innovative approach to military engineering did Vijayanagar builders deploy to construct the heavy granite walls of the Hampi capital?",
+    "options": [
+      "Using imported Mesopotamian asphalt as a thick adhesive binder.",
+      "Advanced dry-masonry techniques, wedge-cutting massive granite blocks together without any mortar or cementing agents.",
+      "Melting down raw iron ore to create solid poured metallic boundary walls.",
+      "Layering sun-dried mud bricks inside cast bronze framework grids."
+    ],
+    "correct": 1,
+    "ex": "The text explains that the defensive lines were constructed using advanced dry-masonry techniques, interlocking granite blocks together without mortar, creating durable structures capable of resisting battering tactics."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What unique strategic assets were enclosed inside the inner concentric defense rings of the Hampi capital, setting its urban design apart from standard fortresses?",
+    "options": [
+      "A network of deep underground gold coin mint factories exclusively.",
+      "Vast agricultural fields, cultivated orchards, local markets, and complex water storage channels.",
+      "A standing fleet of heavy maritime warships lined up along coastal docks.",
+      "Separate residential sectors for the lowest Varna outcasts."
+    ],
+    "correct": 1,
+    "ex": "The unique feature of Hampi’s military cartography was that its defensive rings enclosed vast agricultural fields and orchards, allowing the city to produce its own food and withstand extended military sieges indefinitely."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "When analyzing the foreign accounts of Hampi, how did the focus of the Persian traveler Abdur Razzaq differ from that of the Portuguese chronicler Domingo Paes?",
+    "options": [
+      "Razzaq focused entirely on the local drama plays, while Paes focused on irrigation canals.",
+      "Razzaq focused on the seven defensive layers and the inclusion of farmland, whereas Paes detailed the thriving retail markets and the sophisticated jewelry trades.",
+      "Razzaq claimed the city lacked any walls, while Paes documented seven concentric stone layers.",
+      "Razzaq analyzed the Sanskrit syntax of local edicts, while Paes tracked the distribution of war elephants."
+    ],
+    "correct": 1,
+    "ex": "The reference text's Exam Trap clarifies that while Razzaq emphasized the macro-defensive rings enclosing agricultural spaces, Paes provided detailed profiles of urban economic vitality, tracking the robust commerce and luxury transactions protected by those walls."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What direct tactical advantage did enclosing vast fields of agricultural crops inside the primary stone fortifications provide to the Vijayanagar high command?",
+    "options": [
+      "It completely eliminated the requirement to collect land taxes from peasants.",
+      "It secured long-term food production and supply self-reliance during extended military sieges by competing Deccan Sultanates.",
+      "It allowed the state to easily convert all grain into metallic tokens.",
+      "It forced the army to adopt non-violent Shramanic ethics."
+    ],
+    "correct": 1,
+    "ex": "The data infrastructure table notes that integrating farmlands inside the walls was an operational strategy to survive blockades, preventing starvation and allowing the garrison to hold out indefinitely."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which material medium was utilized by Hampi masonry engineers to cut and interlock the fortification layers without mortar?",
+    "options": [
+      "Soft clay soapstone bricks",
+      "Massive local granite blocks",
+      "Sun-dried alluvial mud bricks",
+      "Imported Mediterranean marble sheets"
+    ],
+    "correct": 1,
+    "ex": "The text and matrix identify local granite as the primary medium used in dry-masonry construction. Granite blocks were wedge-cut and fitted together to form dense, heavy barriers."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The architectural layout described by foreign visitors proves that the capital was designed to withstand what primary threat?",
+    "options": [
+      "Continuous volcanic tectonic eruptions",
+      "Extended military sieges by rival powers in the Deccan theater",
+      "Total economic blockades enforced by deep-sea European fleets",
+      "The complete desertification of the Tungabhadra river valley"
+    ],
+    "correct": 1,
+    "ex": "Hampi's defensive network was an answer to the continuous warfare of the Deccan theater, built with interlocked rings to protect the fields, retail markets, and palace centers from invading forces."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The Portuguese chronicler Domingo Paes provided highly specific details regarding which aspect of Hampi's urban environment?",
+    "options": [
+      "The grammatical syntax rules of the Tolkappiyam.",
+      "The thriving retail markets, commerce, and sophisticated jewelry trades.",
+      "The exact list of the sixteen Mahajanapadas.",
+      "The atomic weights calculated by Pakudha Kaccayana."
+    ],
+    "correct": 1,
+    "ex": "As noted under the Exam Trap, Paes focused on the commercial life of the city, detailing its active retail markets and jewelry trades, showcasing how the fortifications secured both food production and economic surplus."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The ultimate macro-historical character of Hampi’s defensive architecture is best summarized by which choice?",
+    "options": [
+      "The complete isolation of the royal palace from any agricultural or water links.",
+      "Pairing concentric stone walls with enclosed agricultural lands to secure the capital against extended military sieges.",
+      "An unfortified open layout designed to mimic early Rig Vedic pastoral setups.",
+      "A total reliance on foreign Mesopotamian mercenary garrisons to build walls."
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note states that Hampi's defensive layout was a masterclass in military engineering, integrating agricultural spaces within concentric walls to secure the urban core against the continuous threat of sieges."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The primary water source diverted by Vijayanagar civil engineers to supply the capital's complex hydraulic systems was managed by constructing dams across which river?",
+    "options": [
+      "The Narmada River",
+      "The Tungabhadra River",
+      "The Godavari River",
+      "The Krishna River"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the primary water source was managed by constructing massive stone dams and barriers across the Tungabhadra River, creating a series of reservoirs along the rocky hills."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which celebrated canal line was engineered to divert river waters through a deep valley directly into the urban center to irrigate royal gardens and supply residential sectors?",
+    "options": [
+      "The Hiriya Canal",
+      "The Masahat Canal",
+      "The Eri-variyam Channel",
+      "The Manyam Aqueduct"
+    ],
+    "correct": 0,
+    "ex": "According to the text, water was channeled into urban areas through networks like the Hiriya Canal, which diverted river waters through a deep valley directly into the core center."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The hydraulic asset known as the 'Kamalapuram Tank' was engineered to collect water from which source, and where did it feed?",
+    "options": [
+      "Diverted directly from the Arabian Sea to supply maritime ship docks.",
+      "Collected from rainwater harvesting and seasonal streams to feed the royal sector and subterranean stone aqueducts.",
+      "Siphoned from subterranean volcanic wells to heat the central bath houses.",
+      "Fed exclusively by custom tariffs gathered from corporate merchant guilds."
+    ],
+    "correct": 1,
+    "ex": "The hydraulic summary table matches the Kamalapuram Tank to its operational reality: it harvested rainwater and seasonal stream runoff to supply the royal sector and keep the state's stone aqueducts operational."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What advanced hydraulic principle did the engineers of the royal sector demonstrate by moving water uphill into polished stone step-tanks?",
+    "options": [
+      "An exclusive reliance on non-planned natural gravity drops.",
+      "An advanced understanding of hydrostatic pressure lines and elevated aqueduct flows.",
+      "The total lack of any masonry knowledge, relying entirely on manual leather buckets.",
+      "The application of steam-powered mechanical pumping machinery."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap points out that while most water networks used standard gravity channels, the royal sector utilized complex stone aqueducts to force water uphill into polished step-tanks, confirming advanced skills in hydrostatic pressure management."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Sustaining a massive urban population within the rocky, semi-arid terrain of the Deccan required Vijayanagar statecraft to prioritize which asset?",
+    "options": [
+      "The total relocation of all citizens to the coastal fringes of Malabar.",
+      "Advanced hydraulic civil engineering, stone tanks, elevated aqueducts, and river diversion canals.",
+      "A complete ban on agricultural cultivation inside the provincial boundaries.",
+      "The exclusive import of freshwater containers from Greco-Roman ports."
+    ],
+    "correct": 1,
+    "ex": "The text emphasizes that because Hampi was situated in the dry, rugged geography of the Deccan, its structural viability depended on sophisticated water management architectures designed to capture, store, and redistribute water across urban and farm lines."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The Hiriya Canal’s spatial design layout irrigated agricultural zones situated between which urban structures?",
+    "options": [
+      "Beneath the deep beds of the maritime dockyard basins.",
+      "Between the concentric defensive walls of the capital.",
+      "Exclusively inside the private gardens of the local Ayagars.",
+      "Along the open unfortified border lines of the outer Janapadas."
+    ],
+    "correct": 1,
+    "ex": "The data table shows that the Hiriya canal served a dual purpose: supplying the sacred center and irrigating the agricultural fields protected between the concentric fortification walls."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What structures did Vijayanagar engineers construct across the Tungabhadra River to successfully form their primary water storage reservoirs?",
+    "options": [
+      "Sun-dried mud walls lined with papyrus sheets.",
+      "Massive stone dams and barriers along the rocky hills.",
+      "Subterranean lead chambers that collected volcanic runoff.",
+      "Floating timber logs bound by hemp ropes."
+    ],
+    "correct": 1,
+    "ex": "The text explains that the primary water resource was locked by constructing massive stone dams and architectural barriers across the Tungabhadra river to feed the urban canals."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The Kamalapuram Tank acted as a primary feeder source to keep which specific architectural elements operational in the royal sector?",
+    "options": [
+      "The furnace kilns used for lost-wax bronze casting.",
+      "Subterranean stone aqueducts and polished stone step-tanks.",
+      "The fire altars used for grand horse sacrifices.",
+      "The printing press machines of the corporate scribes."
+    ],
+    "correct": 1,
+    "ex": "The data summary details that water collected in the Kamalapuram reservoir was directed into channels that fed the elite royal zones, moving through stone aqueducts to fill the decorative step-tanks."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Sustaining crops and orchards inside Hampi's defensive perimeters during a drought depended on which engineering capability?",
+    "options": [
+      "The ability to pump seawater uphill using iron machinery.",
+      "The integration of rainwater harvesting and river diversion networks into a unified city supply grid.",
+      "A total reliance on seasonal monsoon cloud movements with zero storage.",
+      "Importing grain supplies from contemporary northern European empires."
+    ],
+    "correct": 1,
+    "ex": "The text demonstrates that the city's water infrastructure combined multiple storage and delivery mechanisms—such as the riverine Hiriya canal and the stream-fed Kamalapuram tank—to guarantee stable resources for the city."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_5",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The ultimate legacy of Vijayanagar hydraulic infrastructure is summarized by which structural achievement?",
+    "options": [
+      "The absolute isolation of the city from any river or lake connections.",
+      "Using networks like the Hiriya Canal to divert the Tungabhadra River, supplying water to urban centers and agricultural fields inside the capital.",
+      "The complete conversion of all water networks into dry stone roads.",
+      "Enforcing a mandatory tax fee on all residents who consumed water."
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note locks down the core concept: the state mastered the semi-arid environment by using sophisticated canal and dam layouts to bring river water directly into the fortified capital, ensuring agricultural and civil resource security."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The administrative and military backbone of the Mughal Empire was organized and perfected by Akbar through the institutionalization of which non-hereditary system?",
+    "options": [
+      "The Amara-Nayaka system",
+      "The Mansabdari system",
+      "The Iqta revenue rotation network",
+      "The Ayagar corporate grid"
+    ],
+    "correct": 1,
+    "ex": "The text states that the administrative backbone of the Mughal Empire was the Mansabdari system, organized and perfected by Akbar to integrate a diverse nobility into a centralized imperial framework."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Inside the dual numerical evaluation of the Mansabdari system, what did the score known as 'Zat' explicitly measure?",
+    "options": [
+      "The exact number of active cavalrymen the officer had to maintain.",
+      "The officer's personal status in the court hierarchy and their personal salary scale.",
+      "The square acreage of the agricultural land grant held by the lineage.",
+      "The quantity of gold coins the official had to pay at the annual Mahanavami festival."
+    ],
+    "correct": 1,
+    "ex": "The text defines that the Zat score indicated the officer's personal status in the court hierarchy, fixing their position in royal processions and setting their personal salary scale."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Inside the Mughal Mansabdari ranking matrix, what did the numerical rank designated as 'Sawar' dictate?",
+    "options": [
+      "The number of administrative tax records the scribe had to verify daily.",
+      "The exact number of active cavalrymen (Tabinan) the officer was legally bound to maintain, equip, and present.",
+      "The number of personal wives and family relatives allowed to live inside the capital.",
+      "The rank of the officer's personal placement during a royal procession."
+    ],
+    "correct": 1,
+    "ex": "The text notes that the Sawar score dictated the exact number of active cavalrymen (Tabinan) the officer was legally bound to maintain, equip, and present for periodic imperial reviews."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What structural tool did the Mughal central state use to ensure military readiness and prevent fraud within the cavalry ranks maintained by Mansabdars?",
+    "options": [
+      "A total reliance on paper credits with zero real-world troop checks.",
+      "Strict horse-branding rules (Dagh) and the maintenance of descriptive rolls for individual soldiers.",
+      "Paying the army entirely in livestock and unhusked rice grains.",
+      "Delegating military review authority to independent merchant guilds."
+    ],
+    "correct": 1,
+    "ex": "To guarantee combat readiness and eliminate padding on payrolls, the central state enforced strict horse branding rules and recorded descriptive rolls, keeping the forces responsive to central directives."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In a comparative study of Mughal institutions, an option asserts that holding a high Mansabdari rank automatically granted the officer permanent hereditary ownership of the assigned lands. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the Mansabdari system was a purely civilian trade guild with no military duties.",
+      "Because it was a fluid ranking structure that did not imply land ownership; a high-rank officer could be assigned to a purely civilian administrative role like managing a mint or court treasury rather than leading troops.",
+      "Because ranks were selected exclusively via a direct democratic folk lottery system.",
+      "Because the entire system was managed by non-armed Buddhist monastics."
+    ],
+    "correct": 1,
+    "ex": "The reference text highlights as a critical Exam Trap that a mansab rank was a non-hereditary, fluid administrative ranking. It signified personalized status and military obligations to the state, but did not carry real estate property rights, allowing an officer with high Zat to manage civilian departments without setting foot on a battlefield."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The term 'Tabinan' inside the operational mechanics of the Mughal military apparatus refers to which of the following?",
+    "options": [
+      "The stationary spy observers inside municipal markets.",
+      "The active cavalrymen maintained and equipped by an individual Mansabdar.",
+      "The tax-free land tracts assigned in perpetuity to local village scribes.",
+      "The metric standard weights used to calculate treasury accounts."
+    ],
+    "correct": 1,
+    "ex": "The text explicitly links the Sawar metric to the tracking of the Tabinan, which were the active cavalry units an officer was required to maintain and bring for periodic imperial reviews."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Akbar's primary political motivation for designing and enforcing the complex Mansabdari system across the empire was centered on which goal?",
+    "options": [
+      "To completely dissolve the centralized authority of the imperial crown.",
+      "To systematically integrate a diverse, multi-ethnic, and multi-religious nobility into a centralized imperial administrative framework.",
+      "To force all noble families to switch their primary language to local Prakrit dialects.",
+      "To switch the entire state budget from metallic coinages back to a basic barter economy."
+    ],
+    "correct": 1,
+    "ex": "The text explains that the Mansabdari system was engineered by Akbar to unify, organize, and track a highly diverse aristocratic layer, tying their social prestige and payrolls directly to centralized service."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which data accurately summarizes the primary structural consequence of the 'Zat' rank component within the Mughal court hierarchy?",
+    "options": [
+      "Dictated the exact size of the cavalry contingent an officer had to field for campaigns.",
+      "Determined personal placement at court and fixed personal salary scales.",
+      "Granted absolute immunity from any central accounting audits or treasury checks.",
+      "Mandated the construction of dry-masonry stone fortifications around provincial capitals."
+    ],
+    "correct": 1,
+    "ex": "The components table confirms that the Zat score fixed the officer's standing in the court hierarchy, determining his personal precedence, ceremonial placement, and personal salary scale."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "How did the non-hereditary character of the Mansabdari system strengthen the centralization of the Mughal state compared to traditional feudal models?",
+    "options": [
+      "It allowed officers to pass their administrative titles down to their children without crown verification.",
+      "It ensured that ranks, privileges, and salary paths were derived exclusively from service and royal approval, preventing local noble families from building entrenched hereditary fiefdoms.",
+      "It completely eliminated the requirement to maintain a central treasury department.",
+      "It transferred the final executive veto power away from the Emperor to the local village headman."
+    ],
+    "correct": 1,
+    "ex": "Because a mansab rank was non-hereditary and reverted back to the crown upon the death or dismissal of the officer, it systematically prevented the growth of entrenched, autonomous regional aristocracies, keeping control in the hands of the central Emperor."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The administrative dual evaluation using separate 'Zat' and 'Sawar' scores allowed the Mughal state to track which pair of metrics across its nobility?",
+    "options": [
+      "Socio-religious caste lineage and language proficiency.",
+      "Personal court status/salary scale and quantitative troop maintenance obligations.",
+      "Agricultural land measurement values and commercial tax arrears.",
+      "Deep-sea maritime ship counts and gold bullion weights."
+    ],
+    "correct": 1,
+    "ex": "The structural combination of Zat and Sawar provided the Mughal state with a precise tool to balance administrative prestige with military commitments, ensuring each noble's rank translated into an explicit delivery of cavalry assets for imperial use."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Mughal Mansabdars were primarily compensated through land revenue assignments designated by which structural term?",
+    "options": [
+      "Agraharas",
+      "Iqtas",
+      "Jagirs",
+      "Manyams"
+    ],
+    "correct": 2,
+    "ex": "The text explicitly states that instead of receiving regular cash salaries from the central treasury, most Mansabdars were assigned the right to collect land revenues from specific territorial tracts designated as Jagirs."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What administrative strategy did the Mughal state use to prevent Jagirdars from building independent localized power bases or family claims?",
+    "options": [
+      "The complete prohibition of using any armed cavalry forces.",
+      "Compulsory rotations of Jagirs across different provinces every three to four years.",
+      "Forcing all Jagirdars to live as aesthetic wanderers inside remote caves.",
+      "Demanding that all tax records be translated into local Tamil dialects."
+    ],
+    "correct": 1,
+    "ex": "The text notes that to prevent elite officials from developing deep local roots, acquiring hereditary claims, or building independent regional power bases, the Mughal crown implemented compulsory rotations of Jagirs every three to four years across different provinces."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "In the Mughal fiscal machinery, what was the primary characteristic of the land tracts designated as 'Khalisa'?",
+    "options": [
+      "They were permanent, tax-free assignments granted exclusively to Brahmin priests.",
+      "They were imperial crown lands managed directly by the central state, with revenues flowing straight to the treasury.",
+      "They were uncultivable badlands completely abandoned by the state revenue department.",
+      "They were managed exclusively by foreign European trading companies."
+    ],
+    "correct": 1,
+    "ex": "As verified by the revenue assignment table, Khalisa land refers to imperial crown lands managed directly by the central state to channel revenues directly to the central treasury for royal expenses and cash salaries."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "An officer acting as a Jagirdar exercised which legal or administrative power within his assigned territorial tract?",
+    "options": [
+      "Absolute judicial trial management and capital punishment deployment.",
+      "The legal right to collect land taxes up to his approved salary valuation.",
+      "The supreme military command of the provincial fortress guards.",
+      "The authority to unilaterally alter the central succession rules of the crown."
+    ],
+    "correct": 1,
+    "ex": "The text notes that an officer, acting as a Jagirdar, deployed revenue collectors to extract agricultural taxes from his assigned tract up to his approved salary valuation."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "In a competitive UPSC examination, a prompt states that a Mughal Jagirdar held absolute police and criminal law authority inside his territory. Why is this an 'Exam Trap'?",
+    "options": [
+      "An assumption that Jagirdars were purely religious figures with zero revenue rights.",
+      "Because a Jagirdar held zero judicial or police powers; sub-provincial administration, security, and law remained under separate state-appointed officers like the Faujdar and Qazi.",
+      "Because all police functions were managed exclusively by merchant guilds.",
+      "Because the Mughal Empire lacked any judicial courts or judges in the provinces."
+    ],
+    "correct": 1,
+    "ex": "The text explicitly highlights as an Exam Trap that a Jagirdar only possessed the legal right to collect land taxes. Civil administration, security, and criminal justice were handled separately by the state-appointed Faujdar (military commander) and Qazi (judge), preventing the Jagirdar from establishing absolute local control."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What direct economic dependency did the compulsory rotation of Jagir land assignments protect?",
+    "options": [
+      "The dependence of urban artisan guilds on foreign maritime imports.",
+      "The direct, long-term dependence of elite officers on the central imperial crown.",
+      "The absolute isolation of the peasantry from any monetary transactions.",
+      "The dependency of the central state treasury on local village lottery systems."
+    ],
+    "correct": 1,
+    "ex": "By continuously transferring revenue rights across regions every few years, the Mughal state systematically disrupted local entrenchment, ensuring that an officer's long-term economic dependence remained tied directly to the imperial center."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which state official held the separate sub-provincial military command and security portfolio parallel to the revenue collectors of the Jagirdar?",
+    "options": [
+      "The Qazi",
+      "The Faujdar",
+      "The Wazir",
+      "The Iqtadar"
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap notes that local security and sub-provincial military command fields were directed by the Faujdar, maintaining a check-and-balance layout against the economic power of the Jagirdar."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The collection of agricultural taxes inside a standard Jagir was bounded by which structural constraint?",
+    "options": [
+      "The Jagirdar could arbitrarily extract any amount without recording figures.",
+      "Collections were restricted up to the approved salary valuation of the Mansabdar.",
+      "Taxes had to be collected exclusively in foreign Roman bullion coins.",
+      "All extractions were directly managed by the local village assembly Ur."
+    ],
+    "correct": 1,
+    "ex": "The fiscal mechanics mandated that the Jagirdar's agents could only extract revenue up to the specific financial value matching his officially approved state salary, keeping records aligned with central audits."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The central treasury house of the Mughal state was funded primarily by revenues siphoned from which category of land?",
+    "options": [
+      "Standard Jagirs",
+      "Khalisa Land",
+      "Agrahara tenures",
+      "Manyam village matrices"
+    ],
+    "correct": 1,
+    "ex": "The comparison table confirms that Khalisa lands were direct imperial crown lands whose revenues were channeled straight to the central treasury to cover royal expenses and cash payrolls."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The overarching purpose of combining the Mansabdari ranking matrix with the Jagirdari system was centered on which goal?",
+    "options": [
+      "To completely decentralize the state into autonomous feudal fiefdoms.",
+      "To construct a uniform, centrally audited compensation and mobilization counterpart for the empire's nobility.",
+      "To force all noble elites to convert their assets into maritime shipping fleets.",
+      "To completely decouple the military machinery from land tax extraction fields."
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note states that the Jagirdari system functioned as the fiscal counterpart to the Mansabdari framework, using temporary, rotated revenue assignments to protect central control while sustaining the empire's elite military-bureaucratic structure."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "The sophisticated Dahsala (or Zabt) land revenue system was engineered and perfected by which high official?",
+    "options": [
+      "Raja Todar Mal",
+      "Kamandaka",
+      "Makkhali Gosala",
+      "Udayin"
+    ],
+    "correct": 0,
+    "ex": "The text explicitly states that to secure a highly stable and predictable revenue stream, Akbar's finance minister, Raja Todar Mal, introduced the sophisticated Dahsala (or Zabt) system."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Upon what baseline calculation did the Dahsala system compute the state's land revenue demand?",
+    "options": [
+      "A rough estimate of the current season's crop height.",
+      "A comprehensive ten-year average of localized crop yields and actual market prices.",
+      "A uniform tax fee copied from ancient cuneiform registers.",
+      "A random percentage determined by a lottery in the royal court."
+    ],
+    "correct": 1,
+    "ex": "The text details that the system moved away from arbitrary crop-sharing models, calculating state land revenue based on a comprehensive ten-year average of localized crop yields and actual market prices collected between the 15th and 24th years of Akbar's reign."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "In the Dahsala land classification matrix, cultivable plots that were farmed continuously every year without interruption were designated as what?",
+    "options": [
+      "Parauti",
+      "Polaj",
+      "Chachar",
+      "Banjar"
+    ],
+    "correct": 1,
+    "ex": "The text defines Polaj as highly fertile lands cultivated annually without interruption, which were taxed at full standard rates based on the verified ten-year average output."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "The land classification category known as 'Parauti' was explicitly defined by which farming pattern?",
+    "options": [
+      "Fields left uncultivated for five or more years to grow wild timber.",
+      "Lands fallowed for one to two years to recover natural soil nutrients.",
+      "Wetland rice fields irrigated by specialized river dams.",
+      "Plots completely exempted from any tax assessment models."
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs and data table, Parauti lands were fields fallowed for 1-2 years to rebuild soil quality, being taxed only when actively cultivated during productive cycles."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "Why were marginal or low-yield 'Banjar' lands left unfarmed for five or more years assessed at minimal concessionary rates by the Mughal state?",
+    "options": [
+      "Because the state intended to convert all Banjar plots into central military camps.",
+      "To encourage land reclamation and agricultural expansion into uncultivated zones.",
+      "Because the landowners belonged exclusively to the Brahmin priestly class.",
+      "To punish the local cultivators for failing to rotate crops."
+    ],
+    "correct": 1,
+    "ex": "The text notes that Banjar lands were left unfarmed for five or more years, and were taxed at reduced, minimal concessionary rates specifically to encourage land reclamation and bring new areas under the plow."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What defined the 'Chachar' category of cultivable land inside the Zabt measurement system?",
+    "options": [
+      "Highly fertile fields cultivated continuously without a break.",
+      "Fields left uncultivated for three to four years to allow structural recovery.",
+      "Littoral coastal zones used to extract industrial salt variants.",
+      "Lands managed exclusively under a direct tribal collective."
+    ],
+    "correct": 1,
+    "ex": "The text defines Chachar as fields left uncultivated for three to four years to allow structural recovery before being reintroduced into the active crop cycle."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "In a study of Mughal agrarian history, a prompt states that the Dahsala system functioned as a permanent ten-year settlement where taxes were collected once a decade. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the Dahsala system was a purely theoretical manual that was never executed.",
+      "Because the tax demand was assessed, updated, and collected annually based on current cultivated acreage, converting the historical average into a fixed cash demand for that season.",
+      "Because taxes were paid exclusively using livestock assets rather than cash.",
+      "Because all revenue collections were managed by a direct democratic folk vote."
+    ],
+    "correct": 1,
+    "ex": "The reference text highlights as a critical Exam Trap that while Dahsala utilized a ten-year historical dataset to establish baseline yield values, the actual tax demand was assessed and gathered annually based on current seasonal cultivation details."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What primary operational tools were utilized by Todar Mal’s revenue officers to achieve high precision during regional field land surveys?",
+    "options": [
+      "Rough historical guesswork and verbal testimonies",
+      "Standardized measuring chains",
+      "Subterranean lead aqueduct parameters",
+      "Lost-wax bronze compass indicators"
+    ],
+    "correct": 1,
+    "ex": "The text states that to achieve high precision during revenue surveys, cultivable plots were systematically surveyed using standardized measuring chains before being categorized."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "The primary crops evaluated to track historical yields between the 15th and 24th years of Akbar's reign included which major subcontinental lines?",
+    "options": [
+      "Imported Egyptian papyrus reeds exclusively",
+      "Primary staple lines like rice (Vrihi) and wheat",
+      "Wild forest honey and timber stocks",
+      "Cast iron bars and bronze scrap blocks"
+    ],
+    "correct": 1,
+    "ex": "The Todar Mal fiscal reforms analyzed the primary agricultural outputs of the northern plains, focusing on predictable staple lines like wheat and rice to calculate stable yield standards."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "The ultimate systemic impact of the Dahsala/Zabt matrix on the Mughal empire is best summarized by which choice?",
+    "options": [
+      "The complete conversion of all agrarian fields into non-cultivated forest lines.",
+      "Optimizing agrarian revenue collection by calculating taxes from a predictable historical average and categorizing land by farming frequency.",
+      "Sidelining the authority of the Emperor in favor of autonomous merchant guilds.",
+      "The total transition of the market back into a primitive non-monetized barter loop."
+    ],
+    "correct": 1,
+    "ex": "As verified by the UPSC Revision note, the Dahsala system optimized resource management, moving away from arbitrary variables to secure a highly stable and mathematically grounded tax pipeline for the imperial center."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The apex executive and advisory council institutionalized by Chhatrapati Shivaji to govern the Maratha kingdom consisted of eight specialized ministers known by what term?",
+    "options": [
+      "The Navaratnas",
+      "The Ashtapradhan Council",
+      "The Adhistanadhikaranas",
+      "The Variyam sub-committees"
+    ],
+    "correct": 1,
+    "ex": "The text states that the apex advisory and executive body of the Maratha administration was the Ashtapradhan Council, a group of eight specialized ministers reporting directly to the king."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which minister led the Ashtapradhan Council, managing general civil administration and coordinating policies across different departments?",
+    "options": [
+      "The Amatya",
+      "The Peshwa",
+      "The Senapati",
+      "The Wakianavis"
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, the council was led by the Peshwa (Prime Minister), who managed general civil administration and coordinated policies across ministries."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What unique rule applied to the civilian portfolio ministers of the Maratha Ashtapradhan Council, distinguishing their duties from standard administrative setups?",
+    "options": [
+      "They were legally required to rotate their family residences to Delhi every year.",
+      "They had to lead active military campaigns in the field when ordered by the king.",
+      "They were completely barred from keeping any written accounting books.",
+      "They were selected exclusively via a direct popular democratic pot-ticket lottery."
+    ],
+    "correct": 1,
+    "ex": "The text highlights a unique rule of Maratha administration: all ministers, regardless of their civil duties, had to lead active military campaigns when ordered by the king."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which two specific portfolios within the eight-member Ashtapradhan Council were strictly exempted from commanding military field campaigns?",
+    "options": [
+      "The Peshwa and the Amatya",
+      "The Nyayadhish (Chief Justice) and the Panditrao (High Priest)",
+      "The Wakianavis and the Senapati",
+      "The Sachiv and the Sumant"
+    ],
+    "correct": 1,
+    "ex": "The text explicitly states that only two portfolios were exempted from field duty: the Nyayadhish (Chief Justice managing legal trials) and the Panditrao (High Priest managing state charities)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In the administrative layout of the Ashtapradhan, which official held the specific financial portfolio of auditing state revenues and accounts?",
+    "options": [
+      "The Wakianavis",
+      "The Amatya",
+      "The Senapati",
+      "The Nyayadhish"
+    ],
+    "correct": 1,
+    "ex": "As verified by the data table, the Amatya served as the Finance Minister tasked with auditing state revenues, expenditures, and treasury accounts."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The official designated as the 'Wakianavis' inside Shivaji's executive council held primary responsibility over which set of tasks?",
+    "options": [
+      "Directing frontline naval fleet raids in the Indian Ocean.",
+      "Managing intelligence, internal security, and royal household tasks.",
+      "Conducting public sacrifices to assert royal legitimacy.",
+      "Surcharging land revenues based on the Masahat measurement system."
+    ],
+    "correct": 1,
+    "ex": "The text outlines that the Wakianavis was tasked with internal security, intelligence compilation, and tracking the daily operations and security of the royal household."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In an examination evaluating Maratha administrative institutions, a statement claims that the Ashtapradhan operated on the principle of collective responsibility like a modern cabinet. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the council was completely fictional, never gathering in reality.",
+      "Because each minister was appointed individually, reported independently to the crown, and held no autonomous power outside direct royal approval.",
+      "Because the ministers were selected via a consensus vote among the landless labor force.",
+      "Because all decisions had to be verified by contemporary Mughal governors."
+    ],
+    "correct": 1,
+    "ex": "The reference text warns against this Exam Trap, clarifying that the Ashtapradhan was not a modern collective cabinet. Each minister answered directly and independently to Shivaji, serving as an executive instrument of the king's central will."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The core operational responsibility assigned to the 'Senapati' within the Maratha ministerial framework focused on which task?",
+    "options": [
+      "Managing the collection of state charities and religious endowments.",
+      "Troop organization, recruitment, maintenance, and military management.",
+      "Presiding over civil law trials inside the capital.",
+      "Drafting formal international treaties in classical Sanskrit."
+    ],
+    "correct": 1,
+    "ex": "The text identifies the Senapati as the Commander-in-Chief whose primary portfolio was managing troop recruitment, maintenance grids, and central military organization."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The requirement for Maratha civil ministers to serve actively as military field commanders reflects which character of the state?",
+    "options": [
+      "A thoroughly pacified, non-armed commercial framework.",
+      "A highly mobilized, military-administrative state designed to support a sovereign structure.",
+      "An absolute direct democracy that prohibited centralized standing commands.",
+      "A complete isolation from any geopolitical conflicts."
+    ],
+    "correct": 1,
+    "ex": "The dual civil-military obligations of the Ashtapradhan ministers show the intense focus on mobilization and defense needed to sustain an expanding sovereign Maratha state in a competitive regional theater."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which data accurately tracks the military campaign obligation rules within the Maratha Ashtapradhan council structure?",
+    "options": [
+      "Peshwa and Amatya: Exempted from campaigns; Nyayadhish: Required to command field forces.",
+      "Peshwa and Amatya: Required to command active field campaigns; Nyayadhish and Panditrao: Strictly exempted from military duties.",
+      "All eight ministers were permanently banned from ever entering active battlefields.",
+      "Only foreign mercenaries were allowed to command military campaigns."
+    ],
+    "correct": 1,
+    "ex": "The portfolio baseline table confirms that high civil administrators like the Peshwa and Amatya carried direct field command obligations, while judicial and religious officers were exempted to protect their functional focus."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The substantial fiscal extraction levied by the Maratha state on neighboring non-Maratha territories at a rate of 25% of standard land revenue was called what?",
+    "options": [
+      "Sardeshmukhi",
+      "Chauth",
+      "Kharaj",
+      "Manyams"
+    ],
+    "correct": 1,
+    "ex": "The text defines Chauth as a substantial one-fourth (25%) tax levied on the standard land revenues of a target region."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What primary justification or operational mechanism defined the collection of 'Chauth' from peripheral zones?",
+    "options": [
+      "It was a religious tax used exclusively to build temples inside core lands.",
+      "It functioned as protection money; in exchange for payment, the Marathas guaranteed they would not raid the territory.",
+      "It was a direct compensation fee paid to landless agricultural laborers.",
+      "It was a commercial license fee required to access deep-sea ports."
+    ],
+    "correct": 1,
+    "ex": "The text notes that Chauth functioned as a protection tax. In exchange for payment, the Maratha state provided a formal guarantee that it would not raid the territory or disrupt its local administration."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The additional ten percent fiscal extraction added on top of base land revenue models by Shivaji was designated as what?",
+    "options": [
+      "Chauth",
+      "Sardeshmukhi",
+      "Fawazil",
+      "Sondhar"
+    ],
+    "correct": 1,
+    "ex": "The text describes Sardeshmukhi as an additional ten percent levy added on top of the standard tax collections."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "On what legal or hereditary claim did Shivaji demand the extraction of 'Sardeshmukhi' across the Deccan?",
+    "options": [
+      "His victory in a direct popular democratic vote inside the Santhagara.",
+      "His position as the hereditary supreme head or Sardeshmukh (paramount ruler) of the Deccan clans, asserting ultimate sovereignty.",
+      "A contractual agreement signed with contemporary Chinese dynasties.",
+      "His completion of a specialized course in iron-smelting techniques."
+    ],
+    "correct": 1,
+    "ex": "The text states that Shivaji claimed Sardeshmukhi by virtue of his hereditary position as the supreme head or Sardeshmukh of the Deccan clans, asserting ultimate sovereign rights over the region."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "In a study of Maratha fiscal models, an option claims that Chauth was the primary land tax collected inside core Maratha 'Swarajya' lands. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because Swarajya lands were completely untaxed, lacking any fiscal obligations.",
+      "Because Chauth was extracted exclusively from foreign or peripheral Mughal-controlled zones to keep them vulnerable, while core Swarajya lands used standard agricultural taxes.",
+      "Because Chauth was paid exclusively by foreign European trading companies.",
+      "Because core Maratha lands used only a primitive barter loop with zero taxes."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly warns that Chauth was an external resource extraction tool directed at peripheral, non-Maratha territories (like Mughal provinces) to secure revenues and maintain geopolitical leverage without over-taxing core Swarajya domains."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The core purpose behind implementing the twin extractions of Chauth and Sardeshmukhi was centered on which goal?",
+    "options": [
+      "To completely dissolve the standing Maratha military apparatus.",
+      "To fund the state's military apparatus and secure external resources without overtaxing core Maratha lands.",
+      "To replace the currency system with religious tokens and temple credits.",
+      "To force neighboring states to adopt the non-monetized barter frameworks."
+    ],
+    "correct": 1,
+    "ex": "The text and summary clarify that these dual extractions allowed the Maratha state to look beyond its borders for resource sustenance, leveraging its military mobility to collect funds from peripheral zones."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What direct guarantee did a peripheral state secure from the Maratha high command upon the timely payment of the 25% Chauth?",
+    "options": [
+      "The right to annex portions of the core Maratha Swarajya territory.",
+      "A formal guarantee that the Marathas would not raid the territory or disrupt its local administration.",
+      "The automated appointment of their chief to the Ashtapradhan Council.",
+      "The delivery of trained war elephants from the eastern forest belts."
+    ],
+    "correct": 1,
+    "ex": "Chauth functioned as a coercive protection extraction. Paying it bought immunity from Maratha military raids, which would otherwise devastate the target region's agrarian production and revenue collections."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The term 'Swarajya' used in Maratha administrative documents explicitly designates which zone?",
+    "options": [
+      "Foreign Mughal-controlled provinces in the north.",
+      "The core homeland territories of the Maratha kingdom.",
+      "The unfortified coastal maritime ports of Gujarat.",
+      "The disputed fields of the Krishna-Tungabhadra Doab."
+    ],
+    "correct": 1,
+    "ex": "The text contrasts peripheral non-Maratha lands with core Maratha lands, designating the latter as Swarajya, which were governed directly under stable, standard domestic civil and tax rules."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which rate standard tracks the extraction of the Sardeshmukhi levy as mapped in your reference data profile?",
+    "options": [
+      "25% of standard regional land revenue",
+      "An additional 10% added on top of base land revenue models",
+      "Fifty percent rate based on physical Masahat measurement",
+      "A variable fee determined by merchant guilds"
+    ],
+    "correct": 1,
+    "ex": "The fiscal levy matrix table confirms that while Chauth required a flat 25% allocation, Sardeshmukhi was an additional 10% assessment based on Shivaji’s claim as paramount hereditary lord of the Deccan."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The combination of external protection extractions (Chauth) with hereditary claims (Sardeshmukhi) allowed Maratha statecraft to perform which task?",
+    "options": [
+      "To completely isolate the Maratha economy from any contact with neighboring states.",
+      "To fund an expanding sovereign state by drawing resources from peripheral zones.",
+      "To replace the military forces entirely with non-armed diplomatic monks.",
+      "To establish an absolute direct democracy inside foreign Mughal territories."
+    ],
+    "correct": 1,
+    "ex": "The twin extractions provided a powerful fiscal mechanism to sustain Maratha armies and expand geopolitical influence without depleting the domestic economic assets of the Swarajya heartland."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The expansion of mystical lineages inside medieval India introduced distinct spiritual models. What were these lineages called?",
+    "options": [
+      "Silsilahs",
+      "Variyams",
+      "Mandalams",
+      "Iqtas"
+    ],
+    "correct": 0,
+    "ex": "The text states that the religious and social history of medieval India was significantly shaped by the expansion of Sufi mystical lineages (Silsilahs)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which Sufi order was established in India by Khwaja Moinuddin Chishti, practicing radical simplicity and complete poverty?",
+    "options": [
+      "The Naqshbandi Silsilah",
+      "The Chishti Silsilah",
+      "The Suhrawardi Order",
+      "The Qadri Silsilah"
+    ],
+    "correct": 1,
+    "ex": "The text identifies the Chishti Silsilah as being established in India by Khwaja Moinuddin Chishti, noted for its practice of radical simplicity and complete poverty."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What was the traditional attitude of the early Chishti saints toward state politics, royal gifts, and the imperial court?",
+    "options": [
+      "They actively campaigned to secure administrative posts in the Diwan-i-Wizarat.",
+      "They intentionally stayed detached from state politics and royal courts, refusing royal gifts.",
+      "They commanded active military field campaigns for the Sultan.",
+      "They served as stationary spies inside the central municipal markets."
+    ],
+    "correct": 1,
+    "ex": "The text details that the Chishti order's saints intentionally stayed detached from state politics and royal courts, refusing royal gifts to preserve their spiritual independence."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which specialized musical session format was embraced by the Chishti order to inspire devotional ecstasy and connect with diverse populations?",
+    "options": [
+      "Masahat",
+      "Sama",
+      "Kharaj",
+      "Fawazil"
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, the Chishtis incorporated local languages and embraced musical sessions (Sama) to inspire devotional ecstasy and connect with diverse populations."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which conservative Sufi order developed as a reaction against syncretic trends, actively intervening in court politics to guide state policy along orthodox lines?",
+    "options": [
+      "The Chishti Silsilah",
+      "The Naqshbandi Silsilah",
+      "The Lokayata school",
+      "The Akriya-vada line"
+    ],
+    "correct": 1,
+    "ex": "The text defines the Naqshbandi Silsilah as a conservative reaction introduced later, whose leaders enforced orthodox Sharia codes and actively intervened in court politics."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "How did the Naqshbandi order view the musical innovations and devotional singing sessions embraced by other Sufi lineages?",
+    "options": [
+      "They mandated that all political edicts be sung publicly.",
+      "They strictly opposed musical innovations and defended orthodox practices.",
+      "They integrated musical instruments into all central treasury houses.",
+      "They adopted local vernacular melodies to compile their canon."
+    ],
+    "correct": 1,
+    "ex": "The text and matrix table explicitly note that the Naqshbandi order strictly rejected music and defended orthodox practices, contrasting sharply with the Chishti model."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The communal lodges or centers established by Sufi saints where individuals from all social backgrounds gathered were known by what term?",
+    "options": [
+      "Santhagaras",
+      "Khanqahs",
+      "Adhistanadhikaranas",
+      "Bhuktis"
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap highlights that the Chishti lodges (*Khanqahs*) functioned as open community centers where individuals from all social backgrounds gathered, helping to build a shared devotional culture."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In a study of medieval social history, an option states that the early Chishti order isolated themselves completely from society to live in the mountains. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the Chishtis actually operated as a secular corporate trading guild in urban zones.",
+      "Because they did not isolate themselves from society; their lodges (Khanqahs) were open community spaces that welcomed diverse people, fostering an inclusive devotional culture.",
+      "Because the Chishti order was composed exclusively of foreign royal military generals.",
+      "Because they lived inside the fortified citadels of the Delhi Sultanate under state guards."
+    ],
+    "correct": 1,
+    "ex": "The reference data notes as an Exam Trap that while avoiding royal politics, the Chishtis remained deeply integrated with common people, using their open Khanqahs to build bridges across different social layers."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What core characteristic defined the Chishti order's approach to local cultures and vernacular languages in medieval India?",
+    "options": [
+      "They strictly prohibited using any language other than classical high Arabic.",
+      "They incorporated local languages to make their mystical teachings accessible to the common population.",
+      "They forced all Lay followers to learn a new, artificial cryptographic language.",
+      "They communicated exclusively through non-verbal gestures during public gatherings."
+    ],
+    "correct": 1,
+    "ex": "The Chishtis achieved widespread accessibility and built deep roots among common people because they adapted to local settings, choosing local vernacular languages over elite scripts to deliver their message."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The ultimate conceptual contrast within the medieval Sufi landscape as mapped in your reference text is best summarized by which choice?",
+    "options": [
+      "From a complete rejection of all supernatural motifs to a mandatory worship of the sun.",
+      "Spanning from the politically detached, music-embracing Chishti order to the conservative, politically active Naqshbandi silsilah.",
+      "The total handover of religious leadership to automated direct democratic councils.",
+      "The complete replacement of spiritual teachings with iron metallurgy blueprints."
+    ],
+    "correct": 1,
+    "ex": "The analytical summary table confirms that the Sufi orders presented structurally distinct paths: the Chishti order emphasized absolute poverty, detachment, and musical ecstasy, while the Naqshbandi order pushed for orthodox alignment and political intervention to shape state dynamics."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The core intellectual contribution of Sufi mysticism to medieval Indian syncretism, which posited that God and the physical universe are identical expressions of one essence, is known by what name?",
+    "options": [
+      "Wahdat-ash-Shuhud",
+      "Wahdat-al-Wujud",
+      "Madhyama Pratipada",
+      "Pratityasamutpada"
+    ],
+    "correct": 1,
+    "ex": "The text explains that this intellectual connection centered on the influential Sufi doctrine of Wahdat-al-Wujud, translating literally as the 'Unity of Being,' which proposed that God and the physical universe are identical expressions of one essence."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which orthodox school of classical Hindu philosophy shared a common metaphysical worldview with the Sufi doctrine of Wahdat-al-Wujud by teaching the identity of the individual soul and cosmic reality?",
+    "options": [
+      "Vaisheshika Atomism",
+      "Advaita Vedanta",
+      "Purva Mimamsa",
+      "Charvaka Materialism"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the doctrine of Wahdat-al-Wujud established an intellectual bridge with the non-dualistic Advaita Vedanta school of Hindu philosophy, which similarly taught that the individual soul (Atman) and cosmic reality (Brahman) are identical."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which prominent mystic is credited with the initial formalization of the metaphysical worldview of Wahdat-al-Wujud?",
+    "options": [
+      "Khwaja Moinuddin Chishti",
+      "Ibn Arabi",
+      "Makkhali Gosala",
+      "Preside Preside Preside"
+    ],
+    "correct": 1,
+    "ex": "The text states that first formulated by the mystic Ibn Arabi, this philosophy proposed that God and the physical universe are not separate entities."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "How did the metaphysical worldview of Wahdat-al-Wujud exert a syncretic influence over the social environment of medieval India?",
+    "options": [
+      "By enforcing a new, more rigid code of dietary taboos and bans.",
+      "By asserting that all creation shares a single divine essence, thereby undermining rigid ritual barriers between communities.",
+      "By declaring that only ruling Kshatriya elites possessed an immortal soul.",
+      "By mandating that all commercial transactions revert exclusively to a barter loop."
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, by asserting that all creation shares a single divine essence, this doctrine undermined rigid ritual barriers between communities and provided a shared vocabulary for thinkers across traditions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "In an examination of medieval religious movements, an option asserts that the concept of Wahdat-al-Wujud was universally embraced by all Islamic scholars. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the concept was actually written entirely by early Buddhist monks.",
+      "Because it was highly controversial; conservative scholars vigorously opposed it as pantheistic and promoted an alternative doctrine called Wahdat-ash-Shuhud.",
+      "Because the doctrine was used exclusively as a template for sorting chert weights.",
+      "Because it completely outlawed the practice of any mystical devotion or charity."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly warns that the doctrine was highly controversial among orthodox theologians, who countered it with Wahdat-ash-Shuhud (Unity of Witness) to maintain a strict division between creator and creation."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The alternative theological doctrine of 'Wahdat-ash-Shuhud' proposed by conservative critics of Ibn Arabi was centered on which premise?",
+    "options": [
+      "The universe is composed of seven unchanging elements.",
+      "Maintaining a strict theological division between the creator and the creation.",
+      "The total rejection of the authority of the written Sharia codes.",
+      "The mandatory use of music to achieve spiritual ecstasy."
+    ],
+    "correct": 1,
+    "ex": "The text notes that conservative scholars promoted Wahdat-ash-Shuhud (Unity of Witness), which opposed the identical blending of God and nature, insisting instead on keeping a strict division between creator and creation."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What literal meaning is designated by the Sufi philosophical term 'Wahdat-al-Wujud'?",
+    "options": [
+      "Unity of Witness",
+      "Unity of Being",
+      "The Path of Non-Action",
+      "The Law of Dependent Origination"
+    ],
+    "correct": 1,
+    "ex": "The paragraphs state that this intellectual connection centered on the influential doctrine of Wahdat-al-Wujud, translating literally as the 'Unity of Being.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The syncretic influence value matched with Advaita Vedanta in your analytical data table focuses on which attribute?",
+    "options": [
+      "Providing a shared vocabulary to bypass formal religious divisions.",
+      "Supporting internal devotion by finding divine reality within the individual.",
+      "Enforcing the mandatory clearance of dense monsoonal forest lines.",
+      "Establishing a hereditary socio-occupational status system."
+    ],
+    "correct": 1,
+    "ex": "The data table maps the orthodox Advaita Vedanta school to its syncretic value: it supported internal devotion by postulating that absolute reality is found within the self, aligning structurally with mystical goals."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "By proposing that the cosmos is a direct manifestation of divine reality, the Unity of Being philosophy bypassed which aspect of institutionalized religion?",
+    "options": [
+      "The use of vernacular languages to deliver sermons.",
+      "Formal religious divisions and mechanical outer ritual hierarchies.",
+      "The maintenance of permanent standing military garrisons.",
+      "The tracking of property boundary deeds inside registries."
+    ],
+    "correct": 1,
+    "ex": "The text and baseline summary matrix demonstrate that Wahdat-al-Wujud provided a shared philosophical framework that bypassed formal religious divisions by locating a common essence across all physical and spiritual creation."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The core entities 'Atman' and 'Brahman' represent the metaphysical identity axis of which school mentioned in your text?",
+    "options": [
+      "The Naqshbandi Silsilah",
+      "Advaita Vedanta",
+      "The Chishti Order",
+      "The Charvaka/Lokayata school"
+    ],
+    "correct": 1,
+    "ex": "The text states that Advaita Vedanta taught that the individual soul (Atman) and cosmic reality (Brahman) are identical, mirroring the non-dual essence explored by Sufi pantheistic mystics."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The Nirguna Bhakti tradition within the medieval Bhakti Movement is fundamentally characterized by which theological stance?",
+    "options": [
+      "Intensely emotional devotion focused on specific physical incarnations like Rama or Krishna.",
+      "Devotion directed toward an abstract, formless, and omnipresent divine reality.",
+      "An absolute institutional insistence on executing grand Sanskrit fire sacrifices.",
+      "A radical materialism that rejected any concepts of rebirth or moral justice."
+    ],
+    "correct": 1,
+    "ex": "The text defines that the Nirguna Bhakti tradition focused on a non-anthropomorphic view of reality, advocating for internal devotion directed toward an abstract, formless, omnipresent divine reality."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which duo of non-conformist mystics led the development and expansion of the Nirguna Bhakti line across northern India?",
+    "options": [
+      "Chaitanya Mahaprabhu and Tulsidas",
+      "Kabir and Guru Nanak",
+      "Surdas and Mirabai",
+      "Purana Kassapa and Pakudha Kaccayana"
+    ],
+    "correct": 1,
+    "ex": "The text explicitly names non-conformist mystics like Kabir and Guru Nanak as leaders of the Nirguna Bhakti tradition."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which of the following elements was systematically rejected by Nirguna Bhakti saints, who viewed them as divisive social inventions?",
+    "options": [
+      "The use of simple vernacular poetry to engage the public.",
+      "Idol worship, formal temple structures, sacred geographies, and birth-based caste hierarchies.",
+      "The necessity of maintaining moral responsibility in daily life.",
+      "The institutional guidance provided by an internal teacher."
+    ],
+    "correct": 1,
+    "ex": "The paragraphs state that Nirguna thinkers rejected idol worship, formal temple structures, sacred geographies, and birth-based caste hierarchies, which they viewed as divisive social inventions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "By dismissing external rituals like sacrifices and pilgrimages as empty practices, what did the Nirguna tradition champion for the general population?",
+    "options": [
+      "The mandatory training of all lay followers in classical high Sanskrit.",
+      "Spiritual equality and direct, unmediated access to devotion.",
+      "The concentration of all family wealth within elite merchant guilds.",
+      "The complete relocation of agricultural centers to coastal fringes."
+    ],
+    "correct": 1,
+    "ex": "Writing in simple vernacular formats, Nirguna saints stripped away the necessity of priestly intermediaries or expensive assets, championing spiritual equality and direct access to devotion."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "In a study of Bhakti literature, a prompt states that Nirguna mystics completely discarded the concept of a Guru. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the Nirguna schools were actually managed entirely by central state spies.",
+      "Because the concept of the Guru remained central to their path, functioning as an essential guide who awakens the formless divine presence within the seeker.",
+      "Because they substituted the Guru with a mandatory pot-ticket lottery system.",
+      "Because they recognized only foreign European merchants as spiritual guides."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap notes that Nirguna saints did not discard the teacher. The Guru was structurally central to their path, acting not as a divine mediator or ritual master, but as a catalyst to awaken the formless divine presence inside the seeker."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The literary and vocal output of Nirguna saints was composed primarily in which medium to guarantee maximum public accessibility?",
+    "options": [
+      "Classical courtly Sanskrit epic meters",
+      "Simple vernacular poetry",
+      "Bilingual Greek and Aramaic scripts",
+      "Boustrophedon intaglio relief codes"
+    ],
+    "correct": 1,
+    "ex": "The text notes that writing in simple vernacular poetry, they bypassed elite language barriers to deliver their message directly to the common population."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The theological stance of the Nirguna formations toward the divine is best summarized by which combination of attributes in your data matrix?",
+    "options": [
+      "A three-faced horned entity surrounded by wild animals.",
+      "An abstract, formless, and omnipresent divine entity.",
+      "A personalized physical incarnation tracked through royal genealogies.",
+      "Seven permanent, uncreated material atoms."
+    ],
+    "correct": 1,
+    "ex": "The specific data table maps the Nirguna Formations directly to their view of the divine: an abstract, formless, and omnipresent divine entity."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What direct social critique formed the ideological foundation of the Nirguna Bhakti movement?",
+    "options": [
+      "A critique of advanced lost-wax bronze casting methods.",
+      "A strong critique of social caste hierarchies and external, institutionalized priestly rituals.",
+      "An absolute defense of the financial and animal costs of grand state Yajnas.",
+      "A demand that all land deeds be managed via decentralized corporate grids."
+    ],
+    "correct": 1,
+    "ex": "As verified by the UPSC Revision note, the Nirguna tradition combined internal devotion to a formless divine with a potent critique of social caste hierarchies and mechanical outer rituals."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The focus on a non-anthropomorphic view of reality meant that Nirguna practitioners completely avoided which practice?",
+    "options": [
+      "Wandering across regional trade routes.",
+      "The use of physical icons, idols, and formal temple installations for worship.",
+      "Singing devotional compositions in local spoken dialects.",
+      "Following the spiritual instructions of an active teacher."
+    ],
+    "correct": 1,
+    "ex": "Because they defined the divine as formless and omnipresent, they rejected the utility of localized sacred geography or physical statues, locating the divine essence internally within the self."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The splitting of the medieval Bhakti Movement into two distinct devotional paths was fundamentally determined by which theological axis?",
+    "options": [
+      "Whether they used cash currencies or agricultural crops to pay state taxes.",
+      "How they defined the nature and manifestation of the divine reality.",
+      "Whether they supported the military expansion campaigns of the local king.",
+      "The selection rules governing the composition of local village councils."
+    ],
+    "correct": 1,
+    "ex": "The text demonstrates that the macro-movement split into two distinct operational and theological paths—Nirguna and Saguna—based on how they defined the divine (formless vs. anthropomorphic incarnation)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "In sharp contrast to the formless focus of the Nirguna path, the Saguna Bhakti tradition centered its devotional practice on what?",
+    "options": [
+      "The logical verification of physical matter using direct sensory empiricism.",
+      "Personalized devotion directed toward specific physical incarnations of deities, primarily Rama and Krishna.",
+      "A fatalistic acceptance of destiny managed by the unrolling of cosmic strings.",
+      "The performance of highly complex, expensive state fire sacrifices."
+    ],
+    "correct": 1,
+    "ex": "The text states that the Saguna Bhakti tradition centered its practice on personalized devotion directed toward specific physical incarnations of deities, primarily focusing on Rama and Krishna."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which cluster of popular saints led the expansion and cultural stabilization of the Saguna Bhakti line?",
+    "options": [
+      "Kabir, Guru Nanak, and Ibn Arabi",
+      "Chaitanya Mahaprabhu, Tulsidas, and Surdas",
+      "Purana Kassapa, Pakudha Kaccayana, and Makkhali Gosala",
+      "Raja Todar Mal, Kamandaka, and Brihaspati"
+    ],
+    "correct": 1,
+    "ex": "The text identifies prominent Saguna figures, explicitly listing Chaitanya Mahaprabhu, Tulsidas, and Surdas as leaders of this devotional path."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The intensely emotional devotion championed by the Saguna Bhakti tradition is designated in historical texts by what specific term?",
+    "options": [
+      "Akriya-vada",
+      "Premo-bhakti",
+      "Madhyama Pratipada",
+      "Masahat assessment"
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, the Saguna path emphasized an intensely emotional style of worship known as Premo-bhakti."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which expressive public practice was introduced by Chaitanya Mahaprabhu in Bengal to break down social isolation and spread devotion?",
+    "options": [
+      "The Kudavolai pot-ballot drawings",
+      "Collective community singing known as Kirtans and ecstatic dancing",
+      "The strict enforcement of horse-branding codes",
+      "The composition of cuneiform accounting manifests"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the tradition popularized expressive practices like collective community singing (Kirtans) and ecstatic dancing, introduced by Chaitanya in Bengal to break down social isolation."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "By expressing deep theological and philosophical ideas in local vernacular languages, Saguna saints achieved what macro-social outcome?",
+    "options": [
+      "They restricted spiritual instruction exclusively to elite courtly circles.",
+      "They made complex ideas accessible to the broader population, spreading devotional practices across regional societies.",
+      "They forced the complete elimination of all local spoken dialects.",
+      "They centralized all land-grant registries under the royal crown."
+    ],
+    "correct": 1,
+    "ex": "The text states that by expressing devotion in local languages, Saguna saints made complex philosophical ideas accessible to the broader population, helping to spread devotional practices across regional societies."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "In an examination tracking gender history, how did figures like Mirabai utilize the framework of Saguna Bhakti to challenge contemporary social settings?",
+    "options": [
+      "By enlisting as the supreme commander of the Maratha cavalry forces.",
+      "By using her intense devotion to Krishna to break away from elite family expectations and challenge patriarchal norms.",
+      "By drafting a formal legal manual to regulate merchant custom tariffs.",
+      "By completely banning men from ever entering devotional spaces."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly details that while working within Puranic themes, Saguna Bhakti was often socially progressive. Figures like Mirabai directly challenged contemporary patriarchal norms, using her devotion to Krishna to break away from elite family expectations."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What primary tools did Saguna practitioners use to visualize and anchor their intensely emotional devotional frameworks?",
+    "options": [
+      "Physical icons, sacred spaces, emotional worship, and vast bodies of vernacular poetry.",
+      "Standardized chert weights and binary metrology increments.",
+      "Polished granite cave walls with zero carvings or icons.",
+      "Independent trade contracts signed with foreign empires."
+    ],
+    "correct": 1,
+    "ex": "The text notes that in contrast to the abstract Nirguna path, Saguna followers used physical icons, sacred spaces, and emotional worship to express their devotion, compiling large volumes of local poetry."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The primary worship method matched with Saguna Formations inside your summary data matrix table is defined by which phrase?",
+    "options": [
+      "Direct empirical observation rejecting scriptural inferences.",
+      "Emotional devotion (Premo-bhakti) aimed at specific divine incarnations.",
+      "The mandatory performance of animal sacrifices inside open altars.",
+      "The unrolling of an unalterable cyclic destiny."
+    ],
+    "correct": 1,
+    "ex": "The specific data table maps Saguna Formations directly to their primary mode of operation: emotional devotion (Premo-bhakti) directed toward tangible manifestations of the divine."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which specific deities formed the primary focal points for the incarnation-centered devotion of the Saguna Bhakti line?",
+    "options": [
+      "Indra and Agni",
+      "Rama and Krishna",
+      "Prajapati and Rudra",
+      "Murugan and Ventan"
+    ],
+    "correct": 1,
+    "ex": "The text establishes that the Saguna Bhakti tradition centered its practices on specific physical manifestations of the divine, primarily focusing on the Rama and Krishna lines."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_6",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "The core literary expression profile of Saguna Bhakti as locked down in your revision files is characterized by what tool?",
+    "options": [
+      "Classical Sanskrit statecraft textbooks",
+      "Vernacular poetry, community songs (Kirtans), and local languages",
+      "Bilingual Aramaic and Greek rock inscriptions",
+      "Pali canonical treatises preserved on palm leaves"
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note and core matrix confirm that the Saguna tradition broadened its reach across medieval society by encoding its premo-bhakti practices into popular vernacular poetry and shared community singing formats."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The historical trajectory of permanent subterranean rock-cut stone engineering in ancient India finds its earliest structural baseline under the patronage of which empire?",
+    "options": [
+      "The Gupta Empire",
+      "The Mauryan Empire",
+      "The Imperial Cholas",
+      "The Western Chalukyas"
+    ],
+    "correct": 1,
+    "ex": "The text explicitly states that the historical trajectory of permanent subterranean stone engineering in ancient India finds its earliest structural baseline under the patronage of the Mauryan Empire."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which specific cluster of rock-cut caves located in Bihar preserves the foundational Mauryan stone excavation breakthroughs?",
+    "options": [
+      "The Ajanta Caves",
+      "The Barabar Caves",
+      "The Ellora Complexes",
+      "The Elephanta Mandapas"
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, Mauryan engineering capabilities are preserved across the Barabar Caves (such as the Sudama and Lomas Rishi shrines) in Bihar."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What unique material property defines the choice of stone tackled by Mauryan engineers when cutting the Barabar caves?",
+    "options": [
+      "Soft clay soapstone formations",
+      "Exceptionally hard granite massifs",
+      "Fine-grained alluvial siltstones",
+      "Localized red sandstone cliff beds"
+    ],
+    "correct": 1,
+    "ex": "The text notes that Mauryan engineers bypassed soft clays and sandstones to cut directly into exceptionally hard granite massifs, demonstrating advanced stone engineering skills."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The defining technical achievement that provides a bright reflective surface on the vertical interior walls of Mauryan caves is designated as what?",
+    "options": [
+      "An external layer of imported Egyptian bitumen tar",
+      "A glass-like inner polish applied directly to the granite faces",
+      "A molten lead sheeting welded into the corners",
+      "A coating of ground shell lime and animal fat plaster"
+    ],
+    "correct": 1,
+    "ex": "The text highlights that the defining technical achievement of this phase is the signature glass-like inner polish applied to the vertical granite walls, creating unique acoustic resonance."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The structural layout blueprint common to early Mauryan cave excavations featured which interconnected geometric combination?",
+    "options": [
+      "A single circular housing cluster surrounding an open-air market.",
+      "A rectangular outer assembly hall linked directly to a circular inner sanctuary room.",
+      "A tri-furcated city planning zoning model divided into tiered levels.",
+      "A series of seven concentric rings with zero internal chambers."
+    ],
+    "correct": 1,
+    "ex": "The paragraphs show that the structural layout of these Mauryan foundations is defined by geometric clarity, pairing a rectangular outer assembly hall directly with a circular inner sanctuary room."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "In a study of early architecture, an option asserts that the Barabar caves were excavated as monasteries for orthodox Brahmanical priests. Why is this an 'Exam Trap'?",
+    "options": [
+      "Because the caves were actually built as administrative granary storage house structures.",
+      "Because they were constructed primarily for the heterodox Ajivika sect, confirming that early imperial backing crossed sectarian boundaries.",
+      "Because the caves were constructed exclusively for foreign Roman maritime merchants.",
+      "Because the inscriptions show the caves were used only to store war elephants."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap points out that while later caves served Buddhist or Hindu needs, the Mauryan Barabar caves were dedicated primarily to the fatalist Ajivika sect, demonstrating non-sectarian imperial architectural patronage."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The monumental entry portal carved over the vertical stone face of a premier Mauryan cave features what architectural style signature?",
+    "options": [
+      "The Lomas Rishi Facade displaying carved timber-imitation decorative archways.",
+      "A star-shaped Vesara style spire built of sandstone blocks.",
+      "A multi-story tiered Vimana pyramid tower.",
+      "A solid uncarved block with zero apertures or doors."
+    ],
+    "correct": 1,
+    "ex": "As tracked in the cave components table, the Lomas Rishi Facade is a masterpiece of early design, featuring meticulously carved stone that mirrors contemporary functional timber archways."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The mirror-polished finish on the raw granite walls inside Mauryan chambers has survived in reflective condition for how long?",
+    "options": [
+      "Fewer than fifty years due to rapid water erosion.",
+      "Over two millennia later, retaining its structural reflective character.",
+      "It vanished instantly upon exposure to seasonal monsoonal rains.",
+      "It was systematically peeled off by medieval Maratha forces."
+    ],
+    "correct": 1,
+    "ex": "The text notes that the burnished mirror-polishing treatment applied to the vertical granite walls created an exceptionally durable finish that remains reflective over two millennia later."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What acoustic property was generated inside the inner granite chambers of the Barabar caves due to the high burnished polish?",
+    "options": [
+      "It completely deadened and absorbed all vocal sounds.",
+      "It created a unique acoustic resonance that amplified vocal invocations.",
+      "It caused a high-pitched sub-zero structural vibrations.",
+      "It had zero acoustic impact, functioning identical to an open field."
+    ],
+    "correct": 1,
+    "ex": "The engineering details confirm that the mirror-polishing treatment on the hard vaulted stone walls had an auditory function, generating a unique acoustic echo and resonance that amplified chanted spoken prayers."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "The ultimate conceptual value of the Mauryan cave foundations within the evolutionary history of subcontinental architecture is locked down by which choice?",
+    "options": [
+      "The transition from land-based identity to exclusive maritime trade ports.",
+      "Initiating permanent subterranean rock-cut stone engineering using mirror-polished hard granite massifs.",
+      "The absolute elimination of any geometric clarity or pre-planned layouts.",
+      "The mandatory usage of soft chloritic soapstone for all monuments."
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note states that early rock-cut architecture began with Mauryan granite engineering, setting the technical standards of multi-room interconnected chambers and polished finishes that guided later generations."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Following the early Mauryan imperial baselines, cave architecture expanded along the Western Ghats trade routes, documenting a clear structural shift between which schools?",
+    "options": [
+      "The Chishti and Naqshbandi Sufi silsilahs",
+      "The Hinayana and Mahayana Buddhist phases",
+      "The Advaita Vedanta and Lokayata schools",
+      "The Digambara and Shvetambara Jain sects"
+    ],
+    "correct": 1,
+    "ex": "The text notes that rock-cut architecture expanded along the Western Ghats trade routes, documenting a clear theological shift between Buddhist schools (Hinayana vs. Mahayana)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The early excavations at Western Ghats sites like Bhaja, Karle, and the initial layers of Ajanta belong strictly to which phase?",
+    "options": [
+      "The Mahayana phase",
+      "The Hinayana phase",
+      "The Brahmanical phase",
+      "The Vijayanagar era"
+    ],
+    "correct": 1,
+    "ex": "According to the paragraphs, early excavations at sites like Bhaja, Karle, and the initial layers of Ajanta belong strictly to the Hinayana phase."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which of the following structural characteristics defines the interior layout of a classical Hinayana-phase prayer hall (Chaitya)?",
+    "options": [
+      "Massive life-sized anthropomorphic statues of the Buddha sitting on gold thrones.",
+      "A plain, functional hall centered around an unadorned stone stupa, completely free of human idols.",
+      "A multi-pillared mandapa displaying detailed relief carvings of Puranic wars.",
+      "A star-shaped ground plan clone-patterned after northern Nagara towers."
+    ],
+    "correct": 1,
+    "ex": "The text details that Hinayana layouts focus on plain, functional prayer halls (Chaityas) centered around an unadorned stone stupa, paired with simple monastic cells (Viharas) completely free of human idols."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "During the post-Gupta and late classical eras, rock-cut architecture in western India transitioned to construct which type of layout standard?",
+    "options": [
+      "Simple barrel-vaulted halls and uniform rows of plain windowless cells.",
+      "Massive pillared mandapas covered in deep relief sculptures of deities and life-sized cult statues.",
+      "Unfortified open-air platforms with zero stone columns.",
+      "Subterranean lead aqueducts siphoning water from coastal basins."
+    ],
+    "correct": 1,
+    "ex": "The text demonstrates that during the Mahayana and Brahmanical phases, structures abandoned early simplicity to construct massive pillared mandapas covered in deep relief sculptures of deities."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The spectacular transition into the late classical monolithic phase culminated in which monument carved top-down from a single basalt hill block?",
+    "options": [
+      "The Durga Temple at Aihole",
+      "The Kailashnath Temple at Ellora",
+      "The Pancha Rathas of Mamallapuram",
+      "The Lomas Rishi cave portal"
+    ],
+    "correct": 1,
+    "ex": "The text states that this architectural evolution culminated in the monolithic Kailashnath Temple at Ellora, carved top-down from a single basalt hill block to create a freestanding multi-story temple."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "In a comparative analysis of rock engineering, why does your text emphasize that the Kailashnath Temple at Ellora is a cave monument rather than a structural building?",
+    "options": [
+      "Because it was built using soft clay bricks imported from Roman trading hubs.",
+      "Because it was engineered without using any mortar or external blocks, carved entirely out of a standalone hillside massif from the top down.",
+      "Because it lacks any interior chambers, functioning as a solid block of stone.",
+      "Because the entire structure is situated completely underwater inside a river confluence."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly notes that the Kailashnath Temple is technically a rock-cut monument, carved top-down directly into the living rock of a hillside massif, requiring zero external blocks or structural mortar binders."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The iconographic display standard of the early Hinayana phase is best described by which phrase in your analytical summary table?",
+    "options": [
+      "Massive, life-sized cult statues and deep narrative relief panels.",
+      "Symbolic representations only, such as plain stupas and empty thrones.",
+      "Detailed painted travelogues mapping international trade factories.",
+      "Pictographic cuneiform characters carved onto steatite soapstones."
+    ],
+    "correct": 1,
+    "ex": "The structural shift axis table confirms that the Hinayana phase restricted its iconographic display to symbolic representations only (like plain stupas or empty footprints), avoiding anthropomorphic portrayals of the Buddha."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The late layers at Ajanta, Elephanta, and Ellora document the rise of which complex layouts compared to the early uniform Western Ghats caves?",
+    "options": [
+      "The direct return to semi-nomadic mobile pastoral tent structures.",
+      "Complex pillared courtyards, secondary shrines, and multi-tiered mandapas.",
+      "Unfortified market zoning lines with zero column installations.",
+      "Circular stepped water reservoirs clone-patterned after Dholavira."
+    ],
+    "correct": 1,
+    "ex": "The shift axis table tracks that the Mahayana/Brahmanical standard replaced the simple barrel-vaulted early designs with highly complex pillared courtyards, multi-tiered mandapas, and deep narrative reliefs."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The geological medium or stone massif cut by builders to create the multi-story Kailashnath Temple at Ellora consisted of which material?",
+    "options": [
+      "Soft metamorphic chloritic soapstone cliffs",
+      "A standalone basalt hillside massif",
+      "Sun-dried mud brick retaining embankments",
+      "Imported fine-grained white Mediterranean marbles"
+    ],
+    "correct": 1,
+    "ex": "The paragraphs state that the engineering feat of the Kailashnath Temple at Ellora was executed by carving top-down straight into a solid basalt hillside massif to shape a freestanding temple structure."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The overall macro-historical evolutionary trajectory of Indian cave architecture is best summarized by which choice?",
+    "options": [
+      "A complete decay of permanent stone engineering, returning back to wood setups.",
+      "An evolution from simple, symbol-centered Hinayana monastic spaces to highly decorated Mahayana and Brahmanical multi-pillared complexes.",
+      "The centralization of all sacred spaces under the exclusive control of corporate merchant guilds.",
+      "A transition from land-based rock cutting to exclusive maritime harbor architectures."
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note locks down the macro concept: the trajectory tracks a clear transition from plain, symbol-focused early Hinayana monastic cells to the highly complex, decorated, and icon-heavy mandapas of the Mahayana and Brahmanical classical revivals."
   }
+
+
 ]
