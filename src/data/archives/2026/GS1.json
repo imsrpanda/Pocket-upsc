@@ -193,7 +193,7 @@
       "Diwan-i-Rasalat"
     ],
     "correct": 1,
-    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option Index 1 (Option 2):</b> The <b>Diwan-i-Wizarat</b>, headed by the Wazir, functioned as the apex financial body of the Delhi Sultanate, controlling land revenue models, tracking regional accounts, and managing fiscal audits.</p><p>The others handled state correspondence (Insha), military management (Ariz), and foreign diplomacy/charities (Rasalat).</p></div> }}"
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2 (Option 2):</b> The <b>Diwan-i-Wizarat</b>, headed by the Wazir, functioned as the apex financial body of the Delhi Sultanate, controlling land revenue models, tracking regional accounts, and managing fiscal audits.</p><p>The others handled state correspondence (Insha), military management (Ariz), and foreign diplomacy/charities (Rasalat).</p></div> }}"
   },
   {
     "year": 2026,
@@ -207,7 +207,7 @@
       "Fallow land left uncultivated for five or more consecutive years to rebuild soil fertility."
     ],
     "correct": 2,
-    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option Index 2 (Option 3):</b> In the Mughal system, <b>Khalisa</b> lands were directly administered crown territories whose entire generated revenue flowed straight into the central treasury to meet the Emperor’s immediate expenditures, royal household upkeep, and cash salaries.</p><p>This stood in contrast to Jagir lands, which were temporarily assigned out to Mansabdars for personal compensation.</p></div> }}"
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 3 (Option 3):</b> In the Mughal system, <b>Khalisa</b> lands were directly administered crown territories whose entire generated revenue flowed straight into the central treasury to meet the Emperor’s immediate expenditures, royal household upkeep, and cash salaries.</p><p>This stood in contrast to Jagir lands, which were temporarily assigned out to Mansabdars for personal compensation.</p></div> }}"
   },
   {
     "year": 2026,
@@ -235,7 +235,7 @@
       "1, 3 and 4 only"
     ],
     "correct": 1,
-    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option Index 1 (Option 2):</b> Kabir and Guru Nanak were primary leaders of the <i>Nirguna Bhakti</i> tradition, which focused on internal devotion to an abstract, formless, omnipresent divine reality while completely rejecting icons, caste systems, and institutionalized priestly rituals [cite: 292, 293].</p><p><b>Chaitanya Mahaprabhu and Mirabai</b> belong to the <i>Saguna Bhakti</i> tradition, which centered on intensely emotional devotion (Premo-bhakti) directed toward physical incarnations of deities, primarily Rama and Krishna[cite: 294, 295].</p></div> }}"
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2 (Option 2):</b> Kabir and Guru Nanak were primary leaders of the <i>Nirguna Bhakti</i> tradition, which focused on internal devotion to an abstract, formless, omnipresent divine reality while completely rejecting icons, caste systems, and institutionalized priestly rituals [cite: 292, 293].</p><p><b>Chaitanya Mahaprabhu and Mirabai</b> belong to the <i>Saguna Bhakti</i> tradition, which centered on intensely emotional devotion (Premo-bhakti) directed toward physical incarnations of deities, primarily Rama and Krishna[cite: 294, 295].</p></div> }}"
   },
   {
     "year": 2026,
@@ -278,5 +278,1125 @@
     ],
     "correct": 0,
     "ex": "{{ <div className='space-y-2'><p><b>Pairs 1 and 2 are correctly matched:</b> The Peshwa managed general civil administration and coordinated policies, while the Amatya functioned as the finance minister tracking state accounts and revenues [cite: 270, 271].</p><p><b>Pair 3 is cross-matched and incorrect:</b> The <i>Nyayadhish</i> was the Chief Justice managing legal trials and was strictly exempted from military duties[cite: 271, 272]. Intelligence, internal security, and household tasks were managed by the <i>Wakianavis</i>[cite: 271].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 21,
+    "q": "With reference to the intellectual and philosophical syncretism of medieval India, consider the following statements regarding the Sufi doctrine of Wahdat-al-Wujud:\n1. First systematically formulated by the mystic Ibn Arabi, it posited that the physical universe is an identical, direct manifestation of divine reality.\n2. The doctrine served as a functional metaphysical bridge connecting Sufi thought with the non-dualistic principles of orthodox Advaita Vedanta.\n3. Due to its harmonizing nature, it was accepted without any theological friction or opposition by the orthodox Islamic clergy of the period.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The doctrine of <i>Wahdat-al-Wujud</i> (Unity of Being), formulated by Ibn Arabi, established that the creator and creation are not separate entities, which closely mirrored the non-dualistic philosophy of Advaita Vedanta (where Atman and Brahman are identical) [cite: 290, 291].</p><p><b>Statement 3 is incorrect:</b> The doctrine was highly controversial among orthodox theologians who opposed it because they feared it promoted pantheism, leading to the development of the alternative conservative doctrine of <i>Wahdat-ash-Shuhud</i>[cite: 291, 292].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 22,
+    "q": "Which of the following historical statements accurately describes the core epistemological and metaphysical criteria that distinguished the Nirguna Bhakti tradition from the Saguna Bhakti lineage?",
+    "options": [
+      "Nirguna saints advocated for strict scriptural commentary in classical Sanskrit, whereas Saguna saints used vernacular expressions.",
+      "Nirguna formations focused on internal devotion to an abstract, formless, omnipresent divine reality while actively critiquing caste hierarchies.",
+      "Saguna formations rejected all forms of iconographic representation and physical sacred spaces, focusing exclusively on ascetic isolation.",
+      "Nirguna formations derived their structural authority entirely from priestly monopolies and grand open-air fire altars."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2:</b> The <i>Nirguna Bhakti</i> tradition, championed by non-conformist mystics like Kabir and Guru Nanak, focused on a non-anthropomorphic, formless view of the divine[cite: 293]. They completely rejected idols, external priestly rituals, and birth-based caste stratification in favor of direct internal devotion [cite: 293, 294].</p><p><b>Other options are incorrect:</b> Both traditions relied heavily on vernacular languages rather than Sanskrit to make complex ideas accessible to common populations[cite: 294, 297].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 23,
+    "q": "Consider the following popular figures of the medieval Bhakti movement:\n1. Tulsidas\n2. Kabir\n3. Mirabai\n4. Guru Nanak\n\nWhich of the figures listed above are explicitly associated with the Saguna Bhakti tradition?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option  2:</b> Tulsidas and Mirabai are premier representatives of the <i>Saguna Bhakti</i> tradition, which centered on intense emotional devotion (Premo-bhakti) directed toward personal manifestations and physical incarnations of deities like Rama and Krishna [cite: 295, 296].</p><p><b>Statements 2 and 4 are incorrect:</b> Kabir and Guru Nanak belonged strictly to the iconoclastic, formless <i>Nirguna Bhakti</i> orientation[cite: 293].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 24,
+    "q": "With reference to the developmental trajectory of early Indian subterranean architecture, consider the following statements regarding the Barabar Caves in Bihar:\n1. They represent the earliest permanent rock-cut cave engineering baseline initiated under Mauryan state patronage.\n2. Mauryan engineers avoided hard materials, choosing to cut exclusively into soft sandstones and clay deposits to facilitate complex relief work.\n3. The vertical granite walls inside these chambers are finished with a signature glass-like burnished polish that creates distinct acoustic resonance.",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> The Barabar Caves (such as Sudama and Lomas Rishi) represent ancient India's earliest structural baseline for permanent rock-cut cave engineering under Mauryan patronage[cite: 2, 298]. A key technological feat was applying a highly reflective, mirror-like inner polish to the vertical granite walls, which yields unique acoustic properties [cite: 299].</p><p><b>Statement 2 is incorrect:</b> Mauryan engineers did not use soft materials; they achieved a significant technological breakthrough by cutting directly into exceptionally hard granite massifs[cite: 298].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 25,
+    "q": "In the administrative and fiscal lexicon of the Maratha Kingdom under Chhatrapati Shivaji, how did the levy of Chauth conceptually and structurally differ from the collection of Sardeshmukhi?",
+    "options": [
+      "Chauth was a tax collected inside the core Swarajya territory, while Sardeshmukhi was extracted exclusively from foreign nations.",
+      "Chauth was a 25% tax assessed on peripheral zones to serve as protection money against raids, whereas Sardeshmukhi was an additional 10% levy claimed via hereditary rights as paramount lord.",
+      "Chauth was paid exclusively in cash to religious scholars, while Sardeshmukhi was a grain tribute collected by military commanders to feed war elephants.",
+      "Chauth represented a temporary land grant for civil servants, while Sardeshmukhi was an annual market customs tariff levied at maritime trade ports."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2:</b> <i>Chauth</i> was a substantial one-fourth (25%) tax levied on neighboring non-Maratha territories as protection money to guarantee they would not be raided[cite: 275, 276, 277]. <i>Sardeshmukhi</i> was an additional 10% levy added on top, claimed by Shivaji based on his hereditary position as the supreme head (Sardeshukh) of the Deccan clans [cite: 275, 278, 279].</p><p><b>Other options are incorrect:</b> Both taxes were extracted from peripheral, non-Maratha or Mughal-controlled zones rather than core Swarajya lands[cite: 275, 280].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 26,
+    "q": "With reference to the structure and functional operations of the eight-member Ashtapradhan Council under Chhatrapati Shivaji, consider the following statements:\n1. Every appointed minister was individually responsible to the king and possessed autonomous executive decision-making powers independent of royal sanction.\n2. All senior administrative ministers, irrespective of their civil portfolios, were legally mandated to lead active military campaigns in the field when ordered.\n3. The portfolios of the Nyayadhish (Chief Justice) and Panditrao (High Priest) were strictly exempted from any operational military field duties.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 2 and 3 are correct:</b> A unique feature of Maratha administration was that civil ministers (including the Peshwa and Amatya) had to command active military campaigns when ordered[cite: 2, 272]. Only the <i>Nyayadhish</i> (Judiciary) and <i>Panditrao</i> (Charities/Religion) were strictly exempted from military field duties [cite: 2, 273].</p><p><b>Statement 1 is incorrect:</b> The council did not operate on collective responsibility or hold autonomous power; each minister was appointed individually, reported independently to the crown, and required direct royal approval for all actions[cite: 274].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 27,
+    "q": "The sophisticated Dahsala system of agrarian revenue evaluation, perfected during the reign of Akbar by Raja Todar Mal, utilized which of the following operational baseline models?",
+    "options": [
+      "An annual crop-sharing auction where land was leased out to the highest foreign company bidder.",
+      "A calculations matrix based on a comprehensive ten-year average of localized crop yields and actual market prices.",
+      "A fixed permanent tax model that entirely exempted fertile lands from state measurement and audits.",
+      "A uniform assessment system where all categories of land were taxed at identical rates regardless of cultivation frequency."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2:</b> The <i>Dahsala</i> (or Zabt) system optimized imperial revenue by moving away from arbitrary crop-sharing and calculating land taxes from a comprehensive ten-year historical average of localized yields and actual market prices [cite: 2, 265].</p><p><b>Other options are incorrect:</b> Cultivable plots were systematically surveyed annually and divided into four distinct categories based on farming frequency to ensure precision[cite: 265, 266, 270].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 28,
+    "q": "Match the agrarian land classifications utilized under the Mughal state's revenue grid with their corresponding operational farming continuity profiles:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Land Category</th><th>Farming Continuity Profile</th></tr></thead><tbody><tr><td>1. Polaj</td><td>Fields left uncultivated for 3 to 4 years to allow structural recovery</td></tr><tr><td>2. Parauti</td><td>Highly fertile plots that are cultivated continuously every year</td></tr><tr><td>3. Chachar</td><td>Lands intentionally fallowed for 1 to 2 years to rebuild soil nutrients</td></tr><tr><td>4. Banjar</td><td>Marginal low-yield lands left unfarmed for 5 or more consecutive years</td></tr></tbody></table> }}\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "4 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pair 4 is correctly matched:</b> <i>Banjar</i> lands were low-yield or marginal tracts left uncultivated for five or more years and were assessed at minimal concessionary rates to incentivize land reclamation [cite: 2, 269].</p><p><b>Pairs 1, 2, and 3 are cross-matched and incorrect:</b> <i>Polaj</i> represented lands farmed continuously every year[cite: 2, 266]; <i>Parauti</i> defined fields fallowed for only one to two years [cite: 2, 267]; and <i>Chachar</i> defined fields left uncultivated for three to four years[cite: 2, 268].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 29,
+    "q": "With reference to the fiscal management of the Mughal Empire, what was the primary purpose behind the central crown enforcing a policy of compulsory transfers of standard Jagir assignments every three to four years?",
+    "options": [
+      "To allow the state to convert all agricultural fields into cash crop experimental zones.",
+      "To provide land grants to foreign merchants arriving along the western trade ports.",
+      "To prevent powerful elite officers from developing deep local roots, hereditary claims, or independent regional power bases.",
+      "To automatically downgrade the mansab ranking of corrupt military commanders without structural reviews."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 3:</b> To protect centralized imperial control, the Mughal state enforced compulsory rotations of standard Jagirs every three to four years across different provinces[cite: 2, 261]. This mechanism systematically prevented Mansabdars from establishing entrenched local roots, building local alliances, or asserting hereditary ownership over state lands[cite: 2].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 30,
+    "q": "Consider the following statements regarding the structural boundaries of authority granted to a Mughal Jagirdar within his assigned revenue territory:\n1. The Jagirdar possessed absolute fiscal rights to collect land taxes alongside full local judicial and police enforcement powers.\n2. Sub-provincial administrative law, regional security, and criminal justice remained under the separate control of independent state-appointed officers like the Faujdar and Qazi.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 2 is correct:</b> Sub-provincial administration, criminal law, and municipal security were intentionally kept under the jurisdiction of independent, centrally-appointed officials like the Faujdar (military commander) and Qazi (judge) [cite: 264].</p><p><b>Statement 1 is incorrect:</b> A Jagirdar held zero autonomous judicial or police powers within his assigned tract; his legal mandate was strictly limited to extracting land revenue up to his approved salary valuation[cite: 2, 262, 263].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 31,
+    "q": "The unique structural layout of the capital city of the Vijayanagar Empire at Hampi, as detailed in the historical travel chronicles of the Persian envoy Abdur Razzaq, was defined by which of the following engineering and defensive characteristics?",
+    "options": [
+      "A completely unfortified open plain layout designed to optimize rapid chariot maneuvers.",
+      "Seven concentric rings of massive dry-masonry stone walls that explicitly enclosed agricultural fields, orchards, and urban populations.",
+      "A matrix of deep underwater brick channels that completely isolated the royal palaces from the agrarian countryside.",
+      "A dual ring fortification constructed using imported European mortar that exclusively guarded the central treasury houses."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2:</b> As recorded by the Persian envoy Abdur Razzaq, the imperial capital at Hampi featured seven concentric rings of massive stone walls built with mortarless dry-masonry techniques[cite: 250]. Crucially, these lines enclosed not just royal installations, but vast active agricultural fields, cultivated orchards, and water channels to withstand prolonged military sieges[cite: 251, 252].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 32,
+    "q": "With reference to local village administration within the Vijayanagar Empire, consider the following statements regarding the operational shift under the Ayagar system:\n1. Village governance was managed by a corporate body of twelve specialized officials who held tax-free land rights (Manyams) in perpetuity.\n2. The system marked the structural decline of the autonomous, assembly-driven village formats (Sabha and Ur) that characterized the earlier Chola era.\n3. Local governance transformed from democratic community participation into a hereditary, state-approved institutional office.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1, 2 and 3 are correct:</b> The Ayagar system replaced the older, more autonomous Chola general assemblies (Sabha and Ur) with a corporate group of 12 village officials compensated via tax-free <i>Manyam</i> lands held in perpetuity[cite: 246, 247, 248]. This institutional shift removed broad community participation, transferring control to a hereditary, state-approved office that increased rural administrative centralization[cite: 249].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 33,
+    "q": "In the administrative framework of the Vijayanagar Empire, the political and military structural mechanism known as the Amara-Nayaka system was characterized by which of the following features?",
+    "options": [
+      "The assignment of fixed territorial tracts to powerful military chieftains who collected local revenues and maintained specified troop quotas for the Raya.",
+      "The payment of regular cash salaries directly from the central crown treasury to foreign mercenary horse guards.",
+      "The complete eradication of land-tax collections in favor of an exclusive trans-oceanic maritime trading monopoly.",
+      "The compulsory rotation of provincial military governors across the empire every six months to eliminate regional market monopolies."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 1:</b> Under the <i>Amara-Nayaka</i> system, the king (Raya) assigned fixed territorial tracts to military chieftains who exercised administrative and fiscal authority within their zones[cite: 242, 243]. In return, they were legally bound to maintain a designated contingent of infantry, cavalry, and elephants for royal service and pay regular tribute at court [cite: 243].</p><p><b>Other options are incorrect:</b> Unlike the frequently rotated Sultanate Muqtis, the Amara-Nayakas often retained their territories for long periods, which eventually allowed powerful clans to pass assignments down through families[cite: 244, 245].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 34,
+    "q": "With reference to the fiscal and resource mobilization mechanics of the Delhi Sultanate's Iqta system organized by Shamsuddin Iltutmish, consider the following statements:\n1. The Iqta assignment functioned as a non-feudal administrative mechanism that transferred absolute land ownership rights to the recipient in perpetuity.\n2. The Iqtadar was required to calculate his localized tax collections against approved operational costs and remit the financial surplus, termed Fawazil, directly to the central treasury.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 2 is correct:</b> Iqtadars were strictly required to calculate their total collections, deduct their approved salary and troop maintenance costs, and remit any financial surplus—designated as <i>Fawazil</i>—directly to the central treasury [cite: 231].</p><p><b>Statement 1 is incorrect:</b> An Iqta was not a permanent property grant, and the assignment carried zero ownership rights over land or the peasantry[cite: 232, 233]. Rulers enforced regular compulsory rotations every 3 to 4 years to block localized power bases[cite: 233].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 35,
+    "q": "To sustain a massive standing army capable of checking persistent Mongol invasions without draining the central treasury, the economic policy of Sultan Alauddin Khalji utilized which of the following structural interventions?",
+    "options": [
+      "The complete abolition of all land measurements and the distribution of free state-issued coins to rural farmers.",
+      "The institutionalization of strict price controls on essential commodities paired with the establishment of audited, specialized market zones overseen by the Shahna-i-Mandi.",
+      "The outsourcing of all agricultural tax collection duties to independent Southeast Asian corporate merchant guilds.",
+      "The implementation of a decentralized credit system where shopkeepers determined market pricing based on consumer demand."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2:</b> Alauddin Khalji legally fixed the prices of essential commodities and organized the commerce of the capital into three specialized, audited market zones supervised by a market superintendent called the <i>Shahna-i-Mandi</i>[cite: 234, 235]. This system was monitored by secret state spies (Munhiyans) to eliminate black-market hoarding and price fraud[cite: 235, 236].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 36,
+    "q": "Match the specialized administrative and fiscal ministries of the Delhi Sultanate with their corresponding core functional mandates:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Central Ministry</th><th>Primary Operational Mandate</th></tr></thead><tbody><tr><td>1. Diwan-i-Wizarat</td><td>Apex financial body managing land revenue audits and the state budget</td></tr><tr><td>2. Diwan-i-Ariz</td><td>Military apparatus control, recruitment, and troop inspections</td></tr><tr><td>3. Diwan-i-Insha</td><td>Drafting royal correspondence, official records, and imperial edicts</td></tr><tr><td>4. Diwan-i-Rasalat</td><td>Foreign affairs management, envoy reception, and religious charities</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All four pairs are correctly matched:</b> Sultanate central governance was organized around this four-part ministerial framework, separating finance (Wizarat headed by the Wazir) and military logistics (Ariz managed by the Ariz-i-Mamalik) from state correspondence (Insha) and foreign diplomacy or endowments (Rasalat)[cite: 221, 222, 223, 224, 226].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 37,
+    "q": "With reference to the geopolitical expansions and maritime trade networks of the Imperial Chola Dynasty under Rajaraja I and Rajendra I, consider the following statements:\n1. The trans-oceanic military campaigns directed against the Srivijaya Empire were designed as strategic raids to break maritime blockades, seize plunder, and secure clear trade routes to Song Dynasty China.\n2. Autonomous corporate merchant guilds like the Manigramam and the Ayyavole-Five Hundred operated independent trade policies and deployed private mercenary forces to protect their commercial routes.\n3. Due to intense naval monitoring and territorial hegemony, contemporary records frequently referred to the Bay of Bengal as a 'Chola Lake'.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1, 2 and 3 are correct:</b> The Cholas leveraged an advanced naval thalassocracy across the Indian Ocean, earning the Bay of Bengal the title of a 'Chola Lake'[cite: 207, 208]. Their corporate merchant networks, such as the Ayyavole-Five Hundred, operated widely across Southeast Asia with private mercenary guards[cite: 208, 209]. The trans-oceanic campaigns against Srivijaya functioned as strategic raids to secure trade routes and capture plunder rather than to govern foreign territory directly[cite: 208, 209, 210].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 38,
+    "q": "In the administrative hierarchy of the Imperial Chola state, which of the following sequences represents the correct administrative subdivisions ordered from the highest macro-provincial command down to the local village cluster level?",
+    "options": [
+      "Mandalam &rightarrow; Nadu &rightarrow; Valanadu",
+      "Valanadu &rightarrow; Mandalam &rightarrow; Nadu",
+      "Mandalam &rightarrow; Valanadu &rightarrow; Nadu",
+      "Nadu &rightarrow; Valanadu &rightarrow; Mandalam"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 3:</b> The Chola empire maintained a systematic territorial hierarchy[cite: 205]. The entire state was partitioned from top to bottom into <i>Mandalams</i> (macro-provinces frequently governed by royal princes), which were subdivided into intermediate districts called <i>Valanadus</i>, and further broken down into local village clusters designated as <i>Nadus</i>[cite: 205, 206, 207].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 39,
+    "q": "With reference to the Chola local administration as detailed in the 10th-century Uttaramerur Inscriptions, consider the following statements regarding the selection of committee members:\n1. The corporate general assembly governing the exclusive Brahmin settlements was known as the Sabha, which operated alongside the Ur for non-Brahmin agrarian clusters.\n2. To select representatives into specialized task bodies (Variyams), the assembly utilized a highly structured pot-ticket lottery drawing system called Kudavolai.\n3. The selection operated under an open franchise framework where landless laborers, outcasts, and the poor possessed equal eligibility to join the committees.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Uttaramerur inscriptions outline that the <i>Sabha</i> governed Brahmin village settlements (Brahmadeyas) via specialized committees called <i>Variyams</i>, using palm-leaf ballots drawn from a pot in a lottery system called <i>Kudavolai</i> [cite: 200, 201, 202].</p><p><b>Statement 3 is incorrect:</b> The system was not an open franchise; candidates had to meet strict institutional eligibility rules regarding property and education, while the poor, landless laborers, and outcasts were completely excluded from eligibility[cite: 202, 203].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 40,
+    "q": "Match the ecological landscapes (Tinais) of the proto-historic Sangam Age with their corresponding geomorphic regions and primary occupational footprints as preserved in early Tamil literature:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Tinai (Zone)</th><th>Geomorphic Terrain</th><th>Primary Economy</th></tr></thead><tbody><tr><td>1. Kurinji</td><td>Alluvial River Valleys</td><td>Hunting & Gathering</td></tr><tr><td>2. Marutam</td><td>Mountainous Uplands</td><td>Wetland Rice Farming</td></tr><tr><td>3. Neital</td><td>Littoral Seashores</td><td>Salt Extraction & Fishing</td></tr><tr><td>4. Palai</td><td>Parched Arid Badlands</td><td>Cattle-Lifting & Plunder</td></tr></tbody></table> }}\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Pairs 3 and 4 are correctly matched:</b> <i>Neital</i> corresponds to littoral coastal fringes where maritime communities engaged in fishing and salt extraction[cite: 198, 199]. <i>Palai</i> defines parched arid zones where clans survived on cattle-lifting, highway plundering, and nomadic warfare [cite: 199].</p><p><b>Pairs 1 and 2 are cross-matched and incorrect:</b> <i>Kurinji</i> represents mountainous/hilly tracts dedicated to hunting and gathering forest produce [cite: 195], while <i>Marutam</i> defines the highly fertile alluvial river valleys dedicated to intensive wetland rice farming[cite: 197].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 41,
+    "q": "With reference to the intellectual and theological dynamics of medieval India, consider the following statements regarding the Sufi doctrine of Wahdat-al-Wujud:\n1. It was first systematically formulated by the mystic Ibn Arabi and posited that the physical universe is a direct manifestation of divine reality.\n2. The doctrine established an intellectual bridge with the non-dualistic Advaita Vedanta school of Hindu philosophy.\n3. It was universally accepted by orthodox Islamic theologians and state ulama without any metaphysical opposition.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The doctrine of <i>Wahdat-al-Wujud</i> (Unity of Being), formulated by Ibn Arabi, posited that God and the physical universe are not separate entities, which provided a shared vocabulary and metaphysical bridge with the non-dualistic principles of Advaita Vedanta [cite: 291, 292].</p><p><b>Statement 3 is incorrect:</b> The doctrine was highly controversial among orthodox theologians who vigorously opposed it because it could lead to pantheism, leading them to promote the alternative doctrine of <i>Wahdat-ash-Shuhud</i>[cite: 292, 293].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 42,
+    "q": "Which of the following historical statements accurately describes the core epistemological and metaphysical criteria that distinguished the Nirguna Bhakti tradition from the Saguna Bhakti lineage?",
+    "options": [
+      "Nirguna saints advocated for strict scriptural commentary in classical Sanskrit, whereas Saguna saints used vernacular expressions.",
+      "Nirguna formations focused on internal devotion to an abstract, formless, omnipresent divine reality while actively critiquing caste hierarchies.",
+      "Saguna formations rejected all forms of iconographic representation and physical sacred spaces, focusing exclusively on ascetic isolation.",
+      "Nirguna formations derived their structural authority entirely from priestly monopolies and grand open-air fire altars."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The <i>Nirguna Bhakti</i> tradition, led by non-conformist mystics like Kabir and Guru Nanak, focused on a non-anthropomorphic view of reality, rejecting icons, formal temple structures, and birth-based caste hierarchies in favor of internal devotion to a formless divine presence [cite: 294, 295].</p><p><b>Other options are incorrect:</b> Both traditions relied heavily on vernacular languages rather than Sanskrit to make complex ideas accessible to common populations[cite: 295, 298].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 43,
+    "q": "Consider the following popular figures of the medieval Bhakti movement:\n1. Tulsidas\n2. Kabir\n3. Mirabai\n4. Guru Nanak\n\nWhich of the figures listed above are explicitly associated with the Saguna Bhakti tradition?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> Tulsidas and Mirabai are premier representatives of the <i>Saguna Bhakti</i> tradition, which centered on intensely emotional devotion (Premo-bhakti) directed toward personal manifestations and physical incarnations of deities like Rama and Krishna [cite: 296, 297].</p><p><b>Statements 2 and 4 are incorrect:</b> Kabir and Guru Nanak belonged strictly to the iconoclastic, formless <i>Nirguna Bhakti</i> orientation[cite: 294].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 44,
+    "q": "With reference to the developmental trajectory of early Indian subterranean architecture, consider the following statements regarding the Barabar Caves in Bihar:\n1. They represent the earliest permanent rock-cut cave engineering baseline initiated under Mauryan state patronage.\n2. Mauryan engineers avoided hard materials, choosing to cut exclusively into soft sandstones and clay deposits to facilitate complex relief work.\n3. The vertical granite walls inside these chambers are finished with a signature glass-like burnished polish that creates distinct acoustic resonance.",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> The Barabar Caves (such as Sudama and Lomas Rishi) represent ancient India's earliest structural baseline for permanent rock-cut cave engineering under Mauryan patronage, characterized by geometric clarity and a mirror-like inner burnished polish that creates unique acoustic resonance [cite: 299, 300].</p><p><b>Statement 2 is incorrect:</b> Mauryan engineers did not use soft materials; they achieved a significant technological breakthrough by cutting directly into exceptionally hard granite massifs[cite: 299].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 45,
+    "q": "In the administrative and fiscal lexicon of the Maratha Kingdom under Chhatrapati Shivaji, how did the levy of Chauth conceptually and structurally differ from the collection of Sardeshmukhi?",
+    "options": [
+      "Chauth was a tax collected inside the core Swarajya territory, while Sardeshmukhi was extracted exclusively from foreign nations.",
+      "Chauth was a 25% tax assessed on peripheral zones to serve as protection money against raids, whereas Sardeshmukhi was an additional 10% levy claimed via hereditary rights as paramount lord.",
+      "Chauth was paid exclusively in cash to religious scholars, while Sardeshmukhi was a grain tribute collected by military commanders to feed war elephants.",
+      "Chauth represented a temporary land grant for civil servants, while Sardeshmukhi was an annual market customs tariff levied at maritime trade ports."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> <i>Chauth</i> was a substantial one-fourth (25%) tax levied on neighboring non-Maratha territories as protection money to guarantee they would not be raided[cite: 276, 277, 278]. <i>Sardeshmukhi</i> was an additional 10% levy added on top, claimed by Shivaji based on his hereditary position as the supreme head (Sardeshukh) of the Deccan clans[cite: 279, 280].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 46,
+    "q": "With reference to the structure and functional operations of the eight-member Ashtapradhan Council under Chhatrapati Shivaji, consider the following statements:\n1. Every appointed minister was individually responsible to the king and possessed autonomous executive decision-making powers independent of royal sanction.\n2. All senior administrative ministers, irrespective of their civil portfolios, were legally mandated to lead active military campaigns in the field when ordered.\n3. The portfolios of the Nyayadhish (Chief Justice) and Panditrao (High Priest) were strictly exempted from any operational military field duties.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 2 and 3 are correct:</b> A unique feature of Maratha administration was that civil ministers (including the Peshwa and Amatya) had to command active military campaigns when ordered[cite: 273]. Only the <i>Nyayadhish</i> (Judiciary) and <i>Panditrao</i> (Charities/Religion) were strictly exempted from military field duties [cite: 274].</p><p><b>Statement 1 is incorrect:</b> The council did not operate on collective responsibility or hold autonomous power; each minister was appointed individually, reported independently to the crown, and required direct royal approval for all actions[cite: 275].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 47,
+    "q": "The sophisticated Dahsala system of agrarian revenue evaluation, perfected during the reign of Akbar by Raja Todar Mal, utilized which of the following operational baseline models?",
+    "options": [
+      "An annual crop-sharing auction where land was leased out to the highest foreign company bidder.",
+      "A calculations matrix based on a comprehensive ten-year average of localized crop yields and actual market prices.",
+      "A fixed permanent tax model that entirely exempted fertile lands from state measurement and audits.",
+      "A uniform assessment system where all categories of land were taxed at identical rates regardless of cultivation frequency."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The <i>Dahsala</i> (or Zabt) system calculated state land revenue based on a comprehensive ten-year historical average of localized crop yields and actual market prices collected between the 15th and 24th years of Akbar's reign[cite: 266].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 48,
+    "q": "Match the agrarian land classifications utilized under the Mughal state's revenue grid with their corresponding operational farming continuity profiles:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Land Category</th><th>Farming Continuity Profile</th></tr></thead><tbody><tr><td>1. Polaj</td><td>Fields left uncultivated for 3 to 4 years to allow structural recovery</td></tr><tr><td>2. Parauti</td><td>Highly fertile plots that are cultivated continuously every year</td></tr><tr><td>3. Chachar</td><td>Lands intentionally fallowed for 1 to 2 years to rebuild soil nutrients</td></tr><tr><td>4. Banjar</td><td>Marginal low-yield lands left unfarmed for 5 or more consecutive years</td></tr></tbody></table> }}\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "4 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> Pair 4 is correctly matched because <i>Banjar</i> lands were low-yield or marginal tracts left uncultivated for five or more years and were assessed at minimal concessionary rates to encourage agricultural expansion [cite: 270].</p><p><b>Pairs 1, 2, and 3 are cross-matched:</b> <i>Polaj</i> represented lands farmed continuously every year[cite: 267]; <i>Parauti</i> defined fields fallowed for only one to two years [cite: 268]; and <i>Chachar</i> defined fields left uncultivated for three to four years[cite: 269].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 49,
+    "q": "With reference to the fiscal management of the Mughal Empire, what was the primary purpose behind the central crown enforcing a policy of compulsory transfers of standard Jagir assignments every three to four years?",
+    "options": [
+      "To allow the state to convert all agricultural fields into cash crop experimental zones.",
+      "To provide land grants to foreign merchants arriving along the western trade ports.",
+      "To prevent powerful elite officers from developing deep local roots, hereditary claims, or independent regional power bases.",
+      "To automatically downgrade the mansab ranking of corrupt military commanders without structural reviews."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> To protect centralized imperial control, the Mughal state enforced compulsory rotations of standard Jagirs every three to four years across different provinces to systematically prevent Mansabdars from establishing deep local roots, acquiring hereditary claims, or building independent regional power bases[cite: 262].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 50,
+    "q": "Consider the following statements regarding the structural boundaries of authority granted to a Mughal Jagirdar within his assigned revenue territory:\n1. The Jagirdar possessed absolute fiscal rights to collect land taxes alongside full local judicial and police enforcement powers.\n2. Sub-provincial administrative law, regional security, and criminal justice remained under the separate control of independent state-appointed officers like the Faujdar and Qazi.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 2 is correct:</b> Sub-provincial administration, security, and criminal law remained under the separate control of state-appointed officers like the Faujdar (military commander) and Qazi (judge) [cite: 265].</p><p><b>Statement 1 is incorrect:</b> A Jagirdar held zero judicial or police powers within his assigned territory; he only possessed the legal right to collect land taxes up to his approved salary valuation[cite: 261, 263, 264].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 51,
+    "q": "The unique structural layout of the capital city of the Vijayanagar Empire at Hampi, as detailed in the historical travel chronicles of the Persian envoy Abdur Razzaq, was defined by which of the following engineering and defensive characteristics?",
+    "options": [
+      "A completely unfortified open plain layout designed to optimize rapid chariot maneuvers.",
+      "Seven concentric rings of massive dry-masonry stone walls that explicitly enclosed agricultural fields, orchards, and urban populations.",
+      "A matrix of deep underwater brick channels that completely isolated the royal palaces from the agrarian countryside.",
+      "A dual ring fortification constructed using imported European mortar that exclusively guarded the central treasury houses."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> As documented by the Persian envoy Abdur Razzaq, the capital was enclosed within seven concentric rings of massive stone walls constructed using advanced mortarless dry-masonry techniques that explicitly enclosed vast active agricultural fields, cultivated orchards, and local markets[cite: 250, 251, 252, 253].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 52,
+    "q": "With reference to local village administration within the Vijayanagar Empire, consider the following statements regarding the operational shift under the Ayagar system:\n1. Village governance was managed by a corporate body of twelve specialized officials who held tax-free land rights (Manyams) in perpetuity.\n2. The system marked the structural decline of the autonomous, assembly-driven village formats (Sabha and Ur) that characterized the earlier Chola era.\n3. Local governance transformed from democratic community participation into a hereditary, state-approved institutional office.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1, 2 and 3 are correct:</b> The Ayagar system replaced the older Chola village assembly models (Sabha and Ur) with a corporate body of 12 specialized officials compensated through tax-free <i>Manyam</i> lands held in perpetuity, shifting local governance from community participation into a hereditary, state-approved office[cite: 247, 248, 249, 250].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 53,
+    "q": "In the administrative framework of the Vijayanagar Empire, the political and military structural mechanism known as the Amara-Nayaka system was characterized by which of the following features?",
+    "options": [
+      "The assignment of fixed territorial tracts to powerful military chieftains who collected local revenues and maintained specified troop quotas for the Raya.",
+      "The payment of regular cash salaries directly from the central crown treasury to foreign mercenary horse guards.",
+      "The complete eradication of land-tax collections in favor of an exclusive trans-oceanic maritime trading monopoly.",
+      "The compulsory rotation of provincial military governors across the empire every six months to eliminate regional market monopolies."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> Under the <i>Amara-Nayaka</i> system, the Raya assigned fixed territorial tracts to military chieftains who held administrative and fiscal authority to collect land revenues, and in return maintained a designated contingent of troops ready for royal campaigns[cite: 243, 244].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 54,
+    "q": "With reference to the fiscal and resource mobilization mechanics of the Delhi Sultanate's Iqta system organized by Shamsuddin Iltutmish, consider the following statements:\n1. The Iqta assignment functioned as a non-feudal administrative mechanism that transferred absolute land ownership rights to the recipient in perpetuity.\n2. The Iqtadar was required to calculate his localized tax collections against approved operational costs and remit the financial surplus, termed Fawazil, directly to the central treasury.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 2 is correct:</b> Iqtadars were strictly required to calculate their total collections, deduct their approved salary and troop costs, and remit any financial surplus—designated as <i>Fawazil</i>—directly to the central treasury [cite: 232].</p><p><b>Statement 1 is incorrect:</b> An Iqta was a non-feudal revenue assignment that carried zero ownership rights over land or the peasantry, and was subject to frequent compulsory rotations every 3 to 4 years[cite: 231, 233, 234].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 55,
+    "q": "To sustain a massive standing army capable of checking persistent Mongol invasions without draining the central treasury, the economic policy of Sultan Alauddin Khalji utilized which of the following structural interventions?",
+    "options": [
+      "The complete abolition of all land measurements and the distribution of free state-issued coins to rural farmers.",
+      "The institutionalization of strict price controls on essential commodities paired with the establishment of audited, specialized market zones overseen by the Shahna-i-Mandi.",
+      "The outsourcing of all agricultural tax collection duties to independent Southeast Asian corporate merchant guilds.",
+      "The implementation of a decentralized credit system where shopkeepers determined market pricing based on consumer demand."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> Alauddin Khalji legally fixed the prices of essential commodities and organized the commerce into three specialized market zones supervised by a market superintendent called the <i>Shahna-i-Mandi</i>, monitored by secret state spies (Munhiyans) to sustain his large standing military force[cite: 235, 236, 237, 239].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 56,
+    "q": "Match the specialized administrative and fiscal ministries of the Delhi Sultanate with their corresponding core functional mandates:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Central Ministry</th><th>Primary Operational Mandate</th></tr></thead><tbody><tr><td>1. Diwan-i-Wizarat</td><td>Apex financial body managing land revenue audits and the state budget</td></tr><tr><td>2. Diwan-i-Ariz</td><td>Military apparatus control, recruitment, and troop inspections</td></tr><tr><td>3. Diwan-i-Insha</td><td>Drafting royal correspondence, official records, and imperial edicts</td></tr><tr><td>4. Diwan-i-Rasalat</td><td>Foreign affairs management, envoy reception, and religious charities</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> All four central ministries are correctly matched based on the classical Persian bureaucratic framework adapted to the Delhi Sultanate, dividing state operations cleanly between finance (Wizarat), military affairs (Ariz), state decrees (Insha), and diplomacy/endowments (Rasalat)[cite: 222, 223, 224, 225, 227].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 57,
+    "q": "With reference to the geopolitical expansions and maritime trade networks of the Imperial Chola Dynasty under Rajaraja I and Rajendra I, consider the following statements:\n1. The trans-oceanic military campaigns directed against the Srivijaya Empire were designed as strategic raids to break maritime blockades, seize plunder, and secure clear trade routes to Song Dynasty China.\n2. Autonomous corporate merchant guilds like the Manigramam and the Ayyavole-Five Hundred operated independent trade policies and deployed private mercenary forces to protect their commercial routes.\n3. Due to intense naval monitoring and territorial hegemony, contemporary records frequently referred to the Bay of Bengal as a 'Chola Lake'.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1, 2 and 3 are correct:</b> The Cholas established a powerful thalassocracy across the Indian Ocean, earning the Bay of Bengal the title 'Chola Lake'[cite: 209]. Their corporate merchant networks, such as the Ayyavole guild, deployed private mercenary forces to protect trade routes across Southeast Asia, while the trans-oceanic campaigns functioned as strategic raids to secure trade and seize plunder rather than to govern foreign territory directly[cite: 210, 211].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 58,
+    "q": "In the administrative hierarchy of the Imperial Chola state, which of the following sequences represents the correct administrative subdivisions ordered from the highest macro-provincial command down to the local village cluster level?",
+    "options": [
+      "Mandalam &rightarrow; Nadu &rightarrow; Valanadu",
+      "Valanadu &rightarrow; Mandalam &rightarrow; Nadu",
+      "Mandalam &rightarrow; Valanadu &rightarrow; Nadu",
+      "Nadu &rightarrow; Valanadu &rightarrow; Mandalam"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> The Chola administrative framework was partitioned systematically from top to bottom into macro-provinces called <i>Mandalams</i>, which were subdivided into intermediate districts called <i>Valanadus</i>, and further broken down into local village clusters designated as <i>Nadus</i>[cite: 206, 207, 208].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 59,
+    "q": "With reference to the Chola local administration as detailed in the 10th-century Uttaramerur Inscriptions, consider the following statements regarding the selection of committee members:\n1. The corporate general assembly governing the exclusive Brahmin settlements was known as the Sabha, which operated alongside the Ur for non-Brahmin agrarian clusters.\n2. To select representatives into specialized task bodies (Variyams), the assembly utilized a highly structured pot-ticket lottery drawing system called Kudavolai.\n3. The selection operated under an open franchise framework where landless laborers, outcasts, and the poor possessed equal eligibility to join the committees.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Uttaramerur inscriptions outline that the <i>Sabha</i> governed Brahmin village settlements (Brahmadeyas) via specialized committees called <i>Variyams</i>, using palm-leaf ballots drawn from a pot in a lottery system called <i>Kudavolai</i> [cite: 201, 202, 203, 204].</p><p><b>Statement 3 is incorrect:</b> The system was not an open franchise; candidates had to meet strict institutional eligibility rules regarding property and education, while the poor, landless laborers, and outcasts were completely excluded from eligibility[cite: 204].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 60,
+    "q": "Match the ecological landscapes (Tinais) of the proto-historic Sangam Age with their corresponding geomorphic regions and primary occupational footprints as preserved in early Tamil literature:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Tinai (Zone)</th><th>Geomorphic Terrain</th><th>Primary Economy</th></tr></thead><tbody><tr><td>1. Kurinji</td><td>Alluvial River Valleys</td><td>Hunting & Gathering</td></tr><tr><td>2. Marutam</td><td>Mountainous Uplands</td><td>Wetland Rice Farming</td></tr><tr><td>3. Neital</td><td>Littoral Seashores</td><td>Salt Extraction & Fishing</td></tr><tr><td>4. Palai</td><td>Parched Arid Badlands</td><td>Cattle-Lifting & Plunder</td></tr></tbody></table> }}\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> Pairs 3 and 4 are correctly matched because <i>Neital</i> corresponds to littoral coastal fringes where maritime communities engaged in fishing and salt extraction[cite: 199, 200]. <i>Palai</i> defines parched arid zones where clans survived on cattle-lifting, highway plundering, and nomadic warrior actions [cite: 200].</p><p><b>Pairs 1 and 2 are cross-matched:</b> <i>Kurinji</i> represents mountainous/hilly tracts dedicated to hunting and gathering [cite: 196], while <i>Marutam</i> defines the highly fertile alluvial river valleys dedicated to intensive wetland rice farming[cite: 198].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 61,
+    "q": "With reference to the development of early Indian subterranean architecture, consider the following statements regarding the Barabar Caves in Bihar:\n1. They represent the earliest permanent rock-cut cave engineering baseline initiated under Mauryan state patronage[cite: 301].\n2. The structural layout features a rectangular outer assembly hall linked directly to a circular inner sanctuary room[cite: 302].\n3. The interior granite walls are completely unpolished to maximize the absorption of ambient subterranean moisture.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Barabar Caves (such as Sudama and Lomas Rishi) represent ancient India's earliest structural baseline for permanent rock-cut cave engineering under Mauryan patronage[cite: 301]. Their layout features a rectangular outer hall linked directly to a circular inner sanctuary room [cite: 302].</p><p><b>Statement 3 is incorrect:</b> The interior vertical granite walls feature a signature mirror-like burnished polish that creates unique acoustic resonance and remains reflective over two millennia later[cite: 302].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 62,
+    "q": "Regarding the religious and social history of medieval India, the influential Sufi doctrine of 'Wahdat-al-Wujud' is philosophically characterized by which one of the following premises?",
+    "options": [
+      "A strict division between the creator and creation, emphasizing ascetic isolation from the physical world.",
+      "The belief that God and the physical universe are identical expressions of one single essence[cite: 294].",
+      "The absolute rejection of individual souls in favor of corporate materialist atomism.",
+      "A system that derives spiritual legitimacy exclusively from expensive fire sacrifices and priestly monopolies."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> First systematically formulated by the mystic Ibn Arabi, the doctrine of <i>Wahdat-al-Wujud</i> (Unity of Being) proposed that God and the physical universe are not separate entities[cite: 293, 294]. Instead, the entire cosmos is viewed as a direct manifestation of divine reality[cite: 294].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 63,
+    "q": "Consider the following statements regarding the Nirguna Bhakti and Saguna Bhakti traditions of medieval India:\n1. Nirguna Bhakti saints like Kabir and Guru Nanak focused on devotion to an abstract, formless divine reality[cite: 296].\n2. Saguna Bhakti saints like Chaitanya Mahaprabhu and Mirabai utilized vernacular poetry and rejected the concept of personal divine incarnations.\n3. Both traditions completely discarded the concept of a spiritual guide or Guru in favor of solitary scriptural study.",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 1 is correct:</b> The Nirguna Bhakti tradition focused on a non-anthropomorphic view of reality, promoting internal devotion directed toward an abstract, formless, omnipresent divine reality [cite: 296].</p><p><b>Statement 2 is incorrect:</b> Saguna Bhakti centered its practice specifically on personalized devotion directed toward specific physical incarnations of deities, primarily focusing on Rama and Krishna [cite: 298, 299].</p><p><b>Statement 3 is incorrect:</b> In Nirguna Bhakti, the concept of the Guru remained central as an essential guide who awakens the formless divine presence within the seeker[cite: 298].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 64,
+    "q": "With reference to the fiscal administration of the Maratha Kingdom under Chhatrapati Shivaji, consider the following statements:\n1. Chauth was a 25% tax extracted exclusively from foreign or peripheral Mughal-controlled zones as protection money[cite: 279, 280, 283].\n2. Sardeshmukhi was a 10% levy claimed by Shivaji based on his hereditary position as paramount ruler of the Deccan clans[cite: 281, 282].\n3. Both Chauth and Sardeshmukhi were collected inside the core Swarajya territory to eliminate internal agricultural inflation.",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Chauth was a one-fourth (25%) tax levied on neighboring non-Maratha territories as protection money to guarantee they would not be raided[cite: 279, 280]. Sardeshmukhi was an additional 10% levy claimed by virtue of Shivaji's hereditary position as the supreme head or Sardeshukh [cite: 281, 282].</p><p><b>Statement 3 is incorrect:</b> These levies were extracted exclusively from foreign or peripheral zones to keep them vulnerable, while core Maratha Swarajya lands were managed under standard agricultural tax systems[cite: 283].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 65,
+    "q": "In the context of the Ashtapradhan Council under Chhatrapati Shivaji, match the specialized portfolios with their core administrative mandates:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Portfolio</th><th>Primary Mandate</th></tr></thead><tbody><tr><td>1. Peshwa</td><td>General civil administration and policy coordination [cite: 274]</td></tr><tr><td>2. Amatya</td><td>Finance Minister tracking accounts and revenue audits [cite: 275]</td></tr><tr><td>3. Wakianavis</td><td>Managing intelligence, internal security, and household tasks [cite: 275]</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three pairs are correctly matched:</b> The council was led by the Peshwa who managed general civil operations[cite: 274]. He was assisted by the Amatya, who served as the finance minister tracking state accounts, and the Wakianavis, who managed intelligence and internal security[cite: 275].</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 66,
+    "q": "With reference to the fiscal management of the Mughal Empire, what was the primary operational distinction between 'Khalisa' lands and standard 'Jagir' assignments?",
+    "options": [
+      "Khalisa lands were assigned to religious scholars as tax-free charity, while Jagirs were auctioned to foreign merchant guilds.",
+      "Khalisa lands were imperial crown lands managed directly by the central state [cite: 264], while Jagirs were revenue tracts temporarily assigned to Mansabdars in lieu of cash salaries[cite: 263].",
+      "Khalisa lands were exclusively cultivated with indigo by royal slaves, while Jagirs were left completely fallow for soil recovery.",
+      "Khalisa lands were subject to hereditary claims by village headmen, while Jagirs were monitored by European corporate cartels."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> In the Mughal fiscal architecture, <i>Khalisa</i> lands were imperial crown lands managed directly by the central state, with revenues channeled straight to the central treasury to fund royal expenses and cash salaries[cite: 264]. <i>Jagir</i> assignments transferred only the right to collect land revenues to Mansabdars for personal salary compensation[cite: 263].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 67,
+    "q": "Consider the following statements regarding the Dahsala system of land revenue administration perfected by Raja Todar Mal during the reign of Akbar:\n1. The system calculated state land revenue based on a comprehensive ten-year average of localized crop yields and actual market prices[cite: 268].\n2. Cultivable plots were classified into four distinct categories: Polaj, Parauti, Chachar, and Banjar based on the continuity of farming[cite: 268, 269].\n3. Once calculated, the tax demand was permanently frozen for a fifty-year block, completely exempting all provinces from annual surveys.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Dahsala system utilized a 10-year average of localized yields and market prices[cite: 268]. Lands were systematically surveyed and classified into Polaj (cultivated annually), Parauti (fallowed 1-2 years), Chachar (uncultivated 3-4 years), and Banjar (left unfarmed 5 or more years)[cite: 269, 270, 271, 272].</p><p><b>Statement 3 is incorrect:</b> The system was not a long-term frozen settlement; the tax demand was assessed, updated, and collected annually based on current cultivated acreage [cite: 273].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 68,
+    "q": "With reference to the structure of the central administration within the Delhi Sultanate, match the central ministries with their corresponding core functional portfolios:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Sultanate Ministry</th><th>Core Administrative Portfolio</th></tr></thead><tbody><tr><td>1. Diwan-i-Wizarat</td><td>Apex financial body managing land revenue models and audits [cite: 224]</td></tr><tr><td>2. Diwan-i-Ariz</td><td>Military recruitment, deployment, and troop tracking [cite: 225, 227]</td></tr><tr><td>3. Diwan-i-Insha</td><td>Drafting royal correspondence, official records, and imperial edicts [cite: 225, 227]</td></tr><tr><td>4. Diwan-i-Rasalat</td><td>Foreign affairs management, envoy reception, and religious charities [cite: 226, 227]</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All four pairs are correctly matched:</b> Sultanate central governance adapted classical Persian administrative frameworks into four distinct ministries separating state finance (Wizarat), military logistics (Ariz), official decrees (Insha), and foreign diplomacy or charities (Rasalat)[cite: 224, 225, 226, 227].</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 69,
+    "q": "The administrative right to collect localized agricultural tax (Kharaj) under the Iqta system reorganized by Shamsuddin Iltutmish required the Iqtadar to perform which of the following tasks[cite: 233, 234]?",
+    "options": [
+      "Retain absolute permanent hereditary ownership rights over the assigned land plots.",
+      "Calculate localized collections against approved expenses and remit the financial surplus (Fawazil) directly to the central treasury[cite: 234].",
+      "Abolish all municipal market price registries and eliminate state coin printing.",
+      "Outsource tax collections entirely to maritime European merchant cartels."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> Under the Iqta framework, an Iqtadar collected local land tax (Kharaj), met personal and regional costs, and was strictly required to calculate collections and remit any financial surplus, termed <i>Fawazil</i>, directly to the central treasury[cite: 233, 234]. An Iqta carried zero permanent ownership rights over land or the peasantry[cite: 235, 236].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 70,
+    "q": "To counteract agrarian disruptions and recover financial gaps across provinces during the Delhi Sultanate, specialized executive portfolios were established. Consider the following pairs:\n1. Diwan-i-Mustakhraj (Department of Arrears) : Created by Alauddin Khalji to audit and forcefully recover tax balances from regional officials[cite: 229, 230].\n2. Diwan-i-Amir-Kohi (Department of Agriculture) : Established by Muhammad bin Tughlaq to systematically expand cultivable land and manage crop loans[cite: 230].\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both pairs are correctly matched:</b> Alauddin Khalji introduced the <i>Diwan-i-Mustakhraj</i> to track down and recover long-overdue tax balances from corrupt or resistant local revenue officials[cite: 229, 230]. Muhammad bin Tughlaq established the <i>Diwan-i-Amir-Kohi</i> to expand cultivable land, optimize crop rotations, and provide direct state loans (Sondhar) to peasants[cite: 230].</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 71,
+    "q": "With reference to the local governance grid of the Vijayanagar Empire, consider the following statements regarding the Ayagar system:\n1. Local village administration was managed by a specialized corporate body of twelve officials[cite: 249].\n2. Instead of receiving cash salaries, the Ayagars were compensated via tax-free land rights known as Manyams held in perpetuity[cite: 249, 250].\n3. The system led to a major revival of the broad, democratic community-participation assemblies (Sabha and Ur) of the Chola era.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Ayagar system utilized a corporate body of 12 village officials (such as headman, accountant, and watchman) who were compensated through tax-free <i>Manyam</i> lands held in perpetuity [cite: 249, 250].</p><p><b>Statement 3 is incorrect:</b> The rise of the Ayagar system marked the formal decline of the autonomous, assembly-driven village formats (Sabha and Ur) of the Chola era, shifting local administration to a hereditary, state-approved office[cite: 251, 252].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 72,
+    "q": "The historical travel chronicles of the Persian envoy Abdur Razzaq detail which one of the following architectural and military defensive features of Hampi, the capital of the Vijayanagar Empire?",
+    "options": [
+      "A completely open, unfortified plain layout designed for rapid maritime maneuvers.",
+      "Seven concentric rings of massive dry-masonry stone walls that explicitly enclosed agricultural fields, orchards, and urban populations[cite: 252, 253, 254].",
+      "A matrix of deep brick channels that completely isolated the royal treasury from local crop cultivation zones.",
+      "Fortifications built using imported European mortar that exclusively guarded foreign merchant residential blocks."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> As documented by the Persian envoy Abdur Razzaq, the imperial capital at Hampi featured seven concentric rings of massive stone walls built using advanced mortarless dry-masonry techniques[cite: 252, 253]. These defensive rings uniquely enclosed vast active agricultural fields, cultivated orchards, and local markets to withstand prolonged military sieges[cite: 254, 255].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 73,
+    "q": "With reference to the political and military structural mechanism known as the Amara-Nayaka system of the Vijayanagar Empire, consider the following statements:\n1. The Raya assigned fixed territorial tracts to military chieftains (Amara-Nayakas) who held administrative and fiscal authority[cite: 245].\n2. In return, the Amara-Nayakas were legally bound to maintain a designated contingent of infantry, cavalry, and war elephants ready for royal campaigns[cite: 246].\n3. Similar to the Delhi Sultanate Muqtis, the Amara-Nayakas were compulsorily rotated every six months across different administrative zones.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Under this system, military chieftains were assigned fixed territorial tracts to extract regional land taxes and manage local affairs, while remaining bound to maintain standing troop quotas for the Raya [cite: 245, 246].</p><p><b>Statement 3 is incorrect:</b> Unlike the frequently rotated Sultanate Muqtis, the Amara-Nayakas often held their assignments for long periods or passed them down through families, which eventually allowed powerful clans to break away when central authority weakened[cite: 247, 248].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 74,
+    "q": "The long-running conflict along the Pallava-Chalukya Geo-Political Axis during the 6th to 8th centuries CE primarily centered around the control of which one of the following strategic territories[cite: 213, 214]?",
+    "options": [
+      "The Malabar Coast maritime trade hubs.",
+      "The fertile agricultural lands of the Krishna-Tungabhadra Doab[cite: 214].",
+      "The mineral-rich iron ore veins of the Rajgir hills.",
+      "The riverine junctions around Pataliputra."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The Pallavas of Kanchipuram and the Western Chalukyas of Badami clashed continuously over the fertile agricultural lands of the Krishna-Tungabhadra Doab, which was a vital economic zone capable of generating a massive tax surplus[cite: 213, 214, 215].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 75,
+    "q": "With reference to the Chola administrative tiers and territorial subdivisions, which of the following sequences represents the correct hierarchy ordered from the highest provincial command down to the local village cluster level?",
+    "options": [
+      "Valanadu &rightarrow; Mandalam &rightarrow; Nadu",
+      "Mandalam &rightarrow; Nadu &rightarrow; Valanadu",
+      "Mandalam &rightarrow; Valanadu &rightarrow; Nadu [cite: 210]",
+      "Nadu &rightarrow; Valanadu &rightarrow; Mandalam"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> The Chola administrative framework was partitioned systematically from top to bottom into macro-provinces called <i>Mandalams</i>, which were subdivided into intermediate district units called <i>Valanadus</i>, and further broken down into distinct local village clusters designated as <i>Nadus</i>[cite: 208, 209, 210].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 76,
+    "q": "Consider the following statements regarding the Chola local administration as detailed in the famous 10th-century Uttaramerur Inscriptions:\n1. The Sabha functioned as the autonomous general assembly governing Brahmin village settlements (Brahmadeyas)[cite: 203, 204].\n2. Committee members (Variyams) were selected through a structured pot-ticket lottery system called Kudavolai[cite: 204].\n3. The system operated on an open franchise framework where landless laborers, outcasts, and the poor held equal eligibility to join the committees.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Uttaramerur inscriptions outline that the Sabha governed Brahmin village settlements via specialized committees selected using palm-leaf ballots drawn from a pot in a lottery system called Kudavolai [cite: 203, 204].</p><p><b>Statement 3 is incorrect:</b> The system was not an open franchise; it was highly restrictive, completely excluding the poor, landless laborers, and outcasts from eligibility, which concentrated local power among wealthy landowning families[cite: 205, 206].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 77,
+    "q": "Match the dynamic corporate merchant guilds of early medieval South India with their corresponding operational scopes as recorded in contemporary epigraphic data:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Merchant Guild</th><th>Primary Operational Scope</th></tr></thead><tbody><tr><td>1. Manigramam</td><td>Inland and coastal South Indian commerce [cite: 212]</td></tr><tr><td>2. Ayyavole-Five Hundred</td><td>Trans-oceanic, international long-distance trade [cite: 212]</td></tr></tbody></table> }}\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both pairs are correctly matched:</b> Corporate merchant guilds operated with significant autonomy during the Chola era. The <i>Manigramam</i> guild regulated inland and coastal domestic wholesale trade, while the <i>Ayyavole-Five Hundred</i> (Nanadesi) managed trans-oceanic long-distance commerce and trade factories across Southeast Asia[cite: 211, 212].</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 78,
+    "q": "With reference to the art and architecture developed under the Pallava dynasty at the port city of Mamallapuram, consider the following statements:\n1. The Pancha Rathas represent five freestanding structural models carved directly out of single granite boulders[cite: 219].\n2. The monuments were created as architectural design models and prototypes, and were never used for active communal worship[cite: 220, 221].\n3. The massive open-air bas-relief panel depicting the Descent of the Ganga utilized a natural rock cleft to simulate a flowing river[cite: 219, 220].",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1, 2 and 3 are correct:</b> The Pancha Rathas are monolithic monuments carved out of single granite boulders as architectural design models[cite: 219, 221]. They remained unfinished and were never used for active worship[cite: 221]. The 'Descent of the Ganga' high-relief panel used a natural central rock cleft to channel rainwater and simulate a flowing river[cite: 219, 220].</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 79,
+    "q": "The regional 'Vesara Style' of architecture, extensively developed inside the Western Chalukyan architectural laboratories of Aihole, Badami, and Pattadakal, is structurally characterized as a hybrid blending of which architectural forms[cite: 221, 222]?",
+    "options": [
+      "Greco-Roman column bases with timber-framed Mauryan thatched roofs.",
+      "Star-shaped or circular northern Nagara ground plans paired with tiered southern Dravida Vimana profiles[cite: 222].",
+      "Islamic dome geometries with subterranean rock-cut multi-story granite halls.",
+      "Mughal brick arches combined with East Asian multi-tiered wooden pagodas."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The hybrid Vesara style functioned as a structural synthesis under Chalukyan patronage, explicitly combining the circular or star-shaped ground plans of northern Nagara design with the tiered, multi-story Vimana profiles of southern Dravida architecture[cite: 222].</p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 80,
+    "q": "With reference to the administrative hierarchy of the Gupta Empire, consider the following statements regarding sub-provincial governance:\n1. Imperial territory was divided into large provinces termed Bhuktis, which were managed by governors called Uparikas[cite: 171].\n2. Bhuktis were further subdivided into districts known as Visayas, managed by a district officer called a Visayapati[cite: 171].\n3. The district officer was legally required to manage the Visaya alongside a local advisory council (Adhistanadhikarana) that included merchant and artisan guild leaders[cite: 171, 172].",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1, 2 and 3 are correct:</b> The Gupta model was highly decentralized, partitioning provinces into Bhuktis governed by Uparikas, and districts into Visayas under Visayapatis[cite: 171]. Crucially, the district councils directly integrated civic leaders from merchant and artisan guilds, such as the Nagarasresthin and Sarthavaha, into administrative decision-making[cite: 171, 172].</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 81,
+    "q": "With reference to the geological features and environmental dynamics of global marine ecosystems, consider the following statements regarding the proliferation of pelagic Sargassum macroalgae mats:\n1. The growth is primarily fueled by localized upwelling zones along the western coastlines of continents[cite: 11].\n2. The decomposition of dense coastal accumulations can lead to severe local marine anoxia[cite: 11, 91].\n3. Massive blooms can act as a physical barrier disrupting sea turtle hatchling migration routes[cite: 11].",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 1 is incorrect:</b> While coastal nutrient runoff (such as from the Amazon and Mississippi rivers) fuels major blooms in the Great Atlantic Sargassum Belt, it is not primarily driven by traditional western boundary coastal upwelling zones.</p><p><b>Statements 2 and 3 are correct:</b> When massive Sargassum mats decay near coastlines, they rapidly consume dissolved oxygen, creating severe local anoxic dead zones[cite: 11, 91]. Additionally, these thick floating mats mechanically obstruct sea turtle hatchlings trying to migrate from beaches into open water[cite: 11].</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 82,
+    "q": "Consider the following statements regarding the geopolitical and administrative characteristics of early Indian polities during the 6th century BCE:\n1. Hereditary monarchies derived their structural administrative legitimacy tightly from orthodox Brahminical Varna hierarchies and grand sacrifices[cite: 12, 151, 152].\n2. In oligarchic Ganasanghas, ultimate sovereign assembly authority was distributed across all resident agricultural laborers (Dasa-Karmakaras) and artisans[cite: 12, 151, 155].",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 1 is correct:</b> Centralized Gangetic monarchies like Magadha and Kosala heavily incorporated orthodox Brahminical structures and royal sacrifices to legitimize the concentrated executive power of the hereditary king [cite: 12, 151, 152].</p><p><b>Statement 2 is incorrect:</b> Ganasanghas were strict Kshatriya oligarchies, not broad democracies[cite: 12, 151, 153]. Voting and assembly rights in the Santhagara were limited exclusively to ruling elite clans, leaving the large agricultural labor force (Dasa-Karmakaras) and artisans completely disenfranchised[cite: 12, 154, 155].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 83,
+    "q": "Match the dynamic corporate merchant guilds of the early medieval South Indian peninsular region with their primary operational jurisdictions as recorded in contemporary epigraphic codes:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Merchant Guild</th><th>Primary Operational Mandate</th></tr></thead><tbody><tr><td>1. Manigramam</td><td>International long-distance trans-oceanic trade across Southeast Asia [cite: 13]</td></tr><tr><td>2. Ayyavole-Five Hundred</td><td>Inland and coastal localized wholesale commerce within the subcontinent [cite: 13]</td></tr></tbody></table> }}\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Both pairs are cross-matched and incorrect:</b> Epigraphic records show that the <b>Manigramam</b> guild operated primarily within localized inland and coastal networks inside South India [cite: 13, 213].</p><p>Conversely, the <b>Ayyavole-Five Hundred</b> (Nanadesi) was a massive trans-oceanic guild network that managed international commercial warehouses, deployed private mercenary armies, and extended trade deep into Southeast Asia[cite: 13, 212, 213].</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 84,
+    "q": "With reference to the administrative apparatus of the Delhi Sultanate, which of the following central ministries was historically tasked with checking and auditing regional expenditures, land revenue collections, and managing the state budget?",
+    "options": [
+      "Diwan-i-Insha",
+      "Diwan-i-Wizarat",
+      "Diwan-i-Ariz",
+      "Diwan-i-Rasalat"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2:</b> The <b>Diwan-i-Wizarat</b>, headed by the Wazir, functioned as the apex financial body of the Delhi Sultanate, controlling land revenue models, tracking regional accounts, and managing fiscal audits [cite: 14, 225].</p><p>The others handled state correspondence (Insha [cite: 227]), military management (Ariz [cite: 226]), and foreign diplomacy/charities (Rasalat [cite: 228]).</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 85,
+    "q": "In the administrative and fiscal framework of the Mughal Empire, what was the primary operational function of the 'Khalisa' land classification category?",
+    "options": [
+      "Land assigned directly to religious scholars as tax-free revenue charity[cite: 15].",
+      "Territory designated for cash crop experimental cultivation by foreign companies[cite: 15].",
+      "Imperial crown lands managed directly by the central state to fund royal expenses[cite: 15, 66].",
+      "Fallow land left uncultivated for five or more consecutive years to rebuild soil fertility[cite: 15]."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 3:</b> In the Mughal system, <b>Khalisa</b> lands were directly administered crown territories whose entire generated revenue flowed straight into the central treasury to meet the Emperor’s immediate expenditures, royal household upkeep, and cash salaries [cite: 15, 66, 265].</p><p>This stood in contrast to Jagir lands, which were temporarily assigned out to Mansabdars for personal compensation[cite: 15, 66, 264].</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 86,
+    "q": "With reference to the religious history of medieval India, consider the following statements regarding the Sufi doctrine of Wahdat-al-Wujud:\n1. It was first formally articulated by the mystic Ibn Arabi and posited that the physical universe is a direct manifestation of divine reality[cite: 16, 294].\n2. It established an intellectual bridge with the non-dualistic Advaita Vedanta school of Hindu philosophy[cite: 16, 295].\n3. It was universally accepted by orthodox Islamic theologians and conservative scholars without any metaphysical opposition[cite: 16, 295].",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Sufi doctrine of <i>Wahdat-al-Wujud</i> (Unity of Being), formulated by Ibn Arabi, proposed that God and the universe are identical expressions of one essence[cite: 16, 294]. This created a direct metaphysical bridge with the non-dualistic principles of Advaita Vedanta, which similarly posits that the individual soul and cosmic reality are one [cite: 16, 295].</p><p><b>Statement 3 is incorrect:</b> The doctrine was highly controversial among orthodox theologians who vigorously opposed it out of fear it would lead to pantheism, prompting conservative reactions like the alternative doctrine of <i>Wahdat-ash-Shuhud</i>[cite: 16, 295, 296].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 87,
+    "q": "Which of the following historical figures are explicitly associated with the Nirguna Bhakti tradition, characterized by the rejection of external rituals, birth-based caste hierarchies, and idol worship?\n1. Kabir [cite: 17, 297]\n2. Chaitanya Mahaprabhu [cite: 17, 300]\n3. Guru Nanak [cite: 17, 297]\n4. Mirabai [cite: 17, 300]",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Answer is Option 2:</b> Kabir and Guru Nanak were primary leaders of the <i>Nirguna Bhakti</i> tradition, which focused on internal devotion to an abstract, formless, omnipresent divine reality while completely rejecting icons, caste systems, and institutionalized priestly rituals [cite: 17, 297, 298].</p><p><b>Chaitanya Mahaprabhu and Mirabai</b> belong to the <i>Saguna Bhakti</i> tradition, which centered on intensely emotional devotion (Premo-bhakti) directed toward physical incarnations of deities, primarily Rama and Krishna[cite: 17, 300].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 88,
+    "q": "With reference to the architectural evolution of subterranean stone engineering in ancient India, consider the following statements regarding the Barabar Caves in Bihar:\n1. They represent the earliest structural baseline of permanent rock-cut cave engineering initiated under Mauryan patronage[cite: 18, 302].\n2. The engineers utilized soft clays and sandstones to easily carve out complex structural reliefs[cite: 18, 302].\n3. The vertical granite walls inside these chambers feature a signature, mirror-like inner burnished polish that creates unique acoustic resonance[cite: 18, 303].",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> The Barabar Caves (such as Sudama and Lomas Rishi) represent ancient India's earliest structural baseline for permanent rock-cut cave engineering, initiated under Mauryan patronage[cite: 18, 302]. A defining technical achievement of this phase is the signature glass-like inner polish applied to the vertical granite walls, creating unique acoustic resonance [cite: 18, 303].</p><p><b>Statement 2 is incorrect:</b> Mauryan engineers did not use soft clays or sandstones; they bypassed soft materials to cut directly into exceptionally hard granite massifs[cite: 18, 302].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 89,
+    "q": "Consider the following statements regarding the land classification system under the Dahsala (or Zabt) matrix perfected by Raja Todar Mal during the Mughal Empire:\n1. 'Polaj' lands were highly fertile plots that were cultivated annually without interruption[cite: 19, 270].\n2. 'Parauti' lands were fields left uncultivated for five or more consecutive years to allow structural recovery[cite: 19, 271].\n3. 'Banjar' lands were marginal or low-yield territories taxed at reduced rates to encourage land reclamation[cite: 19, 273].",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> Under the Dahsala system, <i>Polaj</i> represented highly fertile lands cultivated annually without interruption[cite: 19, 270]. <i>Banjar</i> lands were marginal or low-yield lands left unfarmed for five or more years and were assessed at minimal concessionary rates to encourage agricultural expansion [cite: 19, 273].</p><p><b>Statement 2 is incorrect:</b> <i>Parauti</i> lands were fallowed for only one to two years to recover natural soil nutrients[cite: 271]. It was <i>Chachar</i> fields that were left uncultivated for three to four years [cite: 272], while fields left for five or more years were classified as Banjar[cite: 273].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 90,
+    "q": "In the context of the administrative and military setup under Chhatrapati Shivaji, match the specialized portfolios of the Ashtapradhan Council with their core functional mandates:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Portfolio</th><th>Primary Mandate</th></tr></thead><tbody><tr><td>1. Peshwa</td><td>Civil Administration and General Operations [cite: 20, 275]</td></tr><tr><td>2. Amatya</td><td>Finance Ministry and Revenue Auditing [cite: 20, 276]</td></tr><tr><td>3. Nyayadhish</td><td>Intelligence and Internal Security Architecture [cite: 20, 277]</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pairs 1 and 2 are correctly matched:</b> The Peshwa managed general civil administration and coordinated policies [cite: 20, 275], while the Amatya functioned as the finance minister tracking state accounts and revenues [cite: 20, 276].</p><p><b>Pair 3 is cross-matched and incorrect:</b> The <i>Nyayadhish</i> was the Chief Justice managing legal trials and was strictly exempted from military duties[cite: 20, 277]. Intelligence, internal security, and household tasks were managed by the <i>Wakianavis</i>[cite: 276].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 91,
+    "q": "With reference to the intellectual and philosophical syncretism of medieval India, consider the following statements regarding the Sufi doctrine of Wahdat-al-Wujud:\n1. First systematically formulated by the mystic Ibn Arabi, it posited that the physical universe is an identical, direct manifestation of divine reality[cite: 21, 294].\n2. The doctrine served as a functional metaphysical bridge connecting Sufi thought with the non-dualistic principles of orthodox Advaita Vedanta[cite: 21, 295].\n3. Due to its harmonizing nature, it was accepted without any theological friction or opposition by the orthodox Islamic clergy of the period[cite: 21, 295].",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The doctrine of <i>Wahdat-al-Wujud</i> (Unity of Being), formulated by Ibn Arabi, established that the creator and creation are not separate entities [cite: 21, 294], which closely mirrored the non-dualistic philosophy of Advaita Vedanta [cite: 21, 295].</p><p><b>Statement 3 is incorrect:</b> The doctrine was highly controversial among orthodox theologians who opposed it because they feared it promoted pantheism, leading to the development of the alternative conservative doctrine of <i>Wahdat-ash-Shuhud</i>[cite: 21, 295, 296].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 92,
+    "q": "Which of the following historical statements accurately describes the core epistemological and metaphysical criteria that distinguished the Nirguna Bhakti tradition from the Saguna Bhakti lineage?",
+    "options": [
+      "Nirguna saints advocated for strict scriptural commentary in classical Sanskrit, whereas Saguna saints used vernacular expressions[cite: 22].",
+      "Nirguna formations focused on internal devotion to an abstract, formless, omnipresent divine reality while actively critiquing caste hierarchies[cite: 22, 297].",
+      "Saguna formations rejected all forms of iconographic representation and physical sacred spaces, focusing exclusively on ascetic isolation[cite: 22, 299].",
+      "Nirguna formations derived their structural authority entirely from priestly monopolies and grand open-air fire altars[cite: 22]."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The <i>Nirguna Bhakti</i> tradition, championed by non-conformist mystics like Kabir and Guru Nanak, focused on a non-anthropomorphic, formless view of the divine[cite: 22, 297]. They completely rejected idols, external priestly rituals, and birth-based caste stratification in favor of direct internal devotion [cite: 22, 297, 298].</p><p><b>Other options are incorrect:</b> Both traditions relied heavily on vernacular languages rather than Sanskrit to make complex ideas accessible to common populations[cite: 22, 298, 300].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 93,
+    "q": "Consider the following popular figures of the medieval Bhakti movement:\n1. Tulsidas [cite: 23, 300]\n2. Kabir [cite: 23, 297]\n3. Mirabai [cite: 23, 300]\n4. Guru Nanak [cite: 23, 297]\n\nWhich of the figures listed above are explicitly associated with the Saguna Bhakti tradition?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> Tulsidas and Mirabai are premier representatives of the <i>Saguna Bhakti</i> tradition, which centered on intense emotional devotion (Premo-bhakti) directed toward personal manifestations and physical incarnations of deities like Rama and Krishna [cite: 23, 300].</p><p><b>Statements 2 and 4 are incorrect:</b> Kabir and Guru Nanak belonged strictly to the iconoclastic, formless <i>Nirguna Bhakti</i> orientation[cite: 23, 297].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 94,
+    "q": "With reference to the developmental trajectory of early Indian subterranean architecture, consider the following statements regarding the Barabar Caves in Bihar:\n1. They represent the earliest permanent rock-cut cave engineering baseline initiated under Mauryan state patronage[cite: 24, 302].\n2. Mauryan engineers avoided hard materials, choosing to cut exclusively into soft sandstones and clay deposits to facilitate complex relief work[cite: 24, 302].\n3. The vertical granite walls inside these chambers are finished with a signature glass-like burnished polish that creates distinct acoustic resonance[cite: 24, 303].",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> The Barabar Caves (such as Sudama and Lomas Rishi) represent ancient India's earliest structural baseline for permanent rock-cut cave engineering under Mauryan patronage [cite: 24, 302], characterized by geometric clarity and a mirror-like inner burnished polish that creates unique acoustic resonance [cite: 24, 303].</p><p><b>Statement 2 is incorrect:</b> Mauryan engineers did not use soft materials; they achieved a significant technological breakthrough by cutting directly into exceptionally hard granite massifs[cite: 24, 302].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 95,
+    "q": "In the administrative and fiscal lexicon of the Maratha Kingdom under Chhatrapati Shivaji, how did the levy of Chauth conceptually and structurally differ from the collection of Sardeshmukhi?",
+    "options": [
+      "Chauth was a tax collected inside the core Swarajya territory, while Sardeshmukhi was extracted exclusively from foreign nations[cite: 25, 283].",
+      "Chauth was a 25% tax assessed on peripheral zones to serve as protection money against raids, whereas Sardeshmukhi was an additional 10% levy claimed via hereditary rights as paramount lord[cite: 25, 280, 282].",
+      "Chauth was paid exclusively in cash to religious scholars, while Sardeshmukhi was a grain tribute collected by military commanders to feed war elephants[cite: 25].",
+      "Chauth represented a temporary land grant for civil servants, while Sardeshmukhi was an annual market customs tariff levied at maritime trade ports[cite: 25]."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> <i>Chauth</i> was a substantial one-fourth (25%) tax levied on neighboring non-Maratha territories as protection money to guarantee they would not be raided[cite: 25, 280, 281]. <i>Sardeshmukhi</i> was an additional 10% levy added on top, claimed by Shivaji based on his hereditary position as the supreme head (Sardeshukh) of the Deccan clans [cite: 25, 282, 283].</p><p><b>Other options are incorrect:</b> Both taxes were extracted from peripheral, non-Maratha or Mughal-controlled zones rather than core Swarajya lands[cite: 25, 284].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 96,
+    "q": "With reference to the structure and functional operations of the eight-member Ashtapradhan Council under Chhatrapati Shivaji, consider the following statements:\n1. Every appointed minister was individually responsible to the king and possessed autonomous executive decision-making powers independent of royal sanction[cite: 26, 278].\n2. All senior administrative ministers, irrespective of their civil portfolios, were legally mandated to lead active military campaigns in the field when ordered[cite: 26, 276].\n3. The portfolios of the Nyayadhish (Chief Justice) and Panditrao (High Priest) were strictly exempted from any operational military field duties[cite: 26, 277].",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 2 and 3 are correct:</b> A unique feature of Maratha administration was that civil ministers (including the Peshwa and Amatya) had to command active military campaigns when ordered[cite: 26, 276]. Only the <i>Nyayadhish</i> (Judiciary) and <i>Panditrao</i> (Charities/Religion) were strictly exempted from military field duties [cite: 26, 277].</p><p><b>Statement 1 is incorrect:</b> The council did not operate on collective responsibility or hold autonomous power; each minister was appointed individually, reported independently to the crown, and required direct royal approval for all actions[cite: 26, 278].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 97,
+    "q": "The sophisticated Dahsala system of agrarian revenue evaluation, perfected during the reign of Akbar by Raja Todar Mal, utilized which of the following operational baseline models?",
+    "options": [
+      "An annual crop-sharing auction where land was leased out to the highest foreign company bidder[cite: 27].",
+      "A calculations matrix based on a comprehensive ten-year average of localized crop yields and actual market prices[cite: 27, 269].",
+      "A fixed permanent tax model that entirely exempted fertile lands from state measurement and audits[cite: 27].",
+      "A uniform assessment system where all categories of land were taxed at identical rates regardless of cultivation frequency[cite: 27]."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The <i>Dahsala</i> (or Zabt) system optimized imperial revenue by moving away from arbitrary crop-sharing and calculating land taxes from a comprehensive ten-year historical average of localized yields and actual market prices collected between the 15th and 24th years of Akbar's reign [cite: 27, 269].</p><p><b>Other options are incorrect:</b> Cultivable plots were systematically surveyed annually and divided into four distinct categories based on farming frequency to ensure precision[cite: 27, 270, 273, 274].</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 98,
+    "q": "Match the agrarian land classifications utilized under the Mughal state's revenue grid with their corresponding operational farming continuity profiles:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Land Category</th><th>Farming Continuity Profile</th></tr></thead><tbody><tr><td>1. Polaj</td><td>Fields left uncultivated for 3 to 4 years to allow structural recovery [cite: 28]</td></tr><tr><td>2. Parauti</td><td>Highly fertile plots that are cultivated continuously every year [cite: 28]</td></tr><tr><td>3. Chachar</td><td>Lands intentionally fallowed for 1 to 2 years to rebuild soil nutrients [cite: 28]</td></tr><tr><td>4. Banjar</td><td>Marginal low-yield lands left unfarmed for 5 or more consecutive years [cite: 28, 273]</td></tr></tbody></table> }}\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "4 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> Pair 4 is correctly matched because <i>Banjar</i> lands were low-yield or marginal tracts left uncultivated for five or more years and were assessed at minimal concessionary rates to encourage agricultural expansion [cite: 28, 273].</p><p><b>Pairs 1, 2, and 3 are cross-matched:</b> <i>Polaj</i> represented lands farmed continuously every year[cite: 270]; <i>Parauti</i> defined fields fallowed for only one to two years [cite: 271]; and <i>Chachar</i> defined fields left uncultivated for three to four years[cite: 272].</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 99,
+    "q": "With reference to the fiscal management of the Mughal Empire, what was the primary purpose behind the central crown enforcing a policy of compulsory transfers of standard Jagir assignments every three to four years?",
+    "options": [
+      "To allow the state to convert all agricultural fields into cash crop experimental zones[cite: 29].",
+      "To provide land grants to foreign merchants arriving along the western trade ports[cite: 29].",
+      "To prevent powerful elite officers from developing deep local roots, hereditary claims, or independent regional power bases[cite: 29, 265].",
+      "To automatically downgrade the mansab ranking of corrupt military commanders without structural reviews[cite: 29]."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> To protect centralized imperial control, the Mughal state enforced compulsory rotations of standard Jagirs every three to four years across different provinces[cite: 29, 265]. This mechanism systematically prevented Mansabdars from establishing deep local roots, acquiring hereditary claims, or building independent regional power bases[cite: 29, 265].</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2026,
+    "paper": "GS1",
+    "question": 100,
+    "q": "Consider the following statements regarding the structural boundaries of authority granted to a Mughal Jagirdar within his assigned revenue territory:\n1. The Jagirdar possessed absolute fiscal rights to collect land taxes alongside full local judicial and police enforcement powers[cite: 30, 266].\n2. Sub-provincial administrative law, regional security, and criminal justice remained under the separate control of independent state-appointed officers like the Faujdar and Qazi[cite: 30, 268].",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 2 is correct:</b> Sub-provincial administration, security, and criminal law remained under the separate control of state-appointed officers like the Faujdar (military commander) and Qazi (judge) [cite: 30, 268].</p><p><b>Statement 1 is incorrect:</b> A Jagirdar held zero judicial or police powers within his assigned territory [cite: 266]; he only possessed the legal right to collect land taxes up to his approved salary valuation[cite: 264, 267].</p><p><b>Correct Option is 2.</b></p></div> }}"
   }
 ]
