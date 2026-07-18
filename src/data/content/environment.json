@@ -3,15 +3,38 @@
     "title": "Ecology & Ecosystem Core Concepts (Food Chains, Webs, Ecological Pyramids)",
     "phases": [
       {
-        "phaseName": "Ecosystem Dynamics & Energetics",
+        "phaseName": "Phase 1: Structural Ecotone & Niche Topology",
         "subtopics": [
           {
-            "name": "Ecotones, Niches, and Energy Pyramids",
+            "name": "Ecotones, Edge Effects, and Homeostasis",
             "bullets": [
-              "<b>Ecotone Dynamics:</b> A zone of junction or transition area between two or more diverse ecosystems (e.g., mangroves between marine and terrestrial zones). Characterized by the <b>Edge Effect</b>, where the population density and variety of species are often greater than in either flanking community.",
-              "<b>Ecological Niche:</b> The specific functional role and position a species occupies within an ecosystem, including its chemical, physical, and biological interactions. **UPSC Trap:** While multiple species can share the same habitat, <b>no two distinct species can occupy the exact same niche</b> indefinitely (Gause's Principle of Competitive Exclusion).",
-              "<b>Lindeman's 10% Rule:</b> Dictates that during the transfer of organic energy from one trophic level to the next, **only about 10% of the energy is stored as biomass**. The remaining 90% is lost as metabolic heat during respiration, which structurally limits food chains to 4-5 links.",
-              "<b>Pyramid Geometries:</b> The <b>Pyramid of Energy is always upright</b> in every ecosystem due to thermodynamic laws. However, the <b>Pyramid of Biomass is inverted in aquatic ecosystems</b> (like open oceans), because a very small standing crop of rapidly dividing phytoplankton supports a much larger consumer biomass of zooplankton and fish."
+              "<b>Ecotone Dynamics & Edge Effect:</b> An ecotone is a physical zone of functional transition between two or more distinct ecological communities (e.g., grasslands, estuaries, or riverbanks). It typically exhibits the <b>Edge Effect</b>, where the species diversity and population density of specific organisms are significantly higher than in either adjacent matrix. Organisms that primarily or exclusively thrive in this transition zone are designated as **Edge Species**.",
+              "<b>Ecological Niche Mechanics:</b> Defines the exact functional, spatial, and trophic role a unique species occupies within its habitat, encompassing its resource utilization, microclimate tolerances, and biological interactions. <b>UPSC Trap:</b> While diverse species can share a physical habitat, <b>no two distinct species can occupy the identical ecological niche</b> within an ecosystem indefinitely due to **Gause's Principle of Competitive Exclusion**, which forces either resource partitioning or local extinction.",
+              "<b>Fundamental vs Realized Niche:</b> The *Fundamental Niche* represents the total potential hypervolume of environmental conditions and resources a species can exploit in the complete absence of interspecific competition or predation. The *Realized Niche* is the actual, highly restricted space the species is forced to occupy due to real-world biotic pressures and resource constraints."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Trophic Energetics & Biomass Geometry",
+        "subtopics": [
+          {
+            "name": "Lindeman's Efficiency and Thermodynamic Limits",
+            "bullets": [
+              "<b>Lindeman's 10% Law of Energetics:</b> Asserts that during the progressive transfer of organic energy across sequential trophic levels, **only approximately 10% of the net energy is fixed into new consumer biomass**. The remaining 90% is dissipated as metabolic waste heat via cellular respiration, physical locomotion, and excretion, which mathematically and structurally caps food chains to a maximum of 4-5 links.",
+              "<b>Pyramid Geometries & Inversions:</b> The <b>Pyramid of Energy is always strictly upright</b> across all ecosystems because energy transfer complies with the Second Law of Thermodynamics. However, the <b>Pyramid of Biomass is sharply inverted in aquatic ecosystems</b> (e.g., open oceans), where a structurally tiny standing crop of highly autotrophic, rapidly dividing phytoplankton supports a significantly larger, longer-lived biomass of primary zooplankton and secondary macro-consumers."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Ecosystem Regulation & Structural Resilience",
+        "subtopics": [
+          {
+            "name": "Ecological Successions and Keystone Controls",
+            "bullets": [
+              "<b>Succession Stratigraphy:</b> The orderly, predictable process of community evolution within a geographic space. *Primary Succession* initiates on completely sterile, un-weathered substrates (e.g., fresh lava flows, glaciated rocks) where **Pioneer Species** like lichens and mosses chemically weather rock into primitive soil. *Secondary Succession* occurs in disturbed zones where pre-existing soil matrices remain intact (e.g., abandoned farmlands, deforested tracts), progressing exponentially faster toward a stable **Climax Community**.",
+              "<b>Keystone and Indicator Organisms:</b> A **Keystone Species** exerts a disproportionately massive structural control on its ecosystem relative to its low physical abundance or biomass (e.g., Sea Otters controlling sea urchin populations to preserve kelp forests); its removal triggers a catastrophic **Trophic Cascade**. **Indicator Species** serve as early-warning biological proxies for ecological stress or chemical contamination due to their acute sensitivity to environmental alterations (e.g., lichens tracking sulfur dioxide air pollution)."
             ]
           }
         ]
@@ -22,14 +45,37 @@
     "title": "Biogeochemical Cycles & Ecosystem Functions",
     "phases": [
       {
-        "phaseName": "Gaseous vs Sedimentary Nutrient Cycling",
+        "phaseName": "Phase 1: Thermodynamic Reservoir Classifications",
         "subtopics": [
           {
-            "name": "Carbon, Nitrogen, Phosphorus, and Sulphur Cycles",
+            "name": "Gaseous vs Sedimentary Cycle Mechanics",
             "bullets": [
-              "<b>Gaseous vs Sedimentary:</b> Gaseous cycles (Carbon, Nitrogen) have their primary nutrient reservoir in the atmosphere or hydrosphere. Sedimentary cycles (Phosphorus, Sulphur) have their primary reservoir locked in the earth's crust/sedimentary rocks, making their release much slower.",
-              "<b>Nitrogen Fixation Sequence:</b> Atmospheric nitrogen ($N_2$) cannot be directly absorbed by plants. It must undergo biological fixation: 1. <i>Rhizobium</i> or <i>Azotobacter</i> convert $N_2$ into Ammonia ($NH_3$). 2. <i>Nitrosomonas</i> bacteria oxidize ammonia into Nitrites ($NO_2^-$). 3. <i>Nitrobacter</i> convert nitrites into Nitrates ($NO_3^-$), which plants assimilate.",
-              "<b>Denitrification:</b> The process where fixed nitrogen compound matrices are converted back into nitrogen gas by anaerobic bacteria like <b>Pseudomonas</b> and <b>Thiobacillus</b>, completing the loop."
+              "<b>Reservoir Kinetics:</b> Biogeochemical cycles are structurally distinguished by their primary global nutrient sink. **Gaseous Cycles** (e.g., Carbon, Nitrogen, Water) maintain their primary interactive reservoir in the atmosphere or hydrosphere, exhibiting rapid, highly dynamic balancing capacities. **Sedimentary Cycles** (e.g., Phosphorus, Sulphur) lock their main nutrient pools within the Earth's crust and sedimentary rock formations, relying on slow geological weathering and erosion, making them highly vulnerable to anthropogenic disruptions."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Nitrogen Biogeochemistry & Bacterial Cascades",
+        "subtopics": [
+          {
+            "name": "Fixation, Nitrification, and Assimilation Stages",
+            "bullets": [
+              "<b>Biological Nitrogen Fixation:</b> Inert atmospheric dinitrogen ($N_2$) cannot be directly assimilated by eukaryotic plants due to its highly stable triple covalent bond. It must be broken down by specialized prokaryotes utilizing the *nitrogenase* enzyme complex. Symbiotic fixers include **Rhizobium** (inhabiting leguminous root nodules) and **Anabaena** (associated with Azolla fern matrices); free-living fixers include aerobic **Azotobacter** and anaerobic **Clostridium**.",
+              "<b>The Nitrification Pathway:</b> A two-step obligate aerobic chemolithoautotrophic bacterial process: 1. Ammonia ($NH_3$/$NH_4^+$) generated via decomposition or fixation is oxidized into toxic Nitrites ($NO_2^-$) primarily by **Nitrosomonas** and *Nitrosococcus* bacteria. 2. Nitrites ($NO_2^-$) are rapidly oxidized into stable, highly bioavailable Nitrates ($NO_3^-$) by **Nitrobacter** and *Nitrospira*, allowing plants to absorb them.",
+              "<b>The Denitrification Loop:</b> The metabolic process where nitrate matrices are reduced back into gaseous nitrous oxide ($N_2O$) and ultimately dinitrogen gas ($N_2$) by specialized facultative anaerobic bacteria such as **Pseudomonas denitrificans** and **Thiobacillus denitrificans**, operating under waterlogged, oxygen-depleted soil conditions."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Sedimentary Fluxes & Limiting Nutrients",
+        "subtopics": [
+          {
+            "name": "Phosphorus and Sulphur Global Cycles",
+            "bullets": [
+              "<b>Phosphorus Lithospheric Cycling:</b> Lacks any significant atmospheric gaseous phase. Phosphorus is slowly released from apatite and mineral rocks via chemical weathering as phosphate ions ($PO_4^{3-}$). It acts as the primary **limiting nutrient** in terrestrial and freshwater aquatic systems. Human extraction for chemical fertilizers short-circuits this cycle, leading to massive terrestrial runoff and water body saturation.",
+              "<b>Sulphur Atmospheric-Sedimentary Interface:</b> Bridges both spheres; enters the atmosphere via volcanic outgassing and industrial coal combustion as sulfur dioxide ($SO_2$) and hydrogen sulfide ($H_2S$), and returns to soil matrices through precipitation, where it is converted by specialized soil bacteria (e.g., *Beggiatoa*) into plant-absorbable sulfate ions ($SO_4^{2-}$)."
             ]
           }
         ]
@@ -37,17 +83,39 @@
     ]
   },
   "env_3": {
-    "title": "Terrestrial & Aquatic Ecosystems (Wetlands, Mangroves, Coral Reefs)",
+    "title": "Terrestrial Biomes of the World & India's 10 Biogeographic Zones",
     "phases": [
       {
-        "phaseName": "High-Yield Coastal & Marine Ecosystems",
+        "phaseName": "Phase 1: Global Macro-Climatic Biomes",
         "subtopics": [
           {
-            "name": "Mangrove Adaptations & Coral Bleaching Math",
+            "name": "Latitudinal Vegetation Zones & Stratification",
             "bullets": [
-              "<b>Mangrove Halophytic Adaptations:</b> Grow in high-salinity, intertidal oxygen-poor soils. They utilize <b>Pneumatophores</b> (blind respiratory roots growing upwards to breathe air), stilt roots for mechanical support against tides, and **Vivipary germination** (seeds germinate while still attached to the parent tree).",
-              "<b>Coral Symbiosis:</b> Corals are mutualistic colonies of polyp animals and photosynthetic <b>Zooxanthellae</b> algae. The algae provide oxygen and synthesized nutrients while giving corals their vibrant colors; the polyps provide a protected structure and carbon dioxide.",
-              "<b>Coral Bleaching Drivers:</b> When thermal limits are breached (sea surface temperatures rise 1-2°C above baseline), or when ocean acidification increases, the stressed coral polyps **expel the Zooxanthellae**. If the stress persists, the exposed white calcium carbonate skeleton starves, leading to coral mortality."
+              "<b>Tropical Rainforest Biome:</b> Positioned along equatorial latitudes; characterized by high annual rainfall and continuous warmth. Displays dense **Vertical Stratification** (Overstory/Emergent layer, Canopy layer blocking 95% of sunlight, Understory, and Forest Floor). Soils are paradoxically nutrient-poor **Oxisols/Latosols** because heavy precipitation causes intense leaching, and the hot, humid climate drives rapid microbial decomposition, locking nutrients almost entirely within the living biomass.",
+              "<b>Savanna & Temperate Grassland Biomes:</b> Savannas are tropical grasslands with scattered trees, regulated by cyclical fire regimes and seasonal drought. **Temperate Grasslands** (Steppes, Pampas, Prairies) feature nutrient-rich **Chernozemic/Mollisol** soils due to slow decomposition of deep, fibrous grass root matrices, completely lacking large woody trees due to low precipitation and winter freezing cycles.",
+              "<b>Tundra and Taiga (Boreal) Grids:</b> Taiga consists of continuous coniferous evergreen forests (spruce, fir, pine) with acidic **Spodosol** soils. Tundra represents an arctic tree-less plain characterized by a permanently frozen subsoil layer known as **Permafrost**, which restricts root growth and prevents water drainage, creating shallow summer bogs dominated by mosses and lichens."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: India's Biogeographic Classification",
+        "subtopics": [
+          {
+            "name": "The Rodgers & Panwar 10-Zone Matrix",
+            "bullets": [
+              "<b>The Structural Macro-Zones:</b> India is mapped into 10 distinct biogeographic zones based on climate, topography, and native species profiles: 1. *Trans-Himalaya* (cold desert, high endemism). 2. *Himalaya* (alpine to subtropical altitudinal zones). 3. *Desert* (Thar and Kutch). 4. *Semi-Arid* (transition zone). 5. *Western Ghats* (high rainfall tropical evergreen forest). 6. *Deccan Peninsula* (largest zone; deciduous forests). 7. *Gangetic Plain* (alluvial, heavily cultivated). 8. *Coast* (beaches, mangroves). 9. *Northeast India* (biological gateway, high diversity). 10. *Islands* (Andaman and Nicobar, equatorial rain forest indicators)."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Altitudinal Zonation & Ecotonal Flora",
+        "subtopics": [
+          {
+            "name": "Montane Adaptations and Timberlines",
+            "bullets": [
+              "<b>The Vertical Climax Shift:</b> As altitude increases in montane biomes, vegetation shifts due to dropping temperatures and changing moisture levels, transitioning from tropical/subtropical forests to temperate deciduous woods, sub-alpine coniferous bands, and alpine meadows. The **Timberline** marks the absolute geographic boundary above which environmental stress (high winds, prolonged freezing) prevents tree growth."
             ]
           }
         ]
@@ -55,18 +123,38 @@
     ]
   },
   "env_4": {
-    "title": "Biodiversity - Threats, Hotspots & Conservation (In-situ vs Ex-situ)",
+    "title": "Aquatic Ecosystems & Vulnerable Fringes (Wetlands, Mangroves, Coral Reefs)",
     "phases": [
       {
-        "phaseName": "Biogeographic Realms & Protection Stratagems",
+        "phaseName": "Phase 1: Wetland Eco-Hydrology & Global Status",
         "subtopics": [
           {
-            "name": "Hotspot Criteria & In-situ vs Ex-situ Divisions",
+            "name": "Ecountering Services and Blue Carbon Sinks",
             "bullets": [
-              "<b>Norman Myers Hotspot Criteria:</b> To qualify as a global biodiversity hotspot, a region must strictly meet two criteria: 1. It must contain at least **1,500 species of endemic vascular plants** (>0.5% of the world total). 2. It must have lost at least **70% of its original primary native vegetation**.",
-              "<b>India's 4 Hotspots:</b> The Himalayas, the Western Ghats, the Indo-Burma region, and Sundaland (including the Nicobar group).",
-              "<b>In-situ Conservation (On-Site):</b> Conserving target species inside their natural habitats. Examples include National Parks, Wildlife Sanctuaries, **Biosphere Reserves, and Sacred Groves**.",
-              "<b>Ex-situ Conservation (Off-Site):</b> Moving endangered genetic resources away from their natural habitats for high-security maintenance. Examples include **Botanical Gardens, Zoological Parks, Seed Banks, and Cryopreservation** facilities."
+              "<b>Eco-Hydrological Functions:</b> Wetlands represent transitional ecotones characterized by periodic or permanent waterlogging, hydrophytic vegetation, and hydric soils lacking free oxygen. They serve as critical **natural water purifiers** by trapping heavy metal sediments and bio-filtering nutrient excesses, act as flood mitigators by absorbing peak surges, and function as massive **blue carbon sinks**, capturing atmospheric carbon at rates up to ten times faster than mature tropical rainforests."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Halophytic Mangrove Morphologies",
+        "subtopics": [
+          {
+            "name": "Pneumatophores, Vivipary, and Osmotic Filters",
+            "bullets": [
+              "<b>Anatomical and Physiological Adaptations:</b> Mangroves are specialized halophytic woody communities thriving in high-salinity, intertidal, low-oxygen coastal zones. They utilize **Pneumatophores** (negatively geotropic, blind respiratory roots covered in lenticels) to capture atmospheric oxygen during low tides. They rely on **Stilt Roots** and prop roots to secure mechanical stability in shifting deltaic silt, deploy ultra-filtration mechanisms at the root level to exclude salt ions, and display **Viviparous Germination** (where the embryo develops and projects a long hypocotyl while still structurally attached to the parent tree before dropping horizontally into the mud)."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Coral Symbiosis & Bleaching Pathophysiology",
+        "subtopics": [
+          {
+            "name": "Zooxanthellae Dynamics and Acidification Thresholds",
+            "bullets": [
+              "<b>Mutualistic Energetics:</b> Scleractinian (hard) corals consist of a structural colony of invertebrate polyps functioning in a tight mutualistic symbiosis with single-celled photosynthetic dinoflagellate algae called **Zooxanthellae**. The zooxanthellae reside within the coral gastrodermis, converting solar radiation into glucose, amino acids, and oxygen, which fuels up to 90% of the coral's metabolic requirements and drives calcium carbonate ($CaCO_3$) skeleton formation. In return, the polyp supplies the algae with metabolic carbon dioxide ($CO_2$), mineral nitrates, and a protected physical architecture.",
+              "<b>Bleaching Cascade Mechanics:</b> When local thermal thresholds are breached (sea surface temperatures spike 1-2°C above historical summer maximums for extended weeks), the photosynthetic machinery of the zooxanthellae becomes damaged, producing toxic **Reactive Oxygen Species (ROS)**. To survive, the host coral polyp must **expel the zooxanthellae**, stripping the colony of its vibrant color pigments and exposing the white calcium carbonate skeleton. If the heat stress persists without cooling, the coral undergoes absolute starvation and cellular mortality, leaving the structure vulnerable to destructive turf-algae overgrowth."
             ]
           }
         ]
@@ -74,17 +162,39 @@
     ]
   },
   "env_5": {
-    "title": "Environmental Pollution - Air, Water, Soil, Plastic & E-Waste Rules",
+    "title": "Biodiversity Dynamics - Threats, Myers Hotspots & Conservation (In-situ vs Ex-situ)",
     "phases": [
       {
-        "phaseName": "Pollutant Mechanics & Statutory Regulatory Frameworks",
+        "phaseName": "Phase 1: Global Biodiversity Hotspot Metrics",
         "subtopics": [
           {
-            "name": "Eutrophication, Bioaccumulation, and E-Waste EPR",
+            "name": "Norman Myers Quantitative Criteria & Endemism Profiles",
             "bullets": [
-              "<b>Cultural Eutrophication:</b> Nutrient enrichment (primarily Nitrates and Phosphates from fertilizer runoff) into water bodies causes an **Algal Bloom**. This limits light penetration, and when the algae die, aerobic decomposers consume all dissolved oxygen (DO), driving **Biological Oxygen Demand (BOD)** upwards, which chokes aquatic life.",
-              "<b>Bioaccumulation vs Biomagnification:</b> <i>Bioaccumulation</i> is the progressive increase in concentration of a non-biodegradable toxin within a **single individual organism's** tissues over time. <i>Biomagnification</i> is the progressive concentration increase as toxins travel **upwards across consecutive trophic levels** of a food chain (e.g., DDT or Mercury concentrations in apex predators).",
-              "<b>E-Waste & Plastic Rules (EPR):</b> The modern operational rules center around <b>Extended Producer Responsibility (EPR)</b>, which legally binds manufacturers to set up take-back mechanisms and meet mandatory recycling targets."
+              "<b>Hotspot Selection Thresholds:</b> Formulated by Norman Myers to target highly vulnerable regions with extreme levels of localized biodiversity. A geographic zone must strictly satisfy two quantitative criteria: 1. It must contain at least **1,500 distinct species of endemic vascular plants** as native residents (>0.5% of the global total). 2. It must have lost at least **70% of its original primary, undisturbed native vegetation** due to anthropogenic pressures.",
+              "<b>India's 4 Biogeographic Hotspots:</b> India intersects four internationally recognized hotspots: *The Himalayas*, *The Western Ghats* (including Sri Lanka), *The Indo-Burma Region* (covering Northeast India excluding Assam), and *Sundaland* (incorporating the strategically vital Nicobar group of islands)."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: In-situ Conservation Mechanics & Legal Zonation",
+        "subtopics": [
+          {
+            "name": "National Parks, Sanctuaries, and Sacred Groves",
+            "bullets": [
+              "<b>In-situ Legal Architecture:</b> Focuses on protecting endangered wild species within their native habitats. Executed via the *Wildlife Protection Act, 1972* by establishing **National Parks** (highest protection; absolute exclusion of all human exploitation, private land rights, and commercial livestock grazing) and **Wildlife Sanctuaries** (lower protection; select customary rights like regulated timber gathering or livestock grazing can be authorized by the Chief Wildlife Warden).",
+              "<b>Community and Sacred Spaces:</b> Includes **Sacred Groves** (e.g., *Devrai* in Maharashtra, *Sarnas* in Jharkhand), which represent climax community forest fragments traditionally preserved by local indigenous populations through deep religious taboos, acting as highly effective in-situ repositories for rare genetic strains."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Ex-situ Genetic Engineering & Repositories",
+        "subtopics": [
+          {
+            "name": "Cryopreservation, Seed Banks, and Captive Breeding",
+            "bullets": [
+              "<b>Ex-situ Technocentric Arrays:</b> Involves moving endangered species or genetic germplasms away from their threatened natural habitats for high-security maintenance. Includes Botanical Gardens, Arboretums, and Zoological Parks for living specimens, alongside highly controlled **Seed Banks** and **Cryopreservation facilities** where genetic materials, gametes, and tissues are preserved indefinitely in liquid nitrogen at **-196°C** to prevent metabolic decay."
             ]
           }
         ]
@@ -92,17 +202,42 @@
     ]
   },
   "env_6": {
-    "title": "Climate Change - Greenhouse Effect, Global Warming & Mitigation Drivers",
+    "title": "Environmental Pollution - NAAQS, Chemical Smog, Plastic, E-Waste & 2025/2026 C&D Rules",
     "phases": [
       {
-        "phaseName": "Atmospheric Kinetics & Radiative Forcing",
+        "phaseName": "Phase 1: Ecotoxicology & Aquatic Degradation Mechanics",
         "subtopics": [
           {
-            "name": "Global Warming Potential & Ocean Acidification",
+            "name": "Cultural Eutrophication & Oxygen Dynamics",
             "bullets": [
-              "<b>Greenhouse Dynamics:</b> Shortwave solar radiation passes through the atmosphere, but longwave terrestrial infrared radiation emitted back from earth is absorbed by Greenhouse Gases (GHGs), warming the lower atmosphere.",
-              "<b>Global Warming Potential (GWP):</b> Evaluates a gas's heat-trapping capacity relative to Carbon Dioxide ($CO_2$, baseline GWP = 1). **UPSC Trap:** While $CO_2$ has the highest cumulative atmospheric abundance, gases like **Sulphur Hexafluoride ($SF_6$) and Hydrofluorocarbons (HFCs)** have GWPs thousands of times greater than $CO_2$.",
-              "<b>Ocean Acidification Chemistry:</b> As oceanic waters absorb excess atmospheric $CO_2$, it dissolves to form Carbonic Acid ($H_2CO_3$), which breaks down into bicarbonate ions ($HCO_3^-$) and free hydrogen ions ($H^+$). This lowers ocean pH and decreases the concentration of available **carbonate ions ($CO_3^{2-}$)**, making it harder for calcifying marine organisms (like corals and mollusks) to build their shells."
+              "<b>Eutrophication Kinetics:</b> Anthropogenic loading of inorganic nitrates and phosphates from agricultural runoff and domestic sewage into closed water bodies triggers **Cultural Eutrophication**. This causes an explosive **Algal Bloom** (typically cyanobacteria) that covers the surface, blocking sunlight penetration and halting the photosynthesis of submerged aquatic plants.",
+              "<b>BOD and COD Cascades:</b> As the massive algal bloom exhausts its nutrient supply and dies, populations of aerobic heterotrophic decomposers multiply rapidly. They consume the available **Dissolved Oxygen (DO)**, driving the **Biochemical Oxygen Demand (BOD)** sharply upwards. When DO falls below 4 ppm, it chokes macro-aquatic life, creating hypoxic **Dead Zones**.",
+              "<b>Bioaccumulation vs Biomagnification:</b> <i>Bioaccumulation</i> is the progressive increase in the concentration of a persistent, lipophilic, non-biodegradable toxin within the fatty tissues of a **single, specific individual organism** over its lifespan. <i>Biomagnification</i> is the progressive concentration increase of that toxin as it travels **upward across consecutive trophic levels** of a food web, reaching maximum concentrations in apex predators (e.g., Minamata disease from Mercury, eggshell thinning from DDT)."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Atmospheric Pollution & Particulate Dynamics",
+        "subtopics": [
+          {
+            "name": "Criteria Pollutants and Thermal Inversions",
+            "bullets": [
+              "<b>Photochemical Smog vs Classical Smog:</b> *Classical Smog* is a reducing mixture occurring in cool, humid winter climates, dominated by sulfur dioxide ($SO_2$) and particulate soot from coal combustion. *Photochemical Smog* is an oxidizing mixture that develops in warm, sunny, dry urban basins, driven by solar UV radiation acting on primary **Nitrogen Oxides ($NO_x$) and Volatile Organic Compounds (VOCs)** to synthesize hazardous secondary pollutants like ground-level **Ozone ($O_3$) and Peroxyacetyl Nitrate (PAN)**.",
+              "<b>National Ambient Air Quality Standards (NAAQS):</b> Managed by the CPCB under the Air Act, 1981, tracking **12 criteria pollutants**: $PM_{10}$, $PM_{2.5}$, $SO_2$, $NO_2$, $O_3$, $NH_3$, Carbon Monoxide ($CO$), Lead ($Pb$), Benzene ($C_6H_6$), Benzo(a)pyrene, Arsenic, and Nickel. **UPSC Trap:** **Carbon Dioxide ($CO_2$) is explicitly excluded** from the NAAQS tracking list."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: 2025–2026 Statutory Waste & EPR Governance Overhauls",
+        "subtopics": [
+          {
+            "name": "Construction & Demolition Waste Rules and Permitting Updates",
+            "bullets": [
+              "<b>The Extended Producer Responsibility (EPR) Mandate:</b> Embedded within India's *Plastic Waste, E-Waste, and Battery Waste Management Rules*. It places the absolute **financial, physical, and life-cycle liability** on the original manufacturers, brand owners, and importers to establish reverse-logistics channels, set up take-back systems, and meet legally binding annual recycling targets.",
+              "<b>Environment (Construction & Demolition) Waste Management Rules, 2025:</b> Fully implemented by early 2026, these rules mandate that bulk waste generators create site-specific management plans, enforce strict segregation of concrete, soil, and wood at source, and introduce compulsory dynamic recycling targets for urban local bodies.",
+              "<b>2026 Air & Water Permitting Guidelines:</b> Revamped the "Consent to Operate" (CTO) mechanism for green/white non-polluting and low-polluting industries, transitioning from a periodic, multi-year renewal cycle to a permanent, continuous single-window permit system, backed by automated remote telemetry monitoring to track compliance."
             ]
           }
         ]
@@ -110,17 +245,40 @@
     ]
   },
   "env_7": {
-    "title": "Protected Area Network - National Parks, Wildlife Sanctuaries & Biosphere Reserves",
+    "title": "Climate Change Kinetics - Planetary Boundaries, Acidification Chemistry & Arctic Melting",
     "phases": [
       {
-        "phaseName": "Legal Tenures & Spatial Zonation Layouts",
+        "phaseName": "Phase 1: Radiative Forcing & Atmospheric Kinetics",
         "subtopics": [
           {
-            "name": "National Parks vs Wildlife Sanctuaries vs MAB",
+            "name": "Greenhouse Mechanisms and Thermal Windows",
             "bullets": [
-              "<b>National Parks (Highest Legal Protection):</b> Declared under the Wildlife Protection Act, 1972. **No human activity is permitted** inside a National Park—grazing, private land tenure, and resource collection are entirely prohibited.",
-              "<b>Wildlife Sanctuaries:</b> Also declared under the WPA 1972, but feature lower legal restrictions. **Certain human activities can be permitted** by the Chief Wildlife Warden (such as regulated cattle grazing or timber collection), provided they do not harm wildlife conservation.",
-              "<b>Biosphere Reserves (UNESCO Man and Biosphere):</b> Large territorial landscapes divided into three zones: 1. <i>Core Area:</i> Legally protected undisturbed sanctuary (equivalent to a National Park). 2. <i>Buffer Zone:</i> Surrounds the core; regulated research, tourism, and environmental education are permitted. 3. <i>Transition Area:</i> Outer zone where local communities engage in sustainable farming and forestry management."
+              "<b>Radiative Forcing Dynamics:</b> Inbound shortwave solar radiation passes relatively unhindered through the atmosphere to warm the Earth's surface. The surface re-emits this energy as longwave, thermal infrared radiation ($8-14\\,\\mu\\text{m}$ thermal window). Greenhouse Gases (GHGs) intercept and absorb this outgoing infrared radiation, re-radiating a significant portion back down to the surface, driving tropospheric warming.",
+              "<b>GWP Metrics and Traps:</b> Global Warming Potential (GWP) calculates the relative heat-trapping effectiveness of a gas over a designated time horizon (typically 100 years) compared to Carbon Dioxide ($CO_2$, baseline GWP = 1). Fluorinated gases like **Sulphur Hexafluoride ($SF_6$)**, Nitrogen Trifluoride ($NF_3$), and Hydrofluorocarbons (HFCs) possess GWPs thousands of times higher than $CO_2$, remaining in the atmosphere for centuries."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Marine Carbonate Hydrochemistry",
+        "subtopics": [
+          {
+            "name": "Ocean Acidification Chemistry & Calcification Failure",
+            "bullets": [
+              "<b>Carbonate Equilibrium Cascades:</b> The world oceans absorb roughly 30% of anthropogenic atmospheric $CO_2$. The dissolved gas undergoes a multi-stage chemical equilibrium reaction: $$CO_2 + H_2O \\rightleftharpoons H_2CO_3 \\rightleftharpoons HCO_3^- + H^+$$ The production of Carbonic Acid ($H_2CO_3$) rapidly dissociates, releasing free Hydrogen ions ($H^+$), which lowers the ocean pH.",
+              "<b>The Carbonate Ion Deficit:</b> These excess free $H^+$ ions chemically bind with available, vital **Carbonate ions ($CO_3^{2-}$)** to produce Bicarbonate ($HCO_3^-$): $$H^+ + CO_3^{2-} \\rightleftharpoons HCO_3^-$$ This reaction sharply reduces the saturation state of carbonate ions, depriving marine calcifying organisms (e.g., corals, pteropods, echinoderms) of the essential building blocks required to synthesize their **Calcium Carbonate ($CaCO_3$)** shells, causing shell dissolution and structural collapse."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Planetary Boundaries & Feedback Loops",
+        "subtopics": [
+          {
+            "name": "The 9 Boundaries System & Polar Amplification",
+            "bullets": [
+              "<b>Rockström's Planetary Boundaries:</b> Defines the 9 safe operating limits for humanity (Climate Change, Ocean Acidification, Stratospheric Ozone, Freshwater Change, Land-System Change, Biosphere Integrity, Biochemical Flows, Novel Entities, Atmospheric Aerosol Loading). Under recent assessments, humanity has crossed the safe threshold in multiple categories, including biosphere integrity, land system change, and climate change.",
+              "<b>Albedo Feedback & Arctic Amplification:</b> The melting of highly reflective polar ice sheets exposes darker, absorbent open ocean waters. This lowers the region's planetary **Albedo** (solar reflectivity proxy) and drives an accelerated warming loop known as Arctic Amplification, which alters global jet stream trajectories and accelerates sea-level rise."
             ]
           }
         ]
@@ -128,17 +286,37 @@
     ]
   },
   "env_8": {
-    "title": "National Environmental Acts & Bodies (EPA 1986, WPA 1972, NGT, CPCB)",
+    "title": "Protected Area Network - WPA Legal Framework, Biosphere Zonation & OECMs",
     "phases": [
       {
-        "phaseName": "Domestic Constitutional Architecture & Legislative Statutes",
+        "phaseName": "Phase 1: Statutory Protected Area Legal Tenures",
         "subtopics": [
           {
-            "name": "WPA Schedules Overhaul & Umbrella Acts",
+            "name": "WPA 1972 Categorizations & Rights Settlement",
             "bullets": [
-              "<b>Wildlife Protection Act (WPA), 1972:</b> Establishes National Parks, Wildlife Sanctuaries, and the National Tiger Conservation Authority (NTCA). **High-Yield Amendment Update:** The historical 6 schedules have been consolidated into **4 updated schedules**: Schedule I (highest protection for endangered species), Schedule II (protected species with lower penalties), Schedule III (plants), and Schedule IV (specimens under CITES compliance). The separate category for 'Vermin' has been repealed.",
-              "<b>Environment Protection Act (EPA), 1986:</b> Enacted under **Article 253** of the Constitution in the wake of the Bhopal Gas Tragedy to implement Rio decisions. It acts as an **'Umbrella Act'**, giving the Central Government wide-ranging powers to coordinate state activities, set pollution thresholds, and declare Eco-Sensitive Zones (ESZs).",
-              "<b>National Green Tribunal (NGT) Act, 2010:</b> A specialized statutory tribunal established for speedy disposal of environmental disputes. It is **not bound by the Code of Civil Procedure, 1908**, but guided by the **principles of Natural Justice**. India is only the third country globally to set up a dedicated environmental tribunal."
+              "<b>National Parks vs Wildlife Sanctuaries Legal Regimes:</b> Both are statutory entities declared under the *Wildlife Protection Act, 1972*. **National Parks retain the highest level of legal protection**: no human modification, private land tenure, resource extraction, or commercial livestock grazing is legally permitted inside their boundaries; boundaries can only be altered via a resolution passed by the National Board for Wildlife (NBWL). In contrast, **Wildlife Sanctuaries permit limited, regulated human activities** (e.g., rotational cattle grazing, small-scale collection of Minor Forest Produce) if formally authorized by the state's Chief Wildlife Warden."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: International Spatial Zonation Frameworks",
+        "subtopics": [
+          {
+            "name": "UNESCO Man and Biosphere (MAB) Spatial Architecture",
+            "bullets": [
+              "<b>The Three-Tier Zonation Topology:</b> Biosphere Reserves are extensive landscape-scale ecosystems designed under UNESCO's Man and the Biosphere (MAB) program. They are strictly structured into three distinct zones: 1. <b>Core Area:</b> A legally protected, undisturbed sanctuary (often a National Park or strict nature reserve) dedicated entirely to biodiversity conservation, where monitoring and non-invasive research are the only permitted actions. 2. <b>Buffer Zone:</b> Encloses the core; clearly demarcated to accommodate managed research, environmental education, and low-impact eco-tourism. 3. <b>Transition Area:</b> The flexible outer boundary where local communities, administrative bodies, and scientists collaborate to manage sustainable agricultural practices, agroforestry, and residential settlements."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Alternative Conservation Designations",
+        "subtopics": [
+          {
+            "name": "Conservation Reserves, Community Reserves, and OECMs",
+            "bullets": [
+              "<b>WPA Amendments and Other Effective Area-Based Conservation Measures:</b> **Conservation Reserves** (declared by the State Government on public lands adjacent to National Parks or corridors to act as link channels) and **Community Reserves** (declared on private or community-owned lands where local individuals volunteer to conserve fauna/flora). Both allow local communities to maintain their traditional rights. **OECMs (Other Effective Area-Based Conservation Measures)** represent non-protected geographic areas achieving effective long-term in-situ biodiversity conservation outside formal government declarations (e.g., Aravalli Biodiversity Park)."
             ]
           }
         ]
@@ -146,17 +324,122 @@
     ]
   },
   "env_9": {
-    "title": "Global Conventions & Treaties (UNFCCC, Paris Agreement, CBD, Ramsar, CITES)",
+    "title": "National Environmental Legislation - EPA 1986, NGT Architecture & 2025/2026 Permitting Changes",
     "phases": [
       {
-        "phaseName": "International Environmental Governance",
+        "phaseName": "Phase 1: Wildlife Protection Statutory Overhaul",
         "subtopics": [
           {
-            "name": "The Rio Trio & Species Trade Protocols",
+            "name": "WPA Schedules Streamlining & Regulatory Entities",
             "bullets": [
-              "<b>The Rio Earth Summit (1992):</b> Generated three major international treaties known as the **Rio Sisters**: 1. <i>UNFCCC</i> (Climate Change). 2. <i>Convention on Biological Diversity (CBD)</i>. 3. <i>UNCCD</i> (Desertification).",
-              "<b>Ramsar Convention on Wetlands (1971):</b> An intergovernmental treaty for the conservation and sustainable use of wetlands. It features the **Montreux Record**, a register of wetland sites on the List of Ramsar wetlands where changes in ecological character have occurred, are occurring, or are likely to occur due to technological developments or human pollution. (India's Keoladeo National Park and Loktak Lake are currently on it).",
-              "<b>CITES & Vienna/Montreal Loops:</b> CITES legally regulates the international trade of endangered wild fauna and flora specimens. The **Vienna Convention and its Montreal Protocol** are universally ratified treaties that successfully phased out ozone-depleting substances (ODSs) like Chlorofluorocarbons (CFCs). The subsequent **Kigali Amendment** legally binds nations to phase down Hydrofluorocarbons (HFCs)—which protect the ozone layer but act as potent greenhouse gases."
+              "<b>The Modernized Schedule Architecture:</b> The *Wildlife Protection Act, 1972* was majorly amended to rationalize its enforcement and align directly with international CITES compliance. The historical 6 schedules have been streamlined into **4 consolidated schedules**: 1. <b>Schedule I: </b> Animals enjoying absolute, highest legal protection, where offenses attract maximum criminal penalties. 2. <b>Schedule II: </b> Protected animal species subject to lower penal thresholds. 3. <b>Schedule III: </b> Specifically reserved for protected plant species. 4. <b>Schedule IV: </b> Explicitly dedicated to specimens regulated under CITES compliance. **Crucial Update:** The separate *'Vermin'* schedule (Schedule V) has been completely repealed; the Central Government now declares vermin through selective, time-bound notifications.",
+              "<b>Statutory Institutions Created under WPA:</b> Establishes the **National Board for Wildlife (NBWL)** chaired by the Prime Minister, the **National Tiger Conservation Authority (NTCA)** managing Project Tiger, and the **Central Zoo Authority (CZA)**."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: The Constitutional Umbrella Framework & 2025 Audits",
+        "subtopics": [
+          {
+            "name": "Article 253, Umbrella Powers, and Environment Audit Rules 2025",
+            "bullets": [
+              "<b>EPA 1986 Umbrella Powers:</b> Enacted under the authority of **Article 253** of the Constitution (which empowers Parliament to legislate for giving effect to international treaties) following the landmark decisions of the 1972 Stockholm Conference and catalyzed domestically by the Bhopal Gas Tragedy. It serves as an **'Umbrella Act'**, bridging the gaps between pre-existing fragmented laws (Water Act, Air Act). It grants the Central Government absolute powers to bypass state jurisdictions, set nationwide industrial emission thresholds, and declare **Eco-Sensitive Zones (ESZs)** around National Parks.",
+              "<b>Environment Audit Rules, 2025:</b> Notified to enforce accountability, these rules mandate mandatory annual third-party registered ecological audits for all heavy industrial installations (Red and Orange categories), with reports directly integrated into central pollution tracking databases."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Environmental Jurisprudence & Judicial Climate Rulings",
+        "subtopics": [
+          {
+            "name": "The National Green Tribunal (NGT) and M.K. Ranjitsinh Fundamental Rights Extension",
+            "bullets": [
+              "<b>NGT Adjudication Architecture:</b> Established under the *National Green Tribunal Act, 2010* as a specialized statutory judicial tribunal for the rapid resolution of environmental disputes, enforcing a mandatory 6-month disposal deadline. **UPSC Trap:** The NGT is **not bound by the rigid procedures of the Code of Civil Procedure, 1908**, but operates under the **Principles of Natural Justice**, applying the *Sustainable Development*, *Precautionary*, and *Polluter Pays* principles.",
+              "<b>Landmark Judicial Climate Shift (M.K. Ranjitsinh Case):</b> The Supreme Court expanded the scope of **Article 21** (Right to Life and Personal Liberty) and **Article 14** (Right to Equality) to explicitly encompass the <b>'right to be free from the adverse effects of climate change'</b>. This ruling elevated climate protection from a non-justiciable directive principle (Article 48A) into an enforceable fundamental human right under Indian jurisprudence."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_10": {
+    "title": "Global Conventions & Treaties (UNFCCC, Paris Accord, CITES Appendices, Montreal/Kigali Loops)",
+    "phases": [
+      {
+        "phaseName": "Phase 1: The Rio Framework & Sister Conventions",
+        "subtopics": [
+          {
+            "name": "The 1992 Earth Summit Legacy & Binding Protocols",
+            "bullets": [
+              "<b>The Rio Trio Formations:</b> The United Nations Conference on Environment and Development (UNCED) held in Rio de Janeiro (1992) birthed three legally independent, interlinked international treaties known as the **Rio Sisters**: 1. <b>UNFCCC: </b> Dedicated to stabilizing atmospheric GHG concentrations. 2. <b>Convention on Biological Diversity (CBD): </b> Focused on genetic conservation, which later generated the *Cartagena Protocol* (Biosafety) and the *Nagoya Protocol* (Access and Benefit Sharing). 3. <b>UNCCD: </b> The sole legally binding international framework targeting land degradation and desertification."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Wetland Treaties & Spatial Tracking",
+        "subtopics": [
+          {
+            "name": "Ramsar Modalities & The Montreux Record",
+            "bullets": [
+              "<b>The Ramsar Convention Matrix (1971):</b> An intergovernmental treaty providing the framework for national action and international cooperation for the conservation and wise use of wetlands. It maintains the **Montreux Record**, a specialized statutory register of global Ramsar wetland sites where profound changes in ecological character have occurred, are currently occurring, or are highly imminent due to rapid technological advancements, industrial pollution, or human encroachment. **High-Yield India Focus:** Currently, India's **Keoladeo National Park (Rajasthan)** and **Loktak Lake (Manipur)** are listed on the Montreux Record; Chilika Lake (Odisha) was previously placed on it but successfully removed following systemic hydrological restoration."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Transboundary Trade & Ozone Governance Architecture",
+        "subtopics": [
+          {
+            "name": "CITES Appendices, Vienna/Montreal, and The Kigali Amendment",
+            "bullets": [
+              "<b>CITES Transboundary Regulation:</b> The Convention on International Trade in Endangered Species of Wild Fauna and Flora legally regulates cross-border wildlife trade across three Appendices: *Appendix I* (absolute commercial trade prohibition for species threatened with extinction), *Appendix II* (regulated trade to prevent utilization incompatible with survival), and *Appendix III* (species protected by a specific party requesting international assistance).",
+              "<b>Ozone Layer Recovery Treaties:</b> The *Vienna Convention (1985)* provided the framework for the landmark **Montreal Protocol (1987)**, a universally ratified treaty designed to eliminate the production and consumption of Ozone-Depleting Substances (ODSs) like Chlorofluorocarbons (CFCs). The subsequent **Kigali Amendment (2016)** legally expands this mandate to systematically phase down **Hydrofluorocarbons (HFCs)**. While HFCs do not deplete the stratospheric ozone layer, they act as short-lived climate pollutants with extremely high global warming potentials."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "env_11": {
+    "title": "Sustainable Economics - Carbon Credit Trading Scheme (CCTS), Net-Zero Paths & Renewable Missions",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Carbon Economics & Market Compliance",
+        "subtopics": [
+          {
+            "name": "India's Carbon Credit Trading Scheme (CCTS) Framework",
+            "bullets": [
+              "<b>The Compliance Carbon Market Rollout:</b> Fully active as of the 2025–2026 fiscal cycle under the Bureau of Energy Efficiency (BEE), the domestic **CCTS** completely replaces the old Perform, Achieve and Trade (PAT) energy efficiency mechanism. It covers roughly 490 obligated entities across key energy-intensive sectors (including aluminum, cement, pulp/paper, petroleum refining, petrochemicals, and textiles), enforcing strict baseline greenhouse gas (GHG) emission intensity targets.",
+              "<b>CCC Issuance and Trading Mechanics:</b> Operating as an intensity-based baseline-and-credit architecture, entities that reduce emissions below their sub-sector targets are issued **Carbon Credit Certificates (CCCs)**, where 1 certificate equals 1 tonne of $CO_2e$ saved. These certificates are officially bankable and tradeable on designated domestic power exchanges; entities failing to hit their targets must purchase and surrender equivalent CCCs to meet compliance.",
+              "<b>The Indian Carbon Market Portal:</b> Launched in March 2026, this digital backbone manages end-to-end processing, entity registration, and the verification workflows of accredited third-party monitoring bodies. It coordinates both the mandatory compliance stream and the voluntary offset mechanisms (e.g., agriculture, forestry) for non-obligated sectors."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Net-Zero Mitigation Vectors & International Clashes",
+        "subtopics": [
+          {
+            "name": "Article 6 Architecture and Carbon Border Adjustments",
+            "bullets": [
+              "<b>Paris Accord Article 6 Integration:</b> Connects the Indian domestic carbon registry to global international carbon markets, allowing private project developers to register and transfer cross-border mitigation outcomes under formal Article 6.2 and 6.4 provisions.",
+              "<b>CBAM Confrontation Strategy:</b> The domestic carbon pricing mechanism under the CCTS acts as a strategic trade defense against the European Union's **Carbon Border Adjustment Mechanism (CBAM)**. By putting a verified price on domestic industrial carbon emissions, it helps prevent double-taxation penalties on Indian exports entering European markets."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: India's Sovereign Green Initiatives",
+        "subtopics": [
+          {
+            "name": "Panchamrit Metrics, National Green Hydrogen Mission, and ISA",
+            "bullets": [
+              "<b>Sovereign Climate Targets:</b> Anchored on the *Panchamrit* declaration, committing India to reach **Net-Zero by 2070**, scale non-fossil fuel energy capacity to 500 GW by 2030, and reduce the carbon intensity of the economy by 45% relative to 2005 levels.",
+              "<b>The National Green Hydrogen Mission:</b> Designed to decouple heavy industries from fossil fuels, this mission targets a production capacity of at least 5 Million Metric Tonnes (MMT) per annum. It shifts chemical inputs from grey hydrogen (produced via natural gas) to green hydrogen, utilizing pure water electrolysis powered entirely by co-located renewable energy arrays.",
+              "<b>International Solar Alliance (ISA):</b> An Indian-led treaty-based international organization headquartered in Gurugram, designed to optimize solar resource infrastructure mobilization across member nations, specifically focusing on unlocking solar technology capital across tropical countries."
             ]
           }
         ]

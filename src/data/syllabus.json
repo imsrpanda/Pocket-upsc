@@ -83,21 +83,23 @@
   ]
 }
 ,
-  {
-    "id": "environment",
-    "subject": "Environment, Ecology & Climate Change",
-    "topics": [
-      { "id": "env_1", "title": "Ecology & Ecosystem Core Concepts (Food Chains, Webs, Ecological Pyramids)" },
-      { "id": "env_2", "title": "Biogeochemical Cycles & Ecosystem Functions" },
-      { "id": "env_3", "title": "Terrestrial & Aquatic Ecosystems (Wetlands, Mangroves, Coral Reefs)" },
-      { "id": "env_4", "title": "Biodiversity - Threats, Hotspots & Conservation (In-situ vs Ex-situ)" },
-      { "id": "env_5", "title": "Environmental Pollution - Air, Water, Soil, Plastic & E-Waste Rules" },
-      { "id": "env_6", "title": "Climate Change - Greenhouse Effect, Global Warming & Mitigation Drivers" },
-      { "id": "env_7", "title": "Protected Area Network - National Parks, Wildlife Sanctuaries & Biosphere Reserves" },
-      { "id": "env_8", "title": "National Environmental Acts & Bodies (EPA 1986, WPA 1972, NGT, CPCB)" },
-      { "id": "env_9", "title": "Global Conventions & Treaties (UNFCCC, Paris Agreement, CBD, Ramsar, CITES)" }
-    ]
-  },
+ {
+  "id": "environment",
+  "subject": "Environment, Ecology & Climate Change",
+  "topics": [
+    { "id": "env_1", "title": "Ecology & Ecosystem Core Concepts (Food Chains, Webs, Ecological Pyramids)" },
+    { "id": "env_2", "title": "Biogeochemical Cycles & Ecosystem Functions (Gaseous vs Sedimentary)" },
+    { "id": "env_3", "title": "Terrestrial Biomes of the World & India's 10 Biogeographic Zones" },
+    { "id": "env_4", "title": "Aquatic Ecosystems & Vulnerable Fringes (Wetlands, Mangroves, Coral Reefs)" },
+    { "id": "env_5", "title": "Biodiversity Dynamics - Threats, Myers Hotspots & Conservation (In-situ vs Ex-situ)" },
+    { "id": "env_6", "title": "Environmental Pollution - NAAQS, Chemical Smog, Plastic, E-Waste & 2025/2026 C&D Rules" },
+    { "id": "env_7", "title": "Climate Change Kinetics - Planetary Boundaries, Acidification Chemistry & Arctic Melting" },
+    { "id": "env_8", "title": "Protected Area Network - WPA Legal Framework, Biosphere Zonation & OECMs" },
+    { "id": "env_9", "title": "National Environmental Legislation - EPA 1986, NGT Architecture & 2025/2026 Permitting Changes" },
+    { "id": "env_10", "title": "Global Conventions & Treaties (UNFCCC, Paris Accord, CITES Appendices, Montreal/Kigali Loops)" },
+    { "id": "env_11", "title": "Sustainable Economics - Carbon Credit Trading Scheme (CCTS), Net-Zero Paths & Renewable Missions" }
+  ]
+},
   {
     "id": "science",
     "subject": "General Science & Technology",
