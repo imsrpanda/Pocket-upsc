@@ -237,7 +237,7 @@
             "bullets": [
               "<b>The Extended Producer Responsibility (EPR) Mandate:</b> Embedded within India's *Plastic Waste, E-Waste, and Battery Waste Management Rules*. It places the absolute **financial, physical, and life-cycle liability** on the original manufacturers, brand owners, and importers to establish reverse-logistics channels, set up take-back systems, and meet legally binding annual recycling targets.",
               "<b>Environment (Construction & Demolition) Waste Management Rules, 2025:</b> Fully implemented by early 2026, these rules mandate that bulk waste generators create site-specific management plans, enforce strict segregation of concrete, soil, and wood at source, and introduce compulsory dynamic recycling targets for urban local bodies.",
-              "<b>2026 Air & Water Permitting Guidelines:</b> Revamped the "Consent to Operate" (CTO) mechanism for green/white non-polluting and low-polluting industries, transitioning from a periodic, multi-year renewal cycle to a permanent, continuous single-window permit system, backed by automated remote telemetry monitoring to track compliance."
+              "<b>2026 Air & Water Permitting Guidelines:</b> Revamped the \"Consent to Operate\" (CTO) mechanism for green/white non-polluting and low-polluting industries, transitioning from a periodic, multi-year renewal cycle to a permanent, continuous single-window permit system, backed by automated remote telemetry monitoring to track compliance."
             ]
           }
         ]
@@ -253,7 +253,7 @@
           {
             "name": "Greenhouse Mechanisms and Thermal Windows",
             "bullets": [
-              "<b>Radiative Forcing Dynamics:</b> Inbound shortwave solar radiation passes relatively unhindered through the atmosphere to warm the Earth's surface. The surface re-emits this energy as longwave, thermal infrared radiation ($8-14\\,\\mu\\text{m}$ thermal window). Greenhouse Gases (GHGs) intercept and absorb this outgoing infrared radiation, re-radiating a significant portion back down to the surface, driving tropospheric warming.",
+              "<b>Radiative Forcing Dynamics:</b> Inbound shortwave solar radiation passes relatively unhindered through the atmosphere to warm the Earth's surface. The surface re-emits this energy as longwave, thermal infrared radiation (8-14 micrometer thermal window). Greenhouse Gases (GHGs) intercept and absorb this outgoing infrared radiation, re-radiating a significant portion back down to the surface, driving tropospheric warming.",
               "<b>GWP Metrics and Traps:</b> Global Warming Potential (GWP) calculates the relative heat-trapping effectiveness of a gas over a designated time horizon (typically 100 years) compared to Carbon Dioxide ($CO_2$, baseline GWP = 1). Fluorinated gases like **Sulphur Hexafluoride ($SF_6$)**, Nitrogen Trifluoride ($NF_3$), and Hydrofluorocarbons (HFCs) possess GWPs thousands of times higher than $CO_2$, remaining in the atmosphere for centuries."
             ]
           }
@@ -265,8 +265,8 @@
           {
             "name": "Ocean Acidification Chemistry & Calcification Failure",
             "bullets": [
-              "<b>Carbonate Equilibrium Cascades:</b> The world oceans absorb roughly 30% of anthropogenic atmospheric $CO_2$. The dissolved gas undergoes a multi-stage chemical equilibrium reaction: $$CO_2 + H_2O \\rightleftharpoons H_2CO_3 \\rightleftharpoons HCO_3^- + H^+$$ The production of Carbonic Acid ($H_2CO_3$) rapidly dissociates, releasing free Hydrogen ions ($H^+$), which lowers the ocean pH.",
-              "<b>The Carbonate Ion Deficit:</b> These excess free $H^+$ ions chemically bind with available, vital **Carbonate ions ($CO_3^{2-}$)** to produce Bicarbonate ($HCO_3^-$): $$H^+ + CO_3^{2-} \\rightleftharpoons HCO_3^-$$ This reaction sharply reduces the saturation state of carbonate ions, depriving marine calcifying organisms (e.g., corals, pteropods, echinoderms) of the essential building blocks required to synthesize their **Calcium Carbonate ($CaCO_3$)** shells, causing shell dissolution and structural collapse."
+              "<b>Carbonate Equilibrium Cascades:</b> The world oceans absorb roughly 30% of anthropogenic atmospheric $CO_2$. The dissolved gas undergoes a multi-stage chemical equilibrium reaction where CO2 plus H2O yields H2CO3, which dissociates into HCO3- and H+ ions. The production of Carbonic Acid ($H_2CO_3$) rapidly dissociates, releasing free Hydrogen ions ($H^+$), which lowers the ocean pH.",
+              "<b>The Carbonate Ion Deficit:</b> These excess free $H^+$ ions chemically bind with available, vital **Carbonate ions ($CO_3^{2-}$)** to produce Bicarbonate ($HCO_3^-$) in a binding process that leaves a severe ion deficit. This reaction sharply reduces the saturation state of carbonate ions, depriving marine calcifying organisms (e.g., corals, pteropods, echinoderms) of the essential building blocks required to synthesize their **Calcium Carbonate ($CaCO_3$)** shells, causing shell dissolution and structural collapse."
             ]
           }
         ]
@@ -357,7 +357,7 @@
             "name": "The National Green Tribunal (NGT) and M.K. Ranjitsinh Fundamental Rights Extension",
             "bullets": [
               "<b>NGT Adjudication Architecture:</b> Established under the *National Green Tribunal Act, 2010* as a specialized statutory judicial tribunal for the rapid resolution of environmental disputes, enforcing a mandatory 6-month disposal deadline. **UPSC Trap:** The NGT is **not bound by the rigid procedures of the Code of Civil Procedure, 1908**, but operates under the **Principles of Natural Justice**, applying the *Sustainable Development*, *Precautionary*, and *Polluter Pays* principles.",
-              "<b>Landmark Judicial Climate Shift (M.K. Ranjitsinh Case):</b> The Supreme Court expanded the scope of **Article 21** (Right to Life and Personal Liberty) and **Article 14** (Right to Equality) to explicitly encompass the <b>'right to be free from the adverse effects of climate change'</b>. This ruling elevated climate protection from a non-justiciable directive principle (Article 48A) into an enforceable fundamental human right under Indian jurisprudence."
+              "<b>Landmark Judicial Climate Shift (M.K. Ranjitsinh Case):</b> The Supreme Court expanded the scope of **Article 21** (Right to Life and Personal Liberty) and **Article 14** (Right to Equality) to explicitly encompass the <b>\"right to be free from the adverse effects of climate change\"</b>. This ruling elevated climate protection from a non-justiciable directive principle (Article 48A) into an enforceable fundamental human right under Indian jurisprudence."
             ]
           }
         ]
@@ -373,7 +373,7 @@
           {
             "name": "The 1992 Earth Summit Legacy & Binding Protocols",
             "bullets": [
-              "<b>The Rio Trio Formations:</b> The United Nations Conference on Environment and Development (UNCED) held in Rio de Janeiro (1992) birthed three legally independent, interlinked international treaties known as the **Rio Sisters**: 1. <b>UNFCCC: </b> Dedicated to stabilizing atmospheric GHG concentrations. 2. <b>Convention on Biological Diversity (CBD): </b> Focused on genetic conservation, which later generated the *Cartagena Protocol* (Biosafety) and the *Nagoya Protocol* (Access and Benefit Sharing). 3. <b>UNCCD: </b> The sole legally binding international framework targeting land degradation and desertification."
+              "<b>The Rio Trio Formations:</b> The United Nations Conference on Environment and Development (UNCED) held in Rio de Janeiro (1992) birthed three legally independent, interlinked international treaties known as the **Rio Sisters**: 1. <b>UNFCCC: </b> Dedicated to stabilizing atmospheric GHG concentrations. 2. <b>Convention on Biological Diversity (CBD): </b> Focused on genetic conservation, which later generated the *Cartagena Protocol* (Biosafety) and the *Nagoya Protocol* (Access and Benefit Sharing). 3. <b>UNCCD: </b> the sole legally binding international framework targeting land degradation and desertification."
             ]
           }
         ]
