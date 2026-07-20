@@ -8090,7 +8090,2006 @@
     ],
     "correct": 1,
     "ex": "The UPSC Revision note locks down the macro concept: the trajectory tracks a clear transition from plain, symbol-focused early Hinayana monastic cells to the highly complex, decorated, and icon-heavy mandapas of the Mahayana and Brahmanical classical revivals."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What specific architectural element defines the square railed balcony positioned at the absolute crown of a classical Buddhist Stupa's hemispherical dome?",
+    "options": [
+      "The Anda",
+      "The Harmika",
+      "The Chhatra",
+      "The Vedika"
+    ],
+    "correct": 1,
+    "ex": "The text states that directly atop the Anda dome sits the Harmika, which is defined as a square railed balcony structure designed to hold sacred relics."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What symbolic meaning is represented by the central triple-tiered umbrella structure known as the Chhatra rising from the stupa's apex?",
+    "options": [
+      "The dome of the cosmos",
+      "Spiritual sovereignty over the universe",
+      "The cyclical rotation of the narrative Jataka loops",
+      "The circular circumambulation of the physical path"
+    ],
+    "correct": 1,
+    "ex": "According to the text, rising from the Harmika along a central axis is the Chhatra, a triple-tiered umbrella structure that indicates spiritual sovereignty over the universe."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Where are heavily sculpted free-standing entry gateways providing access to the circumambulation paths cardinally aligned on a classical stupa layout?",
+    "options": [
+      "Directly beneath the central railed base platform",
+      "At the four cardinal directions as Torana gateways",
+      "Inside the hidden inner core chambers of the solid stone brick masonry",
+      "Suspended immediately above the triple-tiered umbrella tier"
+    ],
+    "correct": 1,
+    "ex": "The text specifies that access is provided through four cardinally aligned, heavily sculpted Torana gateways that enclose the circumambulation path."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which text narrative reliefs are prominently detailed across the sculptured panels of the classical Stupa's Torana gateways?",
+    "options": [
+      "The Puranic Vedic rituals",
+      "The Jataka tales",
+      "The Sangam literature anthologies",
+      "The post-independence craton descriptions"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the heavily sculpted Torana gateways display detailed narrative reliefs of the Jataka tales."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the architectural 'Exam Trap', where are sacred relics positioned within a classical stupa structure?",
+    "options": [
+      "Inside hidden hollow chambers within the core center of the solid brick Anda dome",
+      "Exclusively at the apex within the railed Harmika balustrade",
+      "Directly beneath the stone columns supporting the Vedika railing",
+      "Inscribed along the flat entry thresholds of the western Torana pass"
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap highlights that while the Anda dome is the largest physical component, it is completely solid brick and stone. Relics are never placed inside the core of the dome; they are positioned exclusively at the apex within the Harmika balustrade."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What is the structural term for the high, substantial stone foundation platform that elevates a classic Nagara temple complex above ground level?",
+    "options": [
+      "The Jagati",
+      "The Garbhagriha",
+      "The Shikhara",
+      "The Amalaka"
+    ],
+    "correct": 0,
+    "ex": "The text states that the structural layout of a Nagara temple is built on a high, substantial stone foundation platform termed the Jagati, which elevates the entire complex above ground level."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Where is the tall, curved curvilinear spire known as the Shikhara physically positioned within a Nagara architectural layout?",
+    "options": [
+      "Built at the entrance as a monumental gateway block",
+      "Built directly over the inner Garbhagriha sanctum room",
+      "Resting flat on the ground alongside the substantial stone base",
+      "Enclosing the outer perimeter as a fortified boundary structure"
+    ],
+    "correct": 1,
+    "ex": "According to the text and accompanying table, the Shikhara is a curved, curvilinear stone spire bending inward near the top that is built directly over the inner Garbhagriha sanctum room."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What architectural element describes the large, circular ribbed stone disc with fluted edges that rests flat atop the crown of the main Shikhara spire?",
+    "options": [
+      "The Jagati",
+      "The Kalasha",
+      "The Amalaka",
+      "The Garbhagriha"
+    ],
+    "correct": 2,
+    "ex": "The text and structural table specify that the top of the Shikhara is crowned by a large, ribbed fluted stone disc called an Amalaka."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which component serves as the vase-like finial positioned at the absolute highest point of the Nagara temple spire crown?",
+    "options": [
+      "The Torana",
+      "The Jagati",
+      "The Kalasha",
+      "The Harmika"
+    ],
+    "correct": 2,
+    "ex": "The text states that the large, ribbed fluted stone disc (Amalaka) is topped by a vase-like finial known as a Kalasha."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the 'Exam Trap' section, what feature is conspicuously absent from a classic northern Nagara style temple complex?",
+    "options": [
+      "A high foundation platform base or a central inner deity sanctum",
+      "Large fortified compound walls or monumental entry gateways",
+      "Curved curvilinear spires or inward bending stone towers",
+      "Fluted circular disc stones and vase-like final crowns"
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap section explicitly points out that unlike southern Dravidian styles, a classic northern Nagara temple does not feature large fortified compound walls or monumental entry gateways; the complex stands open."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which architectural feature describes the clustered, miniature spires that rise sequentially toward the main spire apex in the Khajuraho School of Nagara architecture?",
+    "options": [
+      "Deula",
+      "Urushringas",
+      "Jagamohana",
+      "Surya Kund"
+    ],
+    "correct": 1,
+    "ex": "The text states that the roof silhouette of the Khajuraho School introduces an array of clustered, miniature spires called Urushringas that rise sequentially toward the main Shikhara apex."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "In the Odisha School of architecture, what are the respective terms for the main vertical tower over the sanctum and its horizontally connected assembly hall?",
+    "options": [
+      "Urushringa and Surya Kund",
+      "Deula and Jagamohana",
+      "Jagati and Garbhagriha",
+      "Vimana and Gopuram"
+    ],
+    "correct": 1,
+    "ex": "According to the text, in the Odisha School, the main tower over the sanctum is termed a Deula, and it is connected horizontally to a separate assembly hall called a Jagamohana."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which sub-regional Nagara framework is celebrated for its highly geometric stepped temple water tanks (Surya Kund) and a complete absence of carvings on external walls?",
+    "options": [
+      "Khajuraho School",
+      "Odisha School",
+      "Solanki School",
+      "Chola School"
+    ],
+    "correct": 2,
+    "ex": "The text specifies that the Solanki School (Gujarat) exhibits a complete absence of carvings on the external walls and is celebrated for its extensive, highly geometric stepped temple water tanks designated as a Surya Kund."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What structural contrast is highlighted in the sub-regional 'Exam Trap' between the walls of the Odisha School and the Khajuraho School?",
+    "options": [
+      "The Odisha school leaves its external walls bare, whereas the Khajuraho school carves only its roof lines.",
+      "The Odisha school features highly detailed external walls but leaves its interior sanctum walls completely bare and plain, whereas the Khajuraho school densely sculpts both surfaces.",
+      "The Odisha school leaves both internal and external surfaces completely plain, whereas the Khajuraho school carves only inner chambers.",
+      "There is no wall contrast; both utilize plain, un-sculpted stone step basins to support miniature standalone shrines."
+    ],
+    "correct": 1,
+    "ex": "The sub-regional Nagara Exam Trap states: 'While the Odisha school features highly detailed external walls, its interior sanctum walls are left completely bare and plain, standing in absolute contrast to the Khajuraho school where both the internal and external surfaces are heavily sculpted.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which temple serves as the primary site representation for the Solanki Idiom according to the provided sub-regional data table?",
+    "options": [
+      "Kandariya Mahadeva Temple",
+      "Sun Temple at Konark",
+      "Modhera Sun Temple",
+      "Lingaraja at名 Bhubaneswar"
+    ],
+    "correct": 2,
+    "ex": "The sub-regional Nagara summary table explicitly pairs the Solanki Idiom with its primary site representation: the Modhera Sun Temple."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Under Chola patronage, what architectural name is given to the massive, highly decorative pyramidal gateway towers built into the fortified compound wall lines?",
+    "options": [
+      "Vimana",
+      "Gopuram",
+      "Shikhara",
+      "Deula"
+    ],
+    "correct": 1,
+    "ex": "The text notes that in the Dravida Style, the primary entrance through the perimeter is marked by a massive, highly decorative pyramidal gateway tower known as a Gopuram."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "How is the vertical profile shape of the Chola Dravida central tower (Vimana) engineered over the Garbhagriha sanctum room?",
+    "options": [
+      "As a curved, curvilinear stone spire bending gently inward near the apex",
+      "As a multi-story, stepped pyramid that rises vertically straight upward",
+      "As a solid horizontal assembly hall lacking any vertical multi-tiered alignment",
+      "As a low-altitude geometric step basin holding standalone shrines"
+    ],
+    "correct": 1,
+    "ex": "The text states that the central tower constructed over the Garbhagriha sanctum is called a Vimana, and unlike curved northern spires, it is engineered as a multi-story, stepped pyramid that rises vertically straight upward."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What specific stone capstone crowns the apex of the stepped pyramidal Vimana in classic southern Dravida architecture?",
+    "options": [
+      "A triple-tiered metal Chhatra umbrella",
+      "A square railed balcony Harmika structure",
+      "A single, solid monolithic octagonal dome-shaped stone block called a Shikhara",
+      "A clustered array of miniature spires called Urushringas"
+    ],
+    "correct": 2,
+    "ex": "According to the text, the apex of the stepped pyramid is crowned by a single, solid monolithic octagonal dome-shaped stone block called a Shikhara, serving as a signature capstone."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What semantic point of confusion is clarified in the Chola typology 'Exam Trap' concerning the word 'Shikhara' in northern versus southern architecture?",
+    "options": [
+      "In the north, Shikhara refers to the entry gateway tower, whereas in the south it describes the assembly hall.",
+      "In northern Nagara architecture, Shikhara refers to the entire towering spire over the sanctum, whereas in southern Dravida, that main tower is the Vimana, and Shikhara is reserved exclusively for the single monolithic stone cap resting at the very top.",
+      "In the north, Shikhara refers to plain external walls, while in the south it means a geometric water basin.",
+      "There is no semantic difference; the term denotes completely solid brick earthen mounds across both paradigms."
+    ],
+    "correct": 1,
+    "ex": "The Chola typology Exam Trap explains: 'In northern Nagara architecture, the word *Shikhara* refers to the entire towering spire over the sanctum. In southern Dravida architecture, that main tower is the *Vimana*, while the word *Shikhara* is reserved exclusively for the single monolithic stone cap resting at the very top.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the Dravida layout element table, what physical profile shape defines the Chola Vimana?",
+    "options": [
+      "Massive, heavily sculpted entry gateway tower built into wall lines",
+      "Multi-story, stepped tiered pyramid rising vertically",
+      "Large, circular ribbed stone disc with fluted edges",
+      "Square platform located at the absolute crown of a solid dome"
+    ],
+    "correct": 1,
+    "ex": "The Dravida layout element table explicitly defines the physical profile shape of the Vimana as a 'Multi-story, stepped tiered pyramid rising vertically'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What is the primary architectural term for the extensive pillared assembly halls used for public gatherings and rituals in a Dravida layout?",
+    "options": [
+      "Gopurams",
+      "Mandapas",
+      "Vimanas",
+      "Urushringas"
+    ],
+    "correct": 1,
+    "ex": "The text states that key structural components include the extensive pillared assembly halls, designated as Mandapas, which serve as spaces for public gatherings, rituals, and corporate guild interfaces."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What terms designate the dedicated ceremonial step water basins integrated directly inside the fortified walls of southern layouts?",
+    "options": [
+      "Deula or Jagamohana",
+      "Kalyani or Pushkarani",
+      "Surya Kund or Urushringa",
+      "Jagati or Vedika"
+    ],
+    "correct": 1,
+    "ex": "According to the text, directly integrated inside the fortified walls are dedicated ceremonial water tanks, known as a Kalyani or Pushkarani, which supply water for ritual purifications."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What structural function is served by the large open courtyard that encloses the central shrine in an imperial Dravidian complex layout?",
+    "options": [
+      "It acts as a solid brick foundation to elevate the entire complex above ground level.",
+      "It allows layout expansions and maintains a clear distance between public meeting halls and the ultimate inner sanctum.",
+      "It provides specialized space for high-relief carvings detailing Jataka stories.",
+      "It functions to completely eliminate the need for multi-story stepped pyramidal towers."
+    ],
+    "correct": 1,
+    "ex": "The text notes that the entire internal layout revolves around a large open courtyard enclosing the central shrine, 'allowing layout expansions and maintaining a clear distance between public meeting halls and the ultimate inner sanctum'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What mandatory structural identifier separates southern Dravidian layouts from northern temples within the asset 'Exam Trap' section?",
+    "options": [
+      "The inclusion of tall curved curvilinear towers rising over the outer gate lines",
+      "Dedicated water tanks integrated directly *inside* the sacred courtyard walls",
+      "Densely blanketing both inner and outer walls in narrative reliefs of Jataka tales",
+      "The complete omission of pillared assembly spaces or open community zones"
+    ],
+    "correct": 1,
+    "ex": "The asset Exam Trap emphasizes: 'While northern temples occasionally feature water reservoirs nearby, dedicated water tanks integrated directly *inside* the sacred courtyard walls are a mandatory structural identifier for southern Dravidian layouts.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "According to the Dravidian internal asset summary table, what is the primary functional or ritual purpose of the Kalyani / Pushkarani basins?",
+    "options": [
+      "Public assemblies, religious discourses, and civic ceremonies",
+      "Water storage for temple rituals and sensory purifications",
+      "To serve as a sacred container holding core structural relics",
+      "To house the primary deity inside the inner sanctum sanctorum"
+    ],
+    "correct": 1,
+    "ex": "The internal asset summary table explicitly states that the primary functional or ritual purpose of the Kalyani / Pushkarani is: 'Water storage for temple rituals and sensory purifications'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which structural combination of architectural paradigms defines the hybrid nature of the Deccan Vesara Style?",
+    "options": [
+      "Blending ancient Buddhist stupa railings with fortified Chola compound wall blocks",
+      "Blending northern Nagara floor plans with southern Dravida vertical profiles",
+      "Merging Solanki geometric water basins with Khajuraho multi-layered roof lines",
+      "Combining subsea base isolation engineering padding with soft chloritic schist mediums"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Vesara style functions as a structural hybrid, blending northern Nagara floor plans (circular, star-shaped, or square) with southern Dravida stepped tiered Vimana layouts across Deccan sites."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Across which group of historical Deccan architectural laboratories can the development of the hybrid Vesara Style be systematically traced?",
+    "options": [
+      "Khajuraho, Modhera, and Konark hubs",
+      "Badami, Aihole, and Pattadakal",
+      "Belur, Halebidu, and Tanjore complexes",
+      "Calicut, Cochin, and the old forts of Goa"
+    ],
+    "correct": 1,
+    "ex": "The text notes that this hybrid development can be traced across historical architectural laboratories at Badami, Aihole, and Pattadakal."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What component borrowed from the southern Dravida parent school shapes the vertical profile rising over a Vesara temple's main sanctum?",
+    "options": [
+      "A curved curvilinear Shikhara spire tower",
+      "A multi-story, stepped tiered pyramid tower",
+      "A broad 30-km wide low-altitude tectonic valley break",
+      "A single monolithic octagonal dome capstone exclusively"
+    ],
+    "correct": 1,
+    "ex": "According to the parent school summary table, the Vesara style borrows the 'Multi-story, stepped tiered pyramid tower' from the Southern Dravida school to shape the vertical spire profile rising over the main sanctum."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What specific warning is highlighted in the hybrid architecture 'Exam Trap' section regarding the elements of the Vesara style?",
+    "options": [
+      "It introduces completely unique, standalone structural elements found nowhere else in the subcontinent.",
+      "Vesara is an eclectic blending system; it does not introduce unique, standalone structural elements found nowhere else, and its mix varies from site to site.",
+      "It mandates that every single temple layout must remain perfectly square to hold core structural relics.",
+      "The style completely bans any circumambulation paths or internal column grids."
+    ],
+    "correct": 1,
+    "ex": "The hybrid architecture Exam Trap states: 'Vesara is an eclectic blending system; it does not introduce unique, standalone structural elements found nowhere else. The mix of northern plans and southern towers varies from site to site across the Deccan frontier.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What structural element is dictated by the northern Nagara parent school influence inside a Vesara layout?",
+    "options": [
+      "The massive highly decorative entry Gopuram gateways",
+      "Circular, star-shaped, or square ground floor plans",
+      "Dedicated ceremonial step water basins integrated directly inside walls",
+      "Fortified compound walls designed to survive active tectonic tremors"
+    ],
+    "correct": 1,
+    "ex": "The text notes that Vesara temples adopt the circular, star-shaped, or square floor plan characteristics of northern Nagara design, which determines circumambulation paths and internal column grids."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which primary material medium was adopted by Hoysala architects to enable carvers to execute exceptionally deep, intricate carvings?",
+    "options": [
+      "Hard upstream weathered sandstones",
+      "Soft, fine-grained Soapstone (Chloritic Schist)",
+      "Unconsolidated stone brick masonry blocks",
+      "Monolithic octagonal dark roof slabs"
+    ],
+    "correct": 1,
+    "ex": "The text states that Hoysala architects modified traditional methods by switching their primary material from hard sandstones to soft, fine-grained Soapstone (Chloritic Schist), allowing carvers to execute exceptionally deep, intricate carvings."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What specific ground floor plan shape was utilized in the structural layout of a Hoysala temple to maximize the surface area for bands of friezes?",
+    "options": [
+      "A perfectly plain linear rectangular strip",
+      "A complex star-shaped (Stellated) plan featuring multiple projecting corners",
+      "A continuous circular loop mimicking an inverted marine pyramid base",
+      "An open cross-jurisdictional municipal grid layout"
+    ],
+    "correct": 1,
+    "ex": "The text states that the structural layout of a Hoysala temple is built on a complex star-shaped (Stellated) ground plan raised on a wide platform, which creates multiple projecting angles along the exterior walls to maximize surface area."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Under the explicit patronage of the Hoysala dynasty, which sites flourished as the primary centers for this jewel-like architectural expression?",
+    "options": [
+      "Badami, Aihole, and Pattadakal core laboratories",
+      "Belur and Halebidu",
+      "Surat, Masulipatnam, and Pondicherry nodes",
+      "Srinagar, Leh, and the western Tawang sectors"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Hoysala Idiom flourished under the explicit patronage of the Hoysala dynasty in places like Belur and Halebidu."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the Hoysala 'Exam Trap' section, what geometric layout form is maintained by the inner Garbhagriha sanctum room?",
+    "options": [
+      "It mirrors the complex stellated star-shaped angles of the outer wall line.",
+      "It retains a standard, functional square floor plan to hold the main deity securely.",
+      "It collapses into an amorphous circular path lacking any functional alignment.",
+      "It uses a multi-story tiered triangular structure to resist shear failure."
+    ],
+    "correct": 1,
+    "ex": "The Hoysala Exam Trap notes: 'While the star-shaped ground plan makes the exterior walls of Hoysala temples appear highly complex and uneven, the interior Garbhagriha sanctum retains a standard, functional square floor plan to hold the main deity securely.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_7",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What primary structural outcome is achieved by utilizing the star-shaped ground plan in Hoysala architecture according to the summary table?",
+    "options": [
+      "It anchors loose topsoil and redirects surface water run-off channels.",
+      "It creates a dynamic exterior surface that catches light and shadows along sculpture bands.",
+      "It completely seals the inner chambers from public civic assemblies.",
+      "It eliminates the need for raising the temple complex on a wide platform platform base."
+    ],
+    "correct": 1,
+    "ex": "The Hoysala layout element table specifies that the primary structural outcome of the Stellated Plan is that it 'creates a dynamic exterior surface that catches light and shadows along sculpture bands'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What is the correct chronological sequence governing the arrival and expansion of competing European mercantile powers along the subcontinental coastlines?",
+    "options": [
+      "English &rarr; French &rarr; Dutch &rarr; Portuguese &rarr; Danes",
+      "Portuguese &rarr; Dutch &rarr; English &rarr; Danes &rarr; French",
+      "French &rarr; English &rarr; Danes &rarr; Dutch &rarr; Portuguese",
+      "Dutch &rarr; Portuguese &rarr; Danes &rarr; French &rarr; English"
+    ],
+    "correct": 1,
+    "ex": "The text details that the entry of these trade empires followed a precise chronological order: Portuguese (1498), Dutch (1602), English (1600/1608), Danes (1616), and French (1664)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which mercantile power arrived first in 1498 under Vasco da Gama, establishing initial factory hubs at Calicut and Cochin?",
+    "options": [
+      "The Dutch VOC line",
+      "The Portuguese Line",
+      "The English Corporate system",
+      "The French Compagnie des Indes"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Portuguese arrived first in 1498 under Vasco da Gama, establishing strategic initial footholds at Calicut, Cochin, and later Goa."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which primary factory warehouses were established by the English East India Company to anchor its corporate mercantile footprint?",
+    "options": [
+      "Masulipatnam and Pulicat deltaic centers",
+      "Surat, Madras, and the fortification at Calcutta",
+      "Tranquebar and Serampore modest outposts",
+      "Badami, Aihole, and Pattadakal core networks"
+    ],
+    "correct": 1,
+    "ex": "According to the arrival sequence summary table, the English Corporate entity operated from primary factory warehouses established at Surat, Madras, and the fortification at Calcutta."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What crucial temporal distinction is highlighted in the arrival timeline 'Exam Trap' section regarding the physical land presence of the English company?",
+    "options": [
+      "The English company built their fortified capital at Calcutta a century before the Portuguese arrived.",
+      "While the English company received its royal charter in 1600, their physical presence on land began only in 1608 with William Hawkins' embassy, meaning the Portuguese held an absolute maritime monopoly for over a century.",
+      "The French corporate line completely destroyed all English nodes at Surat in 1600.",
+      "The Mughal court granted an absolute trade passport to William Hawkins in 1498."
+    ],
+    "correct": 1,
+    "ex": "The arrival sequence Exam Trap notes: 'While the English company received its royal charter in 1600, their physical presence on land began only in 1608 with William Hawkins' embassy to Jahangir's court, meaning the Portuguese held an absolute, uncontested maritime monopoly for over a century.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which mercantile group entered the competitive landscape last in 1664, establishing its primary administrative hub at Pondicherry?",
+    "options": [
+      "The Dutch VOC line",
+      "The Danish Line",
+      "The French Corporate line",
+      "The Portuguese Line"
+    ],
+    "correct": 2,
+    "ex": "The text states that the French entered the competitive landscape last in 1664 via the Compagnie des Indes Orientales, establishing core bases at Surat and Pondicherry."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What was the operational nature of the highly coercive Cartaz system pioneered by the Portuguese state to dominate Indian Ocean trade routes?",
+    "options": [
+      "A land tenure system based on distributing soft soapstone metrics to local kingdoms",
+      "A mandatory maritime license or commercial passport that forced merchant ships to pay customs duties at Portuguese ports",
+      "A voluntary non-binding global treaty alignment mechanism managed under the Montreux Convention",
+      "An advanced technological warning radar network tracking cross-border maritime piracy"
+    ],
+    "correct": 1,
+    "ex": "The text defines the Cartaz system as an aggressive naval strategy that functioned as a mandatory maritime license or commercial passport issued by Portuguese authorities, forcing merchant ships to pay heavy customs duties."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What direct penalty was executed by the Portuguese navy against any oceanic merchant traffic caught navigating without a Cartaz permit?",
+    "options": [
+      "The vessel was forced into a five-year statutory incubation review process.",
+      "The vessel was immediately boarded, its goods plundered, and its crew executed.",
+      "The firm had to establish an Extended Producer Responsibility take-back buy-back network.",
+      "The crew members were moved permanently into Schedule I protection categories."
+    ],
+    "correct": 1,
+    "ex": "According to the text, any vessel caught navigating without a Cartaz was immediately boarded, its goods plundered, and its crew executed by the Portuguese navy."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which group of Portuguese-controlled bases served as the primary customs extraction docks where licensed ships were forced to pay duties?",
+    "options": [
+      "Calicut, Cochin, and the old forts of Serampore",
+      "Goa, Malacca, or Ormuz",
+      "Surat, Madras, and the fortification at Calcutta",
+      "Pondicherry, Chandernagore, and Tranquebar"
+    ],
+    "correct": 1,
+    "ex": "The text specifies that licensed ships were forced to dock at Portuguese-controlled ports like Goa, Malacca, or Ormuz to pay heavy customs duties on their cargo."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the naval control 'Exam Trap', how far did the enforcement strength of the Portuguese Cartaz system extend over land-based empires?",
+    "options": [
+      "It completely exempted all royal or state-sponsored vessels from purchasing trade permits.",
+      "Even the powerful Mughal Emperors had to secure Cartaz passes from the Portuguese authorities at Goa for their state-sponsored pilgrim ships sailing to Mecca.",
+      "Mughal pilgrim ships were allowed to sink all Portuguese naval vessels navigating near the Red Sea.",
+      "The system applied strictly to European private joint-stock corporations, completely bypassing indigenous dhows."
+    ],
+    "correct": 1,
+    "ex": "The naval control Exam Trap highlights: 'The Cartaz system did not exempt royal or state vessels. Even the powerful Mughal Emperors had to secure Cartaz passes from the Portuguese authorities at Goa for their state-sponsored pilgrim ships sailing to Mecca...'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What direct strategic outcome did the Cartaz permit execution have on global ocean traffic according to the summary control table?",
+    "options": [
+      "It allowed merchant traffic to completely bypass western maritime checkpoints like Gibraltar.",
+      "It forced all oceanic merchant traffic to reroute through Portuguese trade ports.",
+      "It uncoupled the maritime shipping lanes from the regional land bridge corridors.",
+      "It increased the total cargo capacity of local Arab dhows by internalizing end-of-life recycling costs."
+    ],
+    "correct": 1,
+    "ex": "The Cartaz system summary table details that the direct strategic outcome on trade was that it: 'Forced all oceanic merchant traffic to reroute through Portuguese trade ports'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "The conflict for mercantile dominance in south India between the English and French East India Companies developed into which series of campaigns?",
+    "options": [
+      "The Anglo-Hoysala wars",
+      "The Carnatic Wars",
+      "The Battle of Wandiwash siege lines",
+      "The West Asian Levant operations"
+    ],
+    "correct": 1,
+    "ex": "The text states that the conflict for mercantile dominance in the south developed into a direct military confrontation between the English and French East India Companies, resulting in the three Carnatic Wars."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which broader European geopolitical rivalries served as the direct catalysts for the Carnatic War campaigns fought on Indian soil?",
+    "options": [
+      "The Carboniferous-Permian fault rifting lines",
+      "The War of the Austrian Succession and the Seven Years' War",
+      "The global Mineral Security Partnership and trade corridor alignments",
+      "The Third UN World Conference mandates tracking the Hyogo accord"
+    ],
+    "correct": 1,
+    "ex": "The text and conflict table establish that these campaigns were not isolated events; they functioned as direct extensions of European geopolitical rivalries, tracking the War of the Austrian Succession and the Seven Years' War."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which innovative diplomatic strategy was pioneered by French Governor-General Dupleix to expand European political leverage?",
+    "options": [
+      "Enforcing strict building regulations and seismic base-isolation padding across local villages",
+      "Intervening directly in the internal succession disputes of local kingdoms, backing rival claimants to thrones",
+      "Compiling detailed People's Biodiversity Registers at grassroots Gram Panchayat nodes",
+      "Declaring the powerful land-based Mughal Emperors as temporary vermin categories"
+    ],
+    "correct": 1,
+    "ex": "The text notes that Governor-General Dupleix began intervening directly in the internal succession disputes of local kingdoms, backing rival claimants to the thrones of Hyderabad and Arcot to secure subsidies and territorial concessions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "In exchange for backing rival claimants to the thrones of Hyderabad and Arcot, what concessions did Dupleix successfully secure?",
+    "options": [
+      "Mandatory minimum prison terms and heavy financial fines over local corporate developers",
+      "Substantial financial subsidies, valuable commercial privileges, and extensive territorial concessions",
+      "A single monolithic octagonal dome-shaped stone capstone resting over the entire Deccan plateau",
+      "Absolute control over the sub-Himalayan Shivalik Terai drainage channel networks"
+    ],
+    "correct": 1,
+    "ex": "According to the text, in exchange for French military support, Dupleix secured substantial financial subsidies, valuable commercial privileges, and extensive territorial concessions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the conflict 'Exam Trap', what structural corporate vulnerability constrained the French Company compared to the English East India Company?",
+    "options": [
+      "The French company was a cash-rich private joint-stock corporation, while the English depended on soft soapstone mining.",
+      "The French entity was a state-controlled department heavily reliant on government funds, leaving it vulnerable to political shifts in Paris, whereas the English was an autonomous, private joint-stock corporation.",
+      "The French company lacked any access to maritime shipping lanes or cross-country pipelines.",
+      "The French corporate line was barred from establishing factory warehouses at Surat or Pondicherry."
+    ],
+    "correct": 1,
+    "ex": "The conflict Exam Trap notes: 'The French entity was a state-controlled department heavily reliant on government funds, leaving it vulnerable to political shifts in Paris. In contrast, the English Company was an autonomous, cash-rich private joint-stock corporation that could sustain extended military expenditures.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "During the Third Carnatic War, which decisive 1760 confrontation permanently shattered French military power and political influence in India?",
+    "options": [
+      "The Battle of Badami",
+      "The Battle of Wandiwash",
+      "The Daudhan dam reservoir siege",
+      "The Kerch Strait maritime blockage"
+    ],
+    "correct": 1,
+    "ex": "The text states that the decisive turning point in the Anglo-French duel occurred during the Third Carnatic War, culminating in the historic Battle of Wandiwash (1760)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which commanding generals led the respective British and French military forces at the historic Battle of Wandiwash?",
+    "options": [
+      "Sir William Hawkins (British) vs Dupleix (French)",
+      "General Sir Eyre Coote (British) vs Count de Lally (French)",
+      "Sir Sir Eyre Coote (British) vs Vasco da Gama (French)",
+      "General Sir John John (British) vs Sir Eyre Eyre (French)"
+    ],
+    "correct": 1,
+    "ex": "According to the text and decisive battle summary table, British forces were commanded by General Sir Eyre Coote, decisively defeating the French army led by Count de Lally."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Following the peace settlements after the Battle of Wandiwash, to which isolated, unfortified commercial enclaves was the French presence permanently reduced?",
+    "options": [
+      "Calicut, Cochin, and the sovereign base at Goa",
+      "Pondicherry and Chandernagore",
+      "Surat, Madras, and the fortification at Calcutta",
+      "Tranquebar, Serampore, and Masulipatnam"
+    ],
+    "correct": 1,
+    "ex": "The text notes that under the subsequent peace settlements, the French presence was permanently reduced to isolated, unfortified commercial enclaves like Pondicherry and Chandernagore."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What strict post-war statutory conditions were applied to the remaining French factories according to the 'Exam Trap' section?",
+    "options": [
+      "The French were legally forced to merge their assets directly into the English East India private joint-stock grid.",
+      "The French were permitted to retain Pondicherry only for commercial exchange; they were legally forbidden from maintaining troops or constructing defenses.",
+      "The French were ordered to build massive fortified compound walls to protect local deity sanctums.",
+      "The terms required a complete return to the top-down Cartaz passport purchase system."
+    ],
+    "correct": 1,
+    "ex": "The Wandiwash Exam Trap outlines: 'The French were permitted to retain Pondicherry only for commercial exchange; they were legally forbidden from maintaining troops or constructing defenses, preventing them from using their factories as military base camps.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 0,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What primary structural outcome did the Battle of Wandiwash have on the political landscape of the Indian subcontinent?",
+    "options": [
+      "It activated a counter-strategic alliance known as the Mineral Security Partnership.",
+      "It stripped the French of the right to maintain standing armies, removing them as a serious political rival and clearing the path for an absolute British mercantile monopoly.",
+      "It forced the English company to relocate its sovereign administrative capital to Nusantara.",
+      "It collapsed the multi-tier administrative hierarchy down to a tri-tier institutional grid."
+    ],
+    "correct": 1,
+    "ex": "The text and summary table conclude that the terms stripped the French of the right to maintain standing armies or fortify ports, removing them as a serious political rival and clearing the path for an absolute British mercantile monopoly in India."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What direct structural outcome formalized the East India Company's transformation into a legitimate sovereign ruler following its victory in the Battle of Buxar (1764)?",
+    "options": [
+      "The Treaty of Paris granting absolute maritime trade monopolies",
+      "The Treaty of Allahabad (1765) granting formal Diwani fiscal tax rights",
+      "The Subsidiary Alliance System ceding the Panna territory",
+      "The Regulating Act establishing a centralized expert committee"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Treaty of Allahabad (1765) formalized the victory of Buxar, forcing the Mughal Emperor to grant formal Diwani Rights (the right of land revenue and fiscal tax collection) over Bengal, Bihar, and Orissa to the Company."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "How did Robert Clive secure a crucial political foothold in Bengal during the historic Battle of Plassey (1757)?",
+    "options": [
+      "By deploying advanced subsea deepwater engineering weapon networks",
+      "Through a secret conspiracy and bribing the Nawab's military commander, Mir Jafar, to defect on the field",
+      "Through direct conventional military conflict against a combined regional alliance",
+      "By enforcing strict alkaline leaching building codes over local fortifications"
+    ],
+    "correct": 1,
+    "ex": "The text notes that the Battle of Plassey was won not through superior military force, but through a secret conspiracy orchestrated by Robert Clive, who bribed the Nawab's military commander, Mir Jafar, to defect on the field."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the 'Exam Trap' section, how did the acquisition of Diwani rights structurally impact the Company's financial relationship with London?",
+    "options": [
+      "It increased the Company's absolute reliance on gold and silver bullion inflows from London.",
+      "It allowed the Company to collect revenues directly using its own authority, ending its reliance on silver inflows from London to fund textile purchases.",
+      "It forced the Company to pay heavy custom duties back to the crown using Portuguese Cartaz passes.",
+      "It completely bankrupted the Company's private joint-stock asset pools."
+    ],
+    "correct": 1,
+    "ex": "The foundational battles Exam Trap explains that the Diwani rights granted at Allahabad allowed the Company to collect revenues directly using its own authority, ending its reliance on silver inflows from London to fund its textile purchases."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which combined regional alliance was decisively defeated by the disciplined forces of the East India Company at the Battle of Buxar (1764)?",
+    "options": [
+      "Vasco da Gama, Count de Lally, and William Hawkins",
+      "Mir Qasim (Nawab of Bengal), Shuja-ud-Daula (Nawab of Awadh), and the Mughal Emperor Shah Alam II",
+      "Nawab Wajid Ali Shah and the local elites of Satara and Jhansi",
+      "The French Compagnie des Indes Orientales and the Dutch VOC line"
+    ],
+    "correct": 1,
+    "ex": "The text notes that at the Battle of Buxar (1764), the Company's disciplined forces defeated the combined alliance of Mir Qasim (Nawab of Bengal), Shuja-ud-Daula (Nawab of Awadh), and the Mughal Emperor Shah Alam II."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the foundational engagements table, what was the primary operational character of the Battle of Buxar (1764)?",
+    "options": [
+      "Political conspiracy, bribery, and internal betrayals",
+      "Direct military conflict against a combined regional alliance",
+      "The enforcement of an asymmetric one-way free trade tariff model",
+      "Intervention in local succession disputes using soft soapstone tools"
+    ],
+    "correct": 1,
+    "ex": "The table explicitly profiles the primary operational character of the Battle of Buxar (1764) as: 'Direct military conflict against a combined regional alliance'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What administrative layer composition defined Robert Clive's Dual System of Governance (1765–1772) in Bengal?",
+    "options": [
+      "The Company managed civil administration, while the puppet Nawab controlled all financial power.",
+      "The Company held absolute financial and military power (Diwani & Nizamat), while the puppet Nawab held full administrative responsibility with zero resources.",
+      "Both the Company and the Nawab shared equal public accountability under a centralized UN-supervised code.",
+      "The system placed the entire financial burden of product disposal onto local taxpayers."
+    ],
+    "correct": 1,
+    "ex": "The text explains that under the Dual System, the Company held the Diwani (land revenues) and controlled the Nizamat (military force), exercising absolute authority without accountability. In contrast, the puppet Nawab was left with the responsibility of civil administration but lacked any financial resources."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What severe economic catastrophe manifested in Bengal as a result of the administrative collapse driven by the Dual System of Governance?",
+    "options": [
+      "The complete failure of the Modhera Sun Temple water networks",
+      "The Great Bengal Famine of 1770",
+      "The instant depletion of the Nellore clear sheet mica mines",
+      "An immediate inflation of the Portuguese Cartaz passport tariffs"
+    ],
+    "correct": 1,
+    "ex": "The text states that the divide in the Dual System led to widespread administrative collapse, lawlessness, and economic distress, culminating in the Great Bengal Famine of 1770."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the Dual Governance 'Exam Trap', whom did the Company appoint to aggressively extract land taxes on the ground to mask its absolute power from European rivals?",
+    "options": [
+      "Autonomous cash-rich private joint-stock officers",
+      "Local deputies known as Naib Diwans",
+      "Expert Appraisal Committees (EAC)",
+      "French Governor-General Dupleix's claimants"
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap section reveals: 'During this phase, the Company did not deploy its own officers to collect land taxes. To hide its power from rival European merchants, it appointed local deputies (Naib Diwans), who extracted taxes aggressively...'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the governance layers table, what actual power versus responsibility balance was held by the puppet Nawab of Bengal under the Civil Administration tier?",
+    "options": [
+      "Held absolute financial power and resource rights with zero public accountability",
+      "Held full public responsibility for law and order with zero financial resources",
+      "Exerised absolute veto power over the Company's military forces",
+      "Maintained a total monopoly over the cross-border continental rail transit lines"
+    ],
+    "correct": 1,
+    "ex": "The summary table maps the Civil Administration layer (Puppet Nawab of Bengal) to the actual power balance of: 'Held full public responsibility for law and order with zero financial resources'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which statutory legal update was eventually prompted in England by the severe resources depletion of Bengal under Clive's system?",
+    "options": [
+      "The Environment Protection Act",
+      "The Regulating Act of 1772",
+      "The Biological Diversity statutory code",
+      "The Wildlife Protection expanded schedules"
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision note details that Clive's Dual Governance pattern separated financial extraction from public administrative responsibility, depleting Bengal's resources and prompting the Regulating Act of 1772."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which Governor-General introduced the Subsidiary Alliance System to systematically expand British control without the immense costs of direct annexation?",
+    "options": [
+      "Lord Dalhousie",
+      "Lord Wellesley",
+      "Robert Clive",
+      "Warren Hastings"
+    ],
+    "correct": 1,
+    "ex": "The text states that to systematically expand British control without the immense costs of direct annexation, Governor-General Lord Wellesley introduced a highly effective diplomatic tool known as the Subsidiary Alliance System."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Under the diplomatic control conditions of the Subsidiary Alliance, how were participating Indian princely rulers required to route their foreign diplomacy?",
+    "options": [
+      "Through a centralized UN-supervised market mechanism",
+      "Through a resident British official at their court, surrendering independent foreign relations",
+      "Directly to the French Compagnie des Indes Orientales in Pondicherry",
+      "Via independent maritime trade passport networks managed under Cartaz rules"
+    ],
+    "correct": 1,
+    "ex": "According to the text and summary table, rulers were required to surrender their right to wage war or conduct independent foreign diplomacy, routing all external relations through a resident British official, which isolated princely states."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which princely state was the first to sign the Subsidiary Alliance agreement with the British East India Company in 1798?",
+    "options": [
+      "Satara",
+      "Jhansi",
+      "Hyderabad",
+      "Awadh"
+    ],
+    "correct": 2,
+    "ex": "The text explicitly states: 'The Nizam of Hyderabad (1798) was the first ruler to sign this agreement.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What hidden fiscal vulnerability is outlined in the alliance 'Exam Trap' section regarding the financial burden placed on participating princely states?",
+    "options": [
+      "The treaty immediately stripped rulers of their titles and handed all civil affairs to local Naib Diwans.",
+      "The heavy financial burden of funding the stationary subsidiary army often bankrupted the states, creating pretexts for direct annexation later.",
+      "Rulers were forced to import coking coal from the Damodar Valley under heavy crown tariffs.",
+      "The alliance provided automatic financial subsidies that insulated rulers from global market price fluctuations."
+    ],
+    "correct": 1,
+    "ex": "The Subsidiary Alliance Exam Trap notes: 'Rulers who signed the alliance did not lose their titles immediately; they retained control over internal civil affairs on paper. However, the heavy financial burden of funding the subsidiary army often bankrupted the states, creating pretexts for direct annexation later.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the alliance table, what was the primary strategic outcome for the Company under the Troop Maintenance condition?",
+    "options": [
+      "It isolated princely states, preventing them from forming anti-British alliances.",
+      "It expanded British military presence across the country at the expense of local rulers.",
+      "It established highly geometric stepped water basins inside the palace walls.",
+      "It uncoupled the building superstructures from their geological rock foundations."
+    ],
+    "correct": 1,
+    "ex": "The summary table maps the Troop Maintenance condition to the strategic outcome: 'Expanded British military presence across the country at the expense of local rulers' via subsidies or land cessions."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which Governor-General accelerated direct British territorial control through the aggressive enforcement of the Doctrine of Lapse?",
+    "options": [
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Robert Clive",
+      "Sir Eyre Coote"
+    ],
+    "correct": 1,
+    "ex": "The text specifies that when more aggressive expansion policies were adopted, Governor-General Lord Dalhousie accelerated direct territorial control through the enforcement of the Doctrine of Lapse."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What primary legal pretext defined the Doctrine of Lapse annexation policy enforced by Lord Dalhousie?",
+    "options": [
+      "It claimed a failure to secure public welfare and noted a chronic administrative collapse.",
+      "It stated that if a dependent princely ruler died without a natural male heir, sovereignty lapsed to the British Crown, rejecting the legitimacy of an adopted successor.",
+      "It required all rulers to purchase Cartaz trade passports from the authorities at Goa.",
+      "It legally moved princely states into a temporary vermin classification under Section 62."
+    ],
+    "correct": 1,
+    "ex": "According to the text and table, the Doctrine of Lapse targeted the traditional right to adopt an heir, stating that if a ruler died without a natural male heir, sovereignty lapsed to the British Crown, explicitly rejecting an adopted successor."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which group of princely states maps the core subcontinental targets directly annexed under the legal enforcement of the Doctrine of Lapse?",
+    "options": [
+      "Calicut (1498), Cochin (1502), and Goa (1510)",
+      "Surat (1608), Masulipatnam (1612), and Pondicherry (1664)",
+      "Satara (1848), Jhansi (1853), and Nagpur (1854)",
+      "Hyderabad (1798) and the Jharia basin fields"
+    ],
+    "correct": 2,
+    "ex": "The text and table outline that the Doctrine of Lapse was specifically used to annex Satara (1848), Jhansi (1853), and Nagpur (1854)."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What alternative legal and moral justification did Dalhousie deploy to bypass the doctrine and annex the wealthy kingdom of Awadh in 1856?",
+    "options": [
+      "The absolute lack of a natural or adopted male successor to the throne",
+      "Charges of chronic administrative 'misgovernance' under Nawab Wajid Ali Shah",
+      "The unauthorized transboundary movement of hazardous industrial electronic waste",
+      "The refusal of the state to station a British standing army within its boundaries"
+    ],
+    "correct": 1,
+    "ex": "The text states that in a unique variation, Dalhousie bypassed the doctrine to annex the wealthy state of Awadh (1856), using alternative justifications of chronic administrative 'misgovernance' to depose Nawab Wajid Ali Shah."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 1,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "According to the annexation 'Exam Trap' section, why was Awadh structurally exempt from standard Doctrine of Lapse criteria?",
+    "options": [
+      "Because the state was completely landlocked, bordering Jordan and the Jordan River.",
+      "Because Nawab Wajid Ali Shah had natural male heirs, forcing Dalhousie to use a unique justification of administrative failure that broke earlier treaty terms.",
+      "Because the kingdom fell under an autonomous, cash-rich private joint-stock charter.",
+      "Because the ruler possessed a valid Cartaz pass issued directly by the central Ministry of Environment."
+    ],
+    "correct": 1,
+    "ex": "The annexation Exam Trap emphasizes: 'Remember the distinction: Awadh was not annexed under the *Doctrine of Lapse*, as Nawab Wajid Ali Shah had natural male heirs. Dalhousie used a unique moral justification of administrative failure, breaking earlier treaty terms to claim the territory.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What asymmetric fiscal policy model was enforced by the British Parliament following the Industrial Revolution to dismantle India's handloom industries?",
+    "options": [
+      "The Prior Informed Consent (PIC) mechanism tracking e-waste",
+      "The One-Way Free Trade Model",
+      "The Extended Producer Responsibility eco-design system",
+      "The top-down Annex-I target cap protocol"
+    ],
+    "correct": 1,
+    "ex": "The text states that following the Industrial Revolution, the British Parliament enforced an asymmetric One-Way Free Trade Model to benefit domestic British manufacturers."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Under the One-Way Free Trade Model, how were traditional Indian handloom textile and handicraft exports priced out of western markets?",
+    "options": [
+      "They were subjected to high protective import duties in British ports.",
+      "They were completely flooded into British ports duty-free, causing an unexpected surplus crash.",
+      "They were legally classified as non-biodegradable synthetic hazardous pollutants.",
+      "The British crown forced local weavers to use soft fine-grained soapstone instead of cotton fibers."
+    ],
+    "correct": 0,
+    "ex": "According to the text and summary table, under this fiscal policy, high protective tariffs or import duties were levied against traditional Indian handloom textiles and handicrafts entering British ports, pricing them out of western markets."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What downstream socio-economic crisis manifested in India's rural areas as a direct consequence of de-industrialization?",
+    "options": [
+      "The physical fusion of separate municipal towns into conurbations along transport corridors",
+      "The destruction of traditional urban weaving centers, forcing millions of displaced artisans back into subsistence agriculture and causing severe overcrowding.",
+      "An automatic acceleration of ground infiltration capacity across the Indo-Gangetic plains",
+      "The relocation of regional administrative capitals to the high-altitude Karbi Anglong hills"
+    ],
+    "correct": 1,
+    "ex": "The text explains that this systematic process caused widespread de-industrialization, destroying traditional urban weaving centers and forcing millions of displaced artisans back into subsistence agriculture, creating severe overcrowding in rural areas."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the economic 'Exam Trap', how did the One-Way Free Trade model fundamentally reverse India's long-standing position in global trade lines?",
+    "options": [
+      "It turned India from a net exporter of raw materials into a massive importer of foreign coking coal assets.",
+      "It reversed India's centuries-old trade surplus of finished textiles for global bullion, turning the country into a net exporter of raw materials like raw cotton and indigo.",
+      "It forced India to establish autonomous private joint-stock corporations to manage cross-border continental rail transit lines.",
+      "It completely eliminated the need for tracking currency flows between London and eastern India."
+    ],
+    "correct": 1,
+    "ex": "The economic Exam Trap notes: 'For centuries, India had maintained a trade surplus, exchanging its textiles for global bullion. The *One-Way Free Trade model* reversed this flow, turning India into a net exporter of raw materials like raw cotton and indigo.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "How did machine-made British cotton goods behave within Indian retail markets under the asymmetric trade guidelines?",
+    "options": [
+      "They were banned entirely to protect local handloom weaving centers.",
+      "They flooded into Indian retail markets completely duty-free, underselling local artisans.",
+      "They were subject to strong chemical oxidation testing over a standardized 5-day incubation period.",
+      "They were distributed exclusively to princely states that signed the Subsidiary Alliance."
+    ],
+    "correct": 1,
+    "ex": "According to the text and table, machine-made British cotton goods were flooded into Indian markets completely duty-free, underselling local artisans and driving widespread de-industrialization."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What policy strategy did colonial authorities deploy to intervene directly in the agrarian economy to supply raw materials for British factories?",
+    "options": [
+      "The Landslide Hazard Zonation mapping project",
+      "The Forced Commercialization of Agriculture",
+      "The UNESCO Man and the Biosphere program zonation",
+      "The Extended Producer Responsibility material take-back mandate"
+    ],
+    "correct": 1,
+    "ex": "The text states that to supply raw materials for British factories and fuel imperial export networks, colonial authorities intervened directly in the agrarian economy through the Forced Commercialization of Agriculture."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which group of industrial cash crops represents the primary targets of the colonial forced cultivation policy?",
+    "options": [
+      "Subsistence food grains like rice, millets, and wheat",
+      "Indigo, Opium, Cotton, and Tea",
+      "Photosynthetic zooxanthellae and pelagic brown macroalgae",
+      "Hematite iron ore, coking coal, and sheet mica variants"
+    ],
+    "correct": 1,
+    "ex": "According to the text and accompanying table, peasants were forced away from cultivating subsistence food grains toward market-driven commercial cash crops, including Indigo, Opium, Cotton, and Tea."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which exploitative method was deployed by European planters to trap poor cultivators in debt cycles and force compliance?",
+    "options": [
+      "The Prior Informed Consent (PIC) electronic certificate logging",
+      "The advance contract system known as Dadni",
+      "The multi-tiered statutory schedule framework of the WPA",
+      "Decentralized bilateral Cooperative ITMO asset tracking"
+    ],
+    "correct": 1,
+    "ex": "The text explains that this shift was driven by European planters 'who used the exploitative advance contract system (Dadni), trapping poor cultivators in cycles of debt to force compliance'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What direct material consequence did the forced replacement of subsistence farmlands with market-driven industrial crops have on regional communities?",
+    "options": [
+      "An absolute reduction in rural overcrowding due to industrial urbanization",
+      "It disrupted local food security, reduced regional grain reserves, and contributed to severe localized food famines.",
+      "It triggered an automatic modernization of agricultural equipment and deep taproot networks.",
+      "It completely neutralized the negative drought impacts of a concurrent El Niño phase."
+    ],
+    "correct": 1,
+    "ex": "According to the text and table, by replacing subsistence farmlands with industrial crops, this policy disrupted local food security and reduced regional grain reserves, contributing to severe localized food famines."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the agrarian 'Exam Trap' section, what structural operational reality defined the commercialization of agriculture?",
+    "options": [
+      "It led to a progressive modernization of farming methods backed by cash-rich joint-stock corporate funds.",
+      "It functioned as a forced system where risks were passed down to poor peasants, who were legally bound to grow specific crops on their best land plots.",
+      "It completely exempted poor peasants from global market price fluctuations under the Treaty of Allahabad.",
+      "It allowed peasants to voluntarily switch their target crops based on seasonal monsoon weather forecasts."
+    ],
+    "correct": 1,
+    "ex": "The agrarian Exam Trap explicitly notes: 'The commercialization of agriculture did not lead to a progressive modernization of farming methods. It functioned as a forced system where risks were passed down to poor peasants, who were legally bound to grow specific crops on their best land plots.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which landmark literature corpus was authored by Dadabhai Naoroji to formulate the foundational Economic Drain Theory?",
+    "options": [
+      "The Economic History of India",
+      "Poverty and Un-British Rule in India",
+      "Nil Darpan (The Mirror of Indigo)",
+      "Hindu Patriot Journal Entries"
+    ],
+    "correct": 1,
+    "ex": "The text states that in his landmark work Poverty and Un-British Rule in India, Dadabhai Naoroji formulated the foundational Economic Drain Theory."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "What core thesis constitutes the baseline argument of Dadabhai Naoroji's Economic Drain Theory?",
+    "options": [
+      "A complete lack of cash crops was causing vertical soil layer compaction along coastlines.",
+      "A large portion of India’s national wealth and public revenues was being systematically exported to Britain annually without any equivalent material or economic return.",
+      "Developing nations were using the subcontinental land bridge to dump hazardous e-waste assets.",
+      "The puppet Nawab of Bengal held absolute financial power with zero administrative accountability."
+    ],
+    "correct": 1,
+    "ex": "The text explains that Naoroji’s analysis exposed how a large portion of India’s national wealth and public revenues was being systematically exported to Britain annually without any equivalent material or economic return."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Which early nationalist economist supported Naoroji's capital siphon analysis by authoring the detailed work 'The Economic History of India'?",
+    "options": [
+      "Robert Clive",
+      "R.C. Dutt",
+      "Lord Wellesley",
+      "Harish Chandra Mukherjee"
+    ],
+    "correct": 1,
+    "ex": "According to the text and accompanying table, the critical economic analysis was supported by R.C. Dutt in his detailed work titled 'The Economic History of India'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "According to the economic critique 'Exam Trap', what source material made Naoroji's arguments uniquely powerful against imperial justifications?",
+    "options": [
+      "He relied on unverified folk legends passed down across tribal ancestral clearings.",
+      "He used official British statistical data and colonial budgetary reports to build his arguments.",
+      "He used secret accounting diaries seized from French commercial enclaves.",
+      "He utilized voluntary, non-binding global target indicators provided by the UN."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap notes: 'Naoroji's critique was uniquely powerful because it used official British statistical data and colonial budgetary reports to build its arguments, challenging justifications of imperial rule by exposing its economic costs.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 0,
+    "q": "Based on the nationalist economists summary table, what was the core analytical contribution of R.C. Dutt?",
+    "options": [
+      "Formulated the Economic Drain Theory to expose systematic wealth exports",
+      "Mapped the financial impact of colonial land revenues and de-industrialization",
+      "Dismantled the traditional Khuntkatti joint land ownership system",
+      "Banned the practice of Podu shifting cultivation in the Godavari tracts"
+    ],
+    "correct": 1,
+    "ex": "The summary table explicitly states that R.C. Dutt's core analytical contribution was that he: 'Mapped the financial impact of colonial land revenues and de-industrialization'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Under what primary institutional fiscal framework were public Indian revenues systematically siphoned directly to London?",
+    "options": [
+      "The Cartaz Permit System",
+      "Home Charges",
+      "The Dadni Contract System",
+      "The Permanent Settlement Ledger"
+    ],
+    "correct": 1,
+    "ex": "The text states that the systematic extraction of Indian capital operated primarily under the framework of Home Charges remitted directly to London."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "How did the 5% guaranteed interest returns promised to British private investors for constructing the Indian Railways impact Indian taxpayers?",
+    "options": [
+      "It completely eliminated the public debt accrued during expansionist wars.",
+      "It functioned as a heavy, taxpayer-funded subsidy that protected foreign capital at the expense of domestic resources.",
+      "It provided direct financial subsidies to poor peasants cultivating food grains.",
+      "It allowed the local puppet Nawab to independently fund civil administration."
+    ],
+    "correct": 1,
+    "ex": "The text and summary table show that the guaranteed interest returns promised to British private investors to construct the Indian Railways network served as a taxpayer-funded subsidy, creating a heavy financial burden on Indian taxpayers."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "Which siphoning element was included under the official state expenditures categorized as Home Charges paid out of public Indian revenues?",
+    "options": [
+      "Private remittances or personal savings sent home by individual British merchants",
+      "Interest payments on public debt, military expenditures, pensions, and salaries of British officers",
+      "The purchase of advanced chemical leaching agents by domestic commercial bodies",
+      "The compilation of People's Biodiversity Registers inside local Gram Panchayats"
+    ],
+    "correct": 1,
+    "ex": "The text outlines that Home Charges included interest on public debt incurred for expansionist wars, along with military expenditures, pensions, and salaries of British civil and military officers."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "According to the imperial channels 'Exam Trap' section, what type of financial transfer was strictly excluded from the definition of Home Charges?",
+    "options": [
+      "Interest payments on debts incurred to fund expansionist wars",
+      "Private remittances or personal savings sent home by individual British merchants or officials",
+      "Guaranteed interest returns promised to foreign private railway investors",
+      "Pensions and salaries of British civil and military officers"
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap explicitly states: 'Home Charges did *not* include private remittances or personal savings sent home by individual British merchants or officials. It referred strictly to official state expenditures paid out of public Indian revenues...'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_8",
+    "phase": 2,
+    "subtopic": 1,
+    "bullet": 1,
+    "q": "What long-term financial consequence resulted from siphoning off national tax revenues via London Home Charges according to the summary table?",
+    "options": [
+      "It increased the total amount of investable capital available for domestic developers.",
+      "It siphoned off national tax revenues, reducing public capital available for development.",
+      "It automatically modernised agrarian production and food security grids.",
+      "It forced the East India Company to rely entirely on silver inflows from London."
+    ],
+    "correct": 1,
+    "ex": "The drain channel summary table notes that the long-term financial consequence of Home Charges was that it: 'Siphoned off national tax revenues, reducing public capital available for development'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which brothers spearheaded the organized anti-colonial tribal resistance movement known as the Santhal Rebellion (Hool)?",
+    "options": [
+      "Digambar and Bishnu Biswas",
+      "Sidhu and Kanhu",
+      "Alluri Sitarama Raju and Birsa Munda",
+      "Robert Clive and Lord Wellesley"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Santhal Rebellion, locally designated as the Hool, was spearheaded by the brothers Sidhu and Kanhu."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What collective term did the Santhals use to describe outside plains traders, colonial contractors, and corrupt moneylenders who infiltrated their ancestral lands?",
+    "options": [
+      "Hool",
+      "Dikus",
+      "Ulgulan",
+      "Podu"
+    ],
+    "correct": 1,
+    "ex": "According to the text, plains traders, colonial contractors, and corrupt moneylenders were collectively hated by the Santhals as Dikus."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What direct administrative remedy was implemented by the colonial state to pacify the region following the Santhal Rebellion?",
+    "options": [
+      "The enforcement of the restrictive Madras Forest Act of 1882",
+      "The creation of the separate, protected Santhal Pargana district",
+      "The enactment of the landmark Chota Nagpur Tenancy Act of 1908",
+      "The universal implementation of the advance contract Dadni system"
+    ],
+    "correct": 1,
+    "ex": "According to the text and summary resistance table, the direct administrative remedy to pacify the region was the creation of the separate, protected Santhal Pargana district."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the tribal resistance 'Exam Trap', what legal protection was established by the post-rebellion protective legislation?",
+    "options": [
+      "It formalized the right of non-tribal buyers to seize ancestral woodlands freely.",
+      "It legalized the creation of the Santhal Pargana and outlawed direct land transfers from tribal communities to non-tribal Dikus without state clearance.",
+      "It legally moved the entire Santhal population into an unfortified commercial enclave.",
+      "It forced all tribal cultivators to accept mandatory cash advances to grow indigo."
+    ],
+    "correct": 1,
+    "ex": "The Santhal Exam Trap clarifies that the colonial state passed protective legislation, legalizing the creation of the Santhal Pargana and outlawing direct land transfers from tribal communities to non-tribal Dikus without state clearance."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Across which specific high terrain geographic tract did the armed tribal uprising known as the Santhal Hool erupt?",
+    "options": [
+      "The Chota Nagpur region south of Ranchi",
+      "The Rajmahal hills within the defined Damin-i-koh tract",
+      "The Godavari agency tracts along the peninsula",
+      "The Nadia and Jessore fields of lower Bengal"
+    ],
+    "correct": 1,
+    "ex": "The text introduces the rebellion by stating that it erupted across the Rajmahal hills within the defined Damin-i-koh tract."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The major tribal movement known as the Munda Rebellion or Ulgulan was spearheaded by which historical leader?",
+    "options": [
+      "Sidhu and Kanhu core brothers",
+      "Birsa Munda",
+      "Alluri Sitarama Raju",
+      "Digambar Biswas"
+    ],
+    "correct": 1,
+    "ex": "The text states that toward the close of the nineteenth century, the Munda Rebellion or Ulgulan was spearheaded by Birsa Munda."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What was the traditional customary framework of tribal joint land ownership under which the Munda community historically operated?",
+    "options": [
+      "The Permanent Settlement system",
+      "The Khuntkatti System",
+      "The Podu system",
+      "The Dadni System"
+    ],
+    "correct": 1,
+    "ex": "According to the text, the Munda community historically operated under the Khuntkatti System, which is defined as a customary framework of tribal joint land ownership that preserved community resources."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which landmark administrative remedy was enacted in 1908 as a direct structural result of the Munda Ulgulan?",
+    "options": [
+      "The creation of the protected Santhal Pargana district",
+      "The Chota Nagpur Tenancy Act of 1908",
+      "The Madras Forest Act legal code",
+      "The Treaty of Allahabad fiscal tax charter"
+    ],
+    "correct": 1,
+    "ex": "According to the text and table, the primary administrative remedy that resulted from the Munda Ulgulan was the enactment of the landmark Chota Nagpur Tenancy Act of 1908."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the Munda 'Exam Trap' section, how did the regulatory outcome of the 1908 Act provide lasting defensive protections?",
+    "options": [
+      "It permanently dissolved the Khuntkatti status and distributed individual leases to outside contractors.",
+      "It formally recognized the Khuntkatti land status and outlawed land alienations to non-tribal buyers.",
+      "It forced the Munda community to migrate south toward the higher ground of the Karbi Anglong hills.",
+      "It allowed corporate developers to claim the land under charges of chronic misgovernance."
+    ],
+    "correct": 1,
+    "ex": "The Munda Exam Trap notes: 'The Chota Nagpur Tenancy Act of 1908 achieved lasting results by formally recognizing the Khuntkatti land status and outlawing land alienations to non-tribal buyers...'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What method did Birsa Munda deploy to successfully mobilize tribal clans against colonial land interventions before his capture?",
+    "options": [
+      "He used messianic imagery, declaring himself a prophet to mobilize clans.",
+      "He purchased maritime trade licenses from the Portuguese authorities at Goa.",
+      "He petitioned the technical appraisal committee to adjust the terms of reference boundaries.",
+      "He financed sustainable energy or afforestation projects inside developed economies."
+    ],
+    "correct": 0,
+    "ex": "The text notes that Birsa used messianic imagery, declaring himself a prophet to mobilize clans against British rule, seeking to re-establish independent sovereignty."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "The enforcement of which restrictive legislative act triggered the armed tribal conflict known as the Rampa Rebellion (1922-24)?",
+    "options": [
+      "The Permanent Settlement Act of 1793",
+      "The Madras Forest Act, 1882",
+      "The Chota Nagpur Tenancy Act of 1908",
+      "The Environmental Protection Act of 1986"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Rampa Rebellion along the Godavari agency tracts was triggered by the enforcement of the restrictive Madras Forest Act, 1882."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What primary structural grievance drove the Rampa tribal communities into armed rebellion under Alluri Sitarama Raju?",
+    "options": [
+      "The dismantling of their communal Khuntkatti joint land system by Naib Diwans",
+      "Forest laws declaring woodlands protected zones, outlawing traditional shifting cultivation (Podu), and banning minor produce gathering",
+      "High import duties levied against their handloom textile exports in Western European ports",
+      "The forced submergence of their ancestral fields by the construction of the Daudhan reservoir"
+    ],
+    "correct": 1,
+    "ex": "The text explains that the legislation placed state controls over ancestral woodlands, declaring them protected zones, which outlawed the tribal community's freedom to practice traditional shifting cultivation (Podu) and banned gathering minor forest produce."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What unique leadership distinction isolates the Rampa Rebellion from most other subcontinental tribal uprisings within its corresponding 'Exam Trap'?",
+    "options": [
+      "The rebellion was directed entirely by French corporate officials from Pondicherry.",
+      "While most tribal uprisings were led by inside clan leaders, the Rampa Rebellion was organized by an outside, non-tribal leader, Alluri Sitarama Raju.",
+      "The movement completely rejected guerrilla warfare tactics in favor of filing lawsuits.",
+      "The leadership group consisted entirely of local deputies appointed by Robert Clive."
+    ],
+    "correct": 1,
+    "ex": "The Rampa Exam Trap clarifies: 'A key distinction for examiners is that while most tribal uprisings were led by inside clan leaders, the Rampa Rebellion was organized by an outside leader, Alluri Sitarama Raju, who used his status to blend tribal grievances with modern anti-colonial templates.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "What traditional agricultural practice was outlawed by the colonial forest laws along the Godavari agency tracts?",
+    "options": [
+      "Subsistence handloom textile weaving loops",
+      "Traditional shifting cultivation known locally as Podu",
+      "The forced commercial cultivation of Indigo and Opium",
+      "Highly geometric stepped tank sensory purifications"
+    ],
+    "correct": 1,
+    "ex": "According to the text and table, the forest restrictions outlawed the tribal community's freedom to practice traditional shifting cultivation, known locally as Podu."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 0,
+    "subtopic": 0,
+    "bullet": 2,
+    "q": "According to the Rampa rebellion table, what tactical mobilization method was deployed to resist colonial police lines?",
+    "options": [
+      "Collective rent strikes combined with raising community defense funds",
+      "Guerrilla warfare and tactical raids on police outposts led by Alluri Sitarama Raju",
+      "Securing direct approval clearings from the central NBA node in Chennai",
+      "Using messianic imagery to declare the leader an independent sovereign prophet"
+    ],
+    "correct": 1,
+    "ex": "The summary table maps the Rampa Rebellion (1922-24) to the tactical mobilization method of: 'Guerrilla warfare and tactical raids on police outposts led by Alluri Sitarama Raju'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which leaders spearheaded the organized post-1857 agrarian resistance movement known as the Indigo Revolt (Nil Vidroha) in Bengal?",
+    "options": [
+      "Sidhu and Kanhu core brothers",
+      "Digambar and Bishnu Biswas",
+      "Birsa Munda and Alluri Sitarama Raju",
+      "Dadabhai Naoroji and R.C. Dutt"
+    ],
+    "correct": 1,
+    "ex": "The text states that the Indigo Revolt across Nadia and Jessore in Bengal was spearheaded by Digambar and Bishnu Biswas."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "What coercive extraction framework was used by European planters to force ryots to cultivate indigo on their best land plots?",
+    "options": [
+      "The Khuntkatti communal system",
+      "The Dadni System of forced cash advances and contracts",
+      "The Cartaz naval trade passport model",
+      "The Home Charges remittance ledger"
+    ],
+    "correct": 1,
+    "ex": "According to the text, European planters used the highly exploitative Dadni System—a coercive framework of forced cash advances and contracts that legally bound peasants to cultivate indigo on a percentage of their best land plots."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which celebrated play was published by Dinabandhu Mitra to expose planter atrocities during the Indigo Revolt?",
+    "options": [
+      "Poverty and Un-British Rule in India",
+      "Nil Darpan (The Mirror of Indigo)",
+      "The Economic History of India",
+      "The Hindu Patriot Narrative"
+    ],
+    "correct": 1,
+    "ex": "The text notes that Dinabandhu Mitra published the celebrated play Nil Darpan (The Mirror of Indigo) to expose planter atrocities."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "Which prominent intellectual journal, edited by Harish Chandra Mukherjee, actively championed the grievances of the striking ryots?",
+    "options": [
+      "The Economic History Review",
+      "The Hindu Patriot",
+      "The Damin-i-koh Chronicle",
+      "The PBR Grassroots Register"
+    ],
+    "correct": 1,
+    "ex": "According to the text and table, Harish Chandra Mukherjee championed the ryots' grievances through his influential journal, the Hindu Patriot."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 0,
+    "q": "According to the Indigo Revolt 'Exam Trap' section, what alternative template for agrarian resistance did the peasants demonstrate?",
+    "options": [
+      "They migrated to the urban business blocks to avoid contact with local courts completely.",
+      "They used collective rent strikes, raised community defense funds, and filed lawsuits against planters, leveraging colonial law to secure economic relief.",
+      "They accepted increased cash advances to purchase foreign machine-made cotton goods.",
+      "They launched guerrilla raids to capture the resident British official's court."
+    ],
+    "correct": 1,
+    "ex": "The agrarian protest Exam Trap details: 'Peasants used collective rent strikes, raised community defense funds, and filed lawsuits against planters, demonstrating an alternative template for agrarian resistance that leveraged colonial law to secure economic relief.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Across which specific rural districts of Western India did the agrarian collective action known as the Deccan Riots erupt in 1875?",
+    "options": [
+      "Nadia and Jessore",
+      "Pune and Ahmednagar",
+      "Damin-i-koh and Rajmahal",
+      "Belur and Halebidu"
+    ],
+    "correct": 1,
+    "ex": "The text states that agrarian distress in Western India led to direct collective action during the Deccan Riots, which erupted across rural Pune and Ahmednagar in 1875."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "The underlying long-term structural cause of the Deccan Riots was rooted in the vulnerabilities of which land revenue settlement framework?",
+    "options": [
+      "The Permanent Settlement System",
+      "The Ryotwari System",
+      "The Khuntkatti System",
+      "The Dadni System"
+    ],
+    "correct": 1,
+    "ex": "According to the text, the underlying cause of the Deccan Riots was rooted in the structural vulnerabilities of the Ryotwari System, under which the state collected heavy land revenues directly from individual ryots."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Why were individual peasants (ryots) forced to borrow heavily from migrant Marwari and Gujarati moneylenders under the Ryotwares framework?",
+    "options": [
+      "To purchase expensive coking coal assets imported directly from London",
+      "To meet the steep land revenue hikes implemented by the state",
+      "To build highly geometric stepped water basins inside local villages",
+      "To secure mandatory maritime licenses required for coastal trade ports"
+    ],
+    "correct": 1,
+    "ex": "The text states that the state implemented steep land revenue hikes under the Ryotwari System, and this fiscal strain forced peasants to borrow heavily from migrant Marwari and Gujarati moneylenders to meet state tax demands."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which international event's conclusion served as the primary economic catalyst by triggering a severe crash in global cotton prices and rural credit networks?",
+    "options": [
+      "The War of the Austrian Succession",
+      "The American Civil War",
+      "The Seven Years' War",
+      "The French Industrial Revolution"
+    ],
+    "correct": 1,
+    "ex": "The text notes that when global cotton prices crashed following the end of the American Civil War, rural credit networks collapsed."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What specific action did the ryots systematically execute during the 1875 uprising to erase all records of their indebtedness?",
+    "options": [
+      "They petitioned the technical Expert Appraisal Committee to rewrite the terms of reference.",
+      "They systematically attacked moneylenders' houses and burned their debt bonds and account books.",
+      "They completely abandoned subsistence fields to establish unfortified commercial factories.",
+      "They legally moved their ancestral villages into separate, protected district lines."
+    ],
+    "correct": 1,
+    "ex": "According to the text, when moneylenders began using court decrees to seize farmlands, it prompted ryots to systematically attack moneylenders' houses and burn their debt bonds and account books to erase all records of indebtedness."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "Which protective administrative and legislative remedy was eventually enacted by the colonial state as a direct result of the Deccan Riots?",
+    "options": [
+      "The Chota Nagpur Tenancy Act of 1908",
+      "The Deccan Agriculturists Relief Act, 1879",
+      "The Sati Abolition Regulation XVII of 1829",
+      "The Madras Forest Act of 1882"
+    ],
+    "correct": 1,
+    "ex": "The text states that this unrest eventually prompted the enactment of the Deccan Agriculturists Relief Act, 1879."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the Deccan Riots 'Exam Trap' section, what was the primary focus and operational limitation of the peasant movement?",
+    "options": [
+      "The movement sought to directly overthrow British imperial sovereignty to re-establish independent kingdoms.",
+      "The movement focused almost exclusively on destroying the debt bonds held by local moneylenders, with peasants rarely clashing with government troops or challenging imperial sovereignty directly.",
+      "The movement aimed to replace the Ryotwari System with an advance contract Dadni framework.",
+      "The peasants prioritized long-term national political freedom over immediate economic relief."
+    ],
+    "correct": 1,
+    "ex": "The Exam Trap highlights: 'The movement focused almost exclusively on destroying the *debt bonds* held by local moneylenders, with peasants rarely clashing with government troops or challenging imperial sovereignty directly, prioritizing immediate relief over political freedom.'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "According to the summary table, what primary economic catalyst matches the Deccan Riots (1875)?",
+    "options": [
+      "Forced commercial advances under an exploitative contract matrix",
+      "Ryotwari tax hikes paired with post-Civil War cotton price crashes and debt bonds",
+      "The complete dismantling of the traditional communal land ownership system",
+      "The enforcement of restrictive forest legislations banning traditional shifting cultivation"
+    ],
+    "correct": 1,
+    "ex": "The primary economic catalyst column in the table explicitly states: 'Ryotwari tax hikes paired with post-Civil War cotton price crashes and debt bonds'."
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What legal mechanism were moneylenders using that initially prompted ryots to take direct collective action against them?",
+    "options": [
+      "Bilateral cooperative cooperative outcomes",
+      "Court decrees used to seize farmlands",
+      "Prior informed consent tracking certificates",
+      "Extended producer responsibility life-cycle mandates"
+    ],
+    "correct": 1,
+    "ex": "The text states: 'Moneylenders began using court decrees to seize farmlands, prompting ryots to systematically attack moneylenders' houses...'"
+  },
+  {
+    "subjectId": "history",
+    "topicId": "his_9",
+    "phase": 1,
+    "subtopic": 0,
+    "bullet": 1,
+    "q": "What core target was prioritized for destruction by the peasants during the Deccan Riots according to the 'UPSC Revision' block?",
+    "options": [
+      "Fortified military base camps and regional artillery lines",
+      "Financial debt registries following tax increases and cotton market crashes",
+      "Intricate high-relief sculptures covering public assembly halls",
+      "The trans-continental rail network nodes linking western ports"
+    ],
+    "correct": 1,
+    "ex": "The UPSC Revision block notes: 'The Deccan Riots targeted financial debt registries following tax increases and cotton market crashes, leading to the Deccan Agriculturists Relief Act, 1879.'"
   }
-
 
 ]
