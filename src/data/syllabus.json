@@ -104,13 +104,15 @@
     "id": "science",
     "subject": "General Science & Technology",
     "topics": [
-      { "id": "sci_1", "title": "Space Technology - ISRO Launch Vehicles (PSLV, GSLV), Satellites & Space Missions" },
-      { "id": "sci_2", "title": "Defense Technology - Missile Systems (IGMDP), Submarines & Stealth Tech" },
-      { "id": "sci_3", "title": "Information Technology - 5G/6G, IoT, Artificial Intelligence, Blockchain & Quantum Computing" },
-      { "id": "sci_4", "title": "Biotechnology - Gene Editing (CRISPR-Cas9), GM Crops, Stem Cells & Cloning" },
-      { "id": "sci_5", "title": "Nanotechnology & Nuclear Energy Principles (Fission vs Fusion, India's Three-Stage Program)" },
-      { "id": "sci_6", "title": "Public Health, Diseases (Viral, Bacterial, Protozoan), Vaccines & Antimicrobial Resistance" },
-      { "id": "sci_7", "title": "Basic Physics, Chemistry & Biology Core Concepts" }
-    ]
+    { "id": "sci_1", "title": "Space Technology - ISRO Launch Vehicles (PSLV, GSLV, SSLV, NGLV), Satellites & Space Missions" },
+    { "id": "sci_2", "title": "Defense Technology - Missile Systems (IGMDP, MIRV), Submarines, Stealth & Air Defense" },
+    { "id": "sci_3", "title": "Information Technology & Emerging Tech - 5G/6G, AI/Robotics, Quantum Computing, Semiconductor Fab & Blockchain" },
+    { "id": "sci_4", "title": "Biotechnology - Gene Editing (CRISPR-Cas9), GM Crops, Stem Cells, Synthetic Biology & RNA Tech" },
+    { "id": "sci_5", "title": "Nuclear Technology & Nanotechnology - Fission vs Fusion, India's Three-Stage Nuclear Program & Advanced Materials" },
+    { "id": "sci_6", "title": "Energy Technologies & Storage Systems - Green Hydrogen, Fuel Cells, Advanced Batteries (Li-ion/Solid-State) & EVs" },
+    { "id": "sci_7", "title": "Public Health, Diseases (Viral, Bacterial, Protozoan), Vaccines & Antimicrobial Resistance (AMR)" },
+    { "id": "sci_8", "title": "Intellectual Property Rights (IPR), S&T Policies, Indigenization & R&D Infrastructure" },
+    { "id": "sci_9", "title": "Basic Physics, Chemistry & Biology Core Concepts (Everyday Science for Prelims)" }
+  ]
   }
 ]
