@@ -1,137 +1,614 @@
 {
   "sci_1": {
-    "title": "Space Technology - ISRO Launch Vehicles, Satellites & Orbits",
+    "title": "Space Technology - ISRO Launch Vehicles (PSLV, GSLV, SSLV, NGLV), Satellites & Space Missions",
     "phases": [
-      {
-        "phaseName": "Propellant Engineering & Orbital Mechanics",
+    {
+        "phaseName": "Phase 1: Orbital Dynamics & Launch Vehicle Architectures",
         "subtopics": [
-          {
-            "name": "PSLV vs GSLV Fuel Stratification",
-            "bullets": [
-              "<b>Polar Satellite Launch Vehicle (PSLV):</b> ISRO's highly reliable 4-stage workhorse. It features an alternating fuel profile: the 1st and 3rd stages use solid Hydroxyl-terminated polybutadiene (HTPB) propellant, while the 2nd and 4th stages rely on liquid **UH25 fuel mixed with Dinitrogen Tetroxide ($N_2O_4$)** oxidizers in indigenous Vikas engines.",
-              "<b>Geosynchronous Satellite Launch Vehicle (GSLV):</b> A heavy-lift 3-stage configuration designed for higher Geosynchronous Transfer Orbits (GTO). It features solid boosters, a liquid second stage, and a highly complex **Cryogenic Upper Stage (CUS)** that ignites sub-zero liquid hydrogen ($LH_2$) fuel and liquid oxygen ($LOX$) oxidizers for maximum thrust efficiency.",
-              "<b>LVM3 (Launch Vehicle Mark 3):</b> India's heaviest operational lifter. It bypasses lower-capacity tracking by utilizing twin massive S200 solid strap-on boosters, an L110 liquid core, and a C25 cryogenic upper stage, capable of deploying 4-ton payloads directly into GTO."
-            ]
-          },
-          {
-            "name": "Orbital Altitude Classifications",
-            "bullets": [
-              "<b>Low Earth Orbit (LEO):</b> Altitudes ranging from 160 km to 2,000 km. Host to remote sensing, earth observation satellites, and the International Space Station (ISS) due to low propagation delay.",
-              "<b>Geosynchronous (GSO) vs Geostationary (GEO):</b> Both orbit at exactly **35,786 km** with an orbital period matching Earth's rotation (23 hours, 56 minutes, 4 seconds). **UPSC Trap:** A GEO satellite must be placed directly over the **equator with a 0° inclination**, appearing completely stationary to a ground antenna. A GSO satellite has an inclined orbit and traces a figure-8 path relative to the ground."
-            ]
-          }
+            {
+                "name": "Orbital Mechanics, Trajectories, and Space Environment",
+                "bullets": [
+                    "<b>Orbital Classifications:</b> <b>Low Earth Orbit (LEO: 160–2,000 km)</b> provides short orbital periods and high spatial resolution for Earth observation and human spaceflight; <b>Medium Earth Orbit (MEO: 2,000–35,786 km)</b> houses navigation constellations like GPS; <b>Geostationary Earth Orbit (GEO: 35,786 km above equator)</b> matches Earth's rotational period to keep telecommunication satellites stationary relative to ground antennas; <b>Sun-Synchronous Orbit (SSO)</b> maintains consistent solar illumination angles over ground targets for remote sensing.",
+                    "<b>Lagrange Point Physics:</b> Gravitational equilibrium locations in a two-body system where orbital centrifugal forces balance gravitational pull. Positioning space observatories at <b>Sun-Earth L1</b> (e.g., <i>Aditya-L1</i>) provides an unobstructed view of the Sun with zero solar eclipses, while <b>L2</b> hosts deep-space telescopes sheltered from Earth's thermal emission, requiring minimal station-keeping fuel.",
+                    "<b>Kessler Syndrome & Space Debris:</b> A cascading orbital collision model where satellite density in LEO reaches a threshold where debris collisions trigger a self-sustaining chain reaction. ISRO mitigates this risk via <b>Project NETRA</b> (Network for space object Tracking and Analysis) and systematic de-orbiting maneuvers enforcing Inter-Agency Space Debris Coordination Committee (IADC) compliance."
+                ]
+            },
+            {
+                "name": "ISRO Launch Vehicle Evolution & Modern Propulsion",
+                "bullets": [
+                    "<b>PSLV Workhorse Dynamics:</b> Polar Satellite Launch Vehicle uses a 4-stage alternating solid-liquid propulsion engine array (S1 solid, L40/VIKAS liquid, S3 solid, L4 liquid). Operating across PSLV-CA (Core Alone) and PSLV-XL configurations, it utilizes multiple restarts in orbit to execute multi-payload deployment missions across diverse orbital inclinations.",
+                    "<b>Heavy-Lift GSLV & LVM3 Regimes:</b> <b>GSLV Mk II</b> utilizes the indigenous <i>Cryogenic Upper Stage (CUS)</i> burning liquid hydrogen ($LH_2$) and liquid oxygen ($LOX$) at ultra-low temperatures. <b>LVM3 (GSLV Mk III)</b> employs twin S200 solid strap-on boosters, a L110 core liquid stage, and a high-thrust C25 cryogenic stage, delivering up to 4,000 kg to Geostationary Transfer Orbit (GTO).",
+                    "<b>Next-Gen Launchers (SSLV & NGLV):</b> <b>Small Satellite Launch Vehicle (SSLV)</b> provides on-demand, low-cost access to LEO for mini/micro satellites (up to 500 kg) using 3 solid stages and a Velocity Trimming Module (VTM). <b>Next-Generation Launch Vehicle (NGLV)</b> transitions ISRO toward semi-cryogenic and reusable <b>Methalox (liquid methane and $LOX$)</b> engines for heavy payloads."
+                ]
+            }
         ]
-      }
-    ]
+    },
+    {
+        "phaseName": "Phase 2: Earth Observation, Communication & Navigation Constellations",
+        "subtopics": [
+            {
+                "name": "Remote Sensing, SAR Imaging, and Communication Platforms",
+                "bullets": [
+                    "<b>Remote Sensing Applications:</b> Earth observation satellites evaluate natural resource management, agricultural acreage, water table depletion, and disaster mapping using multi-spectral and hyper-spectral sensors operating across optical, infrared, and microwave wavelengths.",
+                    "<b>Synthetic Aperture Radar (SAR) Dynamics:</b> Microwave radar imaging penetrates cloud cover, atmospheric haze, and darkness by transmitting radar pulses and measuring return signals. The joint <b>NISAR (NASA-ISRO SAR)</b> mission deploys Dual-Frequency (L-band and S-band) polarimetric SAR to map global ecosystem structures, ice-sheet collapses, and surface deformation with millimeter-scale precision.",
+                    "<b>Satellite Communication Systems:</b> GSAT series operates on C, Ku, and Ka frequency bands to enable high-throughput satellite (HTS) internet, direct-to-home (DTH) broadcasting, and emergency communication services, establishing secure satellite links for rural connectivity and strategic defense."
+                ]
+            },
+            {
+                "name": "NavIC Infrastructure & Space Situational Awareness",
+                "bullets": [
+                    "<b>NavIC (IRNSS) Architecture:</b> Navigation with Indian Constellation is an independent regional satellite navigation system utilizing a 7-satellite constellation (3 in Geostationary and 4 in inclined Geosynchronous orbits). It provides continuous positional accuracy over India and an extended boundary region extending up to 1,500 km from its borders.",
+                    "<b>Dual-Service Delivery & Frequency Bands:</b> NavIC delivers two services: <i>Standard Positioning Service (SPS)</i> for civilian users and <i>Restricted Service (RS)</i> for authorized military applications. It operates on L5 and S bands, with newer NVS series satellites integrating the civilian <b>L1 frequency band</b> alongside indigenous Rubidium atomic clocks to improve timing precision.",
+                    "<b>Space Situational Awareness (SSA):</b> Real-time tracking of space objects, active satellites, and orbital debris. ISRO operates SSA centers to conduct Conjunction Assessment Analysis (collision risk evaluation) and execute Collision Avoidance Maneuvers (CAMs) for operational assets."
+                ]
+            }
+        ]
+    },
+    {
+        "phaseName": "Phase 3: Deep Space Exploration, Astrophysics & Commercialization",
+        "subtopics": [
+            {
+                "name": "Lunar, Interplanetary, and Astrophysics Missions",
+                "bullets": [
+                    "<b>Lunar Exploration Architecture:</b> <i>Chandrayaan-3</i> achieved a soft-landing near the lunar South Pole using the <b>Vikram lander</b> and <b>Pragyan rover</b>, confirming in-situ presence of sulfur using Laser-Induced Breakdown Spectroscopy (LIBS) and measuring thermophysical soil properties to support future resource utilization.",
+                    "<b>Heliospheric & Astrophysics Observatories:</b> <b>Aditya-L1</b> uses payloads like VELC (Visible Emission Line Coronagraph) and SUIT to study coronal mass ejections (CMEs), solar wind dynamics, and magnetic fields from Sun-Earth L1. <b>XPoSat (X-ray Polarimeter Satellite)</b> studies polarimetric measurements of cosmic X-ray sources like black holes and neutron stars.",
+                    "<b>Human Spaceflight & Space Station Roadmap:</b> <b>Gaganyaan Mission</b> aims to deploy a 3-member crew to a 400 km LEO orbit for 3 days using the human-rated LVM3 (HRLV) equipped with Crew Escape Systems (CES) and tested via Vyommitra humanoid prototypes, serving as the foundational step toward the <b>Bharatiya Antariksha Station (BAS)</b>."
+                ]
+            },
+            {
+                "name": "Space Sector Reforms, Commercialization, and Governance",
+                "bullets": [
+                    "<b>IN-SPACe Regulation:</b> Indian National Space Promotion and Authorization Centre acts as an autonomous single-window nodal agency under the Department of Space (DOS) to authorize, regulate, and facilitate private sector space activities, satellite manufacturing, and launch operations.",
+                    "<b>NSIL & Commercial Assets:</b> NewSpace India Limited serves as the commercial arm of ISRO, executing commercial satellite launches, transferring ISRO-developed technology to private industry, and acquiring operational launch vehicles (like LVM3) for commercial missions.",
+                    "<b>Indian Space Policy Framework:</b> Encourages end-to-end private sector participation across space transportation, satellite operations, and ground infrastructure while defining liability, space insurance standards, and intellectual property transfers."
+                ]
+            }
+        ]
+    }
+]
   },
   "sci_2": {
-    "title": "Defense Technology - Missiles, Submarines & Indigenization",
+    "title": "Defense Technology - Missile Systems (IGMDP, MIRV), Submarines, Stealth & Air Defense",
     "phases": [
-      {
-        "phaseName": "Ballistic Delivery Systems & Strategic Deterrence",
+    {
+        "phaseName": "Phase 1: Guided Missile Systems & Propulsion Mechanics",
         "subtopics": [
-          {
-            "name": "Integrated Guided Missile Program & MIRV Architecture",
-            "bullets": [
-              "<b>IGMDP Blueprint:</b> Conceived by Dr. A.P.J. Abdul Kalam, developing 5 core systems: 1. <i>Prithvi:</i> Surface-to-surface short-range ballistic missile. 2. <i>Agni:</i> Surface-to-surface intermediate-to-intercontinental system. 3. <i>Trishul:</i> Short-range surface-to-air. 4. <i>Akash:</i> Medium-range surface-to-air using ramjet propulsion. 5. <i>Nag:</i> Third-generation anti-tank 'fire-and-forget' missile.",
-              "<b>Cruise vs Ballistic Trajectories:</b> Cruise missiles (e.g., BrahMos) fly at low altitudes within the atmosphere along flat paths, powered continuously by jet engines. Ballistic missiles (e.g., Agni) follow a high parabolic trajectory, leaving the atmosphere before gravity pulls the unpowered payload down onto the target.",
-              "<b>MIRV Technology (Agni-V):</b> India mastered **Multiple Independently Targetable Re-entry Vehicles (MIRVs)** under Mission Divyastra. It allows a single ballistic missile to carry multiple nuclear warheads, each capable of striking completely separate targets hundreds of kilometers apart.",
-              "<b>Nuclear Triad Submarines:</b> Completed via the deployment of INS Arihant, a nuclear-powered ballistic missile submarine (SSBN). Unlike diesel-electric submarines (SSKs) that must surface frequently to recharge batteries, nuclear submarines can remain submerged indefinitely, providing a survivable second-strike capability."
-            ]
-          }
+            {
+                "name": "IGMDP Lineage, Ballistic Architecture, and MIRV Capabilities",
+                "bullets": [
+                    "<b>IGMDP Blueprint:</b> Integrated Guided Missile Development Program, initiated by Dr. A.P.J. Abdul Kalam, established 5 core indigenous systems: <b>Prithvi</b> (surface-to-surface short-range ballistic), <b>Agni</b> (strategic ballistic), <b>Trishul</b> (short-range SAM), <b>Nag</b> (third-generation anti-tank guided missile with fire-and-forget imaging infrared seekers), and <b>Akash</b> (medium-range SAM).",
+                    "<b>Agni Missile Series & MIRV Breakthrough:</b> Evolution from short-range Agni-I to intercontinental Agni-V (5,000+ km range using 3-stage solid propulsion). <b>Mission Divyastra</b> successfully integrated <b>MIRV (Multiple Independently Targetable Re-entry Vehicle)</b> technology onto Agni-V, allowing a single missile to carry multiple nuclear warheads that can be targeted at separate locations.",
+                    "<b>Guidance & Re-entry Physics:</b> Uses Inertial Navigation Systems (INS) integrated with satellite navigation (NavIC/GPS) and ring laser gyroscopes. Warheads undergo extreme thermal stress during atmospheric re-entry, requiring carbon-carbon composite thermal protection shields to prevent structural destruction."
+                ]
+            },
+            {
+                "name": "Cruise Missiles, Air Defense Grids, and Hypersonic Development",
+                "bullets": [
+                    "<b>Ballistic vs Cruise Mechanics:</b> Ballistic missiles follow a high-altitude parabolic sub-orbital trajectory, leaving the atmosphere before gravity guides them to their target. Cruise missiles fly at low altitudes within the atmosphere at constant speeds, using jet engines and terrain-matching sensors to avoid radar detection.",
+                    "<b>BrahMos & Ramjet/Scramjet Propulsion:</b> BrahMos is a supersonic cruise missile developed jointly by India and Russia. It uses a 2-stage propulsion system (solid booster + liquid ramjet) to fly at speeds up to Mach 2.8. Next-gen hypersonic variants utilize <b>Scramjet engines</b> (supersonic combustion ramjet), which ingest atmospheric oxygen at supersonic speeds to exceed Mach 5.",
+                    "<b>Integrated Air Defense Networks:</b> Layered defense systems comprising the long-range <b>S-400 Triumf</b> SAM, medium-range <b>MRSAM (Barak-8)</b>, indigenous <b>Akash-NG</b>, and the <b>Ballistic Missile Defense (BMD) Shield</b>. The BMD shield operates a two-tiered system: <i>Prithvi Air Defence (PAD)</i> for exo-atmospheric interception (>50 km altitude) and <i>Advanced Air Defence (AAD)</i> for endo-atmospheric interception (<30 km altitude)."
+                ]
+            }
         ]
-      }
-    ]
+    },
+    {
+        "phaseName": "Phase 2: Naval Warfare, Submarines & Stealth Aviation",
+        "subtopics": [
+            {
+                "name": "Nuclear Triad, Submarine Regimes, and AIP Systems",
+                "bullets": [
+                    "<b>India's Nuclear Triad & SSBNs:</b> The sea-based leg of India's nuclear triad provides second-strike capability. It centers on indigenous nuclear-powered ballistic missile submarines (SSBNs) like <b>INS Arihant</b> and <b>INS Arighat</b>, equipped with K-15 (750 km) and K-4 (3,500 km) Submarine-Launched Ballistic Missiles (SLBMs).",
+                    "<b>Conventional Submarines & AIP Integration:</b> Diesel-electric attack submarines (SSKs), such as the Project-75 <i>Kalvari-class</i> (Scorpène design), rely on battery power when submerged, requiring them to surface or snorkel regularly to run diesel generators. Integrating <b>Air-Independent Propulsion (AIP)</b> systems (like DRDO's phosphoric acid fuel cell) allows conventional submarines to stay submerged for up to 3 weeks.",
+                    "<b>Naval Fleet Modernization:</b> Deployment of indigenous aircraft carriers (<b>INS Vikrant</b>) featuring STOBAR (Short Take-Off But Arrested Recovery) launch systems, supported by stealth guided-missile destroyers (Project-15B <i>Visakhapatnam-class</i>) and stealth frigates (Project-17A <i>Nilgiri-class</i>)."
+                ]
+            },
+            {
+                "name": "Stealth Aviation, Avionics, and Unmanned Systems",
+                "bullets": [
+                    "<b>Radar Cross-Section (RCS) Reduction:</b> Stealth design reduces RCS by shaping airframe angles to scatter radar waves, using Radar Absorbent Materials (RAM) like ferrite coatings, and deploying internal weapons bays to minimize radar reflections.",
+                    "<b>Indigenous Fighter Platforms:</b> <b>LCA Tejas Mk-1A</b> incorporates AESA (Active Electronically Scanned Array) radar, Beyond Visual Range (BVR) air-to-air missiles, and mid-air refueling capabilities. The <b>AMCA (Advanced Medium Combat Aircraft)</b> program develops a 5th-generation stealth fighter featuring internal weapons bays, serpentine air intakes, and supercruise capability.",
+                    "<b>Unmanned Combat Aerial Vehicles (UCAVs) & Swarm Tech:</b> Development of autonomous combat platforms like TAPAS-BH-201 MALE UAV, the <b>Ghatak UCAV</b> stealth flying-wing prototype, and AI-driven Swarm Drone systems designed to overwhelm enemy air defense networks through coordinated autonomous attacks."
+                ]
+            }
+        ]
+    },
+    {
+        "phaseName": "Phase 3: Directed Energy Weapons, Cyber Defense & Indigenization",
+        "subtopics": [
+            {
+                "name": "Directed Energy Weapons, Electronic Warfare, and Cyber Warfare",
+                "bullets": [
+                    "<b>Directed Energy Weapons (DEWs):</b> Non-kinetic weapon systems that deliver high-energy focused beam impacts at the speed of light. Includes <b>High-Power Microwave (HPM)</b> weapons designed to fry electronic circuits and <b>High-Energy Lasers (HEL)</b> (e.g., DRDO's DURGA II project) to destroy enemy drones, incoming artillery, and optical sensors.",
+                    "<b>Electronic Warfare (EW) Suites:</b> Systems designed to control the electromagnetic spectrum. Includes radar jamming, communications intelligence, and radar warning receivers (RWR). Platforms like the <i>Dharani</i> and <i>Samyukta</i> EW systems detect, intercept, and jam adversary communications and radar targeting systems.",
+                    "<b>Cyber Defense Architecture:</b> The <b>Defence Cyber Agency (DCyA)</b> coordinates military network defense, counters cyber-espionage, and secures critical defense infrastructure against malware, ransomware, and state-sponsored cyberattacks."
+                ]
+            },
+            {
+                "name": "Defense Procurement, Positive Indigenization & R&D Reforms",
+                "bullets": [
+                    "<b>Defense Acquisition Procedure (DAP 2020):</b> Prioritizes local manufacturing through categories like <i>Buy (Indian-IDDM - Indigenously Designed, Developed and Manufactured)</i>, setting minimum local content requirements to reduce reliance on foreign defense imports.",
+                    "<b>Positive Indigenization Lists:</b> Policy notifications issued by the Ministry of Defence banning the import of specified weapons systems, ammunition, radars, and sub-assemblies, creating guaranteed local demand for domestic defense manufacturers.",
+                    "<b>DRDO Innovations & iDEX Framework:</b> <b>Innovations for Defence Excellence (iDEX)</b> engages startups, MSMEs, and academia to develop dual-use technologies. DRDO transfers technology to private industries to build a domestic defense industrial complex."
+                ]
+            }
+        ]
+    }
+]
   },
   "sci_3": {
-    "title": "Nuclear Technology - Nuclear Fission, Fusion & India's 3-Stage Program",
+    "title": "Information Technology & Emerging Tech - 5G/6G, AI/Robotics, Quantum Computing, Semiconductor Fab & Blockchain",
     "phases": [
-      {
-        "phaseName": "Reactor Physics & Domestic Strategic Fuel Cycles",
+    {
+        "phaseName": "Phase 1: Artificial Intelligence, Deep Learning & Frontier Computing",
         "subtopics": [
-          {
-            "name": "Homi Bhabha's Three-Stage Nuclear Strategy",
-            "bullets": [
-              "<b>Stage 1 - PHWRs:</b> Utilizes **Pressurized Heavy Water Reactors** fueled by un-enriched, **Natural Uranium ($U^{238}$)**. It produces electricity while transmuting $U^{238}$ into a byproduct: **Plutonium-239 ($Pu^{239}$)**. Heavy water ($D_2O$) acts as both the coolant and neutron moderator.",
-              "<b>Stage 2 - FBRs:</b> Relies on **Fast Breeder Reactors** fueled by a Mixed Oxide (MOX) combination of the $Pu^{239}$ recovered from Stage 1 and a surrounding blanket of local **Thorium-232 ($Th^{232}$)**. It is called a 'breeder' because it creates more fissile Uranium-233 ($U^{233}$) than it consumes.",
-              "<b>Stage 3 - Thorium Reactors:</b> The ultimate long-term stage, utilizing reactors fueled by **Uranium-233 bred in Stage 2, surrounded by a Thorium blanket** to convert fresh Thorium into fissile fuel, creating a self-sustaining cycle. This leverages India's massive domestic Monazite sand Thorium reserves.",
-              "<b>Fission vs Fusion Traps:</b> Nuclear fission splits heavy, unstable atomic nuclei (like $U^{235}$) into lighter elements, leaving radioactive waste. Nuclear fusion forces light isotopes (like Deuterium and Tritium) together under extreme temperature and pressure to form Helium, generating clean energy without long-lived high-level waste (tracked globally via the **ITER project**)."
-            ]
-          }
+            {
+                "name": "AI Architectures, Generative Models, and Compute Infrastructure",
+                "bullets": [
+                    "<b>Artificial Intelligence Continuum:</b> Moves from Narrow AI (task-specific automation) to Artificial General Intelligence (AGI). Powered by <b>Machine Learning (ML)</b> and <b>Deep Learning Neural Networks</b> modeled after human brain structures, using multilayered node networks to process complex unstructured datasets.",
+                    "<b>Generative AI & Transformer Models:</b> Generative AI leverages <b>Transformer architectures</b> and self-attention mechanisms to analyze sequential data patterns. This enables <b>Large Language Models (LLMs)</b> to process natural language, generate synthetic media, write code, and synthesize multi-modal outputs.",
+                    "<b>Compute Infrastructure & IndiaAI Mission:</b> Sovereign AI deployment requires high-density parallel processing hardware like Graphics Processing Units (GPUs) and Tensor Processing Units (TPUs). The <b>IndiaAI Mission</b> establishes a public AI compute infrastructure with over 10,000 GPUs, sets up the National Data Management Office, and supports indigenous foundational multi-modal AI models."
+                ]
+            },
+            {
+                "name": "Quantum Computing Mechanics & National Quantum Mission",
+                "bullets": [
+                    "<b>Quantum Physics vs Classical Computing:</b> Classical computers encode data into binary bits ($0$ or $1$). Quantum computers use <b>Qubits (Quantum Bits)</b> that leverage <b>Superposition</b> (existing as $0$, $1$, or a linear combination of both simultaneously) and <b>Quantum Entanglement</b> (interdependent qubit states across space), processing complex multidimensional calculations exponentially faster.",
+                    "<b>National Quantum Mission (NQM):</b> An 8-year national program targeting intermediate-scale quantum computers (50–1,000 physical qubits) across 4 thematic hubs: <i>Quantum Computing</i>, <i>Quantum Communication</i>, <i>Quantum Sensing/Metrology</i>, and <i>Quantum Materials</i>.",
+                    "<b>Quantum Cryptography & Post-Quantum Security:</b> <b>Quantum Key Distribution (QKD)</b> uses quantum mechanics principles to generate tamper-proof encryption keys, where any eavesdropping attempt instantly collapses the quantum state and alerts operators. This provides security against quantum algorithms that can break traditional RSA encryption."
+                ]
+            }
         ]
-      }
-    ]
+    },
+    {
+        "phaseName": "Phase 2: Next-Gen Communications, IoT & Semiconductor Ecosystems",
+        "subtopics": [
+            {
+                "name": "5G Standalone, 6G Architecture, and Internet of Things (IoT)",
+                "bullets": [
+                    "<b>5G Telecommunication Network Architecture:</b> Operates across sub-6 GHz and millimeter-Wave (mmWave) frequency spectrums. Uses <b>Massive MIMO</b> (Multiple-Input Multiple-Output) antenna arrays, beamforming, and <b>Network Slicing</b> to deliver Ultra-Reliable Low-Latency Communication (URLLC) and enhanced Mobile Broadband (eMBB).",
+                    "<b>6G Vision & Terahertz Communications:</b> The <b>Bharat 6G Vision</b> targets Terahertz (THz) spectrum bands ($100\\text{ GHz}$ to $3\\text{ THz}$) to achieve microsecond latency and terabit-per-second data speeds, integrating AI-native networks and Integrated Sensing and Communication (ISAC) architectures.",
+                    "<b>Internet of Things (IoT) & Edge Computing:</b> IoT connects smart sensors, actuators, and embedded devices over Low-Power Wide-Area Networks (LPWAN/NB-IoT). <b>Edge Computing</b> processes data locally on edge node devices rather than distant cloud servers, reducing bandwidth demands and enabling real-time processing for autonomous systems."
+                ]
+            },
+            {
+                "name": "Semiconductor Fabrication & India Semiconductor Mission (ISM)",
+                "bullets": [
+                    "<b>Semiconductor Wafer Fabrication Physics:</b> Manufacturing microprocessors using photolithography, chemical vapor deposition, and ion implantation on silicon wafers. Advanced nodes reduce transistor gate sizes down to nanometer scale (e.g., 3nm/2nm) using FinFET and Gate-All-Around (GAA) architectures, packing billions of transistors onto a single microchip.",
+                    "<b>Supply Chain Vulnerabilities & Geopolitics:</b> Global semiconductor manufacturing is concentrated in Taiwan (TSMC), South Korea, and the US, creating supply chain vulnerabilities for electronics, defense systems, and automotive industries.",
+                    "<b>India Semiconductor Mission (ISM):</b> A specialized business division under Digital India Corporation providing financial support to establish silicon semiconductor fabs, display fabs, compound semiconductor facilities, and Assembly, Testing, Marking, and Packaging (ATMP) units."
+                ]
+            }
+        ]
+    },
+    {
+        "phaseName": "Phase 3: Distributed Ledgers, Cybersecurity & Tech Governance",
+        "subtopics": [
+            {
+                "name": "Blockchain, Web3, and Central Bank Digital Currency (CBDC)",
+                "bullets": [
+                    "<b>Blockchain Distributed Ledger Technology:</b> A decentralized, peer-to-peer cryptographic database structure where transactions are bundled into blocks, timestamped, and linked via cryptographic hashes, making the data immutable and tamper-resistant without requiring a central intermediary.",
+                    "<b>Consensus Mechanisms & Smart Contracts:</b> Evaluates energy-intensive <i>Proof of Work (PoW)</i> versus eco-friendly <i>Proof of Stake (PoS)</i> validation protocols. <b>Smart Contracts</b> execute self-enforcing code automatically when predefined conditions are met, powering Web3 ecosystems, decentralized finance (DeFi), and supply chain management.",
+                    "<b>Digital Rupee (e-Rupee CBDC):</b> A sovereign digital currency issued by the Reserve Bank of India (RBI) using distributed ledger technology. It operates in retail ($e\\text{r-R}$) and wholesale ($e\\text{r-W}$) segments as a digital equivalent of physical banknote currency."
+                ]
+            },
+            {
+                "name": "Cybersecurity Threats, Critical Infrastructure, and Tech Governance",
+                "bullets": [
+                    "<b>Cyber Threat Vectors:</b> Ransomware attacks, Advanced Persistent Threats (APTs) targeting critical power grids and defense systems, Zero-Day exploits, and AI-driven deepfakes or social engineering attacks.",
+                    "<b>National Cybersecurity Architecture:</b> <b>CERT-In</b> (Indian Computer Emergency Response Team) serves as the national nodal agency for incident response; <b>NCIIPC</b> (National Critical Information Infrastructure Protection Centre) protects designated critical assets like banking, nuclear, and telecom grids under the IT Act, 2000.",
+                    "<b>Data Governance & Privacy Frameworks:</b> The <b>Digital Personal Data Protection (DPDP) Act</b> regulates processing of personal digital data through data fiduciaries, establishes rights for data principals, enforces parental consent for minors, and mandates the Data Protection Board of India."
+                ]
+            }
+        ]
+    }
+]
   },
   "sci_4": {
-    "title": "Biotechnology - Genetics, DNA Profiling & CRISPR-Cas9",
+    "title": "Biotechnology - Gene Editing (CRISPR-Cas9), GM Crops, Stem Cells, Synthetic Biology & RNA Tech",
     "phases": [
-      {
-        "phaseName": "Molecular Biology & Genetic Engineering",
+    {
+        "phaseName": "Phase 1: Gene Editing Architectures & Molecular Tools",
         "subtopics": [
-          {
-            "name": "CRISPR-Cas9 Mechanics & Somatic vs Germline Editing",
-            "bullets": [
-              "<b>CRISPR-Cas9 Gene Drive:</b> A molecular gene-editing technology. It uses a **Guide RNA (gRNA)** sequence to find a specific target location on a DNA strand, where the **Cas9 endonuclease protein** acts as genetic scissors to snip the double helix, allowing precise insertion, deletion, or repair of genes.",
-              "<b>Somatic vs Germline Modifications:</b> <i>Somatic Editing</i> targets non-reproductive cells (like blood or skin tissues) to cure disease in a single patient; these edits **cannot be passed down** to future generations. <i>Germline Editing</i> targets reproductive cells (sperm, eggs, or early embryos); these genetic modifications **alter the hereditary line permanently**.",
-              "<b>Recombinant DNA Tech:</b> Involves joining DNA molecules from two different species and inserting the hybrid string into a host organism (e.g., using plasmids in <i>E. coli</i> bacteria to mass-produce human insulin)."
-            ]
-          }
+            {
+                "name": "CRISPR-Cas9 Mechanism, Base/Prime Editing, and Safety Controls",
+                "bullets": [
+                    "<b>CRISPR-Cas9 Architecture:</b> Adapted from bacterial adaptive immune systems, comprising a <b>Cas9 endonuclease</b> enzyme and a guide RNA (gRNA) sequence that locates specific target DNA sequences, causing double-strand breaks for gene knockout or insertion.",
+                    "<b>Advanced Editing Regimes:</b> <i>Base Editing</i> allows precise conversion of single nucleotide base pairs (e.g., C-to-T or A-to-G) without double-strand DNA breaks, while <i>Prime Editing</i> acts as a 'search-and-replace' word processor for genomes, enabling complex insertions and deletions with higher precision.",
+                    "<b>Ethical, Off-Target, and Biosafety Risks:</b> Unintended off-target mutations, germline editing ethics, and regulatory frameworks governed by India's Genetic Engineering Appraisal Committee (GEAC) under the Environment Protection Act, 1986."
+                ]
+            },
+            {
+                "name": "Genetically Modified (GM) Crops & Regulatory Guidelines",
+                "bullets": [
+                    "<b>Transgenic vs Cisgenic Crops:</b> Transgenic crops incorporate foreign genes across species boundaries (e.g., Bt cotton featuring <i>Bacillus thuringiensis</i> insecticidal proteins), whereas cisgenic breeding inserts genes from cross-compatible or wild plant relatives.",
+                    "<b>Regulatory Evolution in India:</b> Commercial clearance history centers on Bt cotton and Bt brinjal controversies; recent policy updates exempt Site-Directed Nuclease (SDN-1 and SDN-2) gene-edited crops from rigorous biosafety field trials under specific GEAC guidelines to accelerate agricultural innovation.",
+                    "<b>Agronomic Benefits and Ecological Concerns:</b> Pest resistance and reduced pesticide application balanced against risks like gene flow to wild relatives, development of insect resistance, and monopolization of seed markets."
+                ]
+            }
         ]
-      }
-    ]
+    },
+    {
+        "phaseName": "Phase 2: Stem Cells, Regenerative Medicine & Molecular Therapeutics",
+        "subtopics": [
+            {
+                "name": "Stem Cell Potency, iPSCs, and Therapeutic Applications",
+                "bullets": [
+                    "<b>Cellular Potency Hierarchy:</b> Moving from <i>Totipotent</i> (zygote, can form whole organism and placenta) and <i>Pluripotent</i> (embryonic stem cells, can differentiate into all germ layers) to <i>Multipotent</i> and <i>Unipotent</i> somatic stem cells.",
+                    "<b>Induced Pluripotent Stem Cells (iPSCs):</b> Somatic adult cells (e.g., skin fibroblasts) genetically reprogrammed back into an embryonic pluripotent state using Yamanaka transcription factors, bypassing ethical issues associated with embryonic stem cell harvesting.",
+                    "<b>Clinical Translation:</b> Applications in regenerative medicine, bone marrow transplants for blood disorders, cartilage repair, and ongoing clinical trials for neurodegenerative conditions like Parkinson's and spinal cord injuries."
+                ]
+            },
+            {
+                "name": "Synthetic Biology, RNA Technologies, and Gene Therapy",
+                "bullets": [
+                    "<b>Synthetic Biology Principles:</b> Engineering biological systems and organisms from scratch or redesigning existing natural biological systems for useful purposes, including synthetic metabolic pathways and engineered microbes for plastic waste breakdown.",
+                    "<b>RNA Therapeutics & mRNA Vaccines:</b> Utilizing messenger RNA (mRNA) encapsulated in lipid nanoparticles to instruct host cells to synthesize target antigens, enabling rapid vaccine development and personalized cancer immunotherapies.",
+                    "<b>Gene Therapy Vectors:</b> Utilizing modified viral vectors (Adeno-Associated Viruses - AAV, Lentiviruses) to deliver functional therapeutic genes into patient cells to correct monogenic inherited disorders like sickle cell anemia and hemophilia."
+                ]
+            }
+        ]
+    },
+    {
+        "phaseName": "Phase 3: National Bio-Economy, Biomanufacturing & Clinical Governance",
+        "subtopics": [
+            {
+                "name": "India's Bio-Economy Growth & Biomanufacturing Initiatives",
+                "bullets": [
+                    "<b>National Bio-Economy Strategic Targets:</b> Scaling India's bio-economy footprint toward multi-billion dollar targets by expanding biotech startups, bio-incubators, and industrial biotechnology infrastructure under DBT and BIRAC frameworks.",
+                    "<b>Green Biomanufacturing Policy:</b> Promoting bio-based alternatives to petrochemicals, including bioplastics, bio-enzymes, and bio-fuels, to establish circular bio-economies and reduce industrial carbon footprints.",
+                    "<b>Clinical Trials and National Guidelines:</b> Adherence to ICMR guidelines, New Drugs and Clinical Trials Rules, and ethical review boards governing human genomic research, somatic cell therapy, and reproductive cloning bans."
+                ]
+            },
+            {
+                "name": "Genomic Surveillance, Bio-Security & Global Health Initiatives",
+                "bullets": [
+                    "<b>Genomic Surveillance Networks:</b> Consortia like INSACOG tracking SARS-CoV-2 variants and emerging pathogen mutations through high-throughput next-generation sequencing (NGS).",
+                    "<b>National Sickle Cell Anaemia Elimination Mission:</b> Healthcare initiative utilizing point-of-care diagnostics, genetic screening, and targeted counseling to eliminate sickle cell disease across tribal belts by 2047.",
+                    "<b>Biosafety and Biosecurity Protocols:</b> Managing dual-use biotechnology research, preventing accidental pathogen leakage, and complying with the Biological Weapons Convention (BWC)."
+                ]
+            }
+        ]
+    }
+]
   },
   "sci_5": {
-    "title": "Information Technology, Quantum Computing & Emerging Tech (AI, Blockchain)",
+    "title": "Nuclear Technology & Nanotechnology - Fission vs Fusion, India's Three-Stage Nuclear Program & Advanced Materials",
     "phases": [
-      {
-        "phaseName": "Advanced Computing Architectures & Cryptographic Ledgers",
+    {
+        "phaseName": "Phase 1: Nuclear Fission Physics & India's Three-Stage Program",
         "subtopics": [
-          {
-            "name": "Quantum Superposition & Decentralized Ledgers",
-            "bullets": [
-              "<b>Quantum Qubit Physics:</b> Classical computers rely on silicon transistors processing binary bits as either a 0 or a 1. Quantum computing utilizes subatomic qubits that leverage **Superposition** (existing simultaneously as both 0 and 1) and **Entanglement** (qubits remaining linked regardless of distance), expanding computing power exponentially.",
-              "<b>Blockchain Cryptography:</b> A decentralized, distributed ledger system. Data is stored in chronological blocks secured using cryptographic hashes. Every block is linked immutably to the preceding one, creating a system that cannot be altered retroactively without rewriting the entire network history.",
-              "<b>Web 3.0 vs Web 2.0:</b> Web 2.0 is the centralized, interactive web dominated by tech platforms hosting user data. Web 3.0 is a decentralized internet architecture built on blockchain nodes, where users maintain sovereign ownership over their own data and identities through smart contracts."
-            ]
-          }
+            {
+                "name": "Nuclear Fission Mechanics, Reactor Safety, and Fuel Cycles",
+                "bullets": [
+                    "<b>Fission Chain Reaction Physics:</b> Heavy atomic nuclei (e.g., Uranium-235 or Plutonium-239) absorb neutrons, destabilize, and split into lighter fission fragments, releasing immense binding energy, thermal output, and secondary neutrons to sustain chain reactions.",
+                    "<b>Reactor Core Components:</b> Function of <i>moderators</i> (heavy water, graphite) to slow down fast neutrons into thermal neutrons, <i>control rods</i> (boron, cadmium) to absorb excess neutrons and regulate reaction rates, and <i>coolants</i> (water, liquid sodium) to transfer thermal energy to steam turbines.",
+                    "<b>Reactor Safety Lessons:</b> Analysis of historical containment failures (Chernobyl, Fukushima) leading to modern passive safety systems, core catchers, and robust secondary containment structures."
+                ]
+            },
+            {
+                "name": "India's Three-Stage Nuclear Power Program",
+                "bullets": [
+                    "<b>Stage 1 (Pressurized Heavy Water Reactors - PHWRs):</b> Utilizes natural uranium ($U^{238}$ with $0.7\\% \\text{ U}^{235}$) and heavy water moderator to generate power while producing Plutonium-239 as a fissile byproduct.",
+                    "<b>Stage 2 (Fast Breeder Reactors - FBRs):</b> Utilizes Plutonium-239 mixed with uranium in Fast Breeder Reactors cooled by liquid sodium. FBRs produce more fissile material than they consume, expanding fuel yields exponentially.",
+                    "<b>Stage 3 (Thorium Utilization):</b> Leverages India's vast domestic Thorium-232 reserves by converting them into Uranium-233 inside advanced thorium-fueled reactors (e.g., Advanced Heavy Water Reactor - AHWR) to secure long-term energy independence."
+                ]
+            }
         ]
-      }
-    ]
+    },
+    {
+        "phaseName": "Phase 2: Nuclear Fusion, Strategic Geopolitics & Advanced Physics",
+        "subtopics": [
+            {
+                "name": "Nuclear Fusion Physics, Magnetic Confinement, and ITER",
+                "bullets": [
+                    "<b>Fusion Reaction Mechanics:</b> Combining light atomic nuclei (Deuterium and Tritium isotopes of hydrogen) under extreme temperatures and pressures to form Helium, releasing clean energy without long-lived radioactive waste.",
+                    "<b>Magnetic and Inertial Confinement:</b> <i>Tokamak</i> designs utilize powerful toroidal magnetic fields to contain high-temperature plasma (e.g., International Thermonuclear Experimental Reactor - ITER), while <i>Inertial Confinement Fusion</i> uses high-power lasers to trigger rapid implosion.",
+                    "<b>Advantages over Fission:</b> Zero risk of runaway meltdown, abundant fuel sources (deuterium from seawater, tritium bred from lithium), and negligible high-level nuclear waste production."
+                ]
+            },
+            {
+                "name": "Strategic Nuclear Architecture, Civil Liability, and NSG Dynamics",
+                "bullets": [
+                    "<b>Civil Nuclear Liability Act (CLDA, 2010):</b> Establishes legal liability frameworks for nuclear operators and suppliers in case of accidents, balancing compensation provisions with domestic atomic industrial growth.",
+                    "<b>Nuclear Suppliers Group (NSG) Geopolitics:</b> Diplomatic efforts for India's membership to the 48-nation NSG, balancing international non-proliferation norms (NPT non-signatory status) with the India-US Civil Nuclear Agreement waiver.",
+                    "<b>Strategic Deterrence and Non-Proliferation:</b> India's 'No First Use' nuclear doctrine, credible minimum deterrence, and strict command-and-control structures managed by the Nuclear Command Authority."
+                ]
+            }
+        ]
+    },
+    {
+        "phaseName": "Phase 3: Nanotechnology Principles & Advanced Materials",
+        "subtopics": [
+            {
+                "name": "Nanomaterial Synthesis, Characterization, and Quantum Effects",
+                "bullets": [
+                    "<b>Nanoscale Scale Physics:</b> Materials engineered at the nanometer scale ($1$ to $100\\text{ nm}$) exhibit quantum confinement effects, significantly altering electrical, optical, thermal, and mechanical properties compared to bulk materials.",
+                    "<b>Top-Down vs Bottom-Up Synthesis:</b> <i>Top-down</i> methods (lithography, milling) etch bulk materials down to nanoscale features; <i>bottom-up</i> methods (chemical vapor deposition, self-assembly) build nanostructures atom-by-atom or molecule-by-molecule.",
+                    "<b>Carbon Nanostructures:</b> Graphene (single-layer honeycomb carbon lattice with high electrical and tensile strength), Carbon Nanotubes (CNTs), and Fullerenes exhibiting unique conductive and structural properties."
+                ]
+            },
+            {
+                "name": "Applications in Medicine, Electronics, Environment, and Toxicity",
+                "bullets": [
+                    "<b>Nanomedicine & Targeted Drug Delivery:</b> Utilizing nanoparticle carriers (liposomes, polymeric micelles) to deliver chemotherapy drugs directly to tumor sites while sparing healthy tissues, minimizing systemic toxicity.",
+                    "<b>Environmental and Industrial Applications:</b> Nano-catalysts for industrial emission scrubbing, titanium dioxide nanoparticles for self-cleaning surfaces, and nano-membranes for efficient water desalination and heavy metal filtration.",
+                    "<b>Nanotoxicology & Safety Regulations:</b> Assessing environmental health and safety risks associated with nanoparticle inhalation, cellular penetration, and bioaccumulation in aquatic ecosystems."
+                ]
+            }
+        ]
+    }
+]
   },
   "sci_6": {
-    "title": "Nanotechnology & Materials Science (Graphene, Superconductors)",
+    "title": "Energy Technologies & Storage Systems - Green Hydrogen, Fuel Cells, Advanced Batteries (Li-ion/Solid-State) & EVs",
     "phases": [
-      {
-        "phaseName": "Nanoscale Physics & Molecular Carbon Allotropes",
+    {
+        "phaseName": "Phase 1: Hydrogen Economy & Fuel Cell Technologies",
         "subtopics": [
-          {
-            "name": "Quantum Confinement Effects & Graphene Anomalies",
-            "bullets": [
-              "<b>The Nanoscale Shift:</b> At the nanoscale (1 to 100 nanometers), materials stop following classical physics and begin exhibiting **Quantum Confinement** effects. This changes their optical properties, electrical conductivity, and chemical reactivity relative to their bulk states.",
-              "<b>Graphene Allotropy:</b> A two-dimensional, single-atom-thick sheet of carbon arranged in a hexagonal honeycomb lattice. It is a phenomenal conductor of heat and electricity, flexible, and holds a tensile strength **200 times greater than steel**.",
-              "<b>Superconductivity Thresholds:</b> A physical state where certain materials exhibit **zero electrical resistance** and expel all internal magnetic fields when cooled below a specific Critical Temperature ($T_c$)—an effect known as the **Meissner Effect**."
-            ]
-          }
+            {
+                "name": "Hydrogen Color Taxonomy, Production Methods, and Electrolysis",
+                "bullets": [
+                    "<b>Hydrogen Color Spectrum Taxonomy:</b> <i>Grey hydrogen</i> produced via steam methane reforming of natural gas with high emissions; <i>Blue hydrogen</i> utilizing SMR paired with Carbon Capture and Storage (CCS); <i>Green hydrogen</i> generated via pure water electrolysis powered by renewable energy arrays.",
+                    "<b>Electrolysis Technologies:</b> Comparing Alkaline Water Electrolysis (AWE), Proton Exchange Membrane (PEM) electrolysis, and emerging Solid Oxide Electrolyzer Cells (SOEC) in terms of efficiency, capital cost, and dynamic operating ranges.",
+                    "<b>National Green Hydrogen Mission:</b> India's strategic roadmap targeting 5 Million Metric Tonnes (MMT) annual production capacity by 2030, reducing fossil fuel imports and decarbonizing hard-to-abate industrial sectors."
+                ]
+            },
+            {
+                "name": "Fuel Cell Architecture, Storage, and Transport Applications",
+                "bullets": [
+                    "<b>Fuel Cell Electrochemistry:</b> Electrochemical cells that convert chemical energy from hydrogen and oxygen directly into electrical energy, producing water vapor as the sole exhaust byproduct.",
+                    "<b>Hydrogen Storage and Transport Challenges:</b> Overcoming low volumetric energy density through high-pressure gaseous storage ($350-700\\text{ bar}$), cryogenic liquid hydrogen storage ($-253^\\circ\\text{C}$), and chemical carriers like ammonia or liquid organic hydrogen carriers (LOHCs).",
+                    "<b>Heavy Mobility & Industrial Integration:</b> Deploying fuel cell electric vehicles (FCEVs) for long-haul trucking, railways, and maritime shipping, alongside industrial feedstock replacement in steelmaking and fertilizer synthesis."
+                ]
+            }
         ]
-      }
-    ]
+    },
+    {
+        "phaseName": "Phase 2: Advanced Energy Storage & Battery Chemistries",
+        "subtopics": [
+            {
+                "name": "Lithium-ion Cell Electrochemistry, Degradation, and Supply Chains",
+                "bullets": [
+                    "<b>Li-ion Cell Architecture:</b> Comprising a positive cathode (Lithium Metal Oxide), negative anode (Graphite), porous separator, and lithium salt electrolyte in organic solvent, operating via reversible lithium-ion intercalation during charge-discharge cycles.",
+                    "<b>Cell Degradation & Thermal Runaway:</b> Causes of battery aging, capacity fading, lithium plating, and catastrophic <i>thermal runaway</i> driven by internal short circuits, overcharging, or high ambient temperatures leading to exothermic decomposition.",
+                    "<b>Critical Mineral Supply Chains:</b> Geopolitical concentration of lithium, cobalt, nickel, and manganese refining, prompting India's critical mineral exploration initiatives and mining acquisitions abroad via Khanij Bidesh India Ltd (KABIL)."
+                ]
+            },
+            {
+                "name": "Solid-State Batteries, Sodium-ion, and Alternative Storage",
+                "bullets": [
+                    "<b>Solid-State Battery Technology:</b> Replacing liquid organic electrolytes with solid ceramic, polymer, or glass electrolytes, eliminating fire risks, increasing energy density, and enabling faster charging speeds.",
+                    "<b>Sodium-ion and Metal-Air Chemistries:</b> Sodium-ion batteries using abundant sodium precursors as cost-effective alternatives for stationary grid storage; Zinc-air and Lithium-sulfur chemistries offering high theoretical energy densities.",
+                    "<b>Pumped Hydro and Grid-Scale Storage:</b> Pumped Storage Plants (PSPs) and grid-scale battery energy storage systems (BESS) balancing variable renewable energy generation from solar and wind farms."
+                ]
+            }
+        ]
+    },
+    {
+        "phaseName": "Phase 3: Electric Vehicles (EVs), Charging Infrastructure & Grid Integration",
+        "subtopics": [
+            {
+                "name": "EV Powertrain Dynamics, Charging Standards, and FAME Schemes",
+                "bullets": [
+                    "<b>EV Powertrain Architecture:</b> Integration of battery packs, power electronics (inverters/converters), regenerative braking systems, and permanent magnet synchronous electric motors delivering high torque efficiency.",
+                    "<b>Charging Infrastructure & Standards:</b> Differentiating slow AC charging from fast DC fast charging standards (CCS, CHAdeMO, Bharat EV AC/DC protocols), and battery swapping technologies for two and three-wheelers.",
+                    "<b>FAME II & PM E-Drive Schemes:</b> Government demand-incentive policies accelerating electric vehicle adoption, domestic component manufacturing under the Phased Manufacturing Program (PMP), and Production Linked Incentive (PLI) schemes for Advanced Chemistry Cell (ACC) battery storage."
+                ]
+            },
+            {
+                "name": "Smart Grids, V2G Integration, and Renewable Transition",
+                "bullets": [
+                    "<b>Vehicle-to-Grid (V2G) Technology:</b> Bi-directional power transfer enabling electric vehicles to feed stored electrical energy back into the home or main power grid during peak demand hours.",
+                    "<b>Smart Grid Infrastructure:</b> Advanced metering infrastructure (AMI), automated demand response, and AI-driven load balancing to manage distributed renewable energy integration.",
+                    "<b>Circular Economy & Battery Recycling:</b> Establishing recycling facilities to recover high-value critical metals (lithium, cobalt, nickel) from spent EV batteries, supporting closed-loop circular manufacturing."
+                ]
+            }
+        ]
+    }
+]
   },
   "sci_7": {
-    "title": "Health & Disease - Viruses, Bacteria, Vaccines & Antimicrobial Resistance",
+    "title": "Public Health, Diseases (Viral, Bacterial, Protozoan), Vaccines & Antimicrobial Resistance (AMR)",
     "phases": [
-      {
-        "phaseName": "Pathogen Kinetics & Immunological Therapeutics",
-        "subtopics": [
-          {
-            "name": "Antimicrobial Resistance & Vaccine Engineering",
-            "bullets": [
-              "<b>Antimicrobial Resistance (AMR):</b> Occurs when bacteria, viruses, or parasites mutate over time, rendering standard antibiotic medications completely ineffective. Driven by the misuse of antibiotics and **horizontal gene transfer** through plasmids (such as the spread of the NDM-1 superbug gene).",
-              "<b>Vaccine Platform Configurations:</b> 1. <i>Inactivated Vaccines:</i> Uses pathogens killed by heat or chemicals (e.g., Covaxin). 2. <i>Viral Vector Vaccines:</i> Uses a safe virus (like an adenovirus) as a delivery vehicle to carry genetic instructions for a pathogen's spike protein (e.g., Covishield). 3. <i>mRNA Vaccines:</i> Delivers synthetic messenger RNA strands wrapped in lipid nanoparticles to instruct cells to produce defensive antigens.",
-              "<b>Zoonotic Spillovers:</b> Infectious diseases caused by pathogens that jump directly from animal hosts to humans, often driven by deforestation, habitat fragmentation, and wildlife markets (e.g., Nipah, Ebola, and Avian Influenza)."
+        {
+            "phaseName": "Phase 1: Pathogen Classifications & Communicable Disease Dynamics",
+            "subtopics": [
+                {
+                    "name": "Viral, Bacterial, and Protozoan Pathologies",
+                    "bullets": [
+                        "<b>Viral Pathogen Transmission & Replication:</b> Pathologies driven by intracellular parasites relying on host cellular machinery (e.g., Influenza, Dengue, Rabies, and emerging zoonotic coronaviruses), spreading via droplet, vector-borne, or direct contact routes.",
+                        "<b>Bacterial Infections & Resistance Mechanisms:</b> Pathogenic prokaryotes causing systemic diseases like Tuberculosis (<i>Mycobacterium tuberculosis</i>), Cholera, and Typhoid, characterized by cell-wall structures that influence antibiotic susceptibility.",
+                        "<b>Protozoan & Parasitic Vectors:</b> Complex vector-borne life cycles exemplified by Malaria (<i>Plasmodium</i> species transmitted via female <i>Anopheles</i> mosquitoes) and Visceral Leishmaniasis (Kala-azar transmitted by sandflies), requiring integrated vector control strategies."
+                    ]
+                },
+                {
+                    "name": "One Health Framework & Zoonotic Disease Surveillance",
+                    "bullets": [
+                        "<b>The One Health Paradigm:</b> The <b>National One Health Mission</b> integrates human, animal, and environmental health sectors to detect and control cross-species disease transmission and zoonotic spillover.",
+                        "<b>Zoonotic Spillover & Early Warning:</b> Monitoring high-risk animal reservoirs (avian influenza, lumpy skin disease, and rabies) using integrated metagenomic surveillance pipelines and BSL-3/BSL-4 laboratory networks.",
+                        "<b>National Disease Elimination Targets:</b> Strategic roadmaps and milestones aimed at eliminating vector-borne and communicable scourges, including the National TB Elimination Programme striving for a tuberculosis-free India."
+                    ]
+                }
             ]
-          }
-        ]
-      }
+        },
+        {
+            "phaseName": "Phase 2: Immunology, Vaccine Technologies & Therapeutics",
+            "subtopics": [
+                {
+                    "name": "Vaccine Platforms and Immunization Mechanics",
+                    "bullets": [
+                        "<b>Traditional vs Modern Vaccine Architectures:</b> Differentiating <i>Inactivated</i> and <i>Live-Attenuated</i> vaccines from recombinant subunit, viral vector, and <b>mRNA vaccine platforms</b> that instruct host ribosomes to synthesize protective antigens.",
+                        "<b>Adjuvants and Herd Immunity Dynamics:</b> Role of immunological adjuvants in enhancing antibody production, and achieving threshold population immunity (herd immunity) to halt community transmission chains.",
+                        "<b>Indigenous Vaccine Development:</b> India's vaccine manufacturing ecosystem (e.g., Covaxin, ZyCoV-D plasmid DNA vaccine, and Cervavac HPV vaccine), establishing global supply security for low- and middle-income countries."
+                    ]
+                },
+                {
+                    "name": "Antimicrobial Resistance (AMR) & National Action Plans",
+                    "bullets": [
+                        "<b>Mechanisms of Antimicrobial Resistance:</b> Genetic mutation, horizontal gene transfer, and efflux pump mechanisms rendering standard antibiotics ineffective against superbugs.",
+                        "<b>Drivers of AMR:</b> Unregulated antibiotic use in human clinical care, agricultural growth promoters, and veterinary practices, alongside pharmaceutical wastewater contamination.",
+                        "<b>National Action Plan on AMR (NAP-AMR 2.0):</b> Multi-sectoral governance frameworks restricting over-the-counter sales of critical antibiotics, promoting hospital infection control, and incentivizing novel antibiotic R&D."
+                    ]
+                }
+            ]
+        },
+        {
+            "phaseName": "Phase 3: Non-Communicable Diseases, Diagnostics & Health Infrastructure",
+            "subtopics": [
+                {
+                    "name": "Non-Communicable Diseases (NCDs) & Precision Public Health",
+                    "bullets": [
+                        "<b>Epidemiological Transition:</b> Rising burden of cardiovascular diseases, diabetes, cancers, and chronic respiratory ailments driven by urbanization, lifestyle changes, and environmental pollution.",
+                        "<b>Precision Diagnostics & Biomarkers:</b> Integrating molecular diagnostics, PCR testing, Next-Generation Sequencing (NGS), and point-of-care biosensors for early disease detection.",
+                        "<b>Digital Health Architecture:</b> Deployment of the Ayushman Bharat Digital Mission (ABDM) to maintain interoperable health records, unique health IDs, and telehealth networks across rural primary health centers."
+                    ]
+                },
+                {
+                    "name": "Biosecurity, Pandemic Preparedness & Global Health Security",
+                    "bullets": [
+                        "<b>Pandemic Preparedness Protocols:</b> Building agile clinical trial networks, plug-and-play vaccine manufacturing platforms, and strategic national stockpiles of medical countermeasures.",
+                        "<b>Global Health Governance & Treaties:</b> India's participation in international health frameworks, compliance with WHO International Health Regulations (IHR), and contributions to the global Pandemic Agreement negotiations.",
+                        "<b>Medical Device and Pharma Regulation:</b> Strengthening quality control standards under the Central Drugs Standard Control Organization (CDSCO) and the New Drugs and Clinical Trials Rules to ensure safety and export competitiveness."
+                    ]
+                }
+            ]
+        }
     ]
-  }
+},
+"sci_8": {
+    "title": "Intellectual Property Rights (IPR), S&T Policies, Indigenization & R&D Infrastructure",
+    "phases": [
+        {
+            "phaseName": "Phase 1: Intellectual Property Rights (IPR) Regimes & Global Frameworks",
+            "subtopics": [
+                {
+                    "name": "Patents, Copyrights, Trademarks, and Trade Secrets",
+                    "bullets": [
+                        "<b>Patent Law & Criteria:</b> Legal monopolies granted for inventions meeting statutory requirements of <i>Novelty</i>, <i>Non-obviousness</i>, and <i>Industrial applicability</i>, governed in India by the Patents Act, 1970.",
+                        "<b>Copyrights and Trademarks:</b> Copyright protects original literary, artistic, and software expressions; trademarks protect commercial brand identifiers, symbols, and logos against unauthorized market duplication.",
+                        "<b>Geographical Indications (GI Tags):</b> Intellectual property rights assigned to agricultural, natural, or manufactured goods originating from a specific geographic region with distinct qualities or reputation (e.g., Darjeeling tea, Alphonso mango)."
+                    ]
+                },
+                {
+                    "name": "TRIPS Agreement, Compulsory Licensing, and Traditional Knowledge",
+                    "bullets": [
+                        "<b>WTO TRIPS Compliance:</b> World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights establishing minimum global standards for IP protection.",
+                        "<b>Section 3(d) of Indian Patent Act:</b> Prevents 'evergreening' of patents by denying protection to mere discoveries of new forms of known substances that do not result in enhanced efficacy.",
+                        "<b>Traditional Knowledge Digital Library (TKDL):</b> Defensive IP repository established by India to prevent biopiracy and the patenting of traditional medicinal formulations derived from Ayurveda, Yoga, and Unani systems."
+                    ]
+                }
+            ]
+        },
+        {
+            "phaseName": "Phase 2: S&T Policy Frameworks, Deep Tech & R&D Governance",
+            "subtopics": [
+                {
+                    "name": "National Science, Technology, and Innovation Policy (STIP) & Deep Tech",
+                    "bullets": [
+                        "<b>STIP Architecture:</b> Decentralized, evidence-based policy framework promoting open science, equitable access to scientific data, and robust industry-academia collaborations.",
+                        "<b>National Deep Tech Startup Policy (NDTSP):</b> Strategic framework and DPIIT regulatory notifications supporting research-intensive startups with extended IP recognition windows, specialized funding, and streamlined compliance.",
+                        "<b>Gross Expenditure on R&D (GERD):</b> Analyzing India's R&D spending relative to GDP, balancing public sector research funding with private sector corporate R&D investments."
+                    ]
+                },
+                {
+                    "name": "Research Infrastructure, National Labs, and Academic-Industry Linkages",
+                    "bullets": [
+                        "<b>CSIR and National Laboratory Networks:</b> Autonomous R&D bodies (Council of Scientific and Industrial Research) driving applied research across aerospace, biotechnology, metallurgy, and chemicals.",
+                        "<b>ANRF (Anusandhan National Research Foundation):</b> Apex funding body established to seed, grow, and promote R&D across universities, colleges, and research institutions, boosting private sector research contributions.",
+                        "<b>Research Parks and Incubation Hubs:</b> Fostering deep tech entrepreneurship through campus-based research parks, Atal Incubation Centres (AIC), and technology business incubators."
+                    ]
+                }
+            ]
+        },
+        {
+            "phaseName": "Phase 3: Technology Indigenization, Strategic Autonomy & Export Controls",
+            "subtopics": [
+                {
+                    "name": "Atmanirbhar Bharat, Technology Transfer, and Dual-Use Controls",
+                    "bullets": [
+                        "<b>Self-Reliance in Critical Tech:</b> Strategic indigenization policies reducing import dependencies across electronics, active pharmaceutical ingredients (APIs), semiconductor manufacturing, and defense equipment.",
+                        "<b>Technology Transfer Mechanisms:</b> Translating laboratory-scale discoveries into commercial products via public-funded research commercialization and licensing agreements.",
+                        "<b>Dual-Use Export Controls:</b> Regulating the export of sensitive technologies, chemicals, and software with both civilian and military applications under international regimes (Wassenaar Arrangement, Missile Technology Control Regime)."
+                    ]
+                },
+                {
+                    "name": "Global Scientific Collaborations & Mega-Science Projects",
+                    "bullets": [
+                        "<b>India's Mega-Science Participation:</b> Collaborative involvement in global scientific facilities, including the Large Hadron Collider (CERN), LIGO-India gravitational wave detector, ITER nuclear fusion reactor, and the Square Kilometre Array (SKA).",
+                        "<b>International S&T Treaties:</b> Bilateral and multilateral research agreements accelerating joint scientific missions in polar research, oceanography, space exploration, and clean energy transition.",
+                        "<b>Scientific Diplomacy:</b> Leveraging vaccine science, space launch capabilities, and renewable energy frameworks to build strategic partnerships with Global South and developed nations."
+                    ]
+                }
+            ]
+        }
+    ]
+},
+"sci_9": {
+    "title": "Basic Physics, Chemistry & Biology Core Concepts (Everyday Science for Prelims)",
+    "phases": [
+        {
+            "phaseName": "Phase 1: Fundamental Physics Principles & Everyday Phenomena",
+            "subtopics": [
+                {
+                    "name": "Mechanics, Thermodynamics, Electromagnetism, and Optics",
+                    "bullets": [
+                        "<b>Mechanics & Gravitation:</b> Laws of motion, work, energy, power, centripetal/centrifugal forces, and universal gravitation explaining planetary motion and satellite orbits.",
+                        "<b>Thermodynamics & Heat Transfer:</b> Laws of thermodynamics, modes of heat transfer (conduction, convection, radiation), and latent heat explaining weather patterns and refrigeration.",
+                        "<b>Optics & Electromagnetic Waves:</b> Reflection, refraction, total internal reflection (explaining optical fibers and mirages), scattering of light (Rayleigh scattering explaining blue skies), and the electromagnetic spectrum."
+                    ]
+                },
+                {
+                    "name": "Modern Physics, Semiconductor Physics, and Waves",
+                    "bullets": [
+                        "<b>Semiconductor Physics:</b> Intrinsic and extrinsic semiconductors (p-type and n-type), diode rectification, and transistor amplification forming the basis of modern electronics.",
+                        "<b>Wave Mechanics & Acoustics:</b> Transverse and longitudinal waves, Doppler effect, sonar principles, and ultrasonic applications in medicine and industry.",
+                        "<b>Nuclear & Particle Physics Basics:</b> Radioactivity, half-life, nuclear binding energy, and elementary particle concepts tested in standard prelims questions."
+                    ]
+                }
+            ]
+        },
+        {
+            "phaseName": "Phase 2: Core Chemistry Principles & Applied Materials",
+            "subtopics": [
+                {
+                    "name": "Atomic Structure, Chemical Bonding, and Periodic Trends",
+                    "bullets": [
+                        "<b>Atomic Theory & Subatomic Particles:</b> Protons, neutrons, electrons, isotopes, isobars, and electronic configurations governing chemical reactivity.",
+                        "<b>Chemical Bonding:</b> Ionic bonds, covalent bonds, hydrogen bonding, and intermolecular forces determining physical states and melting/boiling points.",
+                        "<b>Periodic Table Trends:</b> Electronegativity, ionization energy, atomic radius trends, and properties of s, p, d, and f-block elements."
+                    ]
+                },
+                {
+                    "name": "Acids, Bases, Electrochemistry, and Everyday Chemistry",
+                    "bullets": [
+                        "<b>Acids, Bases, and Salts:</b> Brønsted-Lowry theory, pH scale, buffer solutions, neutralization reactions, and common industrial chemicals (e.g., baking soda, washing soda, bleaching powder).",
+                        "<b>Electrochemistry & Redox Reactions:</b> Oxidation-reduction reactions, galvanic cells, electrolytic cells, corrosion mechanisms, and metal electroplating principles.",
+                        "<b>Polymers, Alloys, and Catalysts:</b> Structure of natural and synthetic polymers (plastics, rubbers), composition of common metallic alloys (brass, bronze, steel), and catalytic action in chemical reactions."
+                    ]
+                }
+            ]
+        },
+        {
+            "phaseName": "Phase 3: Cell Biology, Human Physiology & Plant Systems",
+            "subtopics": [
+                {
+                    "name": "Cellular Biology, Genetics, and Biomolecules",
+                    "bullets": [
+                        "<b>Cell Organelles & Functions:</b> Structure and function of eukaryotic versus prokaryotic cells, mitochondria (cellular respiration), ribosomes (protein synthesis), and lysosomes.",
+                        "<b>Genetics & Molecular Biology:</b> DNA structure (double helix), RNA transcription, protein translation, Mendelian inheritance laws, and epigenetic modifications.",
+                        "<b>Biomolecules:</b> Carbohydrates, proteins, lipids, vitamins, and nucleic acids essential for metabolic energy pathways and structural integrity."
+                    ]
+                },
+                {
+                    "name": "Human Physiology, Plant Biology, and Ecosystem Functions",
+                    "bullets": [
+                        "<b>Human Organ Systems:</b> Circulatory system (blood groups, cardiac cycle), respiratory gas exchange, nervous system signal transmission, endocrine hormonal regulation, and excretory filtration.",
+                        "<b>Plant Physiology:</b> Photosynthesis (light and dark reactions), transpiration, plant hormones (auxins, gibberellins, abscisic acid), and nutrient uptake mechanisms.",
+                        "<b>Enzymology & Metabolism:</b> Enzyme kinetics, co-factors, catabolic and anabolic metabolic pathways sustaining living organisms."
+                    ]
+                }
+            ]
+        }
+    ]
+}
 }
