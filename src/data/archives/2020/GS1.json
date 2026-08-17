@@ -1,0 +1,1402 @@
+[
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 1,
+    "q": "With reference to the history of India, consider the following pairs:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Famous Place</th><th>Present State</th></tr></thead><tbody><tr><td>1. Bhilsa</td><td>Madhya Pradesh</td></tr><tr><td>2. Dwarasamudra</td><td>Maharashtra</td></tr><tr><td>3. Girnagar</td><td>Gujarat</td></tr><tr><td>4. Sthaneshwara</td><td>Uttar Pradesh</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 3 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "2 and 4 only"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pairs 1 and 3 are correctly matched:</b></p><ul><li><b>Bhilsa:</b> Ancient Vidisha, located in <b>Madhya Pradesh</b>.</li><li><b>Girnagar:</b> Ancient Girnar (Junagadh), located in <b>Gujarat</b>.</li><li>Pair 2 is incorrect: <b>Dwarasamudra</b> (Halebidu) was the capital of the Hoysalas, located in <b>Karnataka</b> (not Maharashtra).</li><li>Pair 4 is incorrect: <b>Sthaneshwara</b> (Thanesar) was the capital of the Pushyabhutis, located in Kurukshetra, <b>Haryana</b> (not Uttar Pradesh).</li></ul><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 2,
+    "q": "With reference to the cultural history of India, which one of the following is the correct description of the term 'paramitas'?",
+    "options": [
+      "The earliest Dharmashastra texts written in aphoristic (sutra) style",
+      "Philosophical schools that did not accept the authority of the Vedas",
+      "Perfections whose attainment led to the Bodhisattva path",
+      "Powerful merchant guilds of early medieval South India"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> In Mahayana Buddhism, <b>Paramitas</b> (perfections/transcendent virtues) refer to the noble qualities (such as Dana, Shila, Kshanti, Virya, Dhyana, and Prajna) that a Bodhisattva must cultivate and perfect to achieve enlightenment (Buddhahood) for the liberation of all sentient beings.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 3,
+    "q": "With reference to the scholars/litterateurs of ancient India, consider the following statements:\n1. Harishena was a court poet of Samudragupta.\n2. Kalidasa was associated with Chandragupta II.\n3. Amarasimha was associated with Harshavardhana.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Harishena composed the famous Allahabad Pillar Inscription (Prayag Prashasti) eulogizing Samudragupta. Kalidasa was one of the Navaratnas (Nine Jewels) in the court of Gupta Emperor Chandragupta II Vikramaditya.</p><p><b>Statement 3 is incorrect:</b> Amarasimha (author of <i>Amarakosha</i>) was also one of the Navaratnas of Chandragupta II, not Harshavardhana (whose court was adorned by Banabhatta and Mayura).</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 4,
+    "q": "In the context of Indian history, the Rakhmabai case of 1884 revolved around:\n1. Age of consent\n2. Restitution of conjugal rights\n3. Rights of women to education\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The landmark legal battle involving Rukhmabai Raut centered on her refusal to live with her husband following a child marriage, leading to a trial on the <b>Restitution of Conjugal Rights</b>. The widespread public debate spurred by the case was instrumental in the enactment of the <b>Age of Consent Act, 1891</b>.</p><p>The litigation was not directly centered on women's right to education.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 5,
+    "q": "Indigo cultivation in India declined by the beginning of the 20th century because of:",
+    "options": [
+      "peasant resistance to the oppressive conduct of planters",
+      "its unprofitability in the world market because of new synthetic inventions",
+      "national leaders' opposition to the cultivation of indigo",
+      "Government imposition of severe control over the production and export of indigo"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> In the late 19th and early 20th centuries, German chemists invented <b>synthetic synthetic indigo dyes</b> (aniline dyes), which were significantly cheaper and easier to manufacture, making natural Indian indigo farming commercially unviable in the global market.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 6,
+    "q": "Wellesley established the Fort William College at Calcutta because:",
+    "options": [
+      "he was asked by the Board of Directors at London to do so",
+      "he wanted to revive interest in oriental learning in India",
+      "he wanted to provide William Carey and his associates with employment",
+      "he wanted to train British civilians for administrative purpose in India"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> Lord Wellesley founded Fort William College in Calcutta in 1800 to educate and train young British civil servants recruited for the East India Company in Indian languages, law, history, and customs.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 7,
+    "q": "With reference to the history of India, 'Ulgulan' or the Great Tumult is the description of which of the following events?",
+    "options": [
+      "The Revolt of 1857",
+      "The Mappila Rebellion of 1921",
+      "The Indigo Revolt of 1859-60",
+      "Birsa Munda's Rebellion of 1899-1900"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> <b>Ulgulan</b> (The Great Tumult) is the historic term for the tribal rebellion led by <b>Birsa Munda</b> in 1899–1900 in the Chhotanagpur region against British colonial authorities, moneylenders, and landlords (Dikus) to establish Munda Raj.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 8,
+    "q": "With reference to the cultural history of India, consider the following statements:\n1. 'Sthanakvasi' sect belongs to Buddhism.\n2. 'Lokottaravada' sect was an offshoot of Mahasanghika sect of Buddhism.\n3. The deification of Buddha by Mahasanghikas fostered the Mahayana Buddhism.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 2 and 3 are correct:</b> The Lokottaravada sect arose as a sub-branch of the Mahasanghikas. The Mahasanghika school pioneered the transcendent/supramundane nature of Buddha and his deification, laying the theological groundwork for Mahayana Buddhism.</p><p><b>Statement 1 is incorrect:</b> <b>Sthanakvasi</b> is an aniconic (anti-idol worship) sub-sect of Svetambara <b>Jainism</b>, not Buddhism.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 9,
+    "q": "With reference to the industrial history of India, consider the following statements:\n1. The first cotton mill in India was established at Fort Gloster near Kolkata in 1818.\n2. The first modern woollen textiles mill in India was established at Kanpur in 1876.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both statements 1 and 2 are correct:</b> The earliest cotton mill was set up at Fort Gloster near Calcutta in 1818 (though the first commercially successful mechanized cotton mill was set up in Bombay in 1854 by KGN Daber). The first modern woolen textile mill (Lal Imli) was established at Kanpur, Uttar Pradesh in 1876.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 10,
+    "q": "With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as:",
+    "options": [
+      "ports handling foreign trade",
+      "capitals of powerful kingdoms",
+      "centres of exquisite stone art and sculpture",
+      "monuments of religious significance"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> During the Gupta period, <b>Ghantasala</b> and <b>Kadura</b> (on the Andhra/coromandel eastern coast) and <b>Chaul</b> (on the Konkan/Maharashtra western coast) were prominent maritime commercial <b>ports</b> handling foreign trade with Southeast Asia, Sri Lanka, and the Mediterranean.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 11,
+    "q": "What are the advantages of fertigation in agriculture?\n1. Controlling the alkalinity of irrigation water is possible.\n2. Efficient application of Rock Phosphate and all other phosphatic fertilizers is possible.\n3. Increased availability of nutrients to plants is possible.\n4. Reduction in the leaching of chemical nutrients is possible.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1, 3 and 4 are advantages of fertigation:</b> Fertigation allows precise delivery of water-soluble nutrients directly to the root zone, regulates pH/alkalinity of irrigation water, maximizes nutrient uptake, and minimizes fertilizer leaching.</p><p><b>Statement 2 is incorrect:</b> <b>Rock Phosphate</b> is insoluble in water and cannot be applied through micro-irrigation/fertigation systems (it clogs drippers and emitters).</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 12,
+    "q": "Consider the following minerals:\n1. Bentonite\n2. Chromite\n3. Kyanite\n4. Sillimanite\n\nIn India, which of the above is/are officially designated as Major Minerals?",
+    "options": [
+      "1 and 2 only",
+      "4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Chromite, Kyanite, and Sillimanite (2, 3 and 4) are Major Minerals:</b> Under the Mines and Minerals (Development and Regulation) Act, 1957, minerals not specifically classified as minor minerals are major minerals.</p><p><b>Bentonite</b> is officially categorized and notified as a <b>Minor Mineral</b> under Section 3(e) of the MMDR Act.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 13,
+    "q": "With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct?\n1. OMT is measured up to a depth of $26^\\circ\\text{C}$ isotherm which is 129 meters in the southwestern Indian Ocean during January - March.\n2. OMT collected during January - March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long-term mean.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 2 is correct:</b> Pre-monsoon Ocean Mean Temperature (OMT) calculated for the Southwestern Indian Ocean during January–March provides a much more accurate predictor (80% success rate) for the summer monsoon rainfall than simple Sea Surface Temperature (SST).</p><p><b>Statement 1 is incorrect:</b> The depth of the $26^\\circ\\text{C}$ isotherm in the Southwestern Indian Ocean during January–March varies between <b>50 to 100 meters</b> (mean ~59 meters), not 129 meters.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 14,
+    "q": "With reference to chemical fertilizers in India, consider the following statements:\n1. At present, the retail price of chemical fertilizers is market-driven and not administered by the Government.\n2. Ammonia, which is an input of urea, is produced from natural gas.\n3. Sulphur, which is a raw material for phosphoric acid fertilizer, is a by-product of oil refineries.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 2 and 3 are correct:</b> Ammonia used in urea manufacturing is synthesized from hydrogen derived from natural gas (methane) and atmospheric nitrogen via the Haber-Bosch process. Elemental sulphur is recovered as a byproduct during hydrodesulfurization in crude petroleum refineries.</p><p><b>Statement 1 is incorrect:</b> The Maximum Retail Price (MRP) of Urea is statutorily fixed and administered by the Government of India, while non-urea fertilizers are subsidized under the Nutrient Based Subsidy (NBS) regime.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 15,
+    "q": "With reference to India's Desert National Park, which of the following statements are correct?\n1. It is spread over two districts.\n2. There is no human habitation inside the Park.\n3. It is one of the natural habitats of Great Indian Bustard.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> Desert National Park spans across Jaisalmer and Barmer districts in Rajasthan and serves as the core breeding habitat of the critically endangered Great Indian Bustard (<i>Ardeotis nigriceps</i>).</p><p><b>Statement 2 is incorrect:</b> Numerous human settlements and villages exist inside the boundaries of Desert National Park.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 16,
+    "q": "Siachen Glacier is situated to the:",
+    "options": [
+      "East of Aksai Chin",
+      "East of Leh",
+      "North of Gilgit",
+      "North of Nubra Valley"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> The <b>Siachen Glacier</b> lies in the eastern Karakoram Range, directly to the <b>North of the Nubra Valley</b> (the Nubra River originates from the snout of the Siachen Glacier).</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 17,
+    "q": "With reference to the history of India, consider the following pairs:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Ancient Location</th><th>Modern Region</th></tr></thead><tbody><tr><td>1. Bhilsa</td><td>Malwa</td></tr><tr><td>2. Dwarasamudra</td><td>Halebid</td></tr><tr><td>3. Girnagar</td><td>Kathiawar</td></tr><tr><td>4. Sthaneshwara</td><td>Kanyakubja</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pairs 1, 2 and 3 are correctly matched:</b></p><ul><li><b>Bhilsa (Vidisha):</b> Situated in the Malwa plateau region of Madhya Pradesh.</li><li><b>Dwarasamudra:</b> Present-day Halebidu in Hassan district, Karnataka.</li><li><b>Girnagar:</b> Located on the Kathiawar peninsula in Junagadh, Gujarat.</li><li>Pair 4 is incorrect: Sthaneshwara (Thanesar, Haryana) and Kanyakubja (Kannauj, UP) were two completely distinct geographical cities and separate kingdoms.</li></ul><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 18,
+    "q": "Consider the following statements:\n1. 36% of India's districts are classified as 'overexploited' or 'critical' by the Central Ground Water Authority (CGWA).\n2. CGWA was formed under the Environment (Protection) Act.\n3. India has the largest area under groundwater irrigation in the world.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 2 and 3 are correct:</b> CGWA was constituted under Section 3(3) of the Environment (Protection) Act, 1986. India accounts for the largest area equipped for groundwater irrigation and is the largest extractor of groundwater in the world.</p><p><b>Statement 1 is incorrect:</b> According to CGWB assessments, approximately <b>17%</b> of groundwater assessment units are categorized as over-exploited and ~5% as critical (totaling ~22%, far below 36%).</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 19,
+    "q": "Consider the following statements:\n1. Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent.\n2. A person's genome can be edited before birth at the early embryonic stage.\n3. Human induced pluripotent stem cells can be injected into the embryo of a pig.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> Germline gene editing modifies gamete-producing cells (heritable alterations), CRISPR-Cas9 allows pre-implantation embryonic genome editing, and human induced pluripotent stem cells (iPSCs) have been successfully injected into animal blastocysts (such as pig embryos) to generate human-animal chimeric models for organ research.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 20,
+    "q": "What is the importance of using Pneumococcal Conjugate Vaccines in India?\n1. These vaccines are effective against pneumonia as well as meningitis and sepsis.\n2. Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced.\n3. These vaccines have no side effects and cause no allergic reactions.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Pneumococcal Conjugate Vaccines (PCV) protect against invasive disease caused by <i>Streptococcus pneumoniae</i> (pneumonia, bacterial meningitis, bacteremia/sepsis) and curb antibiotic resistance by preventing infections that would otherwise require antimicrobial treatment.</p><p><b>Statement 3 is incorrect:</b> Like all vaccines, PCVs can cause mild side effects (local redness, low-grade fever, irritability) and in rare cases, allergic reactions.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 21,
+    "q": "In India, the term 'Public Key Infrastructure' is used in the context of:",
+    "options": [
+      "Digital security infrastructure",
+      "Food security infrastructure",
+      "Health care and education infrastructure",
+      "Telecommunication and transportation infrastructure"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> <b>Public Key Infrastructure (PKI)</b> is a cryptographic governance framework of hardware, software, policies, and standards used to create, manage, distribute, and revoke public keys and digital certificates, serving as a core foundation for <b>digital security infrastructure</b> (e.g., digital signatures, SSL/TLS, secure e-commerce).</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 22,
+    "q": "Which of the following statements are correct regarding the general difference between plant and animal cells?\n1. Plant cells have cellulose cell walls whilst animal cells do not.\n2. Plant cells do not have plasma membrane unlike animal cells which do.\n3. Mature plant cell has one large vacuole whilst animal cell has many small vacuoles.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> Plant cells possess a rigid outer cellulose cell wall and a large central permanent vacuole, while animal cells lack cell walls and possess small, temporary vacuoles.</p><p><b>Statement 2 is incorrect:</b> Both plant and animal cells possess a plasma (cell) membrane surrounding their cytoplasm.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 23,
+    "q": "Which of the following are the reasons/factors for exposure to benzene pollution?\n1. Automobile exhaust\n2. Tobacco smoke\n3. Wood burning\n4. Using varnished wooden furniture\n5. Using products made of polyurethane\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All five are recognized sources of benzene exposure:</b> Benzene ($C_6H_6$) is emitted from motor vehicle exhausts, cigarette/tobacco smoke, incomplete wood combustion, and off-gassing from solvent-based wood varnishes, adhesives, and polyurethane coatings/foams.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 24,
+    "q": "If another global financial crisis happens in the very near future, which of the following actions/policies are most likely to give some immunity to India?\n1. Not depending on short-term foreign borrowings\n2. Opening up to more foreign banks\n3. Maintaining full capital account convertibility\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 1 is correct:</b> Limiting exposure to short-term unhedged external commercial debt insulates an economy from sudden balance-of-payments shocks, capital flight, and rollover liquidity crises during a global contagion.</p><p><b>Statements 2 and 3 are incorrect:</b> Rapid cross-border opening to foreign banks increases systemic contagion transmission channels, and full capital account convertibility facilitates unrestricted speculative capital outflows and currency volatility during global panics.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 25,
+    "q": "If you withdraw 1,00,000 in cash from your Demand Deposit Account at your bank, the immediate effect on aggregate money supply in the economy will be:",
+    "options": [
+      "to reduce it by 1,00,000",
+      "to increase it by 1,00,000",
+      "to increase it by more than 1,00,000",
+      "to leave it unchanged"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> Aggregate broad money supply ($M_3$) is defined as: $M_3 = \\text{Currency with the Public} + \\text{Demand Deposits} + \\text{Time Deposits}$. Withdrawing ₹1,00,000 cash from a demand deposit simply shifts ₹1,00,000 from demand deposits to currency with the public; therefore, the <b>immediate aggregate money supply remains unchanged</b>.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 26,
+    "q": "With reference to the cultural history of India, consider the following pairs:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Historical Tradition / Place</th><th>State</th></tr></thead><tbody><tr><td>1. Kalaripayattu</td><td>Kerala</td></tr><tr><td>2. Thang-Ta</td><td>Manipur</td></tr><tr><td>3. Mallakhamb</td><td>Madhya Pradesh</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three pairs are correctly matched:</b></p><ul><li><b>Kalaripayattu:</b> Ancient martial art originating in Kerala.</li><li><b>Thang-Ta (Huyen Langlon):</b> Traditional martial art form of Manipur involving swords and spears.</li><li><b>Mallakhamb:</b> Traditional aerial gymnastics/martial sport on a vertical wooden pole, declared the state sport of Madhya Pradesh.</li></ul><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 27,
+    "q": "With reference to the Indian economy, consider the following statements regarding the 'Non-Banking Financial Companies' (NBFCs):\n1. NBFCs cannot accept demand deposits.\n2. NBFCs do not form part of the Payment and Settlement System.\n3. Deposit insurance facility of DICGC is available to depositors of all NBFCs.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> NBFCs cannot accept demand deposits (repayable on demand via cheques) and do not form part of the Payment and Settlement System, meaning they cannot issue cheques drawn on themselves.</p><p><b>Statement 3 is incorrect:</b> The deposit insurance protection provided by the Deposit Insurance and Credit Guarantee Corporation (DICGC) is <i>not</i> available to depositors of NBFCs.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 28,
+    "q": "Consider the following statements regarding the 'Indian Ocean Dipole' (IOD):\n1. The IOD phenomenon is characterized by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Southern Indian Ocean.\n2. An IOD phenomenon can influence an El Niño's impact on the Indian monsoon.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both statements 1 and 2 are correct:</b></p><ul><li><b>Statement 1:</b> The IOD (Indian Niño) is an ocean-atmosphere coupled oscillation measured by the difference in sea surface temperatures between the western pole (Arabian Sea) and the eastern pole (south of Indonesia).</li><li><b>Statement 2:</b> A positive IOD can mitigate and counteract the adverse deficit rainfall impact of El Niño on the Southwest Monsoon.</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 29,
+    "q": "With reference to the history of ancient India, which one of the following was a very important seaport in the Kakatiya kingdom?",
+    "options": [
+      "Kakinada",
+      "Motupalli",
+      "Machilipatnam (Masulipatnam)",
+      "Nellore"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> <b>Motupalli</b> (in modern Bapatla/Prakasam district, Andhra Pradesh) was the premier international seaport of the Kakatiya kingdom. King Ganapatideva issued the famous <i>Motupalli Abhaya Shasanam</i> (charter of security) guaranteeing fixed custom duties and safety to foreign merchants.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 30,
+    "q": "Consider the following statements regarding the 'Gold Tranche' (Reserve Tranche):\n1. It refers to a loan system of the World Bank for structural adjustment.\n2. It is a credit system granted by WTO to its members.\n3. It refers to a credit system granted by IMF to its members.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "3 only",
+      "1 and 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> A <b>Reserve Tranche</b> (formerly known as the Gold Tranche) is the proportion of a member country's quota with the <b>International Monetary Fund (IMF)</b> that can be drawn down upon demand without conditionality or service fees to meet balance of payments needs.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 31,
+    "q": "With reference to the 'Teej' and other harvest festivals in India, consider the following statements:\n1. Makar Sankranti is celebrated in different forms across India as Pongal in Tamil Nadu and Magh Bihu in Assam.\n2. Nuakhai is an agricultural festival celebrated primarily in Odisha to welcome the newly harvested rice.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both statements 1 and 2 are correct:</b> Makar Sankranti marks the solar transition into Makara and is celebrated pan-India (as Pongal in Tamil Nadu, Magh Bihu in Assam, and Uttarayan in Gujarat). Nuakhai is the prominent agrarian harvest festival of Western Odisha where the season's first harvested paddy is offered to deities.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 32,
+    "q": "Consider the following statements regarding 'BAPU Boxes' and organic farming in India:\n1. Zero Budget Natural Farming (ZBNF) emphasizes the use of Jeevamrutha and Beejamrutha prepared from indigenous cow dung and urine.\n2. Paramparagat Krishi Vikas Yojana (PKVY) promotes cluster-based organic farming with Participatory Guarantee System (PGS) certification.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both statements 1 and 2 are correct:</b> ZBNF (pioneered by Subhash Palekar) relies on microbial inoculants like Jeevamrutha and Beejamrutha from native desi cow dung/urine without synthetic agro-inputs. PKVY supports traditional organic agriculture through cluster formation and PGS-India peer-review certification.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 33,
+    "q": "With reference to the 'Kisan Credit Card' (KCC) scheme, which of the following categories are eligible for benefits under the expanded scheme?\n1. Individual farmers and joint borrowers\n2. Tenant farmers, oral lessees, and sharecroppers\n3. Self Help Groups (SHGs) and Joint Liability Groups (JLGs) of farmers\n4. Animal Husbandry and Fisheries farmers\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All four categories are eligible:</b> The KCC scheme covers owner-cultivators, tenant farmers, oral lessees, sharecroppers, SHGs/JLGs, and was extended in the 2018–19 Budget to cover working capital needs for animal husbandry, dairy, and fisheries farmers.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 34,
+    "q": "Consider the following statements regarding 'Solar Power Production' in India:\n1. India is the largest producer of solar energy in the world.\n2. The International Solar Alliance (ISA) was initiated by India and France.\n3. The ISA Secretariat is located in Gurugram, Haryana.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 2 and 3 are correct:</b> The International Solar Alliance (ISA) was jointly launched by India and France at COP21 in Paris (2015), with its permanent headquarters and Secretariat established at the National Institute of Solar Energy (NISE) campus in Gurugram, India.</p><p><b>Statement 1 is incorrect:</b> <b>China</b> is the world's largest producer and installer of solar photovoltaic energy, not India.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 35,
+    "q": "With reference to the medieval history of India, the 'Iqta' system was introduced in northern India by which Sultan?",
+    "options": [
+      "Qutb-ud-din Aibak",
+      "Shamsuddin Iltutmish",
+      "Ghiyasuddin Balban",
+      "Alauddin Khalji"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> <b>Shamsuddin Iltutmish</b> formally organized and institutionalized the <b>Iqta system</b> across the Delhi Sultanate, assigning revenue-yielding territorial tracts (Iqtas) to Turkish military nobles (Iqtadars/Muqtis) in exchange for maintaining troops and administering law and order.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 36,
+    "q": "Consider the following statements regarding 'Oceanic Thermohaline Circulation':\n1. It is driven by global density gradients created by surface heat and freshwater fluxes.\n2. The sinking of dense, cold, and saline water in the North Atlantic drives the global ocean conveyor belt.\n3. Melting of polar ice sheets can slow down the Atlantic Meridional Overturning Circulation (AMOC) by adding freshwater.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> Thermohaline circulation (ocean conveyor belt) is propelled by density differences dictated by temperature and salinity. Downwelling of dense polar water in the North Atlantic drives AMOC, which is vulnerable to freshening and deceleration from accelerated Greenland ice cap melting.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 37,
+    "q": "With reference to the 'Foreign Direct Investment' (FDI) in India, consider the following statements:\n1. 100% FDI under the automatic route is permitted in single-brand product retail trading.\n2. In multi-brand retail trading, FDI is prohibited under all circumstances.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statement 1 is correct:</b> Under current consolidated FDI policy, 100% FDI is permitted under the automatic route in Single Brand Product Retail Trading (SBPRT).</p><p><b>Statement 2 is incorrect:</b> FDI in Multi-Brand Retail Trading (MBRT) is permitted up to <b>51%</b> under the Government Approval Route, subject to specific conditions (minimum investment, local sourcing, and individual state government consent).</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 38,
+    "q": "Match the following Ramsar wetland sites with their respective States:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Ramsar Wetland</th><th>State</th></tr></thead><tbody><tr><td>1. Harike Wetland</td><td>Punjab</td></tr><tr><td>2. Kanjli Lake</td><td>Punjab</td></tr><tr><td>3. Ropar Wetland</td><td>Punjab</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three pairs are correctly matched:</b> Harike (at the confluence of the Beas and Sutlej rivers), Kanjli Lake (on the Kali Bein rivulet), and Ropar Wetland (on the Sutlej River) are all prominent Ramsar wetland sites located in the state of <b>Punjab</b>.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 39,
+    "q": "With reference to the ancient history of India, the 'Mathura School of Art' flourished primarily under the patronage of which dynasty?",
+    "options": [
+      "Mauryan Dynasty",
+      "Kushan Dynasty",
+      "Gupta Dynasty",
+      "Shunga Dynasty"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The indigenous <b>Mathura School of Art</b> (famed for its use of mottled red sandstone) flourished under the royal patronage of the <b>Kushan Empire</b> (1st to 3rd century CE), pioneering the earliest anthropomorphic representations of the Buddha alongside Hindu and Jaina sculptures.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 40,
+    "q": "Consider the following statements regarding the 'Pravasi Bharatiya Divas' (PBD):\n1. It is celebrated on 9th January to mark the contribution of the Overseas Indian community.\n2. 9th January was chosen as the day to commemorate the return of Mahatma Gandhi from South Africa to India in 1915.\n3. It is organized annually by the Ministry of Home Affairs.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> PBD is celebrated on 9 January commemorating Mahatma Gandhi's return to Mumbai from South Africa on 9 January 1915.</p><p><b>Statement 3 is incorrect:</b> Pravasi Bharatiya Divas is organized by the <b>Ministry of External Affairs (MEA)</b>, not the Ministry of Home Affairs.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 41,
+    "q": "With reference to 'Carbon Border Adjustment Mechanism' (CBAM), consider the following statements:\n1. It is a proposed tariff on carbon-intensive products imported into the European Union.\n2. It aims to prevent 'carbon leakage' where companies move production to countries with less stringent climate policies.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both statements 1 and 2 are correct:</b> CBAM is the European Union's landmark climate policy mechanism designed to equalize the price of carbon paid for domestic production under the EU ETS and imported goods (steel, cement, aluminum, fertilizers), discouraging carbon leakage to jurisdictions with lax emission caps.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 42,
+    "q": "Consider the following pairs of ancient literary texts and their subject matter:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Text</th><th>Subject</th></tr></thead><tbody><tr><td>1. Aryabhatiya</td><td>Mathematics and Astronomy</td></tr><tr><td>2. Romaka Siddhanta</td><td>Greek/Hellenistic influenced Astronomy</td></tr><tr><td>3. Surya Siddhanta</td><td>Planetary Motions and Spherical Trigonometry</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three pairs are correctly matched:</b> Aryabhata's <i>Aryabhatiya</i> covers algebra, arithmetic, and trigonometry. The <i>Romaka Siddhanta</i> incorporates Hellenistic-Roman planetary astronomy models into Indian astronomy. The <i>Surya Siddhanta</i> provides rules for calculating planetary orbits, solar/lunar eclipses, and trigonometric sines.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 43,
+    "q": "With reference to the 'Payment and Settlement Systems Act, 2007', consider the following statements:\n1. The Reserve Bank of India is the designated authority for the regulation and supervision of payment systems in India.\n2. Unified Payments Interface (UPI) and Immediate Payment Service (IMPS) are operated by the National Payments Corporation of India (NPCI).\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both statements 1 and 2 are correct:</b> Under the PSS Act, 2007, RBI is the regulatory authority for retail and wholesale payment systems. NPCI operates umbrella retail payment infrastructure including UPI, IMPS, RuPay, NETC (FASTag), and NACH.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 44,
+    "q": "Consider the following statements regarding 'Ocean Salinity Patterns':\n1. In enclosed seas like the Mediterranean Sea, salinity is high due to high evaporation.\n2. The Arctic Ocean has high surface salinity due to continuous melting of glaciers.\n3. The salinity of ocean water is generally measured as the total amount of dissolved salts in grams contained in 1,000 grams of seawater.",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> Mediterranean salinity is high (~38 ppt) due to arid conditions and high evaporation rates exceeding river input. Salinity is expressed in parts per thousand (ppt or g/kg of seawater).</p><p><b>Statement 2 is incorrect:</b> The Arctic Ocean has <b>low surface salinity</b> (~28–30 ppt) because glacial melting and massive river discharges from Siberian and Canadian rivers dilute salt concentrations.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 45,
+    "q": "With reference to ancient Indian history, the term 'Nigama' commonly referred to which of the following?",
+    "options": [
+      "Guild or merchant association of a town",
+      "A tax levied exclusively on horse imports",
+      "Royal decree issued by the King on copper plates",
+      "Residential monastery for female Jain ascetics"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> In ancient Indian economic and epigraphic texts, <b>Nigama</b> referred to a corporate <b>mercantile guild or market-town association</b> composed of traders and merchants residing in urban centers.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 46,
+    "q": "Consider the following statements regarding the 'Basel Committee on Banking Supervision' (BCBS):\n1. It is a committee of banking supervisory authorities established by the central bank governors of the Group of Ten countries in 1974.\n2. It provides a forum for regular cooperation on banking supervisory matters and develops global regulatory standards (Basel Accords).\n3. Its decisions have direct legal force across all member states without requiring domestic legislative transposition.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The BCBS (hosted at the Bank for International Settlements in Basel, Switzerland) formulates global standards and guidelines on capital adequacy, stress testing, and market risk (Basel I, II, III).</p><p><b>Statement 3 is incorrect:</b> The Committee does not possess statutory supranational authority; its standards are non-binding recommendations that rely on national authorities (like RBI in India) to implement via domestic legislation.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 47,
+    "q": "With reference to the modern political organizations in India, the 'Indian Association' of Calcutta was founded in 1876 by:",
+    "options": [
+      "Surendranath Banerjee and Ananda Mohan Bose",
+      "Dadabhai Naoroji and Pherozeshah Mehta",
+      "Bipin Chandra Pal and Aurobindo Ghosh",
+      "Dwarkanath Tagore and Prasanna Kumar Tagore"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The <b>Indian Association</b> was founded in Calcutta on 26 July 1876 by <b>Surendranath Banerjee and Ananda Mohan Bose</b> to create a strong public opinion on political questions and unify the Indian people on a common political program (precursor to the Indian National Congress).</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 48,
+    "q": "Consider the following statements regarding 'Thermal Inversion' in physical geography:\n1. It is a meteorological phenomenon where temperature increases with height.\n2. It occurs frequently in mountain valleys on clear winter nights due to cold dense air draining down valley slopes (Katabatic flow).\n3. It causes rapid dispersion and clearance of surface smoke and dust particles.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Temperature inversion reverses the normal adiabatic lapse rate. In mountain valleys, katabatic drainage settles cold dense air on valley floors under warmer aloft layers (valley inversion), protecting crops from frost higher up.</p><p><b>Statement 3 is incorrect:</b> Temperature inversion creates atmospheric stability that <b>traps</b> pollutants, fog, and smog near the ground rather than dispersing them.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 49,
+    "q": "With reference to the ancient administrative history of India, what did the term 'Visti' signify in epigraphic records of the Gupta period?",
+    "options": [
+      "Forced labor extracted from villagers as a tax paid to the state",
+      "A tribute paid by frontier feudatory kings during royal coronations",
+      "An endowment grant given exclusively to temple dancing troupes",
+      "A gold coin of high purity used in foreign maritime trade"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> In the Gupta and post-Gupta periods, <b>Visti</b> referred to unpaid, compulsory <b>forced labor</b> extracted by the king or provincial officers as a customary tax in kind from peasants and artisans for state and military works.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 50,
+    "q": "Consider the following statements regarding the 'Indian Council of Social Science Research' (ICSSR):\n1. It was established in 1969 by the Government of India to promote research in social sciences in the country.\n2. It functions as an autonomous body under the Ministry of Education.\n3. It provides grants for research projects, fellowships, and international collaboration in social sciences.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> The ICSSR was set up in 1969 by the Government of India as an autonomous apex body under the Ministry of Education (formerly MHRD) to fund, guide, and promote high-quality academic research across social science disciplines.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 51,
+    "q": "With reference to the cultural history of India, consider the following pairs:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Monument / Site</th><th>State</th></tr></thead><tbody><tr><td>1. Sitabhinji Rock Inscription</td><td>Odisha</td></tr><tr><td>2. Nagarjunakonda Stupa</td><td>Andhra Pradesh</td></tr><tr><td>3. Pavagadh Hill Shrines</td><td>Gujarat</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three pairs are correctly matched:</b></p><ul><li><b>Sitabhinji:</b> Ancient rock shelter in Keonjhar district, Odisha, famous for the Ravanachhaya tempera fresco mural and 5th-century Gupta-era painted inscriptions.</li><li><b>Nagarjunakonda:</b> Celebrated ancient Buddhist stupa and monastic complex located on the banks of the Krishna River in Andhra Pradesh.</li><li><b>Pavagadh:</b> UNESCO World Heritage cultural site in Gujarat featuring historical Hindu and Jain hilltop temples.</li></ul><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 52,
+    "q": "Consider the following statements regarding the 'Indian Wildlife (Protection) Act, 1972':\n1. It provides for the declaration of National Parks, Wildlife Sanctuaries, Community Reserves, and Conservation Reserves.\n2. Vermin animals are listed in a designated schedule and can be hunted without permits during the declared period.\n3. The Act prohibits the picking, uprooting, damaging, or destroying of specified endangered plants from any forest land.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> The Wildlife (Protection) Act, 1972 provides the statutory architecture for all terrestrial protected area designations in India, permits the declaration of specific animals as vermin for controlled culling under state notification, and imposes strict statutory protections against the collection and destruction of specified plant species under Chapter IIIA.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 53,
+    "q": "With reference to the Indian economy, consider the following statements regarding 'Non-Tax Revenue Receipts':\n1. Dividends and profits received from public sector enterprises.\n2. Fees, penalties, and fines received by the government.\n3. Disinvestment proceeds from selling equity in public sector undertakings.\n\nWhich of the receipts given above are classified under Non-Tax Revenue?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Non-tax revenue receipts comprise recurring inflows that neither create a liability nor liquidate state assets, such as dividends/profits from CPSUs and the RBI, interest receipts, and statutory fees/fines.</p><p><b>Statement 3 is incorrect:</b> Disinvestment proceeds liquidate government capital assets and are classified as <b>Non-Debt Capital Receipts</b>, not Non-Tax Revenue.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 54,
+    "q": "Consider the following statements regarding the 'Coalbed Methane' (CBM) and 'Shale Gas':\n1. Coalbed methane is pure methane gas absorbed on the solid matrix of the coal seam.\n2. Shale gas is trapped within fine-grained sedimentary shale rock formations with low permeability.\n3. India has commercial extraction operations for both Coalbed Methane and Shale Gas across all its tertiary sedimentary basins.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> CBM is sweet natural gas adsorbed within underground coal seams. Shale gas is unconventional gas trapped in low-permeability organic-rich shale formations requiring hydraulic fracturing.</p><p><b>Statement 3 is incorrect:</b> While India commercially produces CBM from several Gondwana blocks (e.g., Raniganj, Jharia), commercial-scale exploitation of shale gas is still in the exploratory/pilot phase and not established across all tertiary basins.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 55,
+    "q": "With reference to the ancient administration of the Gupta Empire, consider the following statements regarding the administrative territorial divisions:\n1. The empire was divided into provinces known as 'Bhuktis', which were governed by officers called 'Uparikas'.\n2. Bhuktis were further subdivided into districts termed 'Vishayas', administered by 'Vishayapatis'.\n3. The village headman (Gramika) had no judicial or administrative role and was strictly an honorary priest.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> In Gupta provincial hierarchy, provinces were termed <i>Bhuktis</i> (governed by royal appointees called <i>Uparikas</i>), which were further divided into districts called <i>Vishayas</i> (administered by <i>Vishayapatis</i> assisted by an advisory council of local guild elders and scribes).</p><p><b>Statement 3 is incorrect:</b> The <i>Gramika</i> (village headman) was the principal administrative and executive officer at the village level, responsible for revenue collection, maintaining public peace, and settling petty civil disputes with the village elders.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 56,
+    "q": "Consider the following statements regarding 'Oceanic Dead Zones' (Hypoxic Zones):\n1. They are areas in oceans and large lakes where dissolved oxygen concentration falls below 2 milligrams per liter.\n2. Agricultural runoff carrying chemical fertilizers causes eutrophication, which triggers massive algal blooms that consume oxygen upon decomposition.\n3. Ocean dead zones are completely absent in the Bay of Bengal and Arabian Sea due to strong equatorial circulation.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Marine dead zones are hypoxic/anoxic waters $(\\text{DO} \\le 2\\text{ mg/L})$ caused primarily by nutrient enrichment (nitrogen and phosphorus from agricultural fertilizers and sewage) spurring phytoplankton blooms whose bacterial decomposition depletes dissolved oxygen.</p><p><b>Statement 3 is incorrect:</b> The northern Indian Ocean (especially the Arabian Sea and parts of the Bay of Bengal) hosts some of the world's most extensive, naturally occurring and intensifying oxygen minimum zones (OMZs).</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 57,
+    "q": "With reference to the history of medieval India, the 'Zavabit' in the administrative system of the Delhi Sultanate referred to which of the following?",
+    "options": [
+      "State regulations and secular decrees issued by the Sultan to handle administrative realities not explicitly covered by religious law (Sharia)",
+      "Customary tributes paid by feudal Rajput chieftains",
+      "Special currency exchange rates fixed between copper Jitals and silver Tankas",
+      "Military codes regulating cavalry troop reviews"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> In the Delhi Sultanate and Mughal administrative jurisprudence, <b>Zavabit</b> (or <i>Zawabit</i>) were royal secular regulations, administrative ordinances, and state edicts enacted by the sovereign monarch to govern fiscal, administrative, and political matters beyond the strict letter of orthodox religious law (Sharia).</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 58,
+    "q": "Consider the following statements regarding the 'National Biodiversity Authority' (NBA):\n1. It is a statutory autonomous body established in 2003 to implement the Biological Diversity Act, 2002.\n2. The headquarters of the NBA is established in Chennai, Tamil Nadu.\n3. Foreign individuals and foreign commercial entities must obtain prior approval from the NBA before accessing any biological resource in India.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> The National Biodiversity Authority (NBA) was constituted in 2003 under the Biological Diversity Act, 2002, headquartered at Chennai. Under Section 3 of the Act, non-citizens, NRIs, and foreign-controlled entities must obtain prior approval of the NBA to access biological resources or associated traditional knowledge for research, commercial utilization, or bio-survey.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 59,
+    "q": "With reference to the Indian economy, consider the following statements regarding the 'Capital Adequacy Ratio' (CAR):\n1. CAR is the ratio of a bank's capital to its risk-weighted assets.\n2. CAR is decided by each individual commercial bank independently without any central regulatory floor.\n3. A higher CAR provides greater protection to depositors and systemic stability against loan defaults.",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> Capital Adequacy Ratio (CRAR) measures Tier-1 and Tier-2 regulatory capital against risk-weighted credit and market exposures, ensuring banks maintain a sufficient solvency cushion to absorb unexpected losses.</p><p><b>Statement 2 is incorrect:</b> The minimum regulatory CAR floor is statutorily mandated by the <b>Reserve Bank of India</b> (e.g., 9% for scheduled commercial banks and 11.5% including the Capital Conservation Buffer under Basel III), not chosen arbitrarily by individual banks.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 60,
+    "q": "Consider the following statements regarding 'Thermal Power Plants' in India:\n1. Coal-based thermal power generation produces fly ash containing oxides of silicon, aluminium, and calcium.\n2. Fly ash can be used as a supplementary cementitious material in concrete and brick making.\n3. Thermal power plants in India are completely exempt from installing flue gas desulphurization (FGD) units.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Fly ash generated by pulverized coal combustion is rich in silica, alumina, and pozzolanic minerals, widely recycled in Portland pozzolana cement (PPC), fly ash bricks, and road embankments.</p><p><b>Statement 3 is incorrect:</b> Ministry of Environment, Forest and Climate Change (MoEFCC) emission norms mandate all coal-fired thermal power plants to install <b>Flue Gas Desulphurization (FGD)</b> systems to curb atmospheric sulfur dioxide $(SO_2)$ emissions.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 61,
+    "q": "With reference to the modern history of India, consider the following statements regarding the 'Lucknow Pact' of 1916:\n1. It brought about a joint political agreement between the Indian National Congress and the All-India Muslim League.\n2. The Congress accepted the principle of Separate Electorates for Muslims in provincial legislative councils.\n3. The pact led to the immediate merging of the Moderates and Extremists back into the Congress fold.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The Lucknow Pact (December 1916) established a common reform program between the Congress and the Muslim League, wherein the Congress formally conceded separate communal electorates for Muslims in legislative bodies.</p><p><b>Statement 3 is incorrect:</b> The readmission and reunion of the Extremists (led by Tilak) with the Moderates had already been achieved earlier during the 1915/1916 Lucknow session proceedings itself, independent of the terms of the Muslim League pact.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 62,
+    "q": "Consider the following statements regarding the 'Continental Shelf' in marine geomorphology:\n1. It is the gently sloping submerged seaward extension of the continental landmass.\n2. Most of the world's commercial marine fishing grounds are situated on continental shelves.\n3. Extensive petroleum, natural gas, and mineral placer deposits are found on continental shelves.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> Continental shelves are shallow coastal margins (sloping $< 1^\\circ$, depth up to 200 m). Sunlight reaches the seabed across shelves (photic zone), sustaining rich phytoplankton and world fisheries (e.g., Grand Banks, North Sea), while hosting over 20–30% of global offshore oil and gas reserves (e.g., Mumbai High, Persian Gulf).</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 63,
+    "q": "With reference to ancient Indian philosophical schools, the 'Vaisheshika' system classifies all metaphysical existence into how many fundamental categories (Padarthas)?",
+    "options": [
+      "Two (Purusha and Prakriti)",
+      "Six primary categories (Dravya, Guna, Karma, Samanya, Vishesha, Samavaya)",
+      "Twelve Nidanas of cyclic causality",
+      "Four Noble Truths (Arya Satyani)"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> Sage Kanada's <b>Vaisheshika Sutras</b> classify all knowable reality into <b>six fundamental ontological categories (Padarthas)</b>: <i>Dravya</i> (Substance), <i>Guna</i> (Quality), <i>Karma</i> (Action), <i>Samanya</i> (Generality), <i>Vishesha</i> (Particularity), and <i>Samavaya</i> (Inherence), to which later thinkers added <i>Abhava</i> (Non-existence).</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 64,
+    "q": "Consider the following statements regarding 'Bio-remediation' techniques:\n1. In-situ bioremediation treats contaminated groundwater or soil directly at the site without excavation.\n2. Bioventing involves pumping oxygen and nutrients through wells to stimulate indigenous aerobic bacteria to degrade hydrocarbons.\n3. Bio-augmentation involves introducing specialized, non-native or engineered microbial strains to an environmental contamination site.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> Bioremediation utilizes biological organisms to neutralize environmental pollution. In-situ methods treat on-site without soil excavation; bioventing supplies subterranean oxygen to enhance native microbial breakdown; and bioaugmentation injects cultured specialized microbes to degrade complex xenobiotic toxins.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 65,
+    "q": "With reference to the 'Payment Banks' in India, consider the following statements:\n1. They can accept demand deposits up to a prescribed limit per individual customer.\n2. They can issue ATM/Debit cards and credit cards.\n3. They cannot undertake direct lending activities or advance loans.",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> Payments Banks are differentiated banks established to deepen financial inclusion. They accept demand deposits (savings and current accounts up to ₹2 lakh per customer) and are strictly prohibited from lending money or extending credit lines.</p><p><b>Statement 2 is incorrect:</b> Payments Banks can issue <b>ATM/Debit cards</b>, but they are legally barred from issuing <b>Credit cards</b> (which involves extending credit).</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 66,
+    "q": "Consider the following statements regarding the 'Mughal Mansabdari System':\n1. Mansabdars held a dual numerical rank: Zat (determining personal status and salary) and Sawar (specifying the number of cavalry horsemen to maintain).\n2. Mansabdari ranks were strictly hereditary and automatically passed down to the eldest son.\n3. Mansabdars were paid either in cash (Naqd) or through assignments of revenue-bearing lands (Jagirs).",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> Akbar organized the imperial bureaucracy through the Mansabdari system using dual ranks (Zat and Sawar), paid either in cash from the royal treasury (Naqdi) or via transferable revenue assignments (Jagirdars).</p><p><b>Statement 2 is incorrect:</b> Mansabs were <b>not hereditary</b>; upon the death of a Mansabdar, the rank lapsed, his properties were attached under the law of escheat (Zabt), and descendants had to earn their ranks afresh based on merit.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 67,
+    "q": "Consider the following pairs of major global wind systems and their geographic regions:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Local Wind</th><th>Nature</th><th>Geographic Region</th></tr></thead><tbody><tr><td>1. Chinook</td><td>Warm, dry foehn wind</td><td>Eastern slopes of Rocky Mountains (North America)</td></tr><tr><td>2. Mistral</td><td>Cold, dry northerly wind</td><td>Rhône River Valley (France / Mediterranean)</td></tr><tr><td>3. Sirocco</td><td>Hot, dust-laden southerly wind</td><td>Originates in Sahara Desert, blows into Southern Europe</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three pairs are correctly matched:</b></p><ul><li><b>Chinook:</b> Warm katabatic 'snow-eater' wind descending the eastern Rockies into the North American plains.</li><li><b>Mistral:</b> Cold katabatic wind blowing from the Alps down the Rhône Valley into the Mediterranean Sea.</li><li><b>Sirocco:</b> Intense Mediterranean wind carrying Saharan desert dust across North Africa into Southern Europe (often causing 'blood rain').</li></ul><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 68,
+    "q": "With reference to the modern political history of India, who among the following founded the 'All India Depressed Classes Association' in 1930 to champion the civic and political rights of the Dalit community?",
+    "options": [
+      "Dr. B. R. Ambedkar",
+      "M. C. Rajah",
+      "Jagjivan Ram",
+      "Jyotirao Phule"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> <b>Dr. B. R. Ambedkar</b> established the <b>All India Depressed Classes Association</b> (and later the All India Depressed Classes Federation in 1942 and Scheduled Castes Federation) to mobilize and secure independent political representation, separate electorates, and educational rights for Dalits.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 69,
+    "q": "Consider the following statements regarding the 'Basel III' capital framework:\n1. It requires banks to maintain a minimum Common Equity Tier 1 (CET1) ratio to absorb unexpected operational and credit losses.\n2. The Net Stable Funding Ratio (NSFR) requires banks to maintain a stable funding profile in relation to the composition of their assets over a one-year horizon.\n3. Basel III regulations apply solely to central banks and prohibit commercial banks from holding sovereign government bonds.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Basel III establishes strict capital quality standards centered on Common Equity Tier 1 (CET1) and introduces long-term structural liquidity safeguards through the Net Stable Funding Ratio (NSFR $\\ge 100\\%$).</p><p><b>Statement 3 is incorrect:</b> Basel III applies to internationally active <b>commercial banks</b> and encourages them to hold high-quality liquid assets (HQLA), which prominently include sovereign government bonds.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 70,
+    "q": "With reference to ancient Indian architectural history, the structural design of the 'Sanchi Stupa' comprises which of the following classical components?\n1. Anda (semi-spherical dome mound representing the universe)\n2. Harmika (square railed balcony atop the dome housing sacred relics)\n3. Chhatra (triple ceremonial umbrella signifying spiritual sovereignty)\n4. Torana (carved ornamental gateways aligned with cardinal directions)\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All four components are architectural elements of Sanchi:</b> The Great Stupa at Sanchi showcases the full classical Buddhist stupa architecture: the hemispherical earthen/stone mound (<b>Anda</b>), the square relic railing (<b>Harmika</b>), the central mast with triple ceremonial umbrellas (<b>Chhatra/Yasti</b>), and the stone-carved entrance gateways (<b>Toranas</b>) embellished with Jataka narrative friezes.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 71,
+    "q": "Consider the following statements regarding the 'Indian Council of Medical Research' (ICMR):\n1. It is the apex body in India for the formulation, coordination and promotion of biomedical research.\n2. It is funded by the Government of India through the Department of Health Research, Ministry of Health and Family Welfare.\n3. The ICMR National Institute of Virology (NIV) is located in Pune, Maharashtra.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> ICMR is India's premier biomedical research agency under the Department of Health Research (MoHFW). Its apex viral research facility, the <b>National Institute of Virology (NIV)</b>, is located in Pune, Maharashtra.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 72,
+    "q": "With reference to the physical geography of India, consider the following statements regarding 'Coral Reef Formations':\n1. The Gulf of Kutch hosts extensive fringing coral reefs along its southern shore and islands.\n2. Malvan (Maharashtra) along the Konkan coast features mainland marine fringing reefs.\n3. Coral reefs cannot survive anywhere in the Andaman and Nicobar Islands due to tectonic subduction activity.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Coral reefs in India are found in Lakshadweep (atolls), Gulf of Mannar (fringing/barrier), Gulf of Kutch (fringing reefs), and localized mainland pockets like the Malvan Marine Sanctuary in Maharashtra.</p><p><b>Statement 3 is incorrect:</b> The Andaman and Nicobar archipelago hosts some of the most biodiverse, extensive, and flourishing fringing and barrier coral reef ecosystems in South Asia.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 73,
+    "q": "Consider the following statements regarding the 'World Intellectual Property Organization' (WIPO):\n1. It is one of the 15 specialized agencies of the United Nations.\n2. It administers the Patent Cooperation Treaty (PCT) and the Madrid System for international trademark registration.\n3. Headquarters of WIPO is located in Geneva, Switzerland.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> WIPO (created by the 1967 WIPO Convention and headquartered in Geneva, Switzerland) is a specialized UN agency dedicated to developing a balanced international IP legal framework and administering global IP filing systems like PCT (patents) and Madrid (trademarks).</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 74,
+    "q": "With reference to ancient Indian literary history, the Sanskrit drama 'Mrichchhakatika' (The Little Clay Cart) was authored by which of the following playwrights?",
+    "options": [
+      "Shudraka",
+      "Bhasa",
+      "Vishakhadatta",
+      "Bhavabhuti"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> <b>Mrichchhakatika</b> (The Little Clay Cart) is a celebrated ten-act Sanskrit Prakarana play attributed to King <b>Shudraka</b>, depicting the romantic drama between the noble but impoverished merchant Charudatta and the cultured courtesan Vasantasena in ancient Ujjayini.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 75,
+    "q": "Consider the following statements regarding 'Ozone Depletion in the Stratosphere':\n1. Chlorine radicals released from chlorofluorocarbons (CFCs) act as catalytic agents that break down ozone molecules into oxygen.\n2. Polar Stratospheric Clouds (PSCs) provide heterogeneous surfaces that accelerate ozone destruction during polar spring.\n3. The Montreal Protocol on Substances that Deplete the Ozone Layer is universally ratified by all UN member states.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> CFC photodissociation releases atomic chlorine radicals $(Cl^\\bullet)$ that catalytically destroy thousands of $O_3$ molecules. Ice crystal surfaces in Polar Stratospheric Clouds (Type I and II PSCs) release active chlorine species during Antarctic spring. The Montreal Protocol (1987) became the first treaty in UN history to achieve universal ratification by all 198 member states.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 76,
+    "q": "With reference to the cultural history of India, consider the following statements regarding the 'Bhakti Saints':\n1. Saint Nimbarka was a contemporary of Akbar.\n2. Saint Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Both statements are incorrect:</b></p><ul><li><b>Statement 1 is incorrect:</b> Nimbarkacharya lived in the 12th–13th century CE (or 11th century according to some traditions), whereas Akbar reigned in the 16th century (1556–1605 CE).</li><li><b>Statement 2 is incorrect:</b> Kabir Das lived in the 15th century (c. 1398–1518 CE), whereas Naqshbandi Sufi saint Shaikh Ahmad Sirhindi lived much later (1564–1624 CE) during the reigns of Akbar and Jahangir.</li></ul><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 77,
+    "q": "With reference to the Indian economy, consider the following statements regarding the 'Non-Financial Debt':\n1. Housing loans owed by households\n2. Amounts outstanding on credit cards\n3. Treasury bills issued by the Government\n\nWhich of the above are included in Non-Financial Debt?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three are included in Non-Financial Debt:</b> Non-financial debt consists of credit instruments issued by governmental entities, non-financial corporations, and private households to finance expenditures (excluding debt issued by financial intermediaries like commercial banks and NBFCs). This incorporates sovereign Treasury Bills, household mortgage loans, and consumer credit card balances.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 78,
+    "q": "In India, why are some nuclear reactors kept under 'IAEA Safeguards' while others are not?",
+    "options": [
+      "Some use uranium and others use thorium",
+      "Some use imported uranium and others use domestic supplies",
+      "Some are operated by foreign enterprises and others are operated by domestic enterprises",
+      "Some are state-owned and others are privately-owned"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> Under the India-IAEA Civil Nuclear Safeguards Agreement (arising from the Indo-US 123 Agreement), nuclear power reactors that utilize <b>imported uranium fuel</b> are placed under mandatory IAEA safeguards, while indigenous reactors utilizing domestic uranium reserves remain outside IAEA oversight.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 79,
+    "q": "With reference to the 'Trade-Related Investment Measures' (TRIMs), consider the following statements:\n1. Quantitative restrictions on imports by foreign investors are prohibited.\n2. They apply to investment measures related to trade in both goods and services.\n3. They are not concerned with the regulation of foreign investment per se.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 3 are correct:</b> The WTO TRIMs Agreement prohibits trade-distorting investment conditions (such as local content requirements and foreign exchange balancing/quantitative restrictions on imports under Article III and XI of GATT) without attempting to regulate foreign entry rules per se.</p><p><b>Statement 2 is incorrect:</b> The TRIMs Agreement applies exclusively to investment measures related to <b>trade in goods</b>, not trade in services (which is covered separately by GATS).</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 80,
+    "q": "If the RBI decides to adopt an expansionist monetary policy, which of the following would it NOT do?\n1. Cut and optimize the Statutory Liquidity Ratio\n2. Increase the Marginal Standing Facility Rate\n3. Cut the Bank Rate and Repo Rate\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>The RBI would NOT increase the MSF rate (Action 2):</b> Increasing the MSF rate makes borrowing more expensive, which contracts credit (contractionary/tight policy). An expansionary monetary policy involves lowering policy rates (Repo Rate, Bank Rate) and reducing reserve ratios (SLR/CRR) to inject liquidity into the economy.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 81,
+    "q": "With reference to the Indian economy after the 1991 economic liberalization, consider the following statements:\n1. Worker productivity (per worker at 2004-05 prices) increased in urban areas while it decreased in rural areas.\n2. The percentage share of rural areas in the agricultural workforce increased steadily.\n3. In rural areas, the growth in non-farm economy increased.\n4. The growth rate in rural employment decreased.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "3 only",
+      "1, 2 and 4"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 3 and 4 are correct:</b> Post-1991 data revealed rapid diversification with expanding non-farm rural enterprises (construction, transport, rural services) alongside a structural deceleration in the overall growth rate of rural employment.</p><p><b>Statements 1 and 2 are incorrect:</b> Worker productivity increased in both urban and rural areas, and the absolute proportion of the workforce engaged in primary agriculture declined rather than increasing steadily.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 82,
+    "q": "Consider the following statements regarding the 'District Mineral Foundations' (DMFs) in India:\n1. DMFs are non-profit statutory trusts created under the Mines and Minerals (Development and Regulation) Amendment Act, 2015.\n2. They are set up in mining-affected districts to work for the interest and benefit of persons and areas affected by mining operations.\n3. The funds of the DMF are managed entirely by the Central Government without state participation.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> DMFs are established as non-profit trusts in mining-affected districts under Section 9B of the MMDR Act, 2015, utilizing mining royalty contributions to implement social infrastructure under the Pradhan Mantri Khanij Kshetra Kalyan Yojana (PMKKKY).</p><p><b>Statement 3 is incorrect:</b> The governance, composition, and functions of DMFs are prescribed and administered by respective <b>State Governments</b>, not by the Central Government.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 83,
+    "q": "Which of the following statements is/are correct regarding the 'Kisan Credit Card' (KCC) scheme?\n1. It aims at meeting the financial requirements of farmers at various stages of farming including post-harvest expenses.\n2. Crop loans under KCC are provided at concessional interest rates with interest subvention support from the Government.\n3. The credit limit is fixed once and remains unchanged for a lifetime without any revisions.\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> The KCC scheme provides flexible single-window credit for cultivation, post-harvest expenses, asset maintenance, and consumption needs, backed by a 2% interest subvention and 3% prompt repayment incentive.</p><p><b>Statement 3 is incorrect:</b> The KCC credit limit incorporates an automatic 10% annual escalation for cost of cultivation increases and is valid for five years before reassessment.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 84,
+    "q": "Consider the following statements regarding the 'Indian Elephant' (Elephas maximus indicus):\n1. The leader of an elephant group is a female.\n2. The maximum gestation period can be 22 months.\n3. An elephant can normally go on calving till the age of 40 years only.\n4. Among the States in India, the highest elephant population is in Kerala.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 4 only",
+      "3 only",
+      "1, 3 and 4 only"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Elephant herds are matriarchal social structures led by the oldest female (matriarch). Elephants have the longest gestation period among land mammals, lasting up to 22 months.</p><p><b>Statements 3 and 4 are incorrect:</b> Female elephants can continue giving birth well beyond age 40 (often up to 50–55 years). According to synchronous elephant census data, <b>Karnataka</b> has the highest wild elephant population in India, followed by Assam and Kerala.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 85,
+    "q": "Which of the following Protected Areas are located in the Cauvery Basin?\n1. Nagarhole National Park\n2. Papikonda National Park\n3. Sathyamangalam Tiger Reserve\n4. Wayanad Wildlife Sanctuary\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>1, 3 and 4 are situated in the Cauvery drainage basin:</b></p><ul><li><b>Nagarhole:</b> Drained by the Kabini River (a major tributary of the Cauvery).</li><li><b>Sathyamangalam:</b> Drained by the Moyar River (flows into Bhavani, tributary of the Cauvery).</li><li><b>Wayanad:</b> Drained by the Kabini River and its tributaries.</li><li><b>Papikonda National Park (2):</b> Located along the Godavari River basin in Andhra Pradesh, completely outside the Cauvery basin.</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 86,
+    "q": "With reference to India's biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are:",
+    "options": [
+      "Birds",
+      "Primates",
+      "Reptiles",
+      "Amphibians"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The Ceylon frogmouth (<i>Batrachostomus moniliger</i>), Coppersmith barbet (<i>Psilopogon haemacephalus</i>), Gray-chinned minivet (<i>Pericrocotus solaris</i>), and White-throated redstart (<i>Phoenicurus schisticeps</i>) are all <b>bird species</b> found in India.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 87,
+    "q": "Which one of the following protected areas is well-known for the conservation of a sub-species of the Indian swamp deer (Barasingha) that thrives well on hard ground and is exclusively graminivorous?",
+    "options": [
+      "Kanha National Park",
+      "Manas National Park",
+      "Mudumalai Wildlife Sanctuary",
+      "Tal Chhapar Wildlife Sanctuary"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> <b>Kanha National Park</b> (Madhya Pradesh) is the sole natural sanctuary that rescued the endemic southern hard-ground Barasingha (<i>Rucervus duvaucelii branderi</i>) from near-extinction through grassland restoration and active habitat protection.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 88,
+    "q": "Steel slag can be the material for which of the following?\n1. Construction of base road\n2. Improvement of agricultural soil\n3. Production of cement\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three are viable applications of steel slag:</b> Steel slag is utilized as aggregate for road base layers, used in agriculture to neutralize soil acidity and supply silicate/calcium nutrients, and blended with clinker as a supplementary cementitious raw material in Portland Slag Cement (PSC).</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 89,
+    "q": "Which of the following are the most likely places to find the musk deer in its natural habitat?\n1. Askot Wildlife Sanctuary\n2. Gangotri National Park\n3. Kishanpur Wildlife Sanctuary\n4. Manas National Park\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1 and 4 only"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>1 and 2 are high-altitude natural habitats of the Himalayan Musk Deer:</b></p><ul><li><b>Askot Wildlife Sanctuary:</b> Located in Pithoragarh, Uttarakhand, established specifically for musk deer conservation.</li><li><b>Gangotri National Park:</b> High-altitude alpine/sub-alpine conifer forest in Uttarkashi, Uttarakhand.</li><li>Kishanpur (Terai lowlands in UP) and Manas (alluvial grassland in Assam) are lowland subtropical habitats unsuitable for alpine musk deer.</li></ul><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 90,
+    "q": "In rural road construction, the use of which of the following is preferred for ensuring environmental sustainability or to reduce carbon footprint?\n1. Copper slag\n2. Cold mix asphalt technology\n3. Geotextiles\n4. Hot mix asphalt technology\n5. Portland cement\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "4 and 5 only",
+      "1 and 5 only"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>1, 2 and 3 are sustainable green technologies:</b> Pradhan Mantri Gram Sadak Yojana (PMGSY) guidelines mandate the use of industrial byproducts like copper slag, cold mix asphalt (which eliminates high-temperature fuel burning and greenhouse emissions of hot mix asphalt), and jute/synthetic geotextiles for soil stabilization.</p><p>Hot mix asphalt and standard Portland cement have heavy carbon footprints and are avoided when prioritizing green methods.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 91,
+    "q": "Consider the following statements regarding the 'Parliamentary System of Government' in India:\n1. A Parliamentary System of Government is one in which the Executive is responsible to the Legislature.\n2. In India, the Council of Ministers is collectively responsible to the Lok Sabha.\n3. A Minister who is not a member of either House of Parliament for six consecutive months ceases to be a Minister.\n\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three statements are correct:</b> The core defining feature of a parliamentary executive is legislative accountability. Under Article 75(3), the Union Council of Ministers is collectively responsible to the House of the People (Lok Sabha). Under Article 75(5), a Minister must become an MP within six consecutive months or relinquish office.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 92,
+    "q": "Which part of the Constitution of India declares the ideal of a 'Welfare State'?",
+    "options": [
+      "Directive Principles of State Policy",
+      "Fundamental Rights",
+      "Preamble",
+      "Seventh Schedule"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The <b>Directive Principles of State Policy (Part IV, Articles 36 to 51)</b> embody the concept of a <b>Welfare State</b> by directing the state to secure a social order promoting socio-economic justice, equitable distribution of resources, and protection of weaker sections.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 93,
+    "q": "Consider the following statements regarding the 'Fundamental Rights' guaranteed under the Constitution of India:\n1. They are available against the arbitrary action of the State as well as against action of private individuals in certain cases.\n2. Article 20 and Article 21 cannot be suspended even during a National Emergency proclaimed under Article 352.\n3. Parliament can curtail or repeal a Fundamental Right by an ordinary legislation without a constitutional amendment.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Fundamental Rights operate primarily against the State, but Articles 17 (Untouchability) and 23 (Human trafficking/forced labor) are enforceable against private individuals. The 44th Constitutional Amendment Act (1978) ensures that the right to protection in respect of conviction for offenses (Article 20) and right to life and personal liberty (Article 21) cannot be suspended during an Emergency.</p><p><b>Statement 3 is incorrect:</b> Fundamental Rights cannot be amended or curtailed via ordinary statutory legislation; they require a <b>Constitutional Amendment Act passed under Article 368</b> (subject to the basic structure doctrine).</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 94,
+    "q": "In India, Separation of Judiciary from the Executive is enjoined by:",
+    "options": [
+      "the Preamble of the Constitution",
+      "a Directive Principle of State Policy",
+      "the Seventh Schedule",
+      "the conventional practice"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> <b>Article 50</b>, contained within the <b>Directive Principles of State Policy (Part IV)</b> of the Constitution of India, explicitly directs the State to take steps to separate the judiciary from the executive in the public services of the State.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 95,
+    "q": "Along with the Budget, the Finance Minister also places other documents before the Parliament which include 'The Macro Economic Framework Statement'. The aforesaid document is presented because this is mandated by:",
+    "options": [
+      "Long standing parliamentary convention",
+      "Article 112 and Article 110(1) of the Constitution of India",
+      "Article 113 of the Constitution of India",
+      "Provisions of the Fiscal Responsibility and Budget Management Act, 2003"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> Under Section 3 of the <b>Fiscal Responsibility and Budget Management (FRBM) Act, 2003</b>, the Central Government is statutorily mandated to lay three fiscal policy statements along with the Annual Financial Statement: the Macro-Economic Framework Statement, the Medium-Term Fiscal Policy Statement, and the Fiscal Policy Strategy Statement.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 96,
+    "q": "A constitutional government by definition is a:",
+    "options": [
+      "government by popular approval",
+      "government by multi-party legislature",
+      "limited government",
+      "government having a written constitution"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> The core political philosophy of Constitutionalism defines a <b>Constitutional Government</b> as a <b>limited government</b>—one whose powers are constrained by institutional checks, fundamental rights, and the rule of law to protect citizens from state arbitrariness.</p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 97,
+    "q": "Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)?\n1. Preamble\n2. Directive Principles of State Policy\n3. Fundamental Duties\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>All three parts reflect UDHR provisions:</b> The Preamble echoes UDHR values of dignity, justice, liberty, and equality; Part IV (DPSPs) mirrors UDHR economic and social rights (right to work, education, social security); and Part IVA (Fundamental Duties) reflects Article 29(1) of the UDHR stating that everyone has duties to the community in which the free and full development of personality is possible.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 98,
+    "q": "In India, Legal Services Authorities provide free legal services to which of the following type of citizens?\n1. Person with an annual income of less than ₹1,00,000\n2. Transgender with an annual income of less than ₹2,00,000\n3. Member of Other Backward Classes (OBC) with an annual income of less than ₹3,00,000\n4. All Senior Citizens\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "2 and 3 only",
+      "1 and 4 only"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Statements 1 and 2 are correct:</b> Under Section 12 of the Legal Services Authorities Act, 1987, persons with an annual income below ₹1,00,000 (or higher as notified by States) and transgenders with an income below ₹2,00,000 are eligible for free legal aid.</p><p><b>Statements 3 and 4 are incorrect:</b> OBC status is not an independent statutory eligibility category under Section 12, and free legal aid is not provided unconditionally to 'all' senior citizens without income ceilings.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 99,
+    "q": "Consider the following pairs of international agreements and their core mandates:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Agreement / Protocol</th><th>Core Mandate</th></tr></thead><tbody><tr><td>1. Alma-Ata Declaration</td><td>Primary healthcare for all</td></tr><tr><td>2. Hague Convention</td><td>Biological and chemical weapons ban</td></tr><tr><td>3. Talanoa Dialogue</td><td>Inclusive global climate action under UNFCCC</td></tr></tbody></table> }}\n\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Pairs 1 and 3 are correctly matched:</b></p><ul><li><b>Alma-Ata Declaration (1978):</b> Landmark WHO declaration identifying primary health care as the key to achieving 'Health for All'.</li><li><b>Talanoa Dialogue:</b> Pacific conversational process mandated at COP23 (2017) to review global climate progress under the Paris Agreement.</li><li>Pair 2 is incorrect: The Hague Convention on the Civil Aspects of International Child Abduction deals with cross-border parental child abduction, not biological weapons.</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2020,
+    "paper": "GS1",
+    "question": 100,
+    "q": "With reference to the history of India, consider the following pairs:\n\n{{ <table class='table table-bordered text-center' style='width:100%; border: 1px solid #dee2e6;'><thead><tr style='background-color:#f8f9fa;'><th>Famous Site</th><th>Well known for</th></tr></thead><tbody><tr><td>1. Burzahom</td><td>Rock-cut shrines</td></tr><tr><td>2. Chandraketugarh</td><td>Terracotta art</td></tr><tr><td>3. Ganeshwar</td><td>Copper artefacts</td></tr></tbody></table> }}\n\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Pairs 2 and 3 are correctly matched:</b></p><ul><li><b>Chandraketugarh (West Bengal):</b> Celebrated Early Historic coastal/riverine hub renowned for terracotta plaques and figurines.</li><li><b>Ganeshwar (Rajasthan):</b> Ganeshwar-Jodhpura Chalcolithic culture known for rich copper deposits and copper arrowheads/artefacts supplied to the Harappans.</li><li>Pair 1 is incorrect: <b>Burzahom</b> (Jammu & Kashmir) is a <b>Neolithic site</b> famous for subterranean pit dwellings and bone tools, not rock-cut shrines.</li></ul><p><b>Correct Option is 4.</b></p></div> }}"
+  }
+]
