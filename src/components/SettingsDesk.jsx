@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { db, seedDatabaseIfEmpty } from '../data/db'; // Imported core database instances safely
 
 export default function SettingsDesk() {
   // 🧭 Local preference states initialized directly from persistent storage frames
@@ -13,6 +14,52 @@ export default function SettingsDesk() {
   const [themeMode, setThemeMode] = useState(() => {
     return localStorage.getItem('pocketUPSC_themeMode') || 'light';
   });
+
+  // Administrative local loader trigger state tracking execution workflows
+  const [isResetting, setIsResetting] = useState(false);
+
+  // 🎯 THE SYSTEM HARD RESET ACTION ROUTINE
+  const handleSystemHardReset = async () => {
+    const userConfirmed = window.confirm(
+      "⚠️ WARNING: This will completely wipe out your local Pocket UPSC database!\n\n" +
+      "This deletes all your checked syllabus topics, saved snippets, custom user notes, and in-progress quiz sessions.\n\n" +
+      "Are you absolutely sure you want to proceed?"
+    );
+
+    if (!userConfirmed) return;
+
+    try {
+      setIsResetting(true);
+      console.warn("💥 Initializing full system database nuke operations...");
+
+      // 1. Clear out every single localized Dexie IndexedDB table asynchronously in parallel
+      await Promise.all([
+        db.syllabusProgress.clear(),
+        db.questions.clear(),
+        db.pastPapers.clear(),
+        db.savedSnippets.clear(),
+        db.userNotes.clear(),
+        db.detailedContent.clear(),
+        db.quizSessions.clear()
+      ]);
+
+      console.log("🧼 Database wiped completely. Executing pristine file ingestion seeding sequence...");
+      
+      // 2. Re-trigger database seeding setup to re-read pristine bundle files instantly
+      await seedDatabaseIfEmpty();
+
+      alert("✅ System data architecture reset successfully! The application will now reload to finalize states.");
+      
+      // 3. Force page reload to clear internal component memories completely
+      window.location.reload();
+
+    } catch (err) {
+      console.error("❌ Critical execution breakdown during admin hard reset cycle:", err);
+      alert("Something went wrong while resetting. Try clearing your browser site storage manually.");
+    } finally {
+      setIsResetting(false);
+    }
+  };
 
   // 🔄 Synchronization triggers to auto-update localStorage keys instantly on change
   useEffect(() => {
@@ -131,6 +178,30 @@ export default function SettingsDesk() {
             <span>🌙</span> Midnight / Dark
           </button>
         </div>
+      </div>
+
+      {/* SECTION 3: 🛑 ADMINISTRATIVE DANGER ZONE ACCORDION CARD */}
+      <div className="bg-white dark:bg-slate-900 border border-rose-200 dark:border-rose-950/40 rounded-xl p-4 shadow-3xs space-y-3 transition-colors duration-200">
+        <div>
+          <h4 className="text-xs font-black text-rose-700 dark:text-rose-400 uppercase tracking-wider flex items-center gap-1.5">
+            <span>⚠️</span> System Core Maintenance
+          </h4>
+          <p className="text-[10px] text-slate-400 dark:text-slate-500 leading-tight mt-0.5">
+            Administrative system overrides. Actions here are immediate and completely irreversible.
+          </p>
+        </div>
+
+        <button
+          onClick={handleSystemHardReset}
+          disabled={isResetting}
+          className={`w-full py-2.5 px-4 rounded-xl border font-black text-xs tracking-wide transition-all duration-150 flex items-center justify-center gap-2 outline-none ${
+            isResetting
+              ? 'bg-rose-50 border-rose-200 text-rose-400 dark:bg-rose-950/20 dark:border-rose-900 cursor-not-allowed animate-pulse'
+              : 'bg-rose-50/40 dark:bg-rose-950/10 border-rose-200 dark:border-rose-900/60 text-rose-600 dark:text-rose-400 hover:bg-rose-600 hover:text-white dark:hover:bg-rose-700 active:scale-98 cursor-pointer shadow-3xs'
+          }`}
+        >
+          <span>{isResetting ? '🧼 Wiping Workspace Engine...' : '🚨 Perform Full System Hard Reset'}</span>
+        </button>
       </div>
 
       {/* SYSTEM META OVERVIEW INFO */}
