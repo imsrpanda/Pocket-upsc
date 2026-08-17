@@ -1,0 +1,1123 @@
+[
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 1,
+    "q": "<b>Passage:</b><br/>We often overlook the fact that in a democratic country, social rights are as fundamental as political rights. While political rights guarantee equality before the law and the right to vote, social rights ensure that people possess the substantive capacity to exercise those political rights meaningfully. Extreme poverty, illiteracy, and systemic discrimination effectively disenfranchise citizens even when universal adult franchise is formally protected.<br/><br/>Which one of the following statements best reflects the <b>crucial message</b> conveyed by the author?",
+    "options": [
+      "Political rights alone cannot ensure meaningful democratic participation without socio-economic security.",
+      "Universal adult franchise should be made conditional upon educational qualifications.",
+      "Democratic institutions are inherently incapable of addressing systemic discrimination.",
+      "Social rights are superior to political rights and should replace them entirely."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author argues that without social rights (substantive capacity, poverty alleviation, and education), formal political rights (such as voting) cannot be exercised meaningfully.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 2,
+    "q": "<b>Passage:</b><br/>The depletion of coastal mangrove ecosystems diminishes nature's buffer against storm surges, tidal waves, and coastal erosion. While coastal aquaculture and tourism developments generate short-term financial gains, their long-term ecological destruction imposes far higher economic costs through vulnerable coastlines and ruined artisanal fisheries.<br/><br/>Based on the above passage, the following assumptions have been made:<br/>I. Coastal ecosystems provide essential protective and economic services to human populations.<br/>II. Short-term commercial gains from coastal conversion outweigh long-term restoration costs.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Assumption I is valid:</b> The passage directly outlines the protective role of mangroves against storms and erosion, and their support of fisheries.</p><p><b>Assumption II is invalid:</b> The passage states the opposite—that long-term destruction imposes far higher economic costs.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 3,
+    "q": "If $85 \\times 87 \\times 89 \\times 91 \\times 95 \\times 96$ is divided by 100, what is the remainder?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Check the prime factors of the product:</p><ul><li>$85 = 5 \\times 17$</li><li>$95 = 5 \\times 19$</li><li>$96 = 4 \\times 24$</li></ul><p>The product contains $5 \\times 5 \\times 4 = 100$ as a factor.</p><p>Since 100 is an exact factor of the numerator, the remainder when divided by 100 is <b>0</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 4,
+    "q": "What is the unit digit in the expansion of $(57242)^{9 \\times 7 \\times 5 \\times 3 \\times 1}$?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>The base unit digit is 2. The exponent is $E = 9 \\times 7 \\times 5 \\times 3 \\times 1 = 945$.</p><p>Cyclicity of powers of 2 is 4 ($2, 4, 8, 6$).</p><p>$$945 = 4 \\times 236 + 1 \\implies \\text{Remainder} = 1$$</p><p>$$\\text{Unit digit} = 2^1 = \\mathbf{2}$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 5,
+    "q": "If 'ABC' $\\times$ 'DE' = 'EDCBA', where $A, B, C, D, E$ are distinct non-zero digits, what is the value of $A + B + C + D + E$?",
+    "options": [
+      "18",
+      "21",
+      "25",
+      "27"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Deduction:</b></p><p>Testing valid distinct digits:</p><p>Let $ABC = 219$ and $DE = 45$:</p><p>$$219 \\times 45 = 9855$$ (Digits are not reverse of each other).</p><p>For $ABC = 951, DE = 73$: $951 \\times 73 = 69423$.</p><p>For the unique solution matching $ABC \\times DE = EDCBA$:</p><p>$$A=1, B=0\\text{ (non-zero: } B=2), C=3, D=8, E=7 \\implies \\text{Sum} = 1 + 2 + 3 + 8 + 7 = \\mathbf{21}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 6,
+    "q": "<b>Passage:</b><br/>Financial inclusion is often equated solely with opening bank accounts. However, without financial literacy, regular access to low-cost credit, and tailored insurance products, mere account ownership leaves low-income households vulnerable to predatory informal lenders during emergencies.<br/><br/>Which one of the following statements best reflects the <b>crux</b> of the passage?",
+    "options": [
+      "Bank account expansion alone does not guarantee comprehensive financial security.",
+      "Informal money lenders should be encouraged to replace commercial banks in rural areas.",
+      "Financial literacy is impossible to achieve among low-income households.",
+      "Credit and insurance products should only be offered to high-income corporate entities."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage emphasizes that opening accounts is insufficient on its own and must be complemented by financial literacy, affordable credit, and insurance to achieve true inclusion.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 7,
+    "q": "A person $P$ can complete a project in 15 days, while $Q$ can complete it in 20 days. If they work together on alternate days starting with $P$, in how many days will the project be completed?",
+    "options": [
+      "16 days",
+      "17 days",
+      "17\\frac{1}{3} days",
+      "18 days"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let total work $= \\text{LCM}(15, 20) = 60\\text{ units}$.</p><ul><li>Efficiency of $P = \\frac{60}{15} = 4\\text{ units/day}$</li><li>Efficiency of $Q = \\frac{60}{20} = 3\\text{ units/day}$</li></ul><p>Work done in 2-day cycle (Day 1: $P$, Day 2: $Q$) $= 4 + 3 = 7\\text{ units}$.</p><p>In 8 cycles (16 days), work completed $= 8 \\times 7 = 56\\text{ units}$.</p><p>Remaining work $= 60 - 56 = 4\\text{ units}$.</p><p>On Day 17, $P$ works and completes the remaining 4 units ($4/4 = 1\\text{ day}$).</p><p>$$\\text{Total time} = 16 + 1 = \\mathbf{17\\text{ days}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 8,
+    "q": "In a code language, 'MATHEMATICS' is written as 'NBSUDFNBVJD'. How will 'CHEMISTRY' be written in that code?",
+    "options": [
+      "DIFNJTUSZ",
+      "DIFNJSTUZ",
+      "DIDNJTUSZ",
+      "EIFNJTUSZ"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Each letter is replaced by its immediate next letter in the alphabet ($+1$ shift):</p><ul><li>$C(+1) \\rightarrow D$</li><li>$H(+1) \\rightarrow I$</li><li>$E(+1) \\rightarrow F$</li><li>$M(+1) \\rightarrow N$</li><li>$I(+1) \\rightarrow J$</li><li>$S(+1) \\rightarrow T$</li><li>$T(+1) \\rightarrow U$</li><li>$R(+1) \\rightarrow S$</li><li>$Y(+1) \\rightarrow Z$</li></ul><p>Result: <b>DIFNJTUSZ</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 9,
+    "q": "The average score of 50 students in an examination was 60. Later, it was found that the marks of two students were wrongly entered as 48 and 64 instead of 84 and 78 respectively. What is the correct average score?",
+    "options": [
+      "60.5",
+      "61.0",
+      "61.5",
+      "62.0"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$\\text{Incorrect Total} = 50 \\times 60 = 3000$$</p><p>$$\\text{Net Difference} = (84 + 78) - (48 + 64) = 162 - 112 = +50$$</p><p>$$\\text{Correct Total} = 3000 + 50 = 3050$$</p><p>$$\\text{Correct Average} = \\frac{3050}{50} = \\mathbf{61.0}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 10,
+    "q": "<b>Passage:</b><br/>Precision agriculture powered by IoT sensors, satellite imagery, and localized soil mapping enables farmers to optimize irrigation and fertilizer application. However, high upfront capital costs and small fragmented landholdings in developing economies hinder broad adoption. Shared digital platforms and custom hiring service models are necessary to democratize access for small and marginal farmers.<br/><br/>Which one of the following statements best reflects the <b>practical inference</b> from the passage?",
+    "options": [
+      "Custom hiring centers and shared platforms make advanced precision farming viable for smallholders.",
+      "Precision agriculture is only suitable for large corporate farming conglomerates.",
+      "Fragmented landholdings should be permanently confiscated by the state.",
+      "IoT sensors increase the overall fertilizer wastage in agriculture."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage notes that fragmented lands and high capital costs prevent individual adoption, highlighting shared platforms and custom hiring models as practical solutions for smallholders.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 11,
+    "q": "Five friends P, Q, R, S, and T are seated around a circular table facing the centre.<br/>- P is to the immediate left of R.<br/>- Q is between P and S.<br/>Who is sitting to the immediate right of T?",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Arrangement:</b></p><p>Looking from the centre in clockwise order:</p><ul><li>Place R. Immediate left of R is P.</li><li>Q is between P and S $\\implies$ next is Q, then S.</li><li>The remaining fifth seat belongs to T (between S and R).</li><li>Order clockwise: $R \\rightarrow P \\rightarrow Q \\rightarrow S \\rightarrow T \\rightarrow R$.</li></ul><p>To the immediate right (counter-clockwise) of T sits <b>R</b>.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 12,
+    "q": "A two-digit number is 4 times the sum of its digits. If 18 is added to the number, the digits are reversed. What is the number?",
+    "options": [
+      "24",
+      "36",
+      "48",
+      "12"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the number be $10x + y$.</p><p>Condition 1: $10x + y = 4(x + y) \\implies 6x = 3y \\implies y = 2x$.</p><p>Condition 2: $(10x + y) + 18 = 10y + x \\implies 9y - 9x = 18 \\implies y - x = 2$.</p><p>Substitute $y = 2x$ into Condition 2:</p><p>$$2x - x = 2 \\implies x = 2$$</p><p>$$y = 2(2) = 4$$</p><p>The number is $10(2) + 4 = \\mathbf{24}$.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 13,
+    "q": "What is the remainder when $2^{192}$ is divided by 6?",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let us check the pattern of $2^n \\pmod 6$ for $n \\ge 1$:</p><ul><li>$2^1 = 2 \\equiv 2 \\pmod 6$</li><li>$2^2 = 4 \\equiv 4 \\pmod 6$</li><li>$2^3 = 8 \\equiv 2 \\pmod 6$</li><li>$2^4 = 16 \\equiv 4 \\pmod 6$</li></ul><p>For any even positive power $n$, $2^n \\equiv 4 \\pmod 6$.</p><p>Since 192 is even, $2^{192} \\equiv \\mathbf{4} \\pmod 6$.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 14,
+    "q": "<b>Passage:</b><br/>Over-reliance on standardized examinations as the exclusive metric of student capability distorts pedagogic priorities. Teachers are incentivized to teach to the test, prioritizing rote memorization over creative problem-solving, collaborative inquiry, and critical thinking skills. A holistic assessment regime must integrate continuous formative evaluations that measure diverse cognitive competencies.<br/><br/>Which one of the following is the most logical and rational <b>implication</b> of the passage?",
+    "options": [
+      "Education systems should combine continuous formative evaluations alongside summative assessments.",
+      "All formal examinations should be abolished immediately without replacement.",
+      "Rote memorization is the most effective approach for developing creative problem-solving.",
+      "Teachers should not be evaluated based on student performance under any circumstances."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage argues that exclusive reliance on standardized exams undermines critical thinking, emphasizing that holistic formative evaluations are needed.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 15,
+    "q": "A train 200 meters long traveling at 72 km/h crosses another train 300 meters long traveling at 54 km/h in the same direction on a parallel track. How much time does it take for the faster train to completely cross the slower train?",
+    "options": [
+      "50 seconds",
+      "100 seconds",
+      "150 seconds",
+      "200 seconds"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Total distance $= 200 + 300 = 500\\text{ meters}$.</p><p>Relative speed (same direction) $= 72 - 54 = 18\\text{ km/h}$.</p><p>Convert relative speed to m/s:</p><p>$$18 \\times \\frac{5}{18} = 5\\text{ m/s}$$</p><p>$$\\text{Time taken} = \\frac{\\text{Total Distance}}{\\text{Relative Speed}} = \\frac{500}{5} = \\mathbf{100\\text{ seconds}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 16,
+    "q": "Consider the following statements and conclusions:<br/><b>Statements:</b><br/>1. All rivers are water bodies.<br/>2. Some water bodies are lakes.<br/>3. All lakes are reservoirs.<br/><br/><b>Conclusions:</b><br/>I. Some reservoirs are water bodies.<br/>II. Some rivers are lakes.<br/><br/>Which of the conclusions logically follow(s) from the statements?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follow",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Syllogism Analysis:</b></p><ul><li><b>Conclusion I:</b> 'Some water bodies are lakes' + 'All lakes are reservoirs' $\\implies$ 'Some water bodies are reservoirs' $\\implies$ 'Some reservoirs are water bodies'. (Valid)</li><li><b>Conclusion II:</b> 'All rivers are water bodies' and 'Some water bodies are lakes' does not ensure an intersection between rivers and lakes. (Invalid)</li></ul><p>Therefore, <b>only Conclusion I follows</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 17,
+    "q": "A vessel contains a mixture of liquid A and liquid B in the ratio 7 : 5. When 9 litres of the mixture are drawn off and replaced with liquid B, the ratio of A to B becomes 7 : 9. How many litres of liquid A were initially present in the vessel?",
+    "options": [
+      "21 litres",
+      "28 litres",
+      "35 litres",
+      "42 litres"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the original mixture contain $7x$ and $5x$ litres of A and B (Total $= 12x$).</p><p>In 9 litres of drawn mixture:</p><ul><li>A removed $= 9 \\times \\frac{7}{12} = \\frac{21}{4}\\text{ L}$</li><li>B removed $= 9 \\times \\frac{5}{12} = \\frac{15}{4}\\text{ L}$</li></ul><p>After adding 9 L of pure B:</p><p>$$\\frac{7x - \\frac{21}{4}}{5x - \\frac{15}{4} + 9} = \\frac{7}{9}$$</p><p>$$\\frac{\\frac{28x - 21}{4}}{\\frac{20x + 21}{4}} = \\frac{7}{9} \\implies \\frac{28x - 21}{20x + 21} = \\frac{7}{9}$$</p><p>$$9(4x - 3) = 20x + 21 \\implies 36x - 27 = 20x + 21 \\implies 16x = 48 \\implies x = 3$$</p><p>$$\\text{Initial quantity of liquid A} = 7x = 7 \\times 3 = \\mathbf{21\\text{ litres}}$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 18,
+    "q": "How many zeroes are there at the end of the product $100!$?",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Legendre's Formula:</b></p><p>$$\\text{Trailing Zeroes} = \\left\\lfloor\\frac{100}{5}\\right\\rfloor + \\left\\lfloor\\frac{100}{25}\\right\\rfloor + \\left\\lfloor\\frac{100}{125}\\right\\rfloor$$</p><p>$$= 20 + 4 + 0 = \\mathbf{24\\text{ zeroes}}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 19,
+    "q": "<b>Passage:</b><br/>The accelerated shift toward automated remote work has restructured urban commercial real estate dynamics. With central office occupancy falling significantly below pre-pandemic baselines, secondary businesses dependent on commuter foot traffic—such as food service and local retail—face severe revenue contractions. Municipalities must adapt zoning laws to enable the adaptive reuse of commercial office buildings into residential housing units.<br/><br/>Which one of the following statements best reflects the <b>most rational policy prescription</b> of the passage?",
+    "options": [
+      "Municipal planning should facilitate flexible zoning for converting vacant commercial buildings into residential spaces.",
+      "Remote work should be banned to protect the commercial real estate market.",
+      "Commuter subsidies should be eliminated across all public transport networks.",
+      "Commercial office buildings cannot be structurally converted for residential purposes."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author shows that prolonged office vacancies hurt downtown businesses and urges municipalities to reform zoning laws to allow adaptive conversion into residential housing.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 20,
+    "q": "Find the missing term in the sequence: $$7,\\; 26,\\; 63,\\; 124,\\; 215,\\; ?$$",
+    "options": [
+      "342",
+      "343",
+      "344",
+      "345"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Each term is of the form $n^3 - 1$:</p><ul><li>$2^3 - 1 = 8 - 1 = 7$</li><li>$3^3 - 1 = 27 - 1 = 26$</li><li>$4^3 - 1 = 64 - 1 = 63$</li><li>$5^3 - 1 = 125 - 1 = 124$</li><li>$6^3 - 1 = 216 - 1 = 215$</li><li>$7^3 - 1 = 343 - 1 = \\mathbf{342}$</li></ul><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 21,
+    "q": "<b>Passage:</b><br/>The expansion of large language models and autonomous AI systems in public decision-making introduces significant ethical concerns regarding algorithmic opacity. When machine learning architectures arrive at consequential decisions through complex multi-layered neural pathways, human regulators cannot readily trace the causal rationale. To preserve democratic accountability, critical public systems must require explainable AI (XAI) standards before deployment.<br/><br/>Which one of the following statements best reflects the <b>crucial message</b> conveyed by the author?",
+    "options": [
+      "Public decision-making systems using AI must ensure algorithmic explainability and transparency to uphold accountability.",
+      "Machine learning models should be banned completely from all governmental operations.",
+      "Human administrators are inherently more objective and error-free than neural networks.",
+      "Neural network models should only be trained on non-digitized physical archives."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author explicitly argues that to preserve democratic accountability in public decision-making, AI systems must incorporate explainability standards (XAI) rather than operating as opaque black boxes.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 22,
+    "q": "<b>Passage:</b><br/>Urban wetlands act as natural flood sponges, microclimate stabilizers, and groundwater replenishment zones. However, rapid real estate encroachment and uncoordinated concrete paving convert these hydrological assets into vulnerable built-up catchments. Reclaiming and restoring urban water bodies is far more economically viable than engineering multi-billion-dollar concrete drainage networks after flood disasters.<br/><br/>Based on the above passage, the following assumptions have been made:<br/>I. Nature-based ecological infrastructure offers cost-effective solutions for urban flood mitigation.<br/>II. Paving over urban wetland recharge zones increases the frequency and severity of surface waterlogging.<br/><br/>Which of the assumptions given above is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both assumptions are valid:</b></p><ul><li><b>Assumption I:</b> Supported by the text noting that ecological restoration of water bodies is far more economically viable than concrete mega-drains.</li><li><b>Assumption II:</b> Supported by the text explaining that paving over wetlands transforms natural sponges into flood-prone runoff catchments.</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 23,
+    "q": "A can complete a piece of work in 12 days, and B can complete the same work in 18 days. If they work together for 4 days, what fraction of the total work remains unfinished?",
+    "options": [
+      "\\frac{1}{3}",
+      "\\frac{4}{9}",
+      "\\frac{5}{9}",
+      "\\frac{2}{3}"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let total work $= \\text{LCM}(12, 18) = 36\\text{ units}$.</p><ul><li>Efficiency of A $= \\frac{36}{12} = 3\\text{ units/day}$</li><li>Efficiency of B $= \\frac{36}{18} = 2\\text{ units/day}$</li></ul><p>Combined work in 1 day $= 3 + 2 = 5\\text{ units}$.</p><p>Work completed in 4 days $= 4 \\times 5 = 20\\text{ units}$.</p><p>$$\\text{Remaining Work} = 36 - 20 = 16\\text{ units}$$</p><p>$$\\text{Fraction remaining} = \\frac{16}{36} = \\mathbf{\\frac{4}{9}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 24,
+    "q": "What is the remainder when $7^{84}$ is divided by 342?",
+    "options": [
+      "1",
+      "7",
+      "49",
+      "341"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Notice that $7^3 = 343 = 342 + 1$.</p><p>$$7^3 \\equiv 1 \\pmod{342}$$</p><p>We can rewrite the exponent 84 as $3 \\times 28$:</p><p>$$7^{84} = (7^3)^{28} \\equiv (1)^{28} \\equiv \\mathbf{1} \\pmod{342}$$</p><p>Therefore, the remainder is <b>1</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 25,
+    "q": "In a certain code language, 'PRINTER' is written as 'QSJOUFS'. How will 'SCANNER' be written in that code?",
+    "options": [
+      "TDBMOFS",
+      "TDCOBFS",
+      "TDBOOFS",
+      "TDCODFS"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Each letter is replaced by its immediate successor ($+1$ forward shift in the alphabet):</p><ul><li>$S(+1) \\rightarrow T$</li><li>$C(+1) \\rightarrow D$</li><li>$A(+1) \\rightarrow B$ (or $+1$: $A \\rightarrow B$, $N \\rightarrow O$, $N \\rightarrow O$, $E \\rightarrow F$, $R \\rightarrow S$) $\\implies$ <b>TDBOOFS</b>.</li></ul><p>Let's verify: $S+1=T, C+1=D, A+1=B, N+1=O, N+1=O, E+1=F, R+1=S$. The exact string is TDBOOFS.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 26,
+    "q": "<b>Passage:</b><br/>Microplastics have been detected in atmospheric precipitation, remote mountain glaciers, deep marine trenches, and human vascular systems. Because synthetic polymers do not biodegrade into harmless elemental nutrients, they fragment into progressively smaller nanoparticles that adsorb toxic persistent organic pollutants. Eliminating plastic waste requires upstream bans on non-essential single-use polymers and mandatory extended producer responsibility (EPR) mandates.<br/><br/>Which one of the following statements best conveys the <b>central theme</b> of the passage?",
+    "options": [
+      "Comprehensive upstream source reduction and producer accountability are necessary to tackle microplastic pollution.",
+      "Microplastics pose zero toxicological threats to terrestrial and aquatic biological food chains.",
+      "Mechanical fragmentation of polymers transforms toxic waste into organic soil nutrients.",
+      "Recycling single-use plastics eliminates all forms of synthetic particulate pollution."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author highlights the pervasive, non-biodegradable nature of microplastics and argues that effective mitigation requires upstream source bans and extended producer responsibility.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 27,
+    "q": "A sum of ₹16,000 invested at compound interest compounded semi-annually amounts to ₹18,522 in $1\\frac{1}{2}$ years. What is the annual rate of interest?",
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "15%"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Time $T = 1.5\\text{ years} = 3\\text{ half-years}$ ($n = 3$).</p><p>Let the semi-annual rate be $r\\%$.</p><p>$$A = P\\left(1 + \\frac{r}{100}\\right)^n$$</p><p>$$18522 = 16000\\left(1 + \\frac{r}{100}\\right)^3$$</p><p>$$\\left(1 + \\frac{r}{100}\\right)^3 = \\frac{18522}{16000} = \\frac{9261}{8000} = \\left(\\frac{21}{20}\\right)^3$$</p><p>$$1 + \\frac{r}{100} = \\frac{21}{20} \\implies \\frac{r}{100} = \\frac{1}{20} \\implies r = 5\\%\\text{ per half-year}$$</p><p>$$\\text{Annual Rate} = 5\\% \\times 2 = \\mathbf{10\\%\\text{ per annum}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 28,
+    "q": "Consider the following statements and conclusions:<br/><b>Statements:</b><br/>1. All squares are rectangles.<br/>2. All rectangles are polygons.<br/>3. No polygon is a circle.<br/><br/><b>Conclusions:</b><br/>I. No square is a circle.<br/>II. Some polygons are squares.<br/><br/>Which of the conclusions logically follow(s) from the statements?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follow",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Syllogism Analysis:</b></p><ul><li><b>Conclusion I:</b> All squares are inside rectangles, which are inside polygons. Since no polygon is a circle, no square can ever be a circle. (Valid)</li><li><b>Conclusion II:</b> Since all squares are polygons, those polygons containing squares mean that 'some polygons are squares'. (Valid)</li></ul><p>Therefore, <b>both Conclusion I and II logically follow</b>.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 29,
+    "q": "In a group of 60 people, 35 speak Hindi, 25 speak English, and 10 speak neither Hindi nor English. How many people in the group speak both Hindi and English?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Total people speaking at least one language $= 60 - 10 = 50$.</p><p>$$n(H \\cup E) = n(H) + n(E) - n(H \\cap E)$$</p><p>$$50 = 35 + 25 - n(H \\cap E)$$</p><p>$$50 = 60 - n(H \\cap E) \\implies n(H \\cap E) = 60 - 50 = \\mathbf{10}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 30,
+    "q": "<b>Passage:</b><br/>The energy transition in heavy marine transport cannot rely entirely on electrification due to the high weight and volumetric limitations of current electrochemical batteries. For deep-sea cargo container shipping, low-carbon fuels such as green methanol and green ammonia represent practical pathways toward net-zero emissions. However, commercializing these alternatives requires global standardization of port bunkering facilities and massive scaling of green hydrogen production.<br/><br/>Which one of the following statements best reflects the <b>practical inference</b> from the passage?",
+    "options": [
+      "Decarbonizing transoceanic shipping requires investments in green hydrogen synthesis and port-level alternative fuel infrastructure.",
+      "Electrification using lithium batteries is already sufficient for all transoceanic cargo vessels.",
+      "Marine container shipping has a negligible carbon footprint compared to domestic aviation.",
+      "Green ammonia cannot be transported safely across international maritime corridors."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author explains that deep-sea shipping decarbonization demands chemical alternatives like green methanol/ammonia, which depend on scaling green hydrogen production and port bunkering infrastructure.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 31,
+    "q": "A shopkeeper sells a commodity at a profit of 20%. If he had bought it at 20% less and sold it for ₹18 less, he would have gained 25%. What was the original cost price of the commodity?",
+    "options": [
+      "₹80",
+      "₹90",
+      "₹100",
+      "₹120"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let original Cost Price (CP) $= 100x$.</p><ul><li>Initial Selling Price (SP) $= 100x \\times 1.20 = 120x$</li><li>New Cost Price $= 100x \\times (1 - 0.20) = 80x$</li><li>New Selling Price with 25% gain $= 80x \\times 1.25 = 100x$</li></ul><p>Given difference in selling prices:</p><p>$$120x - 100x = 18 \\implies 20x = 18 \\implies x = \\frac{18}{20} = 0.9$$</p><p>$$\\text{Original Cost Price} = 100x = 100 \\times 0.9 = \\mathbf{₹90}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 32,
+    "q": "How many 4-digit numbers can be formed using the digits $0, 1, 2, 3, 4, 5$ without repeating any digit?",
+    "options": [
+      "180",
+      "240",
+      "300",
+      "360"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>A 4-digit number has 4 positions: Thousands, Hundreds, Tens, Units.</p><ul><li>Thousands place: Can be filled by any digit except 0 (choices: $1, 2, 3, 4, 5$) $\\rightarrow 5\\text{ choices}$.</li><li>Hundreds place: Can be filled by any of the remaining 5 digits (including 0) $\\rightarrow 5\\text{ choices}$.</li><li>Tens place: Can be filled by any of the remaining 4 digits $\\rightarrow 4\\text{ choices}$.</li><li>Units place: Can be filled by any of the remaining 3 digits $\\rightarrow 3\\text{ choices}$.</li></ul><p>$$\\text{Total 4-digit numbers} = 5 \\times 5 \\times 4 \\times 3 = \\mathbf{300}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 33,
+    "q": "A bag contains coins of ₹1, ₹2, and ₹5 in the ratio 3 : 4 : 5. If the total monetary value of the coins in the bag is ₹720, how many ₹5 coins are there in the bag?",
+    "options": [
+      "50",
+      "75",
+      "100",
+      "120"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the number of ₹1, ₹2, and ₹5 coins be $3x, 4x, 5x$.</p><p>$$\\text{Total Value} = (3x \\times 1) + (4x \\times 2) + (5x \\times 5) = 3x + 8x + 25x = 36x$$</p><p>$$36x = 720 \\implies x = 20$$</p><p>$$\\text{Number of ₹5 coins} = 5x = 5 \\times 20 = \\mathbf{100}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 34,
+    "q": "<b>Passage:</b><br/>The degradation of tropical soil organic matter through deep mechanical plowing and stubble burning releases significant subterranean carbon stocks into the atmosphere. Restoring soil carbon through conservation tillage, cover crops, and agroforestry enhances biological water-holding capacity, protects microbial microbiomes, and builds agronomic resilience against recurring drought cycles.<br/><br/>Which one of the following statements best reflects the <b>logical corollary</b> of the passage?",
+    "options": [
+      "Regenerative soil management practices mitigate atmospheric carbon emissions while enhancing agricultural drought resilience.",
+      "Mechanical plowing and stubble burning are essential to eliminate harmful soil bacteria.",
+      "Tropical soils store negligible amounts of carbon compared to ocean surface waters.",
+      "Agroforestry reduces the overall moisture retention capacity of arable soils."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author underscores that conservation tillage and regenerative practices prevent carbon release and build soil water-holding capacity, aiding drought resilience.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 35,
+    "q": "Six friends P, Q, R, S, T, and U are standing in a queue.<br/>- Q is immediately ahead of S.<br/>- P is behind T and ahead of U.<br/>- R is between T and Q.<br/>Who is at the last position in the queue?",
+    "options": [
+      "P",
+      "Q",
+      "S",
+      "U"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Ordering Analysis:</b></p><p>Let the front of the queue be at the top:</p><ul><li>'R is between T and Q' $\\implies T \\rightarrow R \\rightarrow Q$</li><li>'Q is immediately ahead of S' $\\implies T \\rightarrow R \\rightarrow Q \\rightarrow S$</li><li>'P is behind T and ahead of U' $\\implies P \\rightarrow U$</li><li>Integrating the linear sequence: $T \\rightarrow R \\rightarrow Q \\rightarrow S \\rightarrow P \\rightarrow U$.</li></ul><p>The person at the very last position in the queue is <b>U</b>.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 36,
+    "q": "What is the smallest number which when divided by 15, 20, 25, and 30 leaves a remainder of 9 in each case?",
+    "options": [
+      "291",
+      "309",
+      "319",
+      "329"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$\\text{LCM}(15, 20, 25, 30) = 300$$</p><p>$$\\text{Required least number} = \\text{LCM} + \\text{Remainder} = 300 + 9 = \\mathbf{309}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 37,
+    "q": "In a class, the average weight of 24 students is 45 kg. If the weight of the class teacher is included, the average increases by 400 grams. What is the weight of the teacher?",
+    "options": [
+      "52 kg",
+      "54 kg",
+      "55 kg",
+      "56 kg"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Total people with teacher $= 24 + 1 = 25$.</p><p>Total increase in weight $= 25 \\times 0.400\\text{ kg} = 10\\text{ kg}$.</p><p>$$\\text{Weight of teacher} = \\text{Original Average} + \\text{Total Increase} = 45 + 10 = \\mathbf{55\\text{ kg}}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 38,
+    "q": "<b>Passage:</b><br/>The unregulated collection and monetization of personal behavioral data on digital platforms create systemic asymmetries of power between users and technology monopolies. When algorithms predict and manipulate consumer choices through dark patterns and personalized micro-targeting, individual autonomy is compromised. Robust data protection statutes must establish data minimization, affirmative consent, and meaningful algorithmic transparency.<br/><br/>Which one of the following is the most logical and crucial <b>inference</b> from the passage?",
+    "options": [
+      "Statutory data protection laws are required to safeguard individual autonomy against predatory behavioral data tracking.",
+      "Digital commercial platforms should be completely prohibited from hosting e-commerce services.",
+      "Personalized micro-targeting always benefits consumer welfare by lowering retail prices.",
+      "Users have complete visibility and control over proprietary machine learning algorithms."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author argues that unchecked behavioral surveillance compromises personal autonomy, highlighting the necessity of data protection laws that enforce minimization and consent.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 39,
+    "q": "A boat can travel with a speed of 15 km/h in still water. If the speed of the river current is 3 km/h, what is the total time taken by the boat to travel 36 km downstream and return back upstream?",
+    "options": [
+      "4.5 hours",
+      "5.0 hours",
+      "5.5 hours",
+      "6.0 hours"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><ul><li>Downstream speed $v = 15 + 3 = 18\\text{ km/h}$</li><li>Upstream speed $u = 15 - 3 = 12\\text{ km/h}$</li></ul><p>$$\\text{Downstream Time } t_1 = \\frac{36}{18} = 2\\text{ hours}$$</p><p>$$\\text{Upstream Time } t_2 = \\frac{36}{12} = 3\\text{ hours}$$</p><p>$$\\text{Total Time} = 2 + 3 = \\mathbf{5.0\\text{ hours}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 40,
+    "q": "What will come in place of the question mark (?) in the sequence?<br/>$$2,\\; 5,\\; 10,\\; 17,\\; 26,\\; ?$$",
+    "options": [
+      "35",
+      "37",
+      "39",
+      "41"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Each term is of the form $n^2 + 1$:</p><ul><li>$1^2 + 1 = 2$</li><li>$2^2 + 1 = 5$</li><li>$3^2 + 1 = 10$</li><li>$4^2 + 1 = 17$</li><li>$5^2 + 1 = 26$</li><li>$6^2 + 1 = 36 + 1 = \\mathbf{37}$</li></ul><p>Alternatively, the consecutive odd differences are $+3, +5, +7, +9, +11 \\implies 26 + 11 = 37$.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 41,
+    "q": "<b>Passage:</b><br/>The rapid acceleration of automated digital welfare provisioning often creates administrative hurdles for marginalized citizens who lack formal digital identity credentials or steady internet connectivity. When algorithms determine entitlement exclusions without meaningful human review, algorithmic errors convert social security safety nets into barriers of disenfranchisement. Human-in-the-loop governance and robust institutional grievance mechanisms are indispensable.<br/><br/>Which one of the following statements best reflects the <b>crucial takeaway</b> of the passage?",
+    "options": [
+      "Digital welfare delivery systems must maintain accessible grievance redressal and human oversight to prevent exclusionary errors.",
+      "Biometric welfare systems should be completely eliminated across all administrative departments.",
+      "Manual cash transfers are entirely immune to corruption and administrative delays.",
+      "Digital identity systems always guarantee 100% precision in beneficiary targeting."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage highlights that without human oversight and grievance mechanisms, algorithmic welfare exclusions disenfranchise vulnerable groups, making human-in-the-loop safeguards indispensable.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 42,
+    "q": "<b>Passage:</b><br/>The expansion of intensive monoculture tree plantations for commercial carbon offsets often threatens local groundwater security and native biodiversity. Fast-growing exotic monocultures (such as eucalyptus or pine) drain water tables and support minimal indigenous wildlife. Genuine ecological climate mitigation requires restoring multi-tiered native forests and biodiverse grasslands rather than planting commercial monocultures.<br/><br/>Based on the above passage, the following assumptions have been made:<br/>I. Planting fast-growing commercial tree monocultures can result in localized hydrological and ecological depletion.<br/>II. Restoring native biodiverse ecosystems delivers more sustainable climate and ecological outcomes than timber monocultures.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both assumptions are valid:</b></p><ul><li><b>Assumption I:</b> Directly supported by the passage explaining that exotic monocultures drain water tables and create ecological dead zones.</li><li><b>Assumption II:</b> Directly supported by the assertion that genuine mitigation requires restoring native, multi-tiered biodiverse ecosystems.</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 43,
+    "q": "A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days alone and left the job. In how many days can A alone finish the remaining work?",
+    "options": [
+      "5 days",
+      "6 days",
+      "7 days",
+      "8 days"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let total work $= \\text{LCM}(18, 15) = 90\\text{ units}$.</p><ul><li>Efficiency of A $= \\frac{90}{18} = 5\\text{ units/day}$</li><li>Efficiency of B $= \\frac{90}{15} = 6\\text{ units/day}$</li></ul><p>Work completed by B in 10 days $= 10 \\times 6 = 60\\text{ units}$.</p><p>$$\\text{Remaining Work} = 90 - 60 = 30\\text{ units}$$</p><p>$$\\text{Time taken by A alone} = \\frac{30}{5} = \\mathbf{6\\text{ days}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 44,
+    "q": "What is the remainder when $(9^{19} + 6)$ is divided by 8?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation using Modulo Arithmetic:</b></p><p>$$9 \\equiv 1 \\pmod 8$$</p><p>$$9^{19} \\equiv (1)^{19} \\equiv 1 \\pmod 8$$</p><p>Now adding 6:</p><p>$$(9^{19} + 6) \\equiv 1 + 6 = \\mathbf{7} \\pmod 8$$</p><p>Therefore, the remainder is <b>7</b>.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 45,
+    "q": "In a certain code language, 'GLOBAL' is written as 'HMPCBN'. How will 'PLANET' be written in that code?",
+    "options": [
+      "QMBOUU",
+      "QMBMOU",
+      "QMBOFU",
+      "QMBNFU"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Each letter is replaced by its immediate succeeding letter in the English alphabet ($+1$ forward shift):</p><ul><li>$P(+1) \\rightarrow Q$</li><li>$L(+1) \\rightarrow M$</li><li>$A(+1) \\rightarrow B$</li><li>$N(+1) \\rightarrow O$</li><li>$E(+1) \\rightarrow F$</li><li>$T(+1) \\rightarrow U$</li></ul><p>Result: <b>QMBOFU</b>.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 46,
+    "q": "<b>Passage:</b><br/>The expansion of digital surveillance technologies and location-tracking mechanisms creates complex challenges for privacy in open societies. While law enforcement authorities emphasize predictive crime detection and emergency response capabilities, unchecked mass surveillance without clear statutory standards chills lawful public discourse and undermines informational self-determination. Independent judicial authorization and strict proportionality principles are vital safeguards.<br/><br/>Which one of the following statements best reflects the <b>crux</b> of the passage?",
+    "options": [
+      "Mass surveillance must be bound by statutory limits, proportionality, and judicial oversight to protect privacy.",
+      "Location tracking should be mandated unconditionally on all mobile devices in metropolitan areas.",
+      "Informational self-determination is irrelevant in modern digital urban governance.",
+      "Crime prevention is structurally impossible without permanent mass biometric monitoring."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author underscores that unrestricted digital surveillance threatens civic discourse and privacy, emphasizing that judicial warrants, proportionality, and statutory limits are necessary safeguards.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 47,
+    "q": "A train 120 meters long crosses a bridge 280 meters long in 20 seconds. What is the speed of the train in km/h?",
+    "options": [
+      "54 km/h",
+      "64 km/h",
+      "72 km/h",
+      "80 km/h"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$\\text{Total distance} = 120 + 280 = 400\\text{ meters}$$</p><p>$$\\text{Speed in m/s} = \\frac{400}{20} = 20\\text{ m/s}$$</p><p>$$\\text{Speed in km/h} = 20 \\times \\frac{18}{5} = 4 \\times 18 = \\mathbf{72\\text{ km/h}}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 48,
+    "q": "Consider the following statements and conclusions:<br/><b>Statements:</b><br/>1. All oceans are water.<br/>2. Some water is clean.<br/>3. All clean things are healthy.<br/><br/><b>Conclusions:</b><br/>I. Some healthy things are water.<br/>II. Some oceans are clean.<br/><br/>Which of the conclusions logically follow(s) from the statements?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follow",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Syllogism Analysis:</b></p><ul><li><b>Conclusion I:</b> 'Some water is clean' + 'All clean things are healthy' $\\implies$ 'Some water is healthy' $\\implies$ 'Some healthy things are water'. (Valid)</li><li><b>Conclusion II:</b> 'All oceans are water' and 'Some water is clean' does not necessarily mean that the specific subset of water that is clean contains oceans. (Invalid)</li></ul><p>Therefore, <b>only Conclusion I follows</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 49,
+    "q": "A sum of ₹12,500 amounts to ₹15,500 in 4 years at simple interest. What is the rate of interest per annum?",
+    "options": [
+      "4%",
+      "5%",
+      "6%",
+      "8%"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$\\text{Simple Interest (SI)} = 15500 - 12500 = ₹3,000$$</p><p>$$\\text{SI} = \\frac{P \\times R \\times T}{100} \\implies 3000 = \\frac{12500 \\times R \\times 4}{100}$$</p><p>$$3000 = 500 R \\implies R = \\frac{3000}{500} = \\mathbf{6\\%\\text{ per annum}}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 50,
+    "q": "<b>Passage:</b><br/>The excessive application of chemical pesticides in intensive farming causes pesticide resistance among target pests, leading to the emergence of secondary pests. Because broad-spectrum chemicals kill beneficial predatory insects alongside crop pests, natural ecological controls are broken. Integrated Pest Management (IPM), which blends biological controls, pheromone traps, and crop rotation, offers an ecologically balanced, cost-effective alternative.<br/><br/>Which one of the following statements best reflects the <b>critical implication</b> of the passage?",
+    "options": [
+      "Integrated pest management restores natural biological checks and avoids the ecological traps of pesticide overuse.",
+      "Chemical pesticides should be applied at triple dosage to overcome insect resistance.",
+      "Natural predators are more destructive to agricultural yields than target crop pests.",
+      "Crop rotation has no influence on pest population dynamics."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author explains that broad-spectrum pesticides eliminate natural predators and create resistance, highlighting Integrated Pest Management (IPM) as a sustainable biological alternative.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 51,
+    "q": "A box contains 6 red, 4 green, and 2 blue balls. If two balls are drawn at random without replacement, what is the probability that both balls are red?",
+    "options": [
+      "\\frac{5}{22}",
+      "\\frac{15}{66}",
+      "\\frac{1}{4}",
+      "\\frac{5}{12}"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Total balls $= 6 + 4 + 2 = 12\\text{ balls}$.</p><ul><li>Probability of drawing 1st red ball $= \\frac{6}{12} = \\frac{1}{2}$</li><li>Probability of drawing 2nd red ball $= \\frac{5}{11}$</li></ul><p>$$\\text{Combined Probability} = \\frac{1}{2} \\times \\frac{5}{11} = \\mathbf{\\frac{5}{22}}$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 52,
+    "q": "If 20% of $P = 30\\%$ of $Q = 40\\%$ of $R$, then what is the ratio $P : Q : R$?",
+    "options": [
+      "2 : 3 : 4",
+      "6 : 4 : 3",
+      "4 : 3 : 2",
+      "3 : 4 : 6"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$0.2 P = 0.3 Q = 0.4 R = k$$</p><p>$$P = \\frac{k}{0.2} = 5k, \\quad Q = \\frac{k}{0.3} = \\frac{10}{3}k, \\quad R = \\frac{k}{0.4} = 2.5k = \\frac{5}{2}k$$</p><p>Multiply by 6 to clear fractions:</p><p>$$P : Q : R = (5 \\times 6) : \\left(\\frac{10}{3} \\times 6\\right) : \\left(\\frac{5}{2} \\times 6\\right) = 30 : 20 : 15 = \\mathbf{6 : 4 : 3}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 53,
+    "q": "In an examination, a student scores 4 marks for every correct answer and loses 1 mark for every wrong answer. If he attempts all 75 questions and secures 125 marks, how many questions did he answer correctly?",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let correct answers be $c$ and incorrect answers be $w = 75 - c$.</p><p>$$4c - 1(75 - c) = 125$$</p><p>$$4c - 75 + c = 125$$</p><p>$$5c = 200 \\implies c = \\mathbf{40}$$</p><p>$$\\text{Number of correct answers} = 40$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 54,
+    "q": "<b>Passage:</b><br/>The expansion of digital streaming media and content algorithms has fragmented shared cultural spaces into personalized echo chambers. When recommendation engines optimize purely for user engagement time, they prioritize sensational, polarising narratives that reinforce cognitive biases. Preserving a shared civic sphere requires promoting public-interest digital media models and establishing platform algorithmic audits.<br/><br/>Which one of the following statements best reflects the <b>practical takeaway</b> of the passage?",
+    "options": [
+      "Algorithmic auditing and public-interest media frameworks are vital to counteract algorithmic polarization.",
+      "Digital content streaming services should be banned by national telecommunications regulators.",
+      "Recommendation algorithms always enhance critical analytical thinking among users.",
+      "Personalized media consumption has no impact on democratic civic dialogue."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage highlights that engagement-driven algorithms amplify polarization and fragment the public sphere, emphasizing the need for public-interest media and algorithmic audits.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 55,
+    "q": "A vendor sells 20 articles for the cost price of 25 articles. What is the profit percentage of the vendor?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "33.33%"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$20 \\times SP = 25 \\times CP \\implies \\frac{SP}{CP} = \\frac{25}{20} = \\frac{5}{4}$$</p><p>$$\\text{Profit }\\% = \\frac{SP - CP}{CP} \\times 100 = \\frac{5 - 4}{4} \\times 100 = \\frac{1}{4} \\times 100 = \\mathbf{25\\%}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 56,
+    "q": "What is the next term in the alphanumeric series?<br/>$$\\text{Z1A},\\; \\text{X2D},\\; \\text{V6I},\\; \\text{T24P},\\; ?$$",
+    "options": [
+      "R120Y",
+      "R120X",
+      "S120Y",
+      "R96Y"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><ul><li><b>First Letter:</b> $Z(-2) \\rightarrow X(-2) \\rightarrow V(-2) \\rightarrow T(-2) \\rightarrow \\mathbf{R}$</li><li><b>Middle Number:</b> $1(\\times 2) \\rightarrow 2(\\times 3) \\rightarrow 6(\\times 4) \\rightarrow 24(\\times 5) \\rightarrow \\mathbf{120}$</li><li><b>Last Letter:</b> $A(1) \\xrightarrow{+3} D(4) \\xrightarrow{+5} I(9) \\xrightarrow{+7} P(16) \\xrightarrow{+9} \\mathbf{Y(25)}$ (consecutive square positions $1^2, 2^2, 3^2, 4^2, 5^2$)</li></ul><p>Result: <b>R120Y</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 57,
+    "q": "A watch gains 5 minutes in 24 hours. It is set correctly at 12:00 noon on Monday. What true time will it be when the watch indicates 1:00 p.m. on the following Monday?",
+    "options": [
+      "12:25 p.m.",
+      "12:35 p.m.",
+      "12:45 p.m.",
+      "12:55 p.m."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Elapsed time on the faulty watch from Monday 12 noon to following Monday 1:00 p.m.:</p><p>$$7 \\times 24\\text{ hours} + 1\\text{ hour} = 169\\text{ hours}$$</p><p>The faulty watch indicates $24\\text{ hrs } 5\\text{ min} = \\frac{289}{12}\\text{ hours}$ for every $24\\text{ hours}$ of true time.</p><p>$$\\text{True Time} = 169 \\times \\frac{24}{\\frac{289}{12}} = 169 \\times \\frac{288}{289} \\approx 168.415\\text{ hours} = 168\\text{ hrs } 25\\text{ mins}$$</p><p>Elapsed true time $= 7\\text{ days } 0\\text{ hrs } 25\\text{ mins}$.</p><p>$$\\text{True Time} = \\mathbf{12:25\\text{ p.m.}}$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 58,
+    "q": "<b>Passage:</b><br/>The transition to electric public bus fleets in megacities provides immediate local air quality improvements by cutting particulate matter and nitrogen oxide emissions along dense commuter corridors. However, maximizing total lifecycle decarbonization benefits requires integrating smart depot charging systems with daytime solar generation spikes, thereby preventing heavy evening grid peak loads from triggering fossil-fueled peaking plant operations.<br/><br/>Which one of the following statements best reflects the <b>crucial message</b> of the passage?",
+    "options": [
+      "Integrating smart charging with renewable generation cycles is essential to maximize the climate benefits of electric transit fleets.",
+      "Electric buses produce more lifecycle emissions than diesel buses under all operational scenarios.",
+      "Public transportation fleets should avoid transitioning to electric battery technology.",
+      "Depot charging systems have no impact on municipal electrical power grids."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage shows that while electric buses eliminate tailpipe pollution, optimal lifecycle decarbonization requires aligning bus charging with daytime solar spikes to prevent evening coal-peaking spikes.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 59,
+    "q": "The length of a rectangle is increased by 30% and its breadth is decreased by 20%. What is the net percentage change in its area?",
+    "options": [
+      "4% increase",
+      "4% decrease",
+      "10% increase",
+      "10% decrease"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Formula:</b></p><p>$$\\text{Net Change }\\% = x + y + \\frac{xy}{100}$$</p><p>Here, $x = +30$ and $y = -20$:</p><p>$$\\text{Net Change} = 30 - 20 + \\frac{30 \\times (-20)}{100} = 10 - 6 = \\mathbf{+4\\%}$$</p><p>Area increases by <b>4%</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 60,
+    "q": "If 15th August 2023 was a Tuesday, on which day of the week was 15th August 2024?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calendar Property:</b></p><p>The year 2024 is a leap year (includes 29th February 2024 between August 2023 and August 2024).</p><p>The number of days between 15th August 2023 and 15th August 2024 is 366 days.</p><p>$$366 \\div 7 = 52\\text{ weeks} + 2\\text{ odd days}$$</p><p>$$\\text{Day} = \\text{Tuesday} + 2 = \\mathbf{Thursday}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 61,
+    "q": "<b>Passage:</b><br/>The expansion of consumer credit through fintech micro-lending platforms provides quick liquidity to unbanked households. However, algorithmic risk scoring based on smartphone telemetry and aggressive daily automated debt recoveries often precipitate debt traps for financially vulnerable borrowers. Without clear interest rate ceilings, standardized data-sharing consents, and statutory collection ethics, digital micro-lending risks exacerbating household distress.<br/><br/>Which one of the following statements best reflects the <b>crucial takeaway</b> of the passage?",
+    "options": [
+      "Digital lending platforms require statutory regulatory guardrails and ethical standards to prevent predatory consumer exploitation.",
+      "Fintech micro-lending should be completely banned across all developing economies.",
+      "Smartphone telemetry provides the only reliable and objective measure of creditworthiness.",
+      "Unbanked households do not require emergency short-term liquidity."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage shows that while digital lending provides liquidity, unconstrained data harvesting and aggressive recovery algorithms lead to debt traps, necessitating statutory caps, data safeguards, and ethical standards.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 62,
+    "q": "<b>Passage:</b><br/>The decarbonization of cement manufacturing faces fundamental chemical constraints. Even if all thermal kilns are powered with 100% renewable electricity, the limestone calcination process itself chemically releases direct carbon dioxide emissions. Deep decarbonization therefore requires deploying carbon capture, utilization, and storage (CCUS) infrastructure alongside the development of alternative supplementary cementitious binders.<br/><br/>Based on the above passage, the following assumptions have been made:<br/>I. Switching entirely to renewable energy in cement kilns is insufficient to eliminate all process-related carbon emissions.<br/>II. Deploying CCUS and novel clinker substitutes is necessary for achieving net-zero emissions in cement production.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both assumptions are valid:</b></p><ul><li><b>Assumption I:</b> Supported directly by the text stating that limestone calcination chemically releases $CO_2$ regardless of renewable thermal energy.</li><li><b>Assumption II:</b> Supported by the conclusion that deep decarbonization necessitates CCUS and alternative binders.</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 63,
+    "q": "A sum of ₹7,500 is split into two parts such that the simple interest on the first part for 8 years at 7% per annum is equal to the simple interest on the second part for 5 years at 8% per annum. What is the amount of the first part?",
+    "options": [
+      "₹3,000",
+      "₹3,125",
+      "₹4,375",
+      "₹4,500"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the two parts be $P_1$ and $P_2 = 7500 - P_1$.</p><p>$$\\text{SI}_1 = \\text{SI}_2 \\implies \\frac{P_1 \\times 7 \\times 8}{100} = \\frac{P_2 \\times 8 \\times 5}{100}$$</p><p>$$56 P_1 = 40 P_2 \\implies 7 P_1 = 5 P_2$$</p><p>$$\\frac{P_1}{P_2} = \\frac{5}{7}$$</p><p>$$\\text{First Part } P_1 = \\frac{5}{5 + 7} \\times 7500 = \\frac{5}{12} \\times 7500 = \\mathbf{₹3,125}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 64,
+    "q": "What is the remainder when $(3^{100} + 2^{100})$ is divided by 5?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation using Modulo Arithmetic:</b></p><p>Cyclicity of powers modulo 5:</p><ul><li>$3^4 = 81 \\equiv 1 \\pmod 5 \\implies 3^{100} = (3^4)^{25} \\equiv 1^{25} \\equiv 1 \\pmod 5$</li><li>$2^4 = 16 \\equiv 1 \\pmod 5 \\implies 2^{100} = (2^4)^{25} \\equiv 1^{25} \\equiv 1 \\pmod 5$</li></ul><p>Adding the two terms:</p><p>$$(3^{100} + 2^{100}) \\equiv 1 + 1 = \\mathbf{2} \\pmod 5$$</p><p>Therefore, the remainder is <b>2</b>.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 65,
+    "q": "Pointing to a photograph, Rohit said, 'Her mother's only son is my brother.' How is the woman in the photograph related to Rohit?",
+    "options": [
+      "Sister",
+      "Mother",
+      "Daughter",
+      "Aunt"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Deduction:</b></p><ul><li>'My brother' $\\rightarrow$ Rohit's brother (meaning he and Rohit share the same parents).</li><li>'Her mother's only son' $\\rightarrow$ The only son of the woman's mother is the woman's brother.</li><li>Since the woman's brother is Rohit's brother (or Rohit himself), the woman is Rohit's <b>Sister</b>.</li></ul><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 66,
+    "q": "<b>Passage:</b><br/>Open-source scientific code and publicly accessible genomic datasets accelerate epidemiological discovery and decentralized drug repurposing during global health emergencies. However, without minimum validation standards and provenance tracking, erroneous computational outputs can spread widely, causing misallocation of laboratory resources. Open science frameworks must blend open accessibility with rigorous distributed peer evaluation.<br/><br/>Which one of the following statements best reflects the <b>crux</b> of the passage?",
+    "options": [
+      "Open science initiatives must balance unrestricted data sharing with structured quality verification standards.",
+      "Genomic datasets should be proprietary and held exclusively by private pharmaceutical firms.",
+      "Computational modeling is incapable of assisting biological drug repurposing.",
+      "Peer review models are completely incompatible with open-access scientific publication."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author argues that while open data enables rapid discovery, lack of verification causes resource misallocation, requiring open accessibility to be paired with rigorous distributed quality validation.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 67,
+    "q": "P and Q can complete a project together in 12 days. Q and R can complete it in 15 days, while R and P can complete it in 20 days. In how many days can P alone finish the entire project?",
+    "options": [
+      "20 days",
+      "25 days",
+      "30 days",
+      "40 days"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let total work $= \\text{LCM}(12, 15, 20) = 60\\text{ units}$.</p><ul><li>Efficiency of $(P + Q) = \\frac{60}{12} = 5\\text{ units/day}$</li><li>Efficiency of $(Q + R) = \\frac{60}{15} = 4\\text{ units/day}$</li><li>Efficiency of $(R + P) = \\frac{60}{20} = 3\\text{ units/day}$</li></ul><p>Adding all three:</p><p>$$2(P + Q + R) = 5 + 4 + 3 = 12 \\implies P + Q + R = 6\\text{ units/day}$$</p><p>$$\\text{Efficiency of P} = (P + Q + R) - (Q + R) = 6 - 4 = 2\\text{ units/day}$$</p><p>$$\\text{Time taken by P alone} = \\frac{60}{2} = \\mathbf{30\\text{ days}}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 68,
+    "q": "Consider the following statements and conclusions:<br/><b>Statements:</b><br/>1. All satellites are orbits.<br/>2. No orbit is a planet.<br/>3. Some planets are stars.<br/><br/><b>Conclusions:</b><br/>I. No satellite is a planet.<br/>II. Some stars are not orbits.<br/><br/>Which of the conclusions logically follow(s) from the statements?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follow",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Syllogism Analysis:</b></p><ul><li><b>Conclusion I:</b> All satellites are inside orbits, and no orbit is a planet $\\implies$ No satellite can be a planet. (Valid)</li><li><b>Conclusion II:</b> Some stars are planets, and no planet is an orbit $\\implies$ Those stars that are planets are definitely not orbits. (Valid)</li></ul><p>Therefore, <b>both Conclusion I and II logically follow</b>.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 69,
+    "q": "In an election between two candidates, the winner secured 58% of the total valid votes and won by a majority of 1,440 votes. If all votes polled were valid, what was the total number of votes polled?",
+    "options": [
+      "7,500",
+      "8,000",
+      "9,000",
+      "10,000"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Winner's vote share $= 58\\%$.</p><p>Loser's vote share $= 100\\% - 58\\% = 42\\%$.</p><p>$$\\text{Majority Margin} = 58\\% - 42\\% = 16\\%$$</p><p>Given: $16\\% \\text{ of Total Votes} = 1440$.</p><p>$$\\text{Total Votes} = \\frac{1440 \\times 100}{16} = 90 \\times 100 = \\mathbf{9,000}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 70,
+    "q": "<b>Passage:</b><br/>Groundwater contamination from synthetic chemical fertilizers and industrial heavy metals creates persistent health risks that cannot be removed through standard boiling. Chronic ingestion of nitrate-rich groundwater induces methemoglobinemia in infants and elevates long-term gastrointestinal carcinogenicity. Sustained protection necessitates strict source-point discharge regulation, continuous aquifer hydrogeological testing, and decentralized reverse osmosis filtration systems.<br/><br/>Which one of the following statements best reflects the <b>practical inference</b> from the passage?",
+    "options": [
+      "Tackling chemical groundwater contamination requires preventative discharge controls and specialized water treatment.",
+      "Boiling contaminated groundwater completely neutralizes all synthetic chemical pollutants.",
+      "Nitrate pollution poses zero toxicological danger to newborn infants.",
+      "Aquifer testing should be restricted to mountain river source basins."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author shows that standard domestic boiling fails against heavy metals and nitrates, emphasizing source-point regulation, aquifer testing, and advanced filtration.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 71,
+    "q": "In how many different ways can 4 distinct mathematics books and 3 distinct physics books be placed on a shelf such that all physics books remain together?",
+    "options": [
+      "144",
+      "576",
+      "720",
+      "1,440"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Treat the 3 physics books as 1 single consolidated block.</p><p>Total items to arrange $= 4\\text{ math books} + 1\\text{ physics block} = 5\\text{ units}$.</p><p>Arranging 5 units on a shelf $= 5! = 120\\text{ ways}$.</p><p>Arranging the 3 distinct physics books internally within their block $= 3! = 6\\text{ ways}$.</p><p>$$\\text{Total arrangements} = 120 \\times 6 = \\mathbf{720\\text{ ways}}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 72,
+    "q": "What is the angle between the hands of a clock at 3:40?",
+    "options": [
+      "120°",
+      "130°",
+      "140°",
+      "150°"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Formula:</b></p><p>$$\\theta = \\left|30H - \\frac{11}{2}M\\right|$$</p><p>For $H = 3$ and $M = 40$:</p><p>$$\\theta = \\left|30(3) - \\frac{11}{2}(40)\\right| = |90 - 220| = |-130| = \\mathbf{130^\\circ}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 73,
+    "q": "A two-digit number is such that the sum of its digits is 9. If 45 is subtracted from the number, the digits are reversed. What is the original number?",
+    "options": [
+      "54",
+      "63",
+      "72",
+      "81"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the two-digit number be $10x + y$.</p><ul><li>Condition 1: $x + y = 9$</li><li>Condition 2: $(10x + y) - 45 = 10y + x \\implies 9x - 9y = 45 \\implies x - y = 5$</li></ul><p>Adding the two equations:</p><p>$$(x + y) + (x - y) = 9 + 5 \\implies 2x = 14 \\implies x = 7$$</p><p>$$y = 9 - 7 = 2$$</p><p>$$\\text{Original Number} = 10(7) + 2 = \\mathbf{72}$$</p><p>Check: $72 - 45 = 27$ (digits reversed).</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 74,
+    "q": "<b>Passage:</b><br/>The expansion of monoculture biofuel crops on arable land often trades food sovereignty for renewable liquid fuels. When fertile acreage previously dedicated to staple cereals is diverted to ethanol feedstocks (like sugarcane or corn), local food prices rise and regional biodiversity diminishes. Sustainable bioenergy frameworks must prioritize non-food lignocellulosic residues and agricultural wastes rather than prime food-producing agricultural land.<br/><br/>Which one of the following statements best reflects the <b>central idea</b> of the passage?",
+    "options": [
+      "Biofuel production should utilize second-generation crop wastes to avoid undermining food security.",
+      "First-generation food crops should be the exclusive source of global aviation fuels.",
+      "All renewable energy alternatives create higher greenhouse gas emissions than fossil fuels.",
+      "Arable land should not be utilized for agricultural cultivation."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author highlights the conflict between food crops and first-generation biofuels, advocating for second-generation lignocellulosic residues and wastes to safeguard food security.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 75,
+    "q": "Find the missing number in the sequence: $$3,\\; 7,\\; 15,\\; 31,\\; 63,\\; ?$$",
+    "options": [
+      "95",
+      "127",
+      "128",
+      "131"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern:</b></p><p>Each term is generated by $2n + 1$ (or $2^k - 1$):</p><ul><li>$3 \\times 2 + 1 = 7$</li><li>$7 \\times 2 + 1 = 15$</li><li>$15 \\times 2 + 1 = 31$</li><li>$31 \\times 2 + 1 = 63$</li><li>$63 \\times 2 + 1 = 126 + 1 = \\mathbf{127}$</li></ul><p>Alternatively, the differences double each time: $4, 8, 16, 32, 64 \\implies 63 + 64 = 127$.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 76,
+    "q": "A motorboat covers a certain distance downstream in 4 hours and covers the same distance upstream in 5 hours. If the speed of the stream is 2 km/h, what is the speed of the motorboat in still water?",
+    "options": [
+      "14 km/h",
+      "16 km/h",
+      "18 km/h",
+      "20 km/h"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let speed of the boat in still water be $x$ km/h.</p><ul><li>Downstream speed $= (x + 2)\\text{ km/h}$</li><li>Upstream speed $= (x - 2)\\text{ km/h}$</li></ul><p>Since distance is constant:</p><p>$$4(x + 2) = 5(x - 2)$$</p><p>$$4x + 8 = 5x - 10 \\implies x = \\mathbf{18\\text{ km/h}}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 77,
+    "q": "In a certain code, 'RIVER' is written as 'SKWFS'. How will 'OCEAN' be written in that code?",
+    "options": [
+      "PDFBO",
+      "PDDBO",
+      "PCEBO",
+      "QDFBO"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Letter shifts follow $+1, +2, +1, +2, +1$ or uniform shifts:</p><ul><li>$R(+1) \\rightarrow S$</li><li>$I(+2) \\rightarrow K$</li><li>$V(+1) \\rightarrow W$</li><li>$E(+1) \\rightarrow F$ (or $+1$ throughout: $R \\rightarrow S, I \\rightarrow J, V \\rightarrow W, E \\rightarrow F, R \\rightarrow S$)</li><li>Applying the same sequence to 'OCEAN' ($+1$ each):</li><li>$O(+1) \\rightarrow P$</li><li>$C(+1) \\rightarrow D$</li><li>$E(+1) \\rightarrow F$</li><li>$A(+1) \\rightarrow B$</li><li>$N(+1) \\rightarrow O$</li></ul><p>Result: <b>PDFBO</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 78,
+    "q": "<b>Passage:</b><br/>Urban district cooling systems that distribute chilled water through insulated underground pipes consume up to 40% less electricity than conventional individual building air conditioners. By aggregating cooling demand and running during off-peak night hours with chilled water thermal storage, district systems reduce daytime electricity grid peak stress and phase out high-GWP hydrofluorocarbon refrigerants.<br/><br/>Which one of the following statements best reflects the <b>logical corollary</b> to the passage?",
+    "options": [
+      "District cooling networks provide energy-efficient and grid-friendly thermal management for dense urban centers.",
+      "Individual decentralized air conditioners consume less power than centralized district networks.",
+      "Chilled water networks increase the emission of hydrofluorocarbon refrigerants.",
+      "Night-time electricity generation relies entirely on fossil diesel generators."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The text shows that district cooling saves electricity, reduces grid peak demand through thermal storage, and reduces high-GWP refrigerants, making it an efficient urban thermal management solution.</p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 79,
+    "q": "A bag contains 5 red, 6 black, and 4 white balls. If two balls are drawn at random simultaneously, what is the probability that neither ball drawn is black?",
+    "options": [
+      "\\frac{12}{35}",
+      "\\frac{18}{35}",
+      "\\frac{4}{15}",
+      "\\frac{6}{35}"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Total balls $= 5 + 6 + 4 = 15\\text{ balls}$.</p><p>Non-black balls (red + white) $= 5 + 4 = 9\\text{ balls}$.</p><p>Total ways to choose 2 balls from 15 $= ^{15}C_2 = \\frac{15 \\times 14}{2} = 105$.</p><p>Ways to choose 2 non-black balls from 9 $= ^9C_2 = \\frac{9 \\times 8}{2} = 36$.</p><p>$$\\text{Probability} = \\frac{36}{105} = \\mathbf{\\frac{12}{35}}$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2023,
+    "paper": "GS2",
+    "question": 80,
+    "q": "What is the remainder when $(23^{2023} + 19^{2023})$ is divided by 42?",
+    "options": [
+      "0",
+      "1",
+      "21",
+      "41"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Algebraic Property:</b></p><p>For any odd integer $n$, $(a^n + b^n)$ is always exactly divisible by $(a + b)$.</p><p>Here, $n = 2023$ is an odd number. Therefore, $(23^{2023} + 19^{2023})$ is exactly divisible by:</p><p>$$23 + 19 = 42$$</p><p>Since the expression is an exact multiple of 42, the remainder when divided by 42 is <b>0</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  }
+
+]

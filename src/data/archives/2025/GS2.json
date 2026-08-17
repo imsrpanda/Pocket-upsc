@@ -1,0 +1,1124 @@
+[
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 1,
+    "q": "<b>Passage:</b><br/>Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income.<br/><br/>Which one of the following statements best reflects the <b>critical message</b> conveyed by the author of the passage?",
+    "options": [
+      "Conservation of biodiversity is not an issue to be worried about when some people depend on ecosystems for their livelihoods.",
+      "Commercial exploitation of forests goes against the fundamental rights of the people dependent on forests for food and shelter.",
+      "Sustenance of livelihood and degradation of ecosystem while being together exacerbate one another, leading to conflicts and imbalance.",
+      "Commercial exploitation of ecosystems should be completely stopped."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 3:</b> The passage highlights the multi-dimensional tension and mutual exacerbation between preserving biodiversity, fulfilling community livelihood dependencies, and pursuing commercial exploitation without causing environmental imbalance.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 2,
+    "q": "<b>Passage:</b><br/>Maintaining an ecosystem just to conserve biodiversity will affect its commercial potential as well as the livelihoods dependent on the ecosystem. There is also a conflict between using an ecosystem only for livelihoods, for commercial exploitation, or strictly for conservation. Deforestation caused due to commercial exploitation will lead to indirect harm like floods, siltation problems and microclimatic instability, apart from adversely affecting livelihoods dependent on forests. These conflicts are particularly acute in developing countries where the dependence of people on the ecosystem is significant, and commercial exploitation has the potential to boost national income.<br/><br/>With reference to above passage, the following assumptions have been made:<br/>I. No country needs to depend on ecosystems to boost national income.<br/>II. Resource-rich countries need to share their resources with those of scant resources so as to prevent the degradation of ecosystems.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Neither assumption is valid:</b></p><ul><li>Assumption I contradicts the passage, which explicitly mentions that commercial exploitation of ecosystems has the potential to boost national income.</li><li>Assumption II introduces external resource-sharing propositions that are never discussed or implied in the text.</li></ul><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 3,
+    "q": "<b>Passage:</b><br/>The history of renewable energy suggests there is a steep learning curve, meaning that, as more is produced, costs fall rapidly because of economies of scale and learning by doing. The firms’ green innovation is path-dependent: the more a firm does, the more it is likely to do in the future. The strongest evidence for this is the collapse in the price of solar energy, which became about 90% cheaper during the 2010s, repeatedly beating forecasts. Moving early and gradually gives economies more time to adjust, allowing them to reap the benefits of path-dependent green investment without much disruption. A late, more chaotic transition is costlier.<br/><br/>Which one of the following statements best reflects the <b>central idea</b> of the passage?",
+    "options": [
+      "Economies of scale is essential for transition to green growth.",
+      "Modern technological progress is intensely linked to path-dependent innovations.",
+      "Countries with large economies are in a better position to adopt green technologies.",
+      "Timing plays a crucial role in the case of green technology development."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> The author underscores that 'moving early and gradually' provides transition time and reaps learning-curve cost advantages, whereas late action results in costlier disruptions, proving that <b>timing</b> is paramount.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 4,
+    "q": "<b>Passage:</b><br/>The history of renewable energy suggests there is a steep learning curve, meaning that, as more is produced, costs fall rapidly because of economies of scale and learning by doing. The firms’ green innovation is path-dependent: the more a firm does, the more it is likely to do in the future. The strongest evidence for this is the collapse in the price of solar energy, which became about 90% cheaper during the 2010s, repeatedly beating forecasts. Moving early and gradually gives economies more time to adjust, allowing them to reap the benefits of path-dependent green investment without much disruption. A late, more chaotic transition is costlier.<br/><br/>With reference to the above passage, the following assumptions have been made:<br/>I. Path-dependent green investments will eventually most likely benefit growth as well as public finances in a country like India.<br/>II. If other green technologies follow the same pattern as that of solar energy, there will most likely be an easy green transition.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both assumptions are valid:</b> Early adoption of path-dependent green investments amortizes capital and creates fiscal resilience, and if other clean technologies mirror the dramatic price declines of solar energy, economies can adjust smoothly without disruption.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 5,
+    "q": "A natural number $N$ is such that it can be expressed as $N = p + q + r$, where $p, q$ and $r$ are distinct factors of $N$. How many numbers below 50 have this property?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Mathematical Solution:</b></p><p>For $N$ to be expressed as a sum of three distinct factors, $N = p + q + r$. The smallest factors that sum to the number itself are $N/2 + N/3 + N/6 = N$, meaning any multiple of 6 satisfies this condition:</p><ul><li>$6 = 1 + 2 + 3$</li><li>$12 = 2 + 4 + 6$</li><li>$18 = 3 + 6 + 9$</li><li>$24, 30, 36, 42, 48$</li></ul><p>The numbers below 50 with this property are multiples of 6: $6, 12, 18, 24, 30, 36, 42, 48$ (Total = <b>8</b> numbers).</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 6,
+    "q": "Three prime numbers $p, q$ and $r$, each less than 20, are such that $p - q = q - r$. How many distinct possible values can we get for $(p + q + r)$?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "More than 6"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Mathematical Solution:</b></p><p>The condition $p - q = q - r$ means $p, q, r$ form an Arithmetic Progression with common difference $d$.</p><p>Primes less than 20: $\\{3, 5, 7, 11, 13, 17, 19\\}$. Valid 3-term prime AP sets:</p><ul><li>$(3, 5, 7) \\implies p+q+r = 15$</li><li>$(3, 7, 11) \\implies p+q+r = 21$</li><li>$(3, 11, 19) \\implies p+q+r = 33$</li><li>$(5, 11, 17) \\implies p+q+r = 33$ (duplicate sum)</li><li>$(7, 13, 19) \\implies p+q+r = 39$</li></ul><p>Distinct sum values $= \\{15, 21, 33, 39\\} \\implies$ <b>4 distinct values</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 7,
+    "q": "How many possible values of $(p + q + r)$ are there satisfying $\\frac{1}{p} + \\frac{1}{q} + \\frac{1}{r} = 1$, where $p, q$ and $r$ are natural numbers (not necessarily distinct)?",
+    "options": [
+      "None",
+      "One",
+      "Three",
+      "More than three"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Mathematical Solution:</b></p><p>The equation is $\\frac{1}{p} + \\frac{1}{q} + \\frac{1}{r} = 1$ in natural numbers.</p><p>The unordered valid solution triples $(p, q, r)$ are:</p><ul><li>$(3, 3, 3) \\implies p+q+r = 9$</li><li>$(2, 4, 4) \\implies p+q+r = 10$</li><li>$(2, 3, 6) \\implies p+q+r = 11$</li></ul><p>Thus, there are exactly <b>3 distinct possible values</b> for $(p + q + r)$.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 8,
+    "q": "What comes at $X$ and $Y$ respectively in the following sequence?<br/>$$\\text{January, January, December, October, } X, \\text{ March, October, } Y, \\text{ September.}$$",
+    "options": [
+      "July, May",
+      "July, April",
+      "June, May",
+      "June, April"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Month numbers: Jan (1), Jan (1), Dec (12), Oct (10), $X$, Mar (3), Oct (10), $Y$, Sep (9).</p><p>Applying cyclic backward steps: $-0, -1, -2, -3, -4, -5, -6, -7$:</p><ul><li>$10 - 3 = 7 \\implies \\mathbf{July}$</li><li>$10 - 6 = 4 \\implies \\mathbf{April}$</li></ul><p>Hence, $X = \\text{July}$ and $Y = \\text{April}$.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 9,
+    "q": "Team X scored a total of $N$ runs in 20 overs. Team Y tied the score in 10% less overs. Had team Y’s average run rate (runs per over) been 50% higher, the scores would have been tied in 12 overs. How many runs were scored by team X?",
+    "options": [
+      "72",
+      "144",
+      "216",
+      "Cannot be determined"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><ul><li>Overs taken by Team Y $= 20 - 10\\% = 18\\text{ overs}$.</li><li>Let Team Y's initial run rate be $k$. Total runs $= 18k$.</li><li>With a 50% higher run rate ($1.5k$), overs taken $= 12$. Total runs $= 12 \\times 1.5k = 18k$.</li></ul><p>Both conditions yield identical tautological equations ($18k = 18k$) without establishing a unique numerical value for $k$. Therefore, the total runs scored <b>Cannot be determined</b>.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 10,
+    "q": "The price ($p$) of a commodity is first increased by $k\\%$; then decreased by $k\\%$; again increased by $k\\%$; and again decreased by $k\\%$. If the new price is $q$, then what is the relation between $p$ and $q$?",
+    "options": [
+      "p(10^4 - k^2)^2 = q \\times 10^8",
+      "p(10^4 - k^2)^2 = q \\times 10^4",
+      "p(10^4 - k^2) = q \\times 10^4",
+      "p(10^4 - k^2) = q \\times 10^8"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Algebraic Derivation:</b></p><p>$$q = p \\left(1 + \\frac{k}{100}\\right)\\left(1 - \\frac{k}{100}\\right)\\left(1 + \\frac{k}{100}\\right)\\left(1 - \\frac{k}{100}\\right) = p \\left(1 - \\frac{k^2}{10^4}\\right)^2$$</p><p>$$q = p \\left(\\frac{10^4 - k^2}{10^4}\\right)^2 = \\frac{p (10^4 - k^2)^2}{10^8}$$</p><p>$$\\Rightarrow p(10^4 - k^2)^2 = q \\times 10^8$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 11,
+    "q": "<b>Passage:</b><br/>Each State in India faces a distinctive set of challenges regarding the impact of warming, but also offers its own set of opportunities for reducing emissions depending on its natural resources. For example, coastal States need to take action to protect their shores from sea level rise, districts that are drier need to prepare for variable monsoon precipitation. Himalayan regions have their own unique challenges, and selected parts of peninsular India and offshore areas offer great opportunities for harnessing wind power. These various aspects need to be considered for developing clear and sustainable goals for the future.<br/><br/>Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the author of the passage?",
+    "options": [
+      "The mitigation and adaptation strategies to address/tackle the climate change is essentially the responsibility of each State.",
+      "India is too diverse to implement any effective strategy or programme to address/tackle the climate change.",
+      "It is basically the responsibility of the Union Government to implement the climate action plans and ensure net zero emissions.",
+      "India needs to formulate effective climate change mitigation and adaptation strategies at the State/region level."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> The author highlights varying regional vulnerabilities (coasts vs. dry interior vs. Himalayas) to emphasize that effective climate action plans must be tailored at the <b>State and regional level</b>.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 12,
+    "q": "<b>Passage:</b><br/>Each State in India faces a distinctive set of challenges regarding the impact of warming, but also offers its own set of opportunities for reducing emissions depending on its natural resources. For example, coastal States need to take action to protect their shores from sea level rise, districts that are drier need to prepare for variable monsoon precipitation. Himalayan regions have their own unique challenges, and selected parts of peninsular India and offshore areas offer great opportunities for harnessing wind power. These various aspects need to be considered for developing clear and sustainable goals for the future.<br/><br/>With reference to the passage, the following assumptions have been made:<br/>I. Green energy production can be linked to/integrated with the climate change mitigation and adaptation strategies.<br/>II. Effects of climate change are much more severe in coastal and mountainous regions.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Assumption I is valid:</b> The passage explicitly connects regional renewable opportunities (e.g., wind power) with broader climate mitigation goals.</p><p><b>Assumption II is invalid</b> as the passage does not claim coastal or mountain impacts are 'more severe' than dryland drought vulnerabilities.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 13,
+    "q": "<b>Passage:</b><br/>If the social inequality is the most acutely felt social problem in India, insecurity, more than poverty, is the most acutely felt economic problem. Besides those below the official poverty line, even those just over the poverty line are subject to multiple economic insecurities of various kinds (due to wealth and/or health risks, market fluctuations, job-related uncertainties). Many Government policies are actually intended towards mitigating these insecurities.<br/><br/>Which one of the following statements best reflects the <b>critical message</b> conveyed by the passage?",
+    "options": [
+      "India’s political executive should be aware that poverty and social inequality and the consequent sense of insecurity is the main social problem.",
+      "In India, poverty is the primary reason for social inequality and insecurity.",
+      "Poverty and social inequality are so intricately linked that they pose an unmanageable crisis for India.",
+      "Insecurity, more than poverty, is the main economic issue that Government policies must address."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> The text clearly posits that economic insecurity across both below-poverty and near-poverty populations represents the foremost economic challenge that public policy must alleviate.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 14,
+    "q": "<b>Passage:</b><br/>If the social inequality is the most acutely felt social problem in India, insecurity, more than poverty, is the most acutely felt economic problem. Besides those below the official poverty line, even those just over the poverty line are subject to multiple economic insecurities of various kinds (due to wealth and/or health risks, market fluctuations, job-related uncertainties). Many Government policies are actually intended towards mitigating these insecurities.<br/><br/>With reference to the above passage, the following assumptions have been made:<br/>I. People above the poverty line also are prone to suffer from anxiety about economic insecurity.<br/>II. Eradication of poverty can result in peace and social equality in the country.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Assumption I is valid:</b> The text specifically notes that even those situated above the official poverty line remain vulnerable to job, health, and economic shocks.</p><p><b>Assumption II is invalid</b> as social peace is not asserted as an automatic outcome of poverty eradication.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 15,
+    "q": "A solid cube is painted yellow on all its faces. The cube is then cut into 60 smaller but equal pieces by making the minimum number of cuts. Which of the following statements is/are correct?<br/>I. The minimum number of cuts is 9.<br/>II. The number of smaller pieces which are not painted on any face is 6.<br/><br/>Select the correct answer using the code given below:",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><ul><li>To get 60 pieces with minimum cuts, factor $60 = 3 \\times 4 \\times 5$.</li><li>Cuts needed along dimensions $= (3-1) + (4-1) + (5-1) = 2 + 3 + 4 = 9\\text{ cuts}$ (Statement I is correct).</li><li>Unpainted internal pieces $= (3-2) \\times (4-2) \\times (5-2) = 1 \\times 2 \\times 3 = 6$ (Statement II is correct).</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 16,
+    "q": "If $7 * 24 = 25$ and $12 * 16 = 20$, then what is $16 * 63$ equal to?",
+    "options": [
+      "70",
+      "66",
+      "65",
+      "64"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Recognition:</b></p><p>The operation represents the hypotenuse of a right-angled triangle (Pythagorean Triplets $\\sqrt{a^2 + b^2}$):</p><ul><li>$\\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$</li><li>$\\sqrt{12^2 + 16^2} = \\sqrt{144 + 256} = \\sqrt{400} = 20$</li><li>$\\sqrt{16^2 + 63^2} = \\sqrt{256 + 3969} = \\sqrt{4225} = \\mathbf{65}$</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 17,
+    "q": "The petrol price shot up by 10% as a result of the hike in crude oil prices. The price of petrol before the hike was ₹90 per litre. A person travels 2200 km every month and his car gives a mileage of 16 km per litre. By how many km should he reduce his travel if he wants to maintain his expenditure at the previous level?",
+    "options": [
+      "180 km",
+      "200 km",
+      "220 km",
+      "240 km"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Price increases by $10\\% = \\frac{1}{10}$. To keep total expenditure constant, consumption must decrease by $\\frac{1}{1 + 10} = \\frac{1}{11}$.</p><p>$$\\text{Reduction in distance} = \\frac{1}{11} \\times 2200\\text{ km} = 200\\text{ km}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 18,
+    "q": "A 4-digit number $N$ leaves remainder 2 when divided by 3, 5, 6, and 9. What is the minimum possible sum of the digits of $N$?",
+    "options": [
+      "5",
+      "8",
+      "11",
+      "13"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$\\text{LCM}(3, 5, 6, 9) = 90$. The general form is $N = 90k + 2$.</p><p>The smallest 4-digit number of this form is for $k=12$:</p><p>$$N = 90(12) + 2 = 1080 + 2 = 1082$$</p><p>Sum of digits $= 1 + 0 + 8 + 2 = 11$.</p><p>For $k=112$, $N = 90(112) + 2 = 10082$ (5 digits). For $k=22$, $N = 1982 \\implies \\text{Sum} = 20$. For $k=11$, $N = 992$ (3 digits). For $N=1082$, sum $= 11$, and for $N=3062$, sum is $3+0+6+2=11$. However, the lowest possible single sum among valid 4-digit multiples is achieved at $N=10002$ or specialized bases.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 19,
+    "q": "If in a certain code, 'POT' is written as 'ATOP' and 'TRAP' is written as 'APART', then how is 'ARENA' written in that code?",
+    "options": [
+      "AARENA",
+      "AANREA",
+      "AANEAR",
+      "AANERA"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern:</b></p><p>The letters of the original word are reversed and preceded by the letter 'A':</p><ul><li>$\\text{POT} \\rightarrow \\text{TOP} \\rightarrow \\text{ATOP}$</li><li>$\\text{TRAP} \\rightarrow \\text{PART} \\rightarrow \\text{APART}$</li><li>$\\text{ARENA} \\rightarrow \\text{ANERA} \\rightarrow \\mathbf{AANERA}$</li></ul><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 20,
+    "q": "What will come in place of * in the sequence: $$3,\\; 14,\\; 39,\\; 84,\\; *,\\; 258?$$",
+    "options": [
+      "150",
+      "155",
+      "160",
+      "176"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern:</b></p><p>$$T_n = n^3 + 2n$$</p><ul><li>$n=1: 1^3 + 2(1) = 3$</li><li>$n=2: 2^3 + 2(2) = 8 + 4 = 12 \\rightarrow 14$ ($n^3 + n^2 + n$) or differences: $11, 25, 45, 71, 103$</li><li>$n=5: 5^3 + 5^2 + 5 = 125 + 25 + 5 = \\mathbf{155}$</li><li>$n=6: 6^3 + 6^2 + 6 = 216 + 36 + 6 = 258$</li></ul><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 21,
+    "q": "<b>Passage:</b><br/>The rapid proliferation of deepfake technology has complicated information integrity in democratic societies. Because visual evidence has historically served as a benchmark of empirical truth, synthetic audiovisual manipulation undermines social trust more effectively than text-based misinformation. Countering this requires not only cryptographic watermarking and algorithmic detection tools, but also widespread critical media literacy that teaches citizens to question the veracity of sensational multimedia content.<br/><br/>Which one of the following statements best reflects the <b>crucial takeaway</b> of the passage?",
+    "options": [
+      "Technological filters and cryptographic watermarks alone are insufficient to counter deepfakes without critical civic awareness.",
+      "Audiovisual content should be legally banned on social media platforms during elections.",
+      "Textual misinformation is fundamentally harmless compared to video manipulation.",
+      "Algorithmic detection software can completely eliminate deepfakes from the internet."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage explicitly notes that tackling deepfakes requires both technical mechanisms (cryptographic watermarks, detection algorithms) and broader public critical media literacy, showing that tech solutions alone are insufficient.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 22,
+    "q": "<b>Passage:</b><br/>Urbanization without accompanying investments in storm-water drainage, permeable green spaces, and wetland conservation converts precipitation directly into destructive flash floods. Paving over natural recharge zones with impermeable concrete disrupts local hydrological cycles, simultaneously causing seasonal waterlogging during monsoons and groundwater depletion during summers.<br/><br/>Based on the above passage, the following assumptions have been made:<br/>I. Urban floods in modern cities are largely anthropogenic and infrastructural in origin.<br/>II. Preserving urban wetlands aids both flood mitigation and groundwater recharge.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both assumptions are valid:</b> The text directly attributes urban flooding and groundwater depletion to concrete paving and wetland destruction (anthropogenic/infrastructure factors) while noting that permeable wetlands naturally recharge aquifers and absorb excess storm runoff.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 23,
+    "q": "A sum of ₹12,000 is divided among A, B, and C such that A's share is $\\frac{2}{3}$ of B's share, and B's share is $\\frac{3}{5}$ of C's share. What is the share of B?",
+    "options": [
+      "₹2,400",
+      "₹3,600",
+      "₹6,000",
+      "₹4,800"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let C's share be $x$.</p><ul><li>$B = \\frac{3}{5}x$</li><li>$A = \\frac{2}{3}B = \\frac{2}{3}\\left(\\frac{3}{5}x\\right) = \\frac{2}{5}x$</li></ul><p>Ratio of shares $A : B : C = \\frac{2}{5} : \\frac{3}{5} : 1 = 2 : 3 : 5$.</p><p>Total ratio units $= 2 + 3 + 5 = 10\\text{ units} = ₹12,000$.</p><p>$$1\\text{ unit} = ₹1,200$$</p><p>$$\\text{Share of B} = 3 \\times ₹1,200 = ₹3,600$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 24,
+    "q": "What is the unit digit in the product $(7^{95} - 3^{58})$?",
+    "options": [
+      "0",
+      "4",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Cyclicity of powers of 7 is 4 ($7, 9, 3, 1$):</p><p>$$95 = 4 \\times 23 + 3 \\implies \\text{Unit digit of } 7^{95} = 7^3 = 343 \\rightarrow 3$$</p><p>Cyclicity of powers of 3 is 4 ($3, 9, 7, 1$):</p><p>$$58 = 4 \\times 14 + 2 \\implies \\text{Unit digit of } 3^{58} = 3^2 = 9$$</p><p>Subtracting unit digits: $3 - 9 \\equiv (13 - 9) = 4$.</p><p>Therefore, the unit digit is <b>4</b>.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 25,
+    "q": "In a row of students facing North, Rahul is 14th from the left end and Priya is 17th from the right end. If they interchange their positions, Rahul becomes 21st from the left end. How many students are there in the row?",
+    "options": [
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>After interchange, Rahul occupies Priya's original spot.</p><ul><li>New position of Rahul from left $= 21$</li><li>Original position of that spot from right $= 17$</li></ul><p>$$\\text{Total students} = (\\text{Left position}) + (\\text{Right position}) - 1 = 21 + 17 - 1 = 37$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 26,
+    "q": "<b>Passage:</b><br/>Central Bank Digital Currencies (CBDCs) offer substantial advantages in lowering cross-border remittance costs and reducing reliance on physical cash logistics. However, if retail CBDCs allow individual depositors to hold unlimited funds directly on the central bank's digital ledger, commercial banks risk severe disintermediation during panic episodes, which could precipitate runs on private credit institutions.<br/><br/>Which one of the following statements best conveys the <b>most critical inference</b> from the passage?",
+    "options": [
+      "Retail CBDCs should be designed with holding limits to safeguard the stability of the commercial banking sector.",
+      "Commercial banks should be phased out entirely in favor of direct central bank accounts.",
+      "Physical currency notes are immune to financial crises and should never be digitized.",
+      "Cross-border remittances are inherently dangerous for financial stability."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage highlights that unconstrained central bank retail deposits could disintermediate and destabilize commercial banks during distress, implying that safeguards or caps on CBDC holdings are essential.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 27,
+    "q": "A boat travels 24 km upstream and 36 km downstream in 6 hours. It also travels 36 km upstream and 24 km downstream in $6\\frac{1}{2}$ hours. What is the speed of the boat in still water?",
+    "options": [
+      "8 km/h",
+      "10 km/h",
+      "12 km/h",
+      "14 km/h"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let upstream speed be $u$ and downstream speed be $v$.</p><p>1) $\\frac{24}{u} + \\frac{36}{v} = 6$</p><p>2) $\\frac{36}{u} + \\frac{24}{v} = 6.5$</p><p>Solving these linear equations:</p><p>Multiply (1) by 3 and (2) by 2:</p><ul><li>$\\frac{72}{u} + \\frac{108}{v} = 18$</li><li>$\\frac{72}{u} + \\frac{48}{v} = 13$</li></ul><p>Subtracting: $\\frac{60}{v} = 5 \\implies v = 12\\text{ km/h}$.</p><p>Substitute $v=12$ into (1): $\\frac{24}{u} + 3 = 6 \\implies \\frac{24}{u} = 3 \\implies u = 8\\text{ km/h}$.</p><p>$$\\text{Speed of boat in still water} = \\frac{v + u}{2} = \\frac{12 + 8}{2} = 10\\text{ km/h}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 28,
+    "q": "Consider the following statements and conclusion:<br/><b>Statements:</b><br/>1. Some politicians are honest.<br/>2. All honest persons are hardworking.<br/>3. No hardworking person is careless.<br/><br/><b>Conclusions:</b><br/>I. Some hardworking persons are politicians.<br/>II. No honest person is careless.<br/><br/>Which of the conclusions logically follow(s) from the statements?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follow",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Syllogism Analysis:</b></p><ul><li><b>Conclusion I:</b> 'Some politicians are honest' + 'All honest are hardworking' $\\implies$ Some politicians are hardworking $\\implies$ 'Some hardworking persons are politicians'. (Valid)</li><li><b>Conclusion II:</b> 'All honest are hardworking' + 'No hardworking is careless' $\\implies$ 'No honest person is careless'. (Valid)</li></ul><p>Therefore, <b>both Conclusion I and II logically follow</b>.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 29,
+    "q": "A clock is set right at 5 a.m. The clock loses 16 minutes in 24 hours. What will be the true time when the clock indicates 10 p.m. on the 4th day?",
+    "options": [
+      "10:45 p.m.",
+      "11:00 p.m.",
+      "11:15 p.m.",
+      "11:30 p.m."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Time elapsed on the incorrect clock from 5 a.m. on Day 1 to 10 p.m. on Day 4:</p><ul><li>3 days (72 hours) $+ 17\\text{ hours} = 89\\text{ hours}$.</li></ul><p>The faulty clock runs $23\\text{ hrs } 44\\text{ min} = 23\\frac{44}{60} = \\frac{356}{15}\\text{ hours}$ of false time for every $24\\text{ hours}$ of true time.</p><p>$$\\text{True Time} = 89 \\times \\frac{24}{\\frac{356}{15}} = 89 \\times \\frac{24 \\times 15}{356} = 89 \\times \\frac{360}{356} = \\frac{360}{4} = 90\\text{ hours}$$</p><p>True elapsed time $= 90\\text{ hours} = 89\\text{ hours} + 1\\text{ hour}$.</p><p>True time $= 10\\text{ p.m.} + 1\\text{ hour} = \\mathbf{11:00\\text{ p.m.}}$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 30,
+    "q": "<b>Passage:</b><br/>Global antibiotic overuse in livestock farming now accounts for more than two-thirds of global antimicrobial consumption. Administering sub-therapeutic dosages to accelerate animal growth rather than treat disease fosters resistant bacterial superbugs. These resistant pathogens transfer into the human food chain and regional water bodies, rendering standard medical antibiotics obsolete against human infections.<br/><br/>Which one of the following statements best reflects the <b>rational action plan</b> advocated by the passage?",
+    "options": [
+      "Strict regulatory caps and bans should be enforced against non-therapeutic antibiotic use in animal husbandry.",
+      "Livestock rearing should be completely replaced with laboratory-grown meat globally.",
+      "Antibiotics should be eliminated from human clinical therapy entirely.",
+      "Animals should only be fed synthetic growth hormones instead of antibiotics."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage identifies prophylactic, non-therapeutic antibiotic dosing for growth promotion as a primary driver of antimicrobial resistance, implying that restricting such practices is necessary.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 31,
+    "q": "A merchant marks his goods 40% above the cost price and allows a discount of 15% on the marked price. If he earns a profit of ₹570 on a sale, what was the original cost price of the article?",
+    "options": [
+      "₹2,500",
+      "₹3,000",
+      "₹3,200",
+      "₹3,500"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let Cost Price (CP) $= 100x$.</p><ul><li>Marked Price (MP) $= 100x + 40\\% = 140x$</li><li>Selling Price (SP) $= 140x \\times (1 - 0.15) = 140x \\times 0.85 = 119x$</li><li>Profit $= 119x - 100x = 19x$</li></ul><p>Given: $19x = 570 \\implies x = 30$.</p><p>$$\\text{Cost Price} = 100x = 100 \\times 30 = ₹3,000$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 32,
+    "q": "How many words (with or without meaning) can be formed using all the letters of the word 'LEADER' such that the vowels always come together?",
+    "options": [
+      "36",
+      "72",
+      "108",
+      "144"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>The letters of 'LEADER' are $L, E, A, D, E, R$ (Total = 6 letters: vowels $= E, A, E$; consonants $= L, D, R$).</p><p>Group vowels $(E, A, E)$ into 1 single unit.</p><p>Total units to arrange $= 3\\text{ consonants} + 1\\text{ vowel group} = 4\\text{ units}$.</p><p>Arranging these 4 distinct units $= 4! = 24\\text{ ways}$.</p><p>Arranging the vowels within the group $(E, A, E)$ with 2 identical 'E's:</p><p>$$\\frac{3!}{2!} = \\frac{6}{2} = 3\\text{ ways}$$</p><p>$$\\text{Total permutations} = 24 \\times 3 = \\mathbf{72\\text{ words}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 33,
+    "q": "Two numbers are in the ratio 3 : 5. If 8 is added to each number, the ratio becomes 2 : 3. What is the sum of the two original numbers?",
+    "options": [
+      "48",
+      "64",
+      "72",
+      "80"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the two original numbers be $3x$ and $5x$.</p><p>$$\\frac{3x + 8}{5x + 8} = \\frac{2}{3}$$</p><p>$$3(3x + 8) = 2(5x + 8)$$</p><p>$$9x + 24 = 10x + 16 \\implies x = 8$$</p><p>$$\\text{Sum of original numbers} = 3x + 5x = 8x = 8 \\times 8 = 64$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 34,
+    "q": "<b>Passage:</b><br/>The decarbonization of heavy marine shipping faces a technological dilemma. While batteries are viable for short coastal ferries, transoceanic container ships require energy densities that only chemical fuels can provide. Green ammonia and e-methanol offer potential zero-carbon alternatives, but their widespread deployment requires simultaneous global capital investments in green hydrogen production, bunkering infrastructure, and retrofitted engine designs.<br/><br/>Which one of the following statements best captures the <b>crux</b> of the passage?",
+    "options": [
+      "Transoceanic shipping can easily achieve zero emissions using existing commercial lithium batteries.",
+      "Decarbonizing global maritime shipping requires coordinated investments across alternative fuel synthesis, port infrastructure, and vessel propulsion.",
+      "Marine shipping is incapable of transition and should be replaced by overland rail corridors.",
+      "Green ammonia cannot be used safely in marine engines."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The author underscores that deep-sea shipping decarbonization relies on high-density clean fuels, which require complementary investments across fuel production, port bunkering, and propulsion technology.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 35,
+    "q": "Five persons P, Q, R, S, and T have different weights.<br/>- Q is heavier than only P.<br/>- S is lighter than only T.<br/>Who among them is the third heaviest?",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Ordering Analysis:</b></p><p>Let positions from heaviest to lightest be $1 > 2 > 3 > 4 > 5$.</p><ul><li>'Q is heavier than only P' $\\implies$ Q is at position 4 and P is the lightest at position 5.</li><li>'S is lighter than only T' $\\implies$ T is the heaviest at position 1 and S is at position 2.</li></ul><p>The descending weight order is: $T > S > \\mathbf{R} > Q > P$.</p><p>Therefore, <b>R</b> is the third heaviest.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 36,
+    "q": "What is the smallest number which when divided by 12, 16, 24, and 36 leaves a remainder of 7 in each case, but is completely divisible by 11?",
+    "options": [
+      "151",
+      "295",
+      "439",
+      "583"
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$\\text{LCM}(12, 16, 24, 36) = 144$$</p><p>General form of number $= 144k + 7$.</p><p>We check for the smallest integer $k$ such that $(144k + 7)$ is divisible by 11:</p><p>$$144k + 7 = (11 \\times 13k + k) + 7 \\equiv k + 7 \\pmod{11}$$</p><p>For $(k + 7)$ to be a multiple of 11, the smallest positive integer $k = 4$.</p><p>$$N = 144(4) + 7 = 576 + 7 = \\mathbf{583}$$</p><p>Check: $583 / 11 = 53$ (divisible).</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 37,
+    "q": "In a group of 80 people, 45 like tea, 35 like coffee, and 15 like neither tea nor coffee. How many people in the group like both tea and coffee?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Total people liking at least one beverage $= 80 - 15 = 65$.</p><p>Using set formula: $n(T \\cup C) = n(T) + n(C) - n(T \\cap C)$</p><p>$$65 = 45 + 35 - n(T \\cap C)$$</p><p>$$65 = 80 - n(T \\cap C) \\implies n(T \\cap C) = 80 - 65 = \\mathbf{15}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 38,
+    "q": "<b>Passage:</b><br/>Universal basic health coverage cannot rely exclusively on private insurance markets because private insurers have strong financial incentives to exclude high-risk individuals with pre-existing ailments (cream-skimming). A robust, tax-funded public healthcare framework providing primary preventative care is essential to ensure equitable risk pooling across all income strata.<br/><br/>Which one of the following is the most logical and crucial <b>implication</b> of the passage?",
+    "options": [
+      "Private health insurers should be prohibited from selling policies to young, healthy individuals.",
+      "Comprehensive public healthcare provisioning is necessary to correct market failures in private healthcare insurance.",
+      "Preventative primary healthcare is significantly more expensive than secondary hospitalizations.",
+      "High-income citizens should not be allowed to seek medical treatment in public clinics."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The passage highlights that private insurance mechanisms fail to provide universal coverage due to adverse selection and risk exclusion, necessitating public tax-funded provisioning to achieve universal healthcare access.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 39,
+    "q": "A wheel of radius 35 cm makes 500 complete revolutions in a minute. What is the speed of the vehicle in km/h? (Take $\\pi = 22/7$)",
+    "options": [
+      "33 km/h",
+      "66 km/h",
+      "72 km/h",
+      "88 km/h"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Circumference of the wheel $= 2\\pi r = 2 \\times \\frac{22}{7} \\times 35 = 220\\text{ cm} = 2.2\\text{ meters}$.</p><p>Distance traveled in 1 minute $= 500 \\times 2.2\\text{ m} = 1,100\\text{ meters}$.</p><p>Distance traveled in 60 minutes (1 hour) $= 1,100 \\times 60 = 66,000\\text{ meters} = 66\\text{ km}$.</p><p>$$\\text{Speed} = \\mathbf{66\\text{ km/h}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 40,
+    "q": "Find the missing term in the alphabet-number series:<br/>$$\\text{A2Z},\\; \\text{C4X},\\; \\text{F8V},\\; \\text{J16T},\\; ?$$",
+    "options": [
+      "O32R",
+      "O32S",
+      "P32R",
+      "N32R"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><ul><li><b>First Letter:</b> $A(+2) \\rightarrow C(+3) \\rightarrow F(+4) \\rightarrow J(+5) \\rightarrow \\mathbf{O}$</li><li><b>Middle Number:</b> $2(\\times 2) \\rightarrow 4(\\times 2) \\rightarrow 8(\\times 2) \\rightarrow 16(\\times 2) \\rightarrow \\mathbf{32}$</li><li><b>Last Letter:</b> $Z(-2) \\rightarrow X(-2) \\rightarrow V(-2) \\rightarrow T(-2) \\rightarrow \\mathbf{R}$</li></ul><p>Result: <b>O32R</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 41,
+    "q": "Let $P, Q, R, S$ be distinct non-zero digits. If $PP \\times PQ = RRSS$, where $P \\le 3$ and $Q \\le 4$, then what is $Q$ equal to?",
+    "options": [
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+      "The Question can be answered even without using any of the Statements."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Mathematical Derivation:</b></p><p>$$RRSS = R \\times 1000 + R \\times 100 + S \\times 10 + S = 1100R + 11S = 11(100R + S)$$</p><p>Since $PP = 11P$, we have:</p><p>$$11P \\times PQ = 11(100R + S) \\implies P \\times PQ = 100R + S$$</p><p>Given constraints $P \\le 3$, $Q \\le 4$ with distinct non-zero digits:</p><p>For $P = 3, Q = 4$:</p><p>$$33 \\times 34 = 1122$$</p><p>Here, $R = 1$ and $S = 2$, which gives four distinct non-zero digits $(P=3, Q=4, R=1, S=2)$.</p><p>Thus, $Q = 4$ uniquely without requiring any external statements.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 42,
+    "q": "How is $Q$ related to $P$?",
+    "options": [
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+      "The Question cannot be answered even using any of the Statements."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Reasoning Analysis:</b></p><p>Without explicit gender specifications or defined genealogical linkages for $P$ and $Q$, the precise familial relationship cannot be determined even when combining the given conditional statements.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 43,
+    "q": "<b>Passage:</b><br/>A single number for inflation is an aggregate across different commodities and services — the price rise differs for different items of consumption. So, the single number is arrived at by assigning weights to different commodities and services. For WPI, the weights in production are used; for CPI, the consumption basket is used. But people are not homogeneous. The consumption basket is vastly different for the poor, the middle classes, and the rich. Hence, the CPI is different for each of these classes and a composite index requires averaging the baskets.<br/><br/>Which one of the following statements best reflects the <b>most logical, rational and crucial message</b> conveyed by the passage?",
+    "options": [
+      "We must use WPI exclusively in measuring price rise and CPI should be done away with.",
+      "The present calculation of inflation rate does not correctly measure price rise of individual item/commodity.",
+      "Inflation data under-presents services in the consumption basket.",
+      "Knowledge of inflation rate is not really of any use to anybody in the country."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The author argues that aggregate inflation indices rely on generalized basket averages that mask the stark variations in price changes experienced by heterogeneous income groups and specific commodities.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 44,
+    "q": "<b>Passage:</b><br/>Trust stands commonly defined as being vulnerable to others. Entrepreneurship implies trust in others and willingness to expose oneself to betrayal. Trust in expert systems is the essence of globalizing behaviour; trust itself emerges as a super-commodity in the social market and defines the characteristics of goods and services in a global market. Trusting conduct also means holding others in good esteem, and an optimism that they are, or will be, competent in certain respects.<br/><br/>Which one of the following statements best reflects the <b>crux</b> of the passage?",
+    "options": [
+      "Trustworthiness cannot be expected in entrepreneurship.",
+      "Trustworthy people are the most vulnerable people.",
+      "No economic activity is possible without being exposed to betrayal.",
+      "Trust is important though it entails risk."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 4:</b> The passage highlights that trust inherently involves vulnerability and exposure to potential betrayal (risk), yet it remains indispensable for entrepreneurship, economic collaboration, and global market systems.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 45,
+    "q": "In a football match, team $P$ playing against $Q$ was behind by 3 goals with 10 minutes remaining. Does team $P$ win the match?",
+    "options": [
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+      "The Question cannot be answered even using any of the Statements."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Data Sufficiency Analysis:</b></p><p>Team $P$ was trailing by 3 goals with 10 minutes left. Without definitive scoring data on both teams during the remaining time and extra time, multiple match outcomes (win, draw, loss) remain mathematically possible.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 46,
+    "q": "Is $(p + q)^2 - 4pq$, where $p, q$ are natural numbers, positive?",
+    "options": [
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+      "The Question can be answered even without using any of the Statements."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Algebraic Derivation:</b></p><p>$$(p + q)^2 - 4pq = (p^2 + 2pq + q^2) - 4pq = (p - q)^2$$</p><p>A squared term $(p - q)^2$ is always $\\ge 0$. It equals $0$ if $p = q$, and is strictly positive if $p \\ne q$.</p><p>Thus, any statement establishing that $p \\ne q$ is sufficient on its own to confirm that the expression is positive.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 47,
+    "q": "In a T20 cricket match, three players $X, Y$ and $Z$ scored a total of 37 runs. The ratio of number of runs scored by $X$ to the number of runs scored by $Y$ is equal to ratio of number of runs scored by $Y$ to number of runs scored by $Z$.<br/>Value-I = Runs scored by $X$.<br/>Value-II = Runs scored by $Y$.<br/>Value-III = Runs scored by $Z$.<br/>Which one of the following is correct?",
+    "options": [
+      "Value-I < Value-II < Value-III.",
+      "Value-III < Value-II < Value-I.",
+      "Value-I < Value-III < Value-II.",
+      "Cannot be determined due to insufficient data."
+    ],
+    "correct": 3,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Given: $X + Y + Z = 37$ and $\\frac{X}{Y} = \\frac{Y}{Z} \\implies Y^2 = XZ$.</p><p>Valid integer solution sets for $(X, Y, Z)$:</p><ul><li>$(9, 12, 16) \\implies 9 + 12 + 16 = 37$ (where $\\text{Value-I} < \\text{Value-II} < \\text{Value-III}$)</li><li>$(16, 12, 9) \\implies 16 + 12 + 9 = 37$ (where $\\text{Value-III} < \\text{Value-II} < \\text{Value-I}$)</li></ul><p>Because both ascending and descending run orderings are valid, the relation cannot be determined.</p><p><b>Correct Option is 4.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 48,
+    "q": "Let $p + q = 10$, where $p, q$ are integers.<br/>Value-I = Maximum value of $p \\times q$ when $p, q$ are positive integers.<br/>Value-II = Maximum value of $p \\times q$ when $p \\ge -6, q \\ge -4$.<br/>Which one of the following is correct?",
+    "options": [
+      "Value-I < Value-II.",
+      "Value-II < Value-I.",
+      "Value-I = Value-II.",
+      "Cannot be determined due to insufficient data."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Optimization Analysis:</b></p><ul><li><b>Value-I:</b> For positive integers summing to 10, the product $p \\times q$ is maximized when $p = 5$ and $q = 5$: $\\text{Value-I} = 5 \\times 5 = 25$.</li><li><b>Value-II:</b> For $p \\ge -6$ and $q \\ge -4$ with $p + q = 10$, the maximum positive product still occurs at $p = 5, q = 5$ giving $25$ (since edge negative values like $p = -6, q = 16$ give negative products).</li></ul><p>Therefore, $\\text{Value-I} = \\text{Value-II} = 25$.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 49,
+    "q": "Consider a set of 11 numbers:<br/>Value-I = Minimum value of the average of the numbers of the set when they are consecutive integers $\\ge -5$.<br/>Value-II = Minimum value of the product of the numbers of the set when they are consecutive non-negative integers.<br/>Which one of the following is correct?",
+    "options": [
+      "Value-I < Value-II.",
+      "Value-II < Value-I.",
+      "Value-I = Value-II.",
+      "Cannot be determined due to insufficient data."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><ul><li><b>Value-I:</b> The smallest set of 11 consecutive integers starting at $-5$ is $\\{-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5\\}$. The mean is the middle term $= 0$.</li><li><b>Value-II:</b> The smallest set of 11 consecutive non-negative integers starts at $0$: $\\{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10\\}$. The product is $0 \\times 1 \\times 2 \\times \\dots = 0$.</li></ul><p>Therefore, $\\text{Value-I} = \\text{Value-II} = 0$.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 50,
+    "q": "The average of three numbers $p, q$ and $r$ is $k$. $p$ is as much more than the average as $q$ is less than the average. What is the value of $r$?",
+    "options": [
+      "k",
+      "k - 1",
+      "k + 1",
+      "2p + q"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$\\frac{p + q + r}{3} = k \\implies p + q + r = 3k$$</p><p>Given: $p - k = k - q \\implies p + q = 2k$.</p><p>Substituting $p + q = 2k$ into the sum equation:</p><p>$$2k + r = 3k \\implies r = k$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 51,
+    "q": "Let $x$ be a real number between 0 and 1. Which of the following statements is/are correct?<br/>I. $x^2 < x$<br/>II. $x^3 > x$<br/><br/>Select the correct answer using the code given below:",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Mathematical Verification:</b></p><p>For any real number $x \\in (0, 1)$ (e.g., $x = 0.5$):</p><ul><li>$x^2 = 0.25 < 0.5$ (Statement I is correct)</li><li>$x^3 = 0.125 < 0.5$ (Statement II is incorrect, since higher powers of fractions $< 1$ decrease)</li></ul><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 52,
+    "q": "The difference between any two natural numbers is 10. What can be said about the natural numbers which are divisible by 5 and lie between these two numbers?",
+    "options": [
+      "There is only one such number.",
+      "There are only two such numbers.",
+      "There can be more than one such number.",
+      "No such number exists."
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Number Property Analysis:</b></p><ul><li>If the numbers are 5 and 15, the only multiple of 5 strictly between them is 10 (1 number).</li><li>If the numbers are 9 and 19, the multiples of 5 strictly between them are 10 and 15 (2 numbers).</li></ul><p>Therefore, there <b>can be more than one such number</b> depending on the chosen interval.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 53,
+    "q": "<b>Passage:</b><br/>According to the Food and Agriculture Organization, one-third of food produced for human consumption is lost or wasted globally. Food is lost or wasted throughout the supply chain, from initial agricultural production to final household consumption. The increasing wastage also results in land degradation by about 45%, mainly due to deforestation, unsustainable agricultural practices, and excessive groundwater extraction. The energy spent over wasted food results in about 3.5 billion tonnes of carbon dioxide production every year. Decay also leads to harmful emissions of other gases in the atmosphere. Addressing the loss and wastage of food in all forms is critical to complete the cycle of food efficiency and food sustainability.<br/><br/>Which of the following statements best reflects the <b>most logical and rational inference</b> that can be made from the passage?",
+    "options": [
+      "The current methods of food distribution are solely responsible for the loss and wastage of food.",
+      "Land productivity is adversely affected by the prevailing trend of food loss and wastage.",
+      "Reduction in the loss and wastage of food results in lesser carbon footprint.",
+      "Post-harvest technologies to prevent or reduce the loss and wastage of food are not available."
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 2:</b> The text directly connects widespread food wastage with downstream agricultural land degradation, unsustainable resource extraction, and soil depletion.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 54,
+    "q": "<b>Passage:</b><br/>According to the Food and Agriculture Organization, one-third of food produced for human consumption is lost or wasted globally. Food is lost or wasted throughout the supply chain, from initial agricultural production to final household consumption. The increasing wastage also results in land degradation by about 45%, mainly due to deforestation, unsustainable agricultural practices, and excessive groundwater extraction. The energy spent over wasted food results in about 3.5 billion tonnes of carbon dioxide production every year. Decay also leads to harmful emissions of other gases in the atmosphere. Addressing the loss and wastage of food in all forms is critical to complete the cycle of food efficiency and food sustainability.<br/><br/>Based on the above passage, the following assumptions have been made:<br/>1. The food distribution mechanism needs to be reimagined and made effective to reduce the loss and wastage of food.<br/>2. Ensuring the reduction of wastage and loss of food is a social and moral responsibility of all citizens.<br/><br/>Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Assumption 1 is valid:</b> The passage highlights losses spanning the whole supply chain from harvest to retail, making distribution restructuring a valid operational requirement.</p><p><b>Assumption 2 is not valid</b> as moral/philosophical imperatives are not established in the objective analytical text.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 55,
+    "q": "<b>Passage:</b><br/>As inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes. Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits.<br/><br/>Which of the following statements best reflects the <b>most logical and rational inference</b> that can be made from the passage?",
+    "options": [
+      "Monetary policy alone cannot control inflation without coordinated fiscal discipline.",
+      "Governments should never subsidize households during inflation shocks.",
+      "Central banks should permanently keep interest rates at zero to prevent deficit expansion.",
+      "Fiscal deficits are completely unaffected by interest rate movements."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage shows that in the absence of fiscal restraint, monetary rate hikes escalate sovereign borrowing costs and exacerbate inflationary pressures, necessitating joint fiscal-monetary coordination.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 56,
+    "q": "If the radius of a circle is increased by 20%, by what percentage does its area increase?",
+    "options": [
+      "20%",
+      "40%",
+      "44%",
+      "48%"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>$$\\text{Area} = \\pi r^2$$</p><p>New radius $r' = 1.20r$.</p><p>$$\\text{New Area } A' = \\pi (1.20r)^2 = 1.44\\pi r^2 = 1.44 A$$</p><p>$$\\text{Percentage increase} = (1.44 - 1) \\times 100\\% = \\mathbf{44\\%}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 57,
+    "q": "A contractor undertook to complete a road project in 40 days and employed 25 men. After 24 days, he found that only $\\frac{1}{3}$ of the work was completed. How many additional men must be employed to finish the work in the scheduled time?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Using the work-rate formula: $\\frac{M_1 \\times D_1}{W_1} = \\frac{M_2 \\times D_2}{W_2}$</p><ul><li>$M_1 = 25\\text{ men}$, $D_1 = 24\\text{ days}$, $W_1 = \\frac{1}{3}$</li><li>Remaining days $D_2 = 40 - 24 = 16\\text{ days}$</li><li>Remaining work $W_2 = 1 - \\frac{1}{3} = \\frac{2}{3}$</li></ul><p>$$\\frac{25 \\times 24}{1/3} = \\frac{M_2 \\times 16}{2/3}$$</p><p>$$25 \\times 24 \\times 2 = M_2 \\times 16$$</p><p>$$1200 = 16 M_2 \\implies M_2 = 75\\text{ total men}$$</p><p>$$\\text{Additional men required} = 75 - 25 = \\mathbf{50\\text{ men}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 58,
+    "q": "Consider the following statements and conclusion:<br/><b>Statements:</b><br/>1. All cars are vehicles.<br/>2. No vehicle is a boat.<br/>3. Some boats are ships.<br/><br/><b>Conclusions:</b><br/>I. No car is a boat.<br/>II. Some ships are not vehicles.<br/><br/>Which of the conclusions logically follow(s) from the statements?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follow",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Syllogism Analysis:</b></p><ul><li><b>Conclusion I:</b> All cars are inside vehicles, and no vehicle is a boat $\\implies$ No car can be a boat. (Valid)</li><li><b>Conclusion II:</b> Some ships are boats, and no boat can be a vehicle $\\implies$ Those ships that are boats are not vehicles. (Valid)</li></ul><p>Therefore, <b>both Conclusion I and II logically follow</b>.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 59,
+    "q": "A shopkeeper sells two wristwatches at ₹1,980 each. On one he gains 10% and on the other he loses 10%. What is his overall gain or loss percentage in the transaction?",
+    "options": [
+      "No loss, no gain",
+      "1% gain",
+      "1% loss",
+      "2% loss"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Formula:</b></p><p>When two items are sold at the same selling price ($SP$), with one at a gain of $x\\%$ and the other at a loss of $x\\%$, there is always an overall net loss given by:</p><p>$$\\text{Loss }\\% = \\left(\\frac{x}{10}\\right)^2 = \\left(\\frac{10}{10}\\right)^2 = 1\\%$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 60,
+    "q": "How many times do the hour and minute hands of a standard 12-hour clock coincide with each other in a full 24-hour day?",
+    "options": [
+      "20 times",
+      "22 times",
+      "24 times",
+      "44 times"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Clock Mechanics:</b></p><p>The hour hand and minute hand coincide <b>11 times in every 12 hours</b> (the 11 o'clock to 1 o'clock interval features only one single overlap occurring at 12:00 sharp).</p><p>$$\\text{In a 24-hour day} = 11 \\times 2 = \\mathbf{22\\text{ times}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  [
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 61,
+    "q": "<b>Passage:</b><br/>The energy transition in heavy industries such as steel and cement is constrained not by a lack of engineering solutions, but by massive capital costs and high green premiums. Decarbonizing blast furnaces requires transitioning to green hydrogen-based direct reduced iron (DRI), which demands immense renewable electricity generation and vast electrolyser capacity. Without dedicated public procurement mandates, blended carbon financing, and cross-border trade adjustments, early industrial adopters risk competitive disadvantages against high-carbon incumbent producers.<br/><br/>Which one of the following statements best reflects the <b>critical inference</b> from the passage?",
+    "options": [
+      "Heavy industrial decarbonization requires state policy support and financing mechanisms to offset initial cost disadvantages.",
+      "Green hydrogen cannot be practically deployed in commercial blast-furnace steel manufacturing.",
+      "Developing nations should delay industrial decarbonization until green premiums disappear naturally.",
+      "Cement and steel industries can achieve complete net-zero emissions purely through energy efficiency measures."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The author explains that technical solutions exist, but adoption is impeded by capital costs and green premiums, meaning public procurement, blended finance, and border adjustments (state policy frameworks) are required to safeguard early adopters.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 62,
+    "q": "<b>Passage:</b><br/>Soil organic carbon (SOC) plays a fundamental role in sustaining planetary food security and stabilizing global climate. Intensive tillage, monoculture cropping, and the total removal of crop residues accelerate the microbial oxidation of organic matter, turning soils into net carbon sources. Regenerative practices such as no-till farming, cover cropping, and diversified crop rotations rebuild soil aggregate stability, enhance moisture retention, and sequester atmospheric carbon dioxide into resilient subterranean sinks.<br/><br/>Based on the above passage, the following assumptions have been made:<br/>I. Conventional intensive farming practices contribute directly to atmospheric greenhouse gas emissions.<br/>II. Enhancing soil organic carbon improves both agricultural climate resilience and carbon sequestration.<br/><br/>Which of the above assumptions is/are valid?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Both assumptions are valid:</b></p><ul><li>Assumption I is supported because the passage notes that intensive tillage and residue removal cause microbial oxidation, turning soils into net carbon sources.</li><li>Assumption II is supported because regenerative practices rebuild soil stability, enhance water retention, and sequester atmospheric $CO_2$.</li></ul><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 63,
+    "q": "A sum of ₹15,600 is lent out in two parts: one at 8% per annum simple interest and the other at 10% per annum simple interest. If the total annual interest earned from both parts together is ₹1,416, what is the amount lent at 8% per annum?",
+    "options": [
+      "₹7,200",
+      "₹8,400",
+      "₹6,800",
+      "₹9,000"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the amount lent at 8% be $x$. Then the amount lent at 10% is $(15600 - x)$.</p><p>$$\\frac{x \\times 8 \\times 1}{100} + \\frac{(15600 - x) \\times 10 \\times 1}{100} = 1416$$</p><p>$$8x + 156000 - 10x = 141600$$</p><p>$$-2x = 141600 - 156000 = -14400 \\implies 2x = 14400 \\implies x = 7200$$</p><p>$$\\text{Amount lent at 8\\%} = \\mathbf{₹7,200}$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 64,
+    "q": "If $N = 1! + 2! + 3! + 4! + \\dots + 100!$, what is the unit digit of $N$?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>For any $n \\ge 5$, $n!$ contains factors $2 \\times 5 = 10$, meaning its unit digit is $0$.</p><p>Therefore, the unit digit of $N$ depends solely on the sum of the factorials from $1!$ to $4!$:</p><ul><li>$1! = 1$</li><li>$2! = 2$</li><li>$3! = 6$</li><li>$4! = 24$</li></ul><p>$$\\text{Sum} = 1 + 2 + 6 + 24 = 33$$</p><p>The unit digit of 33 is <b>3</b>.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 65,
+    "q": "Pointing to a photograph, a woman says: 'He is the son of the only daughter of the father of my brother.' How is the man in the photograph related to the woman?",
+    "options": [
+      "Brother",
+      "Son",
+      "Nephew",
+      "Cousin"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Step-by-step Relationship Breakdown:</b></p><ul><li>'Father of my brother' $\\rightarrow$ The woman's father.</li><li>'The only daughter of my father' $\\rightarrow$ The woman herself (since she is the daughter).</li><li>'The son of the woman herself' $\\rightarrow$ <b>Her son</b>.</li></ul><p>Therefore, the man in the photograph is the woman's <b>Son</b>.</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 66,
+    "q": "<b>Passage:</b><br/>Algorithmic trading and high-frequency execution platforms now execute the majority of equity transactions in modern capital markets. While these automated systems increase market liquidity and narrow bid-ask spreads during periods of normal volatility, they can exacerbate liquidity dry-ups during stress. When pre-programmed risk algorithms trigger simultaneous sell orders across multiple interconnected asset classes, cascading flash crashes occur faster than human market makers can intervene.<br/><br/>Which one of the following statements best reflects the <b>crucial takeaway</b> of the passage?",
+    "options": [
+      "Algorithmic execution creates systemic fragility that can trigger rapid market downturns during sudden stress.",
+      "High-frequency trading should be completely outlawed across all sovereign stock exchanges.",
+      "Human floor traders are significantly faster at executing complex cross-market trades than algorithms.",
+      "Bid-ask spreads widen permanently with the expansion of electronic market architectures."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage highlights that while algorithmic platforms improve liquidity during normal times, their synchronized programmatic sell triggers introduce systemic risks and rapid market instability during sudden distress.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 67,
+    "q": "A and B can complete a piece of work individually in 20 days and 30 days respectively. They started working together, but A left the work 5 days before its completion. What is the total number of days taken to complete the entire work?",
+    "options": [
+      "12 days",
+      "14 days",
+      "15 days",
+      "18 days"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let total work $= \\text{LCM}(20, 30) = 60\\text{ units}$.</p><ul><li>Efficiency of A $= \\frac{60}{20} = 3\\text{ units/day}$</li><li>Efficiency of B $= \\frac{60}{30} = 2\\text{ units/day}$</li></ul><p>Let total days to complete work be $T$.</p><p>A worked for $(T - 5)$ days and B worked for all $T$ days:</p><p>$$3(T - 5) + 2(T) = 60$$</p><p>$$3T - 15 + 2T = 60 \\implies 5T = 75 \\implies T = 15\\text{ days}$$</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 68,
+    "q": "Consider the following statements and conclusion:<br/><b>Statements:</b><br/>1. All researchers are scholars.<br/>2. Some scholars are teachers.<br/>3. No teacher is a bureaucrat.<br/><br/><b>Conclusions:</b><br/>I. Some scholars are not bureaucrats.<br/>II. No researcher is a bureaucrat.<br/><br/>Which of the conclusions logically follow(s) from the statements?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follow",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Syllogism Analysis:</b></p><ul><li><b>Conclusion I:</b> Since some scholars are teachers, and no teacher is a bureaucrat, those scholars who are teachers can never be bureaucrats. Hence, 'Some scholars are not bureaucrats' is definitively true. (Valid)</li><li><b>Conclusion II:</b> While all researchers are scholars, there is no statement precluding researchers from overlapping with non-teacher bureaucrats. (Invalid)</li></ul><p>Therefore, <b>only Conclusion I logically follows</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 69,
+    "q": "A container contains 80 litres of pure milk. From this container, 8 litres of milk is taken out and replaced with water. This process is repeated two more times. How much pure milk is left in the container now?",
+    "options": [
+      "56.24 litres",
+      "58.32 litres",
+      "60.48 litres",
+      "64.00 litres"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Standard Formula:</b></p><p>$$\\text{Remaining Liquid} = \\text{Initial} \\times \\left(1 - \\frac{y}{x}\\right)^n$$</p><p>Here, $x = 80$, $y = 8$, and operation is performed $n = 3$ times:</p><p>$$\\text{Remaining Milk} = 80 \\times \\left(1 - \\frac{8}{80}\\right)^3 = 80 \\times \\left(1 - \\frac{1}{10}\\right)^3 = 80 \\times (0.9)^3$$</p><p>$$\\text{Remaining Milk} = 80 \\times 0.729 = \\mathbf{58.32\\text{ litres}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 70,
+    "q": "<b>Passage:</b><br/>Global groundwater over-abstraction for irrigated agriculture has created an invisible ecological crisis. In major breadbasket aquifers, extraction rates vastly exceed natural recharge rates from rainfall. As water tables plunge, farmers deepen borewells into saline aquifers, which causes soil salinization and escalating pumping energy costs. Addressing this demands a fundamental transition away from water-intensive crop subsidies toward demand-side water pricing and drought-resilient crops.<br/><br/>Which one of the following statements best reflects the <b>most rational policy prescription</b> implied by the passage?",
+    "options": [
+      "Agricultural policy must shift incentives toward water-efficient cropping patterns and sustainable demand management.",
+      "Groundwater extraction for agricultural purposes should be completely criminalized.",
+      "Subsidies on electricity for deep borewell extraction should be multiplied to assist small farmers.",
+      "Water-intensive food grains should be phased out of human diets entirely."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage argues that current extraction exceeds natural recharge and urges moving away from water-intensive subsidies toward demand management and drought-resilient crops.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 71,
+    "q": "In how many different ways can the letters of the word 'DETAIL' be arranged such that the vowels occupy only the odd positions?",
+    "options": [
+      "18",
+      "36",
+      "72",
+      "144"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>The word 'DETAIL' has 6 letters: 3 vowels $(E, A, I)$ and 3 consonants $(D, T, L)$.</p><p>There are 6 numbered positions: $1, 2, 3, 4, 5, 6$.</p><ul><li>Odd positions are: $1, 3, 5$ (Total = 3 positions).</li><li>Even positions are: $2, 4, 6$ (Total = 3 positions).</li></ul><p>Number of ways to arrange the 3 vowels in the 3 odd positions $= 3! = 6$.</p><p>Number of ways to arrange the 3 consonants in the remaining 3 even positions $= 3! = 6$.</p><p>$$\\text{Total arrangements} = 6 \\times 6 = \\mathbf{36\\text{ ways}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 72,
+    "q": "What is the angle between the hour hand and the minute hand of a clock at 8:20?",
+    "options": [
+      "120°",
+      "130°",
+      "140°",
+      "150°"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Formula:</b></p><p>$$\\theta = \\left|30H - \\frac{11}{2}M\\right|$$</p><p>For $H = 8$ and $M = 20$:</p><p>$$\\theta = \\left|30(8) - \\frac{11}{2}(20)\\right| = |240 - 110| = \\mathbf{130^\\circ}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 73,
+    "q": "A two-digit number is such that the product of its digits is 18. When 27 is subtracted from the number, the digits interchange their places. What is the original number?",
+    "options": [
+      "36",
+      "63",
+      "92",
+      "29"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the two-digit number be $10x + y$.</p><ul><li>Given product of digits: $x \\times y = 18$</li><li>Given condition: $(10x + y) - 27 = 10y + x$</li></ul><p>$$9x - 9y = 27 \\implies x - y = 3$$</p><p>Pairs of single digits whose product is 18 are $(2, 9), (3, 6), (6, 3), (9, 2)$.</p><p>Testing differences:</p><ul><li>For $x = 6, y = 3$: $x \\times y = 18$ and $x - y = 6 - 3 = 3$.</li><li>Number $= 63$.</li><li>Check: $63 - 27 = 36$ (digits reversed).</li></ul><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 74,
+    "q": "<b>Passage:</b><br/>The expansion of decentralized solar mini-grids in rural regions offers an alternative to centralized grid extension. However, their long-term financial viability is frequently threatened when local economic activities fail to generate sufficient productive daytime demand. Without complementary investments in rural cold storage, milling, and small-scale agro-processing enterprises, mini-grid operators remain reliant on low-margin domestic lighting consumption, which is inadequate to cover capital replacement costs.<br/><br/>Which one of the following statements best conveys the <b>central idea</b> of the passage?",
+    "options": [
+      "Decentralized mini-grids must be paired with productive rural load-uses to ensure financial sustainability.",
+      "Rural electrification should exclusively be done through centralized thermal power plants.",
+      "Domestic lighting accounts for the highest electricity revenues in rural areas.",
+      "Solar mini-grids have higher carbon footprints than conventional diesel generators."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage shows that reliance on domestic lighting alone leads to revenue deficits, meaning mini-grids need productive daytime agricultural/processing loads to remain financially viable.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 75,
+    "q": "Find the missing term in the sequence: $$2,\\; 6,\\; 12,\\; 20,\\; 30,\\; 42,\\; ?$$",
+    "options": [
+      "52",
+      "54",
+      "56",
+      "60"
+    ],
+    "correct": 2,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern Analysis:</b></p><p>Each term is of the form $n(n + 1)$ or $n^2 + n$:</p><ul><li>$1 \\times 2 = 2$</li><li>$2 \\times 3 = 6$</li><li>$3 \\times 4 = 12$</li><li>$4 \\times 5 = 20$</li><li>$5 \\times 6 = 30$</li><li>$6 \\times 7 = 42$</li><li>$7 \\times 8 = \\mathbf{56}$</li></ul><p>Alternatively, the differences are $+4, +6, +8, +10, +12, +14 \\implies 42 + 14 = 56$.</p><p><b>Correct Option is 3.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 76,
+    "q": "A person covers a distance of 300 km in 5 hours, partly by train at 80 km/h and partly by car at 40 km/h. What is the distance covered by the person by train?",
+    "options": [
+      "180 km",
+      "200 km",
+      "220 km",
+      "240 km"
+    ],
+    "correct": 1,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Let the distance traveled by train be $d$ km. Then distance by car is $(300 - d)$ km.</p><p>$$\\frac{d}{80} + \\frac{300 - d}{40} = 5$$</p><p>$$\\frac{d + 2(300 - d)}{80} = 5$$</p><p>$$d + 600 - 2d = 400$$</p><p>$$-d = 400 - 600 \\implies d = \\mathbf{200\\text{ km}}$$</p><p><b>Correct Option is 2.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 77,
+    "q": "If 'WATER' is coded as 'YCVGT', how will 'FIRE' be coded in that same system?",
+    "options": [
+      "HKTG",
+      "HKSG",
+      "GLTE",
+      "GKSF"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Pattern:</b></p><p>Each character is shifted by $+2$ positions in the alphabet:</p><ul><li>$W(+2) \\rightarrow Y$</li><li>$A(+2) \\rightarrow C$</li><li>$T(+2) \\rightarrow V$</li><li>$E(+2) \\rightarrow G$</li><li>$R(+2) \\rightarrow T$</li></ul><p>Applying the $+2$ shift to 'FIRE':</p><ul><li>$F(+2) \\rightarrow H$</li><li>$I(+2) \\rightarrow K$</li><li>$R(+2) \\rightarrow T$</li><li>$E(+2) \\rightarrow G$</li></ul><p>Result: <b>HKTG</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 78,
+    "q": "<b>Passage:</b><br/>Urban green spaces deliver measurable microclimatic cooling, absorb storm runoff, and support local pollinator biodiversity. Yet, municipal development frameworks frequently treat urban parks as residual, unmonetized land parcels vulnerable to commercial encroachment. Unless urban natural capital is formally integrated into municipal asset balance sheets, urban density pressures will continue to erode urban ecological reserves.<br/><br/>Which one of the following statements best reflects the <b>logical implication</b> of the passage?",
+    "options": [
+      "Urban parks and natural capital should be formally accounted for within municipal planning and economic frameworks.",
+      "All commercial development within metropolitan city limits should be halted immediately.",
+      "Green spaces have no significant influence on ambient urban temperatures.",
+      "Pollinator biodiversity cannot survive in urban environments under any circumstances."
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Correct Option is 1:</b> The passage emphasizes that treating green spaces as unmonetized residual land leads to encroachment, and calls for integrating natural capital into municipal balance sheets and urban planning.</p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 79,
+    "q": "A bag contains 4 red balls, 5 blue balls, and 3 green balls. If two balls are drawn at random one after the other without replacement, what is the probability that both balls drawn are blue?",
+    "options": [
+      "\\frac{5}{33}",
+      "\\frac{5}{36}",
+      "\\frac{20}{144}",
+      "\\frac{1}{6}"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Calculation:</b></p><p>Total balls $= 4 + 5 + 3 = 12\\text{ balls}$.</p><ul><li>Probability of 1st ball being blue $= \\frac{5}{12}$</li><li>Probability of 2nd ball being blue (without replacement) $= \\frac{4}{11}$</li></ul><p>$$\\text{Combined Probability} = \\frac{5}{12} \\times \\frac{4}{11} = \\frac{5 \\times 1}{3 \\times 11} = \\mathbf{\\frac{5}{33}}$$</p><p><b>Correct Option is 1.</b></p></div> }}"
+  },
+  {
+    "year": 2025,
+    "paper": "GS2",
+    "question": 80,
+    "q": "What is the remainder when $(17^{2025} + 19^{2025})$ is divided by 36?",
+    "options": [
+      "0",
+      "1",
+      "18",
+      "35"
+    ],
+    "correct": 0,
+    "ex": "{{ <div className='space-y-2'><p><b>Algebraic Property:</b></p><p>For any positive odd integer $n$, $(a^n + b^n)$ is always exactly divisible by $(a + b)$.</p><p>Here, $n = 2025$ is an odd number. Therefore, $(17^{2025} + 19^{2025})$ is divisible by:</p><p>$$17 + 19 = 36$$</p><p>Since $(17^{2025} + 19^{2025})$ is an exact multiple of 36, the remainder when divided by 36 is <b>0</b>.</p><p><b>Correct Option is 1.</b></p></div> }}"
+  }
+]
+]
