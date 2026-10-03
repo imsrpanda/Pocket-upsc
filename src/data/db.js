@@ -5,14 +5,15 @@ import defaultSyllabus from './syllabus.json';
 export const db = new Dexie('pocketUpscDatabase');
 
 // Define tables and indexing criteria columns
-db.version(1).stores({
+db.version(2).stores({
   syllabusProgress: 'id', 
   questions: 'id, subjectId, topicId', 
   pastPapers: 'id, year, paper', // Dedicated table tracking official Commission archives
   savedSnippets: 'id, topicId',
   userNotes: '++id, topicId, savedAt',
   detailedContent: 'subtopicKey', 
-  quizSessions: 'topicId' 
+  quizSessions: 'topicId',
+  mainsPapers: 'id, topicCategory, year, paper' // 👈 Dedicated table for Mains Descriptive Questions
 });
 
 export async function seedDatabaseIfEmpty() {
@@ -75,7 +76,7 @@ export async function seedDatabaseIfEmpty() {
   }
 
   // ==========================================
-  // PHASE 1.5: AUTOMATED INGESTION FOR OFFICIAL PAPERS
+  // PHASE 1.5: AUTOMATED INGESTION FOR OFFICIAL PRELIMS PAPERS
   // ==========================================
   try {
     console.log("⚡ Checking for official UPSC paper archives...");
@@ -96,12 +97,11 @@ export async function seedDatabaseIfEmpty() {
           const questionNum = item.question || 1;
 
           mappedPastQuestions.push({
-            // Primary key layout: 2026_gs1_q6
             id: `${paperYear}_${paperType.toLowerCase()}_q${questionNum}`,
             year: paperYear,
             paper: paperType,
             question: questionNum,
-            q: item.q, // ✅ Fixed item variable tracking mapping mismatch
+            q: item.q,
             options: item.options,
             correct: item.correct,
             ex: item.ex
@@ -119,6 +119,53 @@ export async function seedDatabaseIfEmpty() {
     }
   } catch (archiveError) {
     console.error("❌ Automated past papers ingestion run failed:", archiveError);
+  }
+
+  // ==========================================
+  // PHASE 1.8: AUTOMATED INGESTION FOR MAINS PAPERS
+  // ==========================================
+  try {
+    console.log("⚡ Checking for Mains descriptive archives...");
+    const mainsFiles = import.meta.glob('./mains/**/*.json');
+    let mappedMainsQuestions = [];
+
+    for (const path in mainsFiles) {
+      const module = await mainsFiles[path]();
+      const mainsDataArray = module.default || module;
+
+      if (Array.isArray(mainsDataArray)) {
+        mainsDataArray.forEach((item, idx) => {
+          if (!item.question && !item.q) return;
+
+          const year = item.year || 2025;
+          const paper = (item.paper || 'GS1').toUpperCase().trim();
+          const qNum = item.questionNumber || item.question || idx + 1;
+          const topicCat = item.topicCategory || item.theme || "Indian Art, Culture and Heritage";
+
+          mappedMainsQuestions.push({
+            id: item.id || `mains_${year}_${paper.toLowerCase()}_q${qNum}`,
+            topicCategory: topicCat,
+            year: year,
+            paper: paper,
+            questionNumber: qNum,
+            marks: item.marks || 15,
+            wordLimit: item.wordLimit || 250,
+            question: item.question || item.q,
+            modelAnswer: item.modelAnswer || item.answer || item.ex || ""
+          });
+        });
+      }
+    }
+
+    if (mappedMainsQuestions.length > 0) {
+      if (isDevelopment) {
+        await db.mainsPapers.clear();
+      }
+      await db.mainsPapers.bulkPut(mappedMainsQuestions);
+      console.log(`🏛️ Verified ${mappedMainsQuestions.length} Mains descriptive questions synchronized.`);
+    }
+  } catch (mainsError) {
+    console.error("❌ Automated Mains papers ingestion failed:", mainsError);
   }
 
   // ==========================================

@@ -111,10 +111,11 @@ export default function ClassicSheet({
                       )}
                     </div>
 
-                    <div className="flex items-center gap-2.5 shrink-0" onClick={(e) => e.stopPropagation()}>
+                    <div className="flex items-center gap-2.5 shrink-0">
                       {isExpanded && (
                         <button
-                          onClick={() => {
+                          onClick={(e) => {
+                            e.stopPropagation(); // Prevents collapsing the card when clicking "+ Note"
                             setActiveNoteInputId(isInputOpen ? null : noteGroupKey);
                             setEditingNoteId(null);
                           }}
@@ -124,13 +125,24 @@ export default function ClassicSheet({
                         </button>
                       )}
                       
-                      <span 
-                        className={`text-xs font-bold text-slate-400 dark:text-slate-400 transition-transform duration-200 ${
-                          isExpanded ? 'rotate-180 text-indigo-600 dark:text-indigo-400' : 'rotate-0'
-                        }`}
+                      {/* Fully Operational Arrow Button */}
+                      <button
+                        type="button"
+                        onClick={(e) => {
+                          e.stopPropagation(); // Prevents double toggling bubbling
+                          toggleCardCollapse(noteGroupKey);
+                        }}
+                        className="p-1 text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors rounded-lg"
+                        aria-label="Toggle subtopic card"
                       >
-                        ▼
-                      </span>
+                        <span 
+                          className={`inline-block text-xs font-bold transition-transform duration-200 ${
+                            isExpanded ? 'rotate-180 text-indigo-600 dark:text-indigo-400' : 'rotate-0'
+                          }`}
+                        >
+                          ▼
+                        </span>
+                      </button>
                     </div>
                   </div>
 

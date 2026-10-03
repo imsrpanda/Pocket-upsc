@@ -89,7 +89,7 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
         </h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           
-          {/* Item A: Prelims PYQs - Routed seamlessly directly into your archive deck component */}
+          {/* Item A: Prelims PYQs */}
           <div 
             onClick={() => setActiveTab('past_papers')}
             className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900/60 transition-all flex items-start gap-3.5 transform active:scale-98 group"
@@ -109,14 +109,16 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
 
           {/* Item B: Mains Examination Matrix */}
           <div 
-            onClick={() => alert("Loading official UPSC Mains GS Papers 1-4 and Essay prompt blueprint vault...")}
-            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/30 transition-all flex items-start gap-3.5 transform active:scale-98 group"
+            onClick={() => setActiveTab('mains')}
+            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-xl shadow-3xs cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900/60 transition-all flex items-start gap-3.5 transform active:scale-98 group"
           >
-            <div className="h-8 w-8 shrink-0 flex items-center justify-center bg-indigo-50 dark:bg-indigo-950/40 border border-indigo-100/30 dark:border-indigo-900/30 rounded-lg text-indigo-500 text-sm">
+            <div className="h-8 w-8 shrink-0 flex items-center justify-center bg-indigo-50 dark:bg-indigo-950/40 border border-indigo-100/30 dark:border-indigo-900/30 rounded-lg text-indigo-500 text-sm transition-colors group-hover:bg-indigo-100 dark:group-hover:bg-indigo-900/60">
               ✒️
             </div>
             <div>
-              <h4 className="text-xs font-black text-slate-800 dark:text-slate-100">Mains GS Papers</h4>
+              <h4 className="text-xs font-black text-slate-800 dark:text-slate-100 transition-colors group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                Mains GS Papers
+              </h4>
               <p className="text-[9px] text-slate-400 dark:text-slate-500 font-medium mt-0.5 leading-normal">
                 Descriptive model structural questions spanning GS I through GS IV blocks.
               </p>

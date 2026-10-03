@@ -12,6 +12,7 @@ import ReelMode from './components/ReelMode';
 import PracticeQuizEngine from './components/PracticeQuizEngine';
 import SettingsDesk from './components/SettingsDesk';
 import DashboardHub from './components/DashboardHub';
+import MainsHub from './components/MainsHub';
 
 export default function App() {
   // 🎯 CORE THEME HYDRATION HOOK: Syncs the class state inline on initial boot pass
@@ -24,7 +25,7 @@ export default function App() {
     }
   }, []);
 
-  // 🧭 Core Routing State — 🎯 MODIFIED: Default changed to 'dashboard' on launch
+  // 🧭 Core Routing State
   const [activeTab, setActiveTab] = useState('dashboard');
   const [expandedSubject, setExpandedSubject] = useState(null);
   const [selectedTopicId, setSelectedTopicId] = useState(null);
@@ -137,6 +138,7 @@ export default function App() {
         {activeTab === 'dashboard' && (
           <DashboardHub progressMetrics={progressMetrics} setActiveTab={setActiveTab} />
         )}
+        
         {activeTab === 'tracker' && (
           <SyllabusTracker 
             syllabusData={syllabusData} 
@@ -150,16 +152,19 @@ export default function App() {
         )}
 
         {activeTab === 'past_papers' && (
-  <PastPaperDeck 
-    onBack={() => setActiveTab('dashboard')}
-    onLaunchExam={(year, paper) => {
-      // This callback hooks beautifully into your existing PracticeQuizEngine!
-      setSelectedPastPaperMeta({ year, paper });
-      setQuizTopicId(`archive_${year}_${paper.toLowerCase()}`);
-      setActiveTab('quiz');
-    }}
-  />
-)}
+          <PastPaperDeck 
+            onBack={() => setActiveTab('dashboard')}
+            onLaunchExam={(year, paper) => {
+              setSelectedPastPaperMeta({ year, paper });
+              setQuizTopicId(`archive_${year}_${paper.toLowerCase()}`);
+              setActiveTab('quiz');
+            }}
+          />
+        )}
+
+        {activeTab === 'mains' && (
+          <MainsHub onBack={() => setActiveTab('dashboard')} />
+        )}
 
         {activeTab === 'learn' && (
           <div className="flex flex-col flex-1 min-h-0">
@@ -186,8 +191,8 @@ export default function App() {
                       <div key={subject.id} className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 shadow-3xs overflow-hidden transition-all duration-200">
                         {/* Clickable Header Bar */}
                         <div 
-                          onClick={() => learnActiveSubject === subject.id ? setLearnActiveSubject(null) : setLearnActiveSubject(subject.id)}
-                          className="flex items-center justify-between p-3.5 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors select-none"
+                          onClick={() => setLearnActiveSubject(isSubjectExpanded ? null : subject.id)}
+                          className="flex items-center justify-between p-3.5 cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-colors select-none group"
                         >
                           <div className="flex items-center gap-2.5">
                             <span className="text-base bg-slate-50 dark:bg-slate-800 p-1.5 rounded-md border border-slate-100 dark:border-slate-700/60 shadow-4xs select-none">
@@ -195,7 +200,20 @@ export default function App() {
                             </span>
                             <span className="text-xs font-black text-slate-800 dark:text-slate-200">{displaySubjectName}</span>
                           </div>
-                          <span className={`text-[10px] text-slate-400 dark:text-slate-500 transition-transform ${isSubjectExpanded ? 'rotate-180 text-indigo-600 dark:text-indigo-400 font-bold' : ''}`}>▼</span>
+
+                          <button 
+                            type="button"
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setLearnActiveSubject(isSubjectExpanded ? null : subject.id);
+                            }}
+                            className="p-1.5 text-slate-400 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800"
+                            aria-label="Toggle section"
+                          >
+                            <span className={`inline-block text-[10px] transition-transform duration-200 ${isSubjectExpanded ? 'rotate-180 text-indigo-600 dark:text-indigo-400 font-bold' : ''}`}>
+                              ▼
+                            </span>
+                          </button>
                         </div>
 
                         {/* Collapsible Nested Sub-topics Block */}
@@ -283,11 +301,10 @@ export default function App() {
       </main>
 
       {/* FIXED GLOBAL NAV RECTANGLE TRAY HEADER BUTTON FOOTER BLOCK */}
-      {/* 🎯 MODIFIED: Expanded layout tree grid structure over to grid-cols-5 for the main Hub inclusion */}
       <footer className="bg-white dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 p-2 shrink-0 fixed bottom-0 left-0 right-0 z-50 shadow-lg transition-colors duration-200">
-        <nav className="max-w-md mx-auto grid grid-cols-5 gap-1">
+        <nav className="max-w-md mx-auto grid grid-cols-6 gap-1">
           
-          {/* 🏛️ 1. CENTRAL HUB TARGET BUTTON */}
+          {/* 🏛️ 1. HUB */}
           <button 
             onClick={() => setActiveTab('dashboard')} 
             className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
@@ -300,7 +317,7 @@ export default function App() {
             <span className="text-[9px] mt-0.5 capitalize">Hub</span>
           </button>
 
-          {/* 📋 2. TRACKER TARGET BUTTON */}
+          {/* 📋 2. TRACKER */}
           <button 
             onClick={() => setActiveTab('tracker')} 
             className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
@@ -313,7 +330,7 @@ export default function App() {
             <span className="text-[9px] mt-0.5 capitalize">Tracker</span>
           </button>
 
-          {/* 📖 3. LEARN DESK TARGET BUTTON */}
+          {/* 📖 3. LEARN DESK */}
           <button 
             onClick={() => setActiveTab('learn')} 
             className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
@@ -323,10 +340,23 @@ export default function App() {
             }`}
           >
             <span className="text-lg">📖</span>
-            <span className="text-[9px] mt-0.5 capitalize">Learn Desk</span>
+            <span className="text-[9px] mt-0.5 capitalize">Learn</span>
           </button>
 
-          {/* ⚡ 4. QUIZ TARGET BUTTON */}
+          {/* ✍️ 4. MAINS DESK */}
+          <button 
+            onClick={() => setActiveTab('mains')} 
+            className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
+              activeTab === 'mains' 
+                ? 'text-indigo-600 dark:text-indigo-400 font-extrabold bg-indigo-50/50 dark:bg-indigo-950/30' 
+                : 'text-slate-400 dark:text-slate-500'
+            }`}
+          >
+            <span className="text-lg">✍️</span>
+            <span className="text-[9px] mt-0.5 capitalize">Mains</span>
+          </button>
+
+          {/* ⚡ 5. QUIZ */}
           <button 
             onClick={() => setActiveTab('quiz')} 
             className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
@@ -339,7 +369,7 @@ export default function App() {
             <span className="text-[9px] mt-0.5 capitalize">Quiz</span>
           </button>
 
-          {/* ⚙️ 5. SETTINGS TARGET BUTTON */}
+          {/* ⚙️ 6. SETTINGS */}
           <button 
             onClick={() => setActiveTab('settings')} 
             className={`flex flex-col items-center justify-center py-1 rounded-xl transition-all ${
