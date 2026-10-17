@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap');
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    width: 1024px;
+    height: 500px;
+    overflow: hidden;
+    background: radial-gradient(circle at 80% 20%, rgba(56, 189, 248, 0.15) 0%, transparent 40%),
+                radial-gradient(circle at 10% 80%, rgba(245, 158, 11, 0.12) 0%, transparent 45%),
+                linear-gradient(135deg, #090D16 0%, #0F172A 50%, #0D1527 100%);
+    font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+    color: #F8FAFC;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 0 64px;
+  }
+
+  /* Decorative grid lines */
+  .grid-overlay {
+    position: absolute;
+    inset: 0;
+    background-image: 
+      linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+    background-size: 32px 32px;
+    pointer-events: none;
+  }
+
+  .left-content {
+    flex: 1.2;
+    z-index: 2;
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(245, 158, 11, 0.12);
+    border: 1px solid rgba(245, 158, 11, 0.35);
+    color: #FBBF24;
+    padding: 6px 14px;
+    border-radius: 9999px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  .badge-dot {
+    width: 7px;
+    height: 7px;
+    background: #F59E0B;
+    border-radius: 50%;
+    box-shadow: 0 0 8px #F59E0B;
+  }
+
+  .brand-row {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 12px;
+  }
+
+  .brand-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5), 0 0 20px rgba(59, 130, 246, 0.25);
+  }
+
+  .brand-title {
+    font-size: 44px;
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    background: linear-gradient(180deg, #FFFFFF 20%, #CBD5E1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 1.1;
+  }
+
+  .subtitle {
+    font-size: 18px;
+    font-weight: 500;
+    color: #94A3B8;
+    margin-bottom: 24px;
+    line-height: 1.4;
+  }
+
+  .features-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .feature-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #E2E8F0;
+  }
+
+  .check-icon {
+    width: 18px;
+    height: 18px;
+    background: linear-gradient(135deg, #3B82F6, #1D4ED8);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 11px;
+    flex-shrink: 0;
+  }
+
+  .right-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+  }
+
+  .mock-card {
+    width: 340px;
+    background: rgba(30, 41, 59, 0.65);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 20px;
+    padding: 24px;
+    backdrop-filter: blur(16px);
+    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.6), 0 0 30px rgba(56, 189, 248, 0.15);
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .card-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: #F8FAFC;
+  }
+
+  .status-badge {
+    background: rgba(16, 185, 129, 0.15);
+    color: #34D399;
+    border: 1px solid rgba(16, 185, 129, 0.3);
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-size: 10px;
+    font-weight: 700;
+  }
+
+  .stat-row {
+    margin-bottom: 14px;
+  }
+
+  .stat-meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .progress-bg {
+    width: 100%;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+
+  .progress-fill-1 {
+    width: 82%;
+    height: 100%;
+    background: linear-gradient(90deg, #F59E0B, #FBBF24);
+    border-radius: 999px;
+  }
+
+  .progress-fill-2 {
+    width: 94%;
+    height: 100%;
+    background: linear-gradient(90deg, #3B82F6, #60A5FA);
+    border-radius: 999px;
+  }
+
+  .progress-fill-3 {
+    width: 76%;
+    height: 100%;
+    background: linear-gradient(90deg, #10B981, #34D399);
+    border-radius: 999px;
+  }
+
+  .quick-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 18px;
+    padding-top: 16px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .quick-stat-box {
+    background: rgba(15, 23, 42, 0.6);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .quick-stat-val {
+    font-size: 18px;
+    font-weight: 800;
+    color: #F8FAFC;
+  }
+
+  .quick-stat-lbl {
+    font-size: 10px;
+    color: #94A3B8;
+    font-weight: 600;
+  }
+</style>
+</head>
+<body>
+  <div class="grid-overlay"></div>
+
+  <div class="left-content">
+    <div class="badge">
+      <span class="badge-dot"></span>
+      <span>100% Offline • UPSC Civil Services Hub</span>
+    </div>
+
+    <div class="brand-row">
+      <img src="icon_512x512.png" class="brand-icon" alt="Pocket UPSC Icon" />
+      <h1 class="brand-title">Pocket UPSC</h1>
+    </div>
+
+    <p class="subtitle">Complete Syllabus Mastery, PYQ Vault & Exam Engine</p>
+
+    <div class="features-list">
+      <div class="feature-item">
+        <div class="check-icon">✓</div>
+        <span>GS 1, 2, 3 & 4 Micro-topic Syllabus Tracker</span>
+      </div>
+      <div class="feature-item">
+        <div class="check-icon">✓</div>
+        <span>Prelims Question Bank with Timed Quiz Engine</span>
+      </div>
+      <div class="feature-item">
+        <div class="check-icon">✓</div>
+        <span>High-Yield Mains Model Answers & Study Sheets</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="right-content">
+    <div class="mock-card">
+      <div class="card-header">
+        <span class="card-title">Study Mastery Status</span>
+        <span class="status-badge">ONLINE / OFFLINE</span>
+      </div>
+
+      <div class="stat-row">
+        <div class="stat-meta">
+          <span style="color: #F8FAFC;">Indian Polity & Governance</span>
+          <span style="color: #FBBF24;">82% Complete</span>
+        </div>
+        <div class="progress-bg">
+          <div class="progress-fill-1"></div>
+        </div>
+      </div>
+
+      <div class="stat-row">
+        <div class="stat-meta">
+          <span style="color: #F8FAFC;">Modern History & Culture</span>
+          <span style="color: #60A5FA;">94% Complete</span>
+        </div>
+        <div class="progress-bg">
+          <div class="progress-fill-2"></div>
+        </div>
+      </div>
+
+      <div class="stat-row">
+        <div class="stat-meta">
+          <span style="color: #F8FAFC;">Ethics, Integrity & Aptitude</span>
+          <span style="color: #34D399;">76% Complete</span>
+        </div>
+        <div class="progress-bg">
+          <div class="progress-fill-3"></div>
+        </div>
+      </div>
+
+      <div class="quick-stats">
+        <div class="quick-stat-box">
+          <div class="quick-stat-val">3,500+</div>
+          <div class="quick-stat-lbl">Practice MCQs</div>
+        </div>
+        <div class="quick-stat-box">
+          <div class="quick-stat-val">10+ Yrs</div>
+          <div class="quick-stat-lbl">Solved PYQs</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
