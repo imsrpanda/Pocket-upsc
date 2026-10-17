@@ -63,7 +63,7 @@ export default function DashboardHub({ progressMetrics, setActiveTab }) {
         {/* Top Header Bar */}
         <div className="relative z-10 flex items-center justify-between border-b border-amber-500/20 pb-3 mb-4">
           <div className="flex items-center gap-2.5">
-            <span className="text-xl filter drop-shadow-[0_2px_6px_rgba(245,158,11,0.5)]">🇮🇳</span>
+            <img src="/icon-only.png" alt="Pocket UPSC" className="w-8 h-8 rounded-xl shadow-md shrink-0" />
             <div>
               <span className="text-[9.5px] uppercase font-black text-amber-300 tracking-[0.2em] block leading-tight">
                 Central Secretariat Desk

@@ -333,7 +333,7 @@ export default function App() {
         <div className="p-4 lg:p-5 border-b border-slate-100 dark:border-slate-800/80">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2.5">
-              <span className="text-2xl filter drop-shadow-[0_2px_4px_rgba(245,158,11,0.4)]">🇮🇳</span>
+              <img src="/icon-only.png" alt="Pocket UPSC" className="w-9 h-9 rounded-xl shadow-sm shrink-0" />
               <div>
                 <h1 className="text-base font-black text-slate-900 dark:text-white tracking-tight leading-none flex items-center">
                   pocket<span className="text-indigo-600 dark:text-indigo-400">UPSC</span>
@@ -457,7 +457,7 @@ export default function App() {
             {/* Left: Mobile Brand / Desktop Breadcrumb */}
             <div className="min-w-0">
               <div className="md:hidden flex items-center gap-2">
-                <span className="text-lg">🇮🇳</span>
+                <img src="/icon-only.png" alt="Pocket UPSC" className="w-7 h-7 rounded-lg shrink-0" />
                 <div>
                   <h1 className="text-sm font-black text-slate-900 dark:text-white tracking-tight flex items-center leading-none">
                     pocket<span className="text-indigo-600 dark:text-indigo-400">UPSC</span>
