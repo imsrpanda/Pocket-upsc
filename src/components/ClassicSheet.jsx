@@ -52,14 +52,14 @@ export default function ClassicSheet({
   const displayTopicTitle = currentTopicData.title || currentTopicData.topicName || currentTopicData.name || "Syllabus Module";
 
   return (
-    <div className="space-y-4 overflow-y-auto pb-12 pr-0.5 flex-1 select-none">
+    <div className="space-y-4 overflow-y-auto pb-12 pr-0.5 flex-1 select-none max-w-4xl mx-auto w-full">
       
       {/* Subject Header Card Banner */}
-      <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-4 shadow-xs transition-colors duration-200">
-        <span className="text-[9px] uppercase font-black text-indigo-600 dark:text-indigo-400 tracking-wider bg-indigo-50 dark:bg-indigo-950/30 px-2 py-0.5 rounded-sm border border-indigo-100/30 dark:border-indigo-900/30">
-          Premium Study Block
+      <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-5 shadow-xs transition-colors duration-200">
+        <span className="text-[9.5px] uppercase font-black text-indigo-600 dark:text-indigo-400 tracking-wider bg-indigo-50 dark:bg-indigo-950/30 px-2.5 py-0.5 rounded-md border border-indigo-100/30 dark:border-indigo-900/30 font-mono">
+          High-Yield UPSC Micro-Reading Block
         </span>
-        <h2 className="text-base font-black text-slate-900 dark:text-white mt-1.5 leading-tight">
+        <h2 className="text-base sm:text-xl font-black text-slate-900 dark:text-white mt-2 leading-tight">
           {displayTopicTitle}
         </h2>
       </div>

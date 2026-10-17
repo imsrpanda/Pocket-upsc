@@ -352,27 +352,59 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
     const isTimerEnded = timeLeft === 0 && (isTimerConfigEnabled || isArchiveSimulation);
     const cleanContextLabel = isArchiveSimulation ? "Exam Summary" : `Set ${activeSetChunk + 1}`;
     
+    const accuracy = Math.round((scoreCount / (shuffledQuestions.length || 1)) * 100);
+    
     return (
-      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-6 text-center space-y-4 shadow-md my-auto max-w-md mx-auto w-full rounded-2xl transition-colors">
-        <span className="text-4xl block">{isTimerEnded ? '⏰' : '🏆'}</span>
+      <div className="bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 p-6 sm:p-8 text-center space-y-5 shadow-xl my-auto max-w-lg mx-auto w-full rounded-3xl transition-colors animate-fadeIn">
+        <span className="text-5xl block animate-bounce">{isTimerEnded ? '⏰' : '🏆'}</span>
         <div>
-          <h3 className="text-base font-black text-slate-800 dark:text-white">
-            {isTimerEnded ? 'Time Limit Expired' : isArchiveSimulation ? 'Official Paper Completed' : 'Practice Set Complete'}
+          <h3 className="text-lg sm:text-xl font-black text-slate-800 dark:text-white">
+            {isTimerEnded ? 'Examination Time Expired' : isArchiveSimulation ? 'Official UPSC Paper Completed' : 'Practice Batch Completed'}
           </h3>
-          <p className="text-xs text-slate-400 dark:text-slate-500 mt-1 uppercase tracking-wider font-bold">
-            {isArchiveSimulation ? "UPSC ARCHIVE" : activeSubjectId.toUpperCase()} • {cleanContextLabel}
+          <p className="text-xs text-slate-400 dark:text-slate-500 mt-1 uppercase tracking-wider font-bold font-mono">
+            {isArchiveSimulation ? "UPSC ARCHIVE SIMULATION" : activeSubjectId.toUpperCase()} • {cleanContextLabel}
           </p>
         </div>
         
-        <div className="bg-slate-50 dark:bg-slate-950 border border-slate-100 dark:border-slate-900 rounded-xl p-4 max-w-xs mx-auto transition-colors">
-          <span className="text-3xl font-black text-indigo-600 dark:text-indigo-400">{scoreCount}</span>
-          <span className="text-slate-400 dark:text-slate-500 text-xs font-bold"> / {shuffledQuestions.length} Correct</span>
-          <p className="text-[10px] text-slate-400 dark:text-slate-500 font-medium mt-1">Accuracy Ratio: {Math.round((scoreCount / shuffledQuestions.length) * 100)}%</p>
+        {/* Results Metrics Deck */}
+        <div className="bg-slate-50 dark:bg-slate-950 border border-slate-200/60 dark:border-slate-800 rounded-2xl p-5 max-w-sm mx-auto transition-colors space-y-3">
+          <div className="flex items-center justify-center gap-2">
+            <span className="text-4xl font-black text-indigo-600 dark:text-indigo-400 font-mono">{scoreCount}</span>
+            <span className="text-slate-400 dark:text-slate-500 text-sm font-bold">/ {shuffledQuestions.length} Correct</span>
+          </div>
+          
+          {/* Visual Accuracy Bar */}
+          <div className="space-y-1">
+            <div className="w-full h-2.5 bg-slate-200 dark:bg-slate-800 rounded-full overflow-hidden">
+              <div 
+                style={{ width: `${accuracy}%` }}
+                className={`h-full rounded-full transition-all duration-700 ${
+                  accuracy >= 75 ? 'bg-emerald-500' : accuracy >= 50 ? 'bg-amber-500' : 'bg-rose-500'
+                }`}
+              />
+            </div>
+            <div className="flex justify-between text-[11px] font-bold text-slate-500 dark:text-slate-400">
+              <span>Overall Accuracy</span>
+              <span className={accuracy >= 75 ? 'text-emerald-500' : accuracy >= 50 ? 'text-amber-500' : 'text-rose-500'}>
+                {accuracy}%
+              </span>
+            </div>
+          </div>
         </div>
 
-        <div className="flex gap-2 justify-center pt-2">
-          <button onClick={restartQuizSession} className="bg-indigo-50 dark:bg-indigo-950/40 text-indigo-700 dark:text-indigo-300 border border-indigo-100 dark:border-indigo-900/40 font-bold text-xs px-4 py-2 rounded-xl transition-all">Re-take Exam</button>
-          <button onClick={handleResetEngineDashboard} className="bg-indigo-600 text-white font-bold text-xs px-4 py-2 rounded-xl transition-all shadow-xs hover:bg-indigo-700 dark:hover:bg-indigo-500">Change Topic</button>
+        <div className="flex flex-col sm:flex-row gap-2.5 justify-center pt-2 max-w-xs mx-auto">
+          <button 
+            onClick={restartQuizSession} 
+            className="flex-1 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 font-bold text-xs py-2.5 px-4 rounded-xl transition-all cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-700 active:scale-95"
+          >
+            Re-take Exam
+          </button>
+          <button 
+            onClick={handleResetEngineDashboard} 
+            className="flex-1 bg-indigo-600 text-white font-bold text-xs py-2.5 px-4 rounded-xl transition-all shadow-sm hover:bg-indigo-700 dark:hover:bg-indigo-500 active:scale-95 cursor-pointer"
+          >
+            Change Topic
+          </button>
         </div>
       </div>
     );
@@ -383,16 +415,16 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
   // ==========================================
   if (!quizTopicId && !selectedSubject && activeSetChunk === null) {
     return (
-      <div className="space-y-3 animate-fadeIn flex-1 overflow-y-auto pb-12">
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 shadow-3xs text-center space-y-1 rounded-2xl transition-colors">
-          <span className="text-3xl block">⚡</span>
-          <h3 className="text-sm font-black text-slate-800 dark:text-white">UPSC Practice Vault</h3>
-          <p className="text-[11px] text-slate-400 dark:text-slate-500 max-w-xs mx-auto">
-            Select an explicit syllabus department to access sequential practice set batches.
+      <div className="space-y-4 animate-fadeIn flex-1 overflow-y-auto pb-12">
+        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-6 shadow-3xs text-center space-y-1.5 rounded-3xl transition-colors">
+          <span className="text-3xl sm:text-4xl block">⚡</span>
+          <h3 className="text-base sm:text-lg font-black text-slate-800 dark:text-white">UPSC Practice Vault</h3>
+          <p className="text-xs text-slate-400 dark:text-slate-500 max-w-md mx-auto leading-relaxed">
+            Select an explicit syllabus department below to access sequential practice set batches and timed mock exams.
           </p>
         </div>
 
-        <div className="grid grid-cols-1 gap-2">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {syllabusData.map((subject) => {
             const lookupKey = (subject.id || '').toLowerCase().trim();
             const subjectQuestionsTotal = statisticsMap[lookupKey] || 0;
@@ -402,23 +434,23 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
               <div 
                 key={subject.id} 
                 onClick={() => setSelectedSubject(subject)}
-                className="flex items-center justify-between p-4 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800/40 transition-all shadow-3xs active:scale-[0.99]"
+                className="flex items-center justify-between p-4 sm:p-5 bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 rounded-2xl cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-700 hover:shadow-md transition-all active:scale-[0.99] group"
               >
-                <div className="flex items-center gap-3">
-                  <span className="text-xl bg-slate-50 dark:bg-slate-800 p-2 rounded-lg border border-slate-100 dark:border-slate-700 shadow-5xs select-none">
+                <div className="flex items-center gap-3.5 min-w-0 pr-2">
+                  <span className="text-2xl bg-slate-50 dark:bg-slate-800 p-2.5 rounded-xl border border-slate-100 dark:border-slate-700 shadow-5xs select-none group-hover:scale-110 transition-transform">
                     {subjectVaultIcon}
                   </span>
-                  <div>
-                    <span className="text-xs font-black text-slate-800 dark:text-slate-200 block">
+                  <div className="min-w-0">
+                    <span className="text-xs sm:text-sm font-black text-slate-800 dark:text-slate-100 block truncate group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
                       {subject.name || "Subject Module"}
                     </span>
-                    <span className="text-[10px] text-slate-400 dark:text-slate-500 font-semibold uppercase tracking-wider">
+                    <span className="text-[10px] text-slate-400 dark:text-slate-500 font-semibold uppercase tracking-wider block font-mono">
                       {(subject.id || 'GS').toUpperCase()} QUIZ BANK
                     </span>
                   </div>
                 </div>
-                <span className="text-[9px] uppercase font-black px-2.5 py-1 bg-indigo-50 dark:bg-indigo-950/40 text-indigo-700 dark:text-indigo-300 rounded-md border border-indigo-100/50 dark:border-indigo-900/40 transition-colors">
-                  {subjectQuestionsTotal} Qs Loaded
+                <span className="text-[9.5px] uppercase font-black px-2.5 py-1 bg-indigo-50 dark:bg-indigo-950/40 text-indigo-700 dark:text-indigo-300 rounded-lg border border-indigo-100/50 dark:border-indigo-900/40 shrink-0">
+                  {subjectQuestionsTotal} Qs
                 </span>
               </div>
             );
@@ -437,40 +469,44 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
       : (selectedSubject ? selectedSubject.name : activeSubjectId.toUpperCase());
 
     return (
-      <div className="space-y-3 animate-fadeIn flex-1 overflow-y-auto pb-12">
-        <div className="flex items-center justify-between bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-3 rounded-2xl shrink-0 shadow-3xs transition-colors">
-          <button onClick={handleResetEngineDashboard} className="text-xs font-bold text-slate-500 dark:text-slate-400 hover:underline">⬅ Back to Subjects</button>
-          <span className="text-[10px] uppercase font-black text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/30 px-2.5 py-0.5 rounded">
+      <div className="space-y-4 animate-fadeIn flex-1 overflow-y-auto pb-12">
+        <div className="flex items-center justify-between bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-3.5 rounded-2xl shrink-0 shadow-3xs transition-colors">
+          <button onClick={handleResetEngineDashboard} className="text-xs font-bold text-slate-500 dark:text-slate-400 hover:underline cursor-pointer flex items-center gap-1">
+            ⬅ Back to Subjects
+          </button>
+          <span className="text-xs uppercase font-black text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/40 px-3 py-1 rounded-lg border border-indigo-100 dark:border-indigo-900/40">
             {displaySubjectLabel}
           </span>
         </div>
 
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 text-center space-y-1 rounded-2xl shadow-3xs transition-colors">
-          <h4 className="text-xs font-black text-slate-800 dark:text-white">Select Practice Set Batch</h4>
-          <p className="text-[10px] text-slate-400 dark:text-slate-500 leading-normal">
+        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 sm:p-5 text-center space-y-1 rounded-2xl shadow-3xs transition-colors">
+          <h4 className="text-sm font-black text-slate-800 dark:text-white">Select Practice Set Batch</h4>
+          <p className="text-xs text-slate-400 dark:text-slate-500 leading-normal">
             This module contains <strong>{rawSubjectQuestionsPool.length}</strong> loaded entries, dynamically sliced sequentially into sets of 100 max.
           </p>
         </div>
 
         {rawSubjectQuestionsPool.length === 0 ? (
-          <div className="bg-white dark:bg-slate-900 rounded-xl border p-6 text-center text-xs font-bold text-slate-400 animate-pulse">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-8 text-center text-xs font-bold text-slate-400 animate-pulse">
             ⏳ Querying local IndexedDB tables for active code: {activeSubjectId.toUpperCase()}...
           </div>
         ) : (
-          <div className="grid grid-cols-1 gap-2.5">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
             {computedPracticeSets.map((setArray, setIdx) => (
               <div
                 key={setIdx}
                 onClick={() => setActiveSetChunk(setIdx)}
-                className="bg-gradient-to-r from-white to-slate-50 dark:from-slate-900 dark:to-slate-900/60 border border-slate-200 dark:border-slate-800 p-4 rounded-xl cursor-pointer hover:from-indigo-50/20 hover:border-indigo-200 shadow-3xs flex items-center justify-between active:scale-[0.99] transition-all duration-150"
+                className="bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 p-4 rounded-xl cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-700 shadow-3xs flex items-center justify-between active:scale-[0.99] transition-all duration-150 group hover:shadow-xs"
               >
                 <div>
-                  <h4 className="text-xs font-black text-slate-800 dark:text-slate-200">Practice Set {setIdx + 1}</h4>
+                  <h4 className="text-xs sm:text-sm font-black text-slate-800 dark:text-slate-200 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
+                    Practice Batch #{setIdx + 1}
+                  </h4>
                   <p className="text-[10px] text-slate-400 dark:text-slate-500 font-medium mt-0.5">
-                    Covers question rows: {setIdx * 100 + 1} to {setIdx * 100 + setArray.length}
+                    Covers questions: {setIdx * 100 + 1} to {setIdx * 100 + setArray.length}
                   </p>
                 </div>
-                <span className="text-xs font-black text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/40 h-7 w-12 rounded-lg flex items-center justify-center border border-indigo-100 dark:border-indigo-900/40">
+                <span className="text-xs font-black text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/40 px-3 py-1.5 rounded-lg flex items-center justify-center border border-indigo-100 dark:border-indigo-900/40">
                   {setArray.length} Q
                 </span>
               </div>
@@ -525,51 +561,51 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
   // RENDERING CANVAS: ACTIVE TIMED EXAM CARD VIEW
   // ==========================================
   return (
-    <div className="space-y-3 animate-fadeIn w-full flex flex-col pb-12">
+    <div className="space-y-4 animate-fadeIn max-w-4xl mx-auto w-full flex flex-col pb-12">
       
       {/* Session Progress Header Tracker */}
-      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-3.5 rounded-2xl shadow-2xs flex items-center justify-between shrink-0 transition-colors">
-        <div className="min-w-0 flex-1 pr-2">
-          <span className="text-[9px] uppercase font-black text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/30 px-2 py-0.5 rounded-sm">
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-2xl shadow-2xs flex items-center justify-between shrink-0 transition-colors">
+        <div className="min-w-0 flex-1 pr-3">
+          <span className="text-[9.5px] uppercase font-black text-indigo-600 dark:text-indigo-400 bg-indigo-50 dark:bg-indigo-950/40 px-2.5 py-0.5 rounded-sm border border-indigo-100 dark:border-indigo-900/40 font-mono">
             {isArchiveSimulation ? "UPSC CSE PRELIMS SIMULATOR" : `Set ${activeSetChunk + 1} • ${activeSubjectId.toUpperCase()}`}
           </span>
-          <h4 className="text-xs font-black text-slate-400 dark:text-slate-500 mt-0.5 truncate">
-            {isArchiveSimulation ? `Question ${currentCard.question || currentIndex + 1}` : `Progress: ${currentIndex + 1} of ${shuffledQuestions.length}`}
+          <h4 className="text-xs sm:text-sm font-black text-slate-800 dark:text-slate-200 mt-1 truncate">
+            {isArchiveSimulation ? `Official Question ${currentCard.question || currentIndex + 1}` : `Progress: Question ${currentIndex + 1} of ${shuffledQuestions.length}`}
           </h4>
         </div>
 
         {/* LIVE TIMER CLOCK INJECTOR NODES */}
-        <div className="flex items-center gap-1.5 shrink-0">
+        <div className="flex items-center gap-2 shrink-0">
           {(isTimerConfigEnabled || isArchiveSimulation) && timeLeft !== null && (
-            <span className={`text-xs font-black px-2.5 py-1 rounded-lg border flex items-center gap-1 transition-colors duration-300 ${
+            <span className={`text-xs font-black px-3 py-1.5 rounded-xl border flex items-center gap-1.5 transition-colors duration-300 font-mono ${
               timeLeft < 300 
                 ? 'bg-rose-50 text-rose-700 border-rose-200 dark:bg-rose-950/30 dark:text-rose-400 dark:border-rose-900 animate-pulse' 
-                : 'bg-amber-50 text-amber-700 border-amber-100 dark:bg-amber-950/30 dark:text-amber-400 dark:border-amber-900'
+                : 'bg-amber-50 text-amber-700 border-amber-200 dark:bg-amber-950/30 dark:text-amber-400 dark:border-amber-900'
             }`}>
               ⏱️ {renderTimerString()}
             </span>
           )}
-          <span className="text-[10px] font-bold text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 px-2 py-1 rounded-md cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors" onClick={handleResetEngineDashboard}>✕ Quit</span>
-          <span className="text-xs font-black px-2.5 py-1 bg-emerald-50 text-emerald-700 dark:bg-emerald-950/30 dark:text-emerald-400 rounded-lg transition-colors">Score: {scoreCount}</span>
+          <span className="text-xs font-bold text-slate-400 dark:text-slate-500 bg-slate-100 dark:bg-slate-800 px-3 py-1.5 rounded-xl cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors" onClick={handleResetEngineDashboard}>✕ Exit</span>
+          <span className="text-xs font-black px-3 py-1.5 bg-emerald-50 text-emerald-700 dark:bg-emerald-950/30 dark:text-emerald-400 rounded-xl border border-emerald-200/50 dark:border-emerald-800/40 transition-colors">Score: {scoreCount}</span>
         </div>
       </div>
 
       {/* Main Question Card Body Viewport */}
-      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-xs space-y-5 overflow-y-auto transition-colors">
-        <p className="text-xs font-extrabold text-slate-800 dark:text-slate-100 leading-relaxed tracking-wide whitespace-pre-line">
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-5 sm:p-7 shadow-xs space-y-5 overflow-y-auto transition-colors">
+        <p className="text-xs sm:text-sm md:text-base font-extrabold text-slate-800 dark:text-slate-100 leading-relaxed tracking-wide whitespace-pre-line">
           {currentCard.q}
         </p>
 
         {/* Option Multiple Choice Buttons List */}
-        <div className="space-y-2.5">
+        <div className="space-y-3">
           {currentCard.options.map((option, idx) => {
-            let borderStyle = 'border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-800/40';
+            let borderStyle = 'border-slate-200/80 dark:border-slate-800 bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-800/40 hover:border-indigo-300 dark:hover:border-indigo-700';
             
             if (isAnswered) {
               if (idx === currentCard.correct) {
-                borderStyle = 'border-emerald-500 bg-emerald-50 dark:bg-emerald-950/30 text-emerald-950 dark:text-emerald-300 font-semibold';
+                borderStyle = 'border-emerald-500 bg-emerald-50 dark:bg-emerald-950/30 text-emerald-950 dark:text-emerald-200 font-semibold ring-1 ring-emerald-500';
               } else if (selectedOption === idx) {
-                borderStyle = 'border-rose-500 bg-rose-50 dark:bg-rose-950/30 text-rose-950 dark:text-rose-300';
+                borderStyle = 'border-rose-500 bg-rose-50 dark:bg-rose-950/30 text-rose-950 dark:text-rose-200 ring-1 ring-rose-500';
               } else {
                 borderStyle = 'border-slate-100 dark:border-slate-900 opacity-40 bg-white dark:bg-slate-900 text-slate-400 dark:text-slate-600';
               }
@@ -580,9 +616,9 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
                 key={idx}
                 disabled={isAnswered}
                 onClick={() => handleOptionSelection(idx)}
-                className={`w-full text-left p-3 border rounded-xl text-xs transition-all flex items-start gap-3 outline-none cursor-pointer ${borderStyle}`}
+                className={`w-full text-left p-3.5 sm:p-4 border rounded-xl sm:rounded-2xl text-xs sm:text-sm transition-all flex items-start gap-3.5 outline-none cursor-pointer ${borderStyle}`}
               >
-                <span className={`h-5 w-5 rounded-full border flex items-center justify-center shrink-0 font-bold text-[10px] ${
+                <span className={`h-6 w-6 rounded-full border flex items-center justify-center shrink-0 font-bold text-xs ${
                   isAnswered && idx === currentCard.correct 
                     ? 'bg-emerald-500 border-emerald-500 text-white' 
                     : 'border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-400'

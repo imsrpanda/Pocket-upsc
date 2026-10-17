@@ -8,7 +8,6 @@ export default function PastPaperDeck({ onLaunchExam, onBack }) {
   useEffect(() => {
     async function loadPaperMeta() {
       try {
-        // Fetch unique combinations of Year and Paper types from IndexedDB
         const allRecords = await db.pastPapers.toArray();
         const uniques = {};
         
@@ -31,64 +30,76 @@ export default function PastPaperDeck({ onLaunchExam, onBack }) {
   }, []);
 
   return (
-    <div className="space-y-5 overflow-y-auto pb-12 pr-0.5 flex-1 animate-fadeIn select-none">
+    <div className="space-y-6 overflow-y-auto pb-12 pr-0.5 flex-1 animate-fadeIn select-none">
       
       {/* Navigation Header */}
-      <div className="flex items-center gap-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-3.5 rounded-2xl shadow-3xs transition-colors">
+      <div className="flex items-center gap-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-2xl shadow-3xs transition-colors">
         <button 
           onClick={onBack}
-          className="text-xs font-bold text-slate-500 dark:text-slate-400 hover:underline shrink-0"
+          className="text-xs font-bold text-slate-500 dark:text-slate-400 hover:underline shrink-0 cursor-pointer flex items-center gap-1.5"
         >
-          ⬅ Back to Hub
+          <span>⬅</span> Back to Hub
         </button>
         <div className="h-4 w-px bg-slate-200 dark:bg-slate-700 shrink-0" />
-        <h3 className="text-xs font-black text-slate-800 dark:text-slate-200 uppercase tracking-tight">
-          Official UPSC Archives
+        <h3 className="text-xs sm:text-sm font-black text-slate-800 dark:text-slate-200 uppercase tracking-tight">
+          Official Civil Services Prelims Archives
         </h3>
       </div>
 
       {/* Main Container */}
-      <div className="space-y-3">
-        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 space-y-1 shadow-3xs transition-colors">
-          <span className="text-3xl block">📜</span>
-          <h3 className="text-sm font-black text-slate-800 dark:text-white">Civil Services Prelims Registry</h3>
-          <p className="text-[11px] text-slate-400 dark:text-slate-500 max-w-xs leading-normal">
-            Select an official CSE Civil Services examination bundle below to run an unedited, timed exam session matching real Commission parameters.
+      <div className="space-y-4">
+        <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-6 sm:p-7 space-y-1.5 shadow-3xs transition-colors">
+          <span className="text-4xl block">📜</span>
+          <h3 className="text-base sm:text-lg font-black text-slate-800 dark:text-white">Civil Services Prelims Registry</h3>
+          <p className="text-xs text-slate-400 dark:text-slate-500 max-w-xl leading-relaxed">
+            Select an official CSE examination bundle below to run an unedited, timed exam session matching real Union Public Service Commission test parameters.
           </p>
         </div>
 
         {loading ? (
-          <div className="p-6 text-center text-xs font-bold text-slate-400 animate-pulse">
-            ⏳ Extracting archival matrix sets...
+          <div className="p-12 text-center text-xs font-bold text-slate-400 animate-pulse bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800">
+            ⏳ Extracting archival matrix sets from local vault...
           </div>
         ) : papersAvailable.length === 0 ? (
-          <div className="text-center p-8 border border-dashed border-slate-200 dark:border-slate-800 rounded-xl text-xs font-bold text-slate-400">
-            📭 No archival files detected. Make sure your data table is seeded.
+          <div className="text-center p-12 border border-dashed border-slate-200 dark:border-slate-800 rounded-2xl text-xs font-bold text-slate-400 bg-white dark:bg-slate-900">
+            📭 No archival files detected. Make sure your local database is seeded in Settings.
           </div>
         ) : (
-          <div className="space-y-2">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {papersAvailable.map((item) => (
               <div 
                 key={`${item.year}_${item.paper}`}
                 onClick={() => onLaunchExam(item.year, item.paper)}
-                className="flex items-center justify-between p-4 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-900 shadow-3xs transition-all active:scale-[0.99] group"
+                className="flex flex-col justify-between p-5 bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 rounded-2xl cursor-pointer hover:border-indigo-400 dark:hover:border-indigo-700 shadow-3xs transition-all active:scale-[0.99] group hover:shadow-md"
               >
-                <div className="flex items-center gap-3.5 min-w-0">
-                  <span className="text-base bg-indigo-50 dark:bg-indigo-950/40 p-2 rounded-lg border border-indigo-100/30 dark:border-indigo-900/30 font-black text-indigo-600 dark:text-indigo-400 tracking-tighter">
-                    {item.year}
-                  </span>
+                <div className="space-y-3">
+                  <div className="flex items-center justify-between">
+                    <span className="text-lg bg-indigo-50 dark:bg-indigo-950/50 px-3 py-1 rounded-xl border border-indigo-200/50 dark:border-indigo-900/40 font-black text-indigo-600 dark:text-indigo-400 font-mono tracking-tight shadow-xs">
+                      {item.year}
+                    </span>
+                    <span className="text-[10px] font-black uppercase text-amber-600 dark:text-amber-400 bg-amber-50 dark:bg-amber-950/40 px-2.5 py-0.5 rounded-full border border-amber-200/40 dark:border-amber-800/30">
+                      UPSC Official
+                    </span>
+                  </div>
+
                   <div>
-                    <h4 className="text-xs font-black text-slate-800 dark:text-slate-200">
-                      UPSC Prelims {item.paper}
+                    <h4 className="text-sm font-black text-slate-800 dark:text-slate-100 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors">
+                      Prelims General Studies {item.paper}
                     </h4>
-                    <p className="text-[10px] text-slate-400 dark:text-slate-500 font-medium mt-0.5">
-                      📊 Verification count: {item.count} questions compiled
+                    <p className="text-xs text-slate-400 dark:text-slate-500 font-medium mt-1">
+                      Verification count: <strong>{item.count} questions</strong> compiled
                     </p>
                   </div>
                 </div>
-                <span className="text-[9px] uppercase font-black px-2 py-1 bg-slate-50 dark:bg-slate-800 group-hover:bg-indigo-600 group-hover:text-white text-slate-600 dark:text-slate-300 rounded-md tracking-wide border border-slate-100 dark:border-slate-700/60 transition-all shadow-4xs">
-                  Simulate ➔
-                </span>
+
+                <div className="pt-4 mt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between">
+                  <span className="text-xs font-bold text-indigo-600 dark:text-indigo-400 group-hover:underline">
+                    Launch Full Simulation
+                  </span>
+                  <span className="text-[10px] uppercase font-black px-2.5 py-1 bg-slate-50 dark:bg-slate-800 group-hover:bg-indigo-600 group-hover:text-white text-slate-600 dark:text-slate-300 rounded-lg tracking-wide border border-slate-200 dark:border-slate-700 transition-all shadow-4xs group-hover:translate-x-1">
+                    Simulate ➔
+                  </span>
+                </div>
               </div>
             ))}
           </div>

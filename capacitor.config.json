@@ -1,5 +1,14 @@
 {
   "appId": "com.imsrpanda.pocketupsc",
   "appName": "pocketUpsc",
-  "webDir": "dist"
+  "webDir": "dist",
+  "plugins": {
+    "GoogleAuth": {
+      "scopes": ["profile", "email"],
+      "serverClientId": "444455458285-a8l168mpsbv241r5o4c4vt7ae6g3qfkh.apps.googleusercontent.com",
+      "clientId": "444455458285-a8l168mpsbv241r5o4c4vt7ae6g3qfkh.apps.googleusercontent.com",
+      "androidClientId": "444455458285-a8l168mpsbv241r5o4c4vt7ae6g3qfkh.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": false
+    }
+  }
 }
