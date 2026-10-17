@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pocketUpsc</string>
+    <string name="title_activity_main">pocketUpsc</string>
+    <string name="package_name">com.imsrpanda.pocketupsc</string>
+    <string name="custom_url_scheme">com.imsrpanda.pocketupsc</string>
+    <string name="server_client_id">444455458285-a8l168mpsbv241r5o4c4vt7ae6g3qfkh.apps.googleusercontent.com</string>
+</resources>

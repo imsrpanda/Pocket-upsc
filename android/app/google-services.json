@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444455458285",
+    "project_id": "pocket-upsc",
+    "storage_bucket": "pocket-upsc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444455458285:android:2e9b9688b36658111343e4",
+        "android_client_info": {
+          "package_name": "com.imsrpanda.pocketupsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444455458285-hujktfhi328fs5272h3plrih0q2lou9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imsrpanda.pocketupsc",
+            "certificate_hash": "3a4cc8fca85655ecc8443986256a42271af6e993"
+          }
+        },
+        {
+          "client_id": "444455458285-a8l168mpsbv241r5o4c4vt7ae6g3qfkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cX7hmHZZlbZmD0vbT-sTWMSpToPq5nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444455458285-a8l168mpsbv241r5o4c4vt7ae6g3qfkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

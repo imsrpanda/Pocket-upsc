@@ -1,3 +1,45 @@
-/android/
-/dist/
+# Dependencies
 /node_modules/
+
+# Web Build Output
+/dist/
+
+# Android Build Outputs, Gradle & Intermediate Caches
+android/.gradle/
+android/build/
+android/app/build/
+android/captures/
+android/out/
+android/bin/
+android/gen/
+
+# Compiled Application Binaries & Artifacts
+*.apk
+*.aab
+*.aar
+*.ap_
+*.dex
+*.class
+*.hprof
+
+# Local Machine Android SDK Path & Signing Keystores
+android/local.properties
+*.keystore
+*.jks
+
+# Android Studio & IntelliJ Project Files
+android/.idea/
+android/*.iml
+android/.navigation/
+
+# Capacitor Copied Web Bundle & Ephemeral Plugin Outputs
+android/capacitor-cordova-android-plugins/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
+
+# System & Log Files
+*.log
+.DS_Store
+Thumbs.db
