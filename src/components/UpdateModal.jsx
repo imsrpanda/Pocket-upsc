@@ -3,7 +3,9 @@ import { dbFirestore, doc, getDoc } from '../firebase';
 import { CURRENT_APP_VERSION } from '../config/appVersion';
 
 const CHECK_INTERVAL_MS = 24 * 60 * 60 * 1000; // 24 Hours
-const PLAY_STORE_URL = "https://play.google.com/store/apps/details?id=com.imsrpanda.pocketupsc";
+const PACKAGE_NAME = "com.imsrpanda.pocketupsc";
+const MARKET_URL = `market://details?id=${PACKAGE_NAME}`;
+const PLAY_STORE_URL = `https://play.google.com/store/apps/details?id=${PACKAGE_NAME}`;
 
 export default function UpdateModal() {
   const [latestVersion, setLatestVersion] = useState(null);
@@ -42,6 +44,21 @@ export default function UpdateModal() {
     verifyAppVersion();
   }, []);
 
+  const handleOpenPlayStore = (e) => {
+    e.preventDefault();
+    try {
+      // 1. Launch the native Google Play Store application directly on Android
+      window.location.href = MARKET_URL;
+
+      // 2. Fallback: If device has no Play Store app or market: intent is unhandled, open browser
+      setTimeout(() => {
+        window.open(PLAY_STORE_URL, '_system');
+      }, 1000);
+    } catch (err) {
+      window.open(PLAY_STORE_URL, '_blank', 'noopener,noreferrer');
+    }
+  };
+
   if (!latestVersion) return null;
 
   return (
@@ -63,17 +80,14 @@ export default function UpdateModal() {
         </div>
 
         <div className="mt-6 space-y-2.5">
-          {/* Hardcoded Play Store Destination */}
+          {/* Native Play Store Destination */}
           <a
-            href={PLAY_STORE_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl border border-amber-500/50 bg-gradient-to-r from-amber-500/20 to-yellow-500/10 hover:from-amber-500/30 text-amber-200 font-bold text-xs tracking-wide transition-all shadow-md active:scale-95"
+            href={MARKET_URL}
+            onClick={handleOpenPlayStore}
+            className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl border border-amber-500/50 bg-gradient-to-r from-amber-500/20 to-yellow-500/10 hover:from-amber-500/30 text-amber-200 font-bold text-xs tracking-wide transition-all shadow-md active:scale-95 cursor-pointer"
           >
             <span>📲 Update on Google Play</span>
           </a>
-
-          
         </div>
       </div>
     </div>
