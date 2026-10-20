@@ -3,7 +3,7 @@ import { dbFirestore, doc, getDoc } from '../firebase';
 import { CURRENT_APP_VERSION } from '../config/appVersion';
 
 const CHECK_INTERVAL_MS = 24 * 60 * 60 * 1000; // 24 Hours
-const PLAY_STORE_URL = "https://play.google.com/store/apps/details?id=com.pocketupsc.app";
+const PLAY_STORE_URL = "https://play.google.com/store/apps/details?id=com.imsrpanda.pocketupsc";
 
 export default function UpdateModal() {
   const [latestVersion, setLatestVersion] = useState(null);

@@ -1,4 +1,5 @@
 import React, { useState, useMemo, useRef } from 'react';
+import { formatContentHtml } from '../utils/formatContent';
 
 export default function ReelMode({ 
   selectedTopicId, 
@@ -134,7 +135,7 @@ export default function ReelMode({
                 {/* Core UPSC Content Summary Focus Point */}
                 <div className="flex-1 flex items-center justify-center my-4 overflow-y-auto max-h-[38vh] pr-1">
                   <p 
-                    dangerouslySetInnerHTML={{ __html: card.text }}
+                    dangerouslySetInnerHTML={{ __html: formatContentHtml(card.text) }}
                     className="text-sm font-bold leading-relaxed text-slate-100 text-center tracking-normal px-2"
                   />
                 </div>

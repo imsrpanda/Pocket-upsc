@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../data/db';
+import QuizReviewDesk from './QuizReviewDesk';
+import { formatContentHtml } from '../utils/formatContent';
 
 export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllabusData }) {
   // 🧭 Level 0: Main Dashboard Selector States
@@ -22,6 +24,10 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
   const [sessionLockKey, setSessionLockKey] = useState(null);
   const [promptResume, setPromptResume] = useState(false);
   const [cachedSessionData, setCachedSessionData] = useState(null);
+
+  // 🔍 Post-Quiz Review State Machine
+  const [isReviewMode, setIsReviewMode] = useState(false);
+  const [reviewFilter, setReviewFilter] = useState('all'); // 'all', 'wrong', 'correct', 'skipped'
 
   // ⏱️ TIMER SPECIFIC STATE ARRAYS
   const [timeLeft, setTimeLeft] = useState(null);
@@ -315,15 +321,51 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
     setCurrentIndex(nextIndex);
   };
 
+  // Retake only the questions that were answered incorrectly
+  const handleRetakeMistakes = () => {
+    const mistakeIndices = sessionProgress
+      .map((status, idx) => (status === 'wrong' ? idx : null))
+      .filter(idx => idx !== null);
+
+    if (mistakeIndices.length === 0) return;
+
+    const mistakeQuestions = mistakeIndices.map(idx => shuffledQuestions[idx]);
+
+    setShuffledQuestions(mistakeQuestions);
+    setSessionProgress(new Array(mistakeQuestions.length).fill('unattempted'));
+    setUserSelections(new Array(mistakeQuestions.length).fill(null));
+    setCurrentIndex(0);
+    setSelectedOption(null);
+    setIsAnswered(false);
+    setScoreCount(0);
+    setIsReviewMode(false);
+    setReviewFilter('all');
+
+    if (isArchiveSimulation) {
+      setTimeLeft(Math.max(60, Math.round(mistakeQuestions.length * 1.5 * 60)));
+      setIsTimerRunning(true);
+    } else if (isTimerConfigEnabled) {
+      setTimeLeft(configuredDurationMinutes * 60);
+      setIsTimerRunning(true);
+    } else {
+      setTimeLeft(null);
+      setIsTimerRunning(false);
+    }
+  };
+
   const restartQuizSession = async () => {
     const compositeSessionKey = `${activeSubjectId}_set_${activeSetChunk}`;
     await db.quizSessions.delete(compositeSessionKey);
+    setIsReviewMode(false);
+    setReviewFilter('all');
     executeFreshShuffle();
   };
 
   const handleResetEngineDashboard = () => {
     if (timerIntervalRef.current) clearInterval(timerIntervalRef.current);
     setIsTimerRunning(false);
+    setIsReviewMode(false);
+    setReviewFilter('all');
     setShuffledQuestions([]);
     setSessionProgress([]);
     setUserSelections([]);
@@ -345,66 +387,178 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
   };
 
   // ==========================================
-  // 🎯 PRIORITY RENDERING NODE 1: EVALUATION SCOREBOARD
+  // 🎯 PRIORITY RENDERING NODE 1: EVALUATION SCOREBOARD & POST-QUIZ REVIEW
   // Moving this to the top prevents the loading safety check from intercepting end-of-quiz status.
   // ==========================================
   if (isSessionEnded) {
+    const totalCount = shuffledQuestions.length || 1;
+    const correctCount = scoreCount;
+    const wrongCount = sessionProgress.filter(s => s === 'wrong').length;
+    const skippedCount = sessionProgress.filter(s => s === 'skipped' || s === 'unattempted').length;
     const isTimerEnded = timeLeft === 0 && (isTimerConfigEnabled || isArchiveSimulation);
     const cleanContextLabel = isArchiveSimulation ? "Exam Summary" : `Set ${activeSetChunk + 1}`;
-    
-    const accuracy = Math.round((scoreCount / (shuffledQuestions.length || 1)) * 100);
-    
+
+    // Official UPSC Prelims GS Paper 1 Scoring Scheme (+2.00 correct, -0.66 wrong)
+    const positiveMarks = correctCount * 2;
+    const negativeMarks = Number((wrongCount * (2 / 3)).toFixed(2));
+    const rawNet = positiveMarks - negativeMarks;
+    const netMarks = rawNet > 0 ? Number(rawNet.toFixed(2)) : 0;
+    const maxMarks = totalCount * 2;
+    const accuracy = Math.round((correctCount / totalCount) * 100);
+
+    let performanceBadge = { 
+      label: "Needs Revision", 
+      color: "text-rose-600 dark:text-rose-400 bg-rose-50 dark:bg-rose-950/40 border-rose-200 dark:border-rose-900" 
+    };
+    if (accuracy >= 70) {
+      performanceBadge = { 
+        label: "Officer Cadre (Excellent)", 
+        color: "text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-950/40 border-emerald-200 dark:border-emerald-900" 
+      };
+    } else if (accuracy >= 45) {
+      performanceBadge = { 
+        label: "Prelims Cut-Off Range", 
+        color: "text-amber-600 dark:text-amber-400 bg-amber-50 dark:bg-amber-950/40 border-amber-200 dark:border-amber-900" 
+      };
+    }
+
+    // ==========================================
+    // 🔍 SUB-VIEW: COMPREHENSIVE POST-QUIZ REVIEW
+    // ==========================================
+    if (isReviewMode) {
+      return (
+        <QuizReviewDesk
+          shuffledQuestions={shuffledQuestions}
+          sessionProgress={sessionProgress}
+          userSelections={userSelections}
+          activeSubjectId={activeSubjectId}
+          cleanContextLabel={cleanContextLabel}
+          isArchiveSimulation={isArchiveSimulation}
+          totalCount={totalCount}
+          correctCount={correctCount}
+          wrongCount={wrongCount}
+          skippedCount={skippedCount}
+          netMarks={netMarks}
+          maxMarks={maxMarks}
+          onCloseReview={() => setIsReviewMode(false)}
+          onRetakeMistakes={handleRetakeMistakes}
+          onRestartSession={restartQuizSession}
+        />
+      );
+    }
+
+    // ==========================================
+    // 🏆 PRIMARY VIEW: UPSC PRELIMS SCOREBOARD
+    // ==========================================
     return (
-      <div className="bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 p-6 sm:p-8 text-center space-y-5 shadow-xl my-auto max-w-lg mx-auto w-full rounded-3xl transition-colors animate-fadeIn">
-        <span className="text-5xl block animate-bounce">{isTimerEnded ? '⏰' : '🏆'}</span>
+      <div className="bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 p-6 sm:p-8 text-center space-y-5 shadow-xl my-auto max-w-lg mx-auto w-full rounded-3xl transition-colors animate-fadeIn select-none">
+        <span className="text-5xl block animate-bounce">{isTimerEnded ? '⏰' : accuracy >= 70 ? '🏆' : '🎯'}</span>
         <div>
           <h3 className="text-lg sm:text-xl font-black text-slate-800 dark:text-white">
             {isTimerEnded ? 'Examination Time Expired' : isArchiveSimulation ? 'Official UPSC Paper Completed' : 'Practice Batch Completed'}
           </h3>
           <p className="text-xs text-slate-400 dark:text-slate-500 mt-1 uppercase tracking-wider font-bold font-mono">
-            {isArchiveSimulation ? "UPSC ARCHIVE SIMULATION" : activeSubjectId.toUpperCase()} • {cleanContextLabel}
+            {isArchiveSimulation ? "UPSC ARCHIVE SIMULATION" : activeSubjectId?.toUpperCase()} • {cleanContextLabel}
           </p>
         </div>
-        
-        {/* Results Metrics Deck */}
-        <div className="bg-slate-50 dark:bg-slate-950 border border-slate-200/60 dark:border-slate-800 rounded-2xl p-5 max-w-sm mx-auto transition-colors space-y-3">
-          <div className="flex items-center justify-center gap-2">
-            <span className="text-4xl font-black text-indigo-600 dark:text-indigo-400 font-mono">{scoreCount}</span>
-            <span className="text-slate-400 dark:text-slate-500 text-sm font-bold">/ {shuffledQuestions.length} Correct</span>
+
+        {/* UPSC Prelims GS Scorecard Box */}
+        <div className="bg-slate-50 dark:bg-slate-950 border border-slate-200/60 dark:border-slate-800 rounded-2xl p-5 max-w-md mx-auto transition-colors space-y-4">
+          
+          {/* Main Net Score */}
+          <div className="flex items-center justify-between border-b border-slate-200/60 dark:border-slate-800/80 pb-3">
+            <div className="text-left">
+              <span className="text-[10px] uppercase font-black text-slate-400 dark:text-slate-500 tracking-wider block">
+                Net UPSC Score (GS Paper 1)
+              </span>
+              <div className="flex items-baseline gap-1 mt-0.5">
+                <span className="text-3xl sm:text-4xl font-black text-indigo-600 dark:text-indigo-400 font-mono">
+                  {netMarks}
+                </span>
+                <span className="text-xs font-bold text-slate-400 dark:text-slate-500 font-mono">
+                  / {maxMarks} Marks
+                </span>
+              </div>
+            </div>
+            <span className={`text-[10px] uppercase font-black px-2.5 py-1 rounded-full border ${performanceBadge.color}`}>
+              {performanceBadge.label}
+            </span>
+          </div>
+
+          {/* 3 Metrics Row */}
+          <div className="grid grid-cols-3 gap-2 text-center">
+            <div className="bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 p-2.5 rounded-xl">
+              <span className="text-[10px] uppercase font-bold text-emerald-600 dark:text-emerald-400 block">Correct (+2.0)</span>
+              <span className="text-lg font-black text-slate-800 dark:text-white font-mono mt-0.5 block">{correctCount}</span>
+            </div>
+            <div className="bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 p-2.5 rounded-xl">
+              <span className="text-[10px] uppercase font-bold text-rose-600 dark:text-rose-400 block">Wrong (-0.66)</span>
+              <span className="text-lg font-black text-slate-800 dark:text-white font-mono mt-0.5 block">{wrongCount}</span>
+            </div>
+            <div className="bg-white dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 p-2.5 rounded-xl">
+              <span className="text-[10px] uppercase font-bold text-slate-400 dark:text-slate-500 block">Skipped (0.0)</span>
+              <span className="text-lg font-black text-slate-800 dark:text-white font-mono mt-0.5 block">{skippedCount}</span>
+            </div>
           </div>
           
           {/* Visual Accuracy Bar */}
-          <div className="space-y-1">
+          <div className="space-y-1 pt-1">
             <div className="w-full h-2.5 bg-slate-200 dark:bg-slate-800 rounded-full overflow-hidden">
               <div 
                 style={{ width: `${accuracy}%` }}
                 className={`h-full rounded-full transition-all duration-700 ${
-                  accuracy >= 75 ? 'bg-emerald-500' : accuracy >= 50 ? 'bg-amber-500' : 'bg-rose-500'
+                  accuracy >= 70 ? 'bg-emerald-500' : accuracy >= 45 ? 'bg-amber-500' : 'bg-rose-500'
                 }`}
               />
             </div>
-            <div className="flex justify-between text-[11px] font-bold text-slate-500 dark:text-slate-400">
-              <span>Overall Accuracy</span>
-              <span className={accuracy >= 75 ? 'text-emerald-500' : accuracy >= 50 ? 'text-amber-500' : 'text-rose-500'}>
+            <div className="flex justify-between text-[10.5px] font-bold text-slate-500 dark:text-slate-400">
+              <span>Accuracy Ratio</span>
+              <span className={accuracy >= 70 ? 'text-emerald-500' : accuracy >= 45 ? 'text-amber-500' : 'text-rose-500'}>
                 {accuracy}%
               </span>
             </div>
           </div>
         </div>
 
-        <div className="flex flex-col sm:flex-row gap-2.5 justify-center pt-2 max-w-xs mx-auto">
+        {/* Action Buttons Matrix */}
+        <div className="flex flex-col gap-2.5 pt-1 max-w-sm mx-auto">
+          {/* Primary Call to Action: Review Solutions */}
           <button 
-            onClick={restartQuizSession} 
-            className="flex-1 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 font-bold text-xs py-2.5 px-4 rounded-xl transition-all cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-700 active:scale-95"
+            onClick={() => {
+              setIsReviewMode(true);
+              setReviewFilter('all');
+            }}
+            className="w-full bg-gradient-to-r from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-600 text-white font-black text-xs sm:text-sm py-3.5 px-4 rounded-xl shadow-md transition-all active:scale-98 cursor-pointer flex items-center justify-center gap-2"
           >
-            Re-take Exam
+            <span>🔍</span>
+            <span>Review Solutions & Explanations</span>
           </button>
-          <button 
-            onClick={handleResetEngineDashboard} 
-            className="flex-1 bg-indigo-600 text-white font-bold text-xs py-2.5 px-4 rounded-xl transition-all shadow-sm hover:bg-indigo-700 dark:hover:bg-indigo-500 active:scale-95 cursor-pointer"
-          >
-            Change Topic
-          </button>
+
+          {/* Drill Mistakes Button if mistakes exist */}
+          {wrongCount > 0 && (
+            <button
+              onClick={handleRetakeMistakes}
+              className="w-full bg-amber-50 dark:bg-amber-950/30 text-amber-700 dark:text-amber-300 border border-amber-300 dark:border-amber-800/60 font-black text-xs py-2.5 px-4 rounded-xl hover:bg-amber-100 dark:hover:bg-amber-900/40 transition-all cursor-pointer active:scale-98 flex items-center justify-center gap-1.5"
+            >
+              <span>🎯</span>
+              <span>Re-test Mistakes Only ({wrongCount} Questions)</span>
+            </button>
+          )}
+
+          <div className="flex gap-2">
+            <button 
+              onClick={restartQuizSession} 
+              className="flex-1 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 font-bold text-xs py-2.5 px-3 rounded-xl transition-all cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-700 active:scale-95"
+            >
+              🔄 Re-take Full Exam
+            </button>
+            <button 
+              onClick={handleResetEngineDashboard} 
+              className="flex-1 bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 border border-slate-200 dark:border-slate-700 font-bold text-xs py-2.5 px-3 rounded-xl transition-all hover:bg-slate-200 dark:hover:bg-slate-700 active:scale-95 cursor-pointer"
+            >
+              ⬅ Exit to Hub
+            </button>
+          </div>
         </div>
       </div>
     );
@@ -649,14 +803,15 @@ export default function PracticeQuizEngine({ quizTopicId, clearQuizFocus, syllab
                 return (
                   <div 
                     className="text-[11px] text-slate-600 dark:text-slate-300 leading-relaxed font-medium"
-                    dangerouslySetInnerHTML={{ __html: cleanHtml }}
+                    dangerouslySetInnerHTML={{ __html: formatContentHtml(cleanHtml) }}
                   />
                 );
               })()
             ) : (
-              <p className="text-[11px] text-slate-600 dark:text-slate-300 leading-relaxed font-medium">
-                {currentCard.ex}
-              </p>
+              <p 
+                className="text-[11px] text-slate-600 dark:text-slate-300 leading-relaxed font-medium"
+                dangerouslySetInnerHTML={{ __html: formatContentHtml(currentCard.ex) }}
+              />
             )}
           </div>
         )}

@@ -1,5 +1,6 @@
 import Dexie from 'dexie';
 import defaultSyllabus from './syllabus.json';
+import { formatContentHtml } from '../utils/formatContent';
 
 // Initialize the pocketUpsc Database Instance
 export const db = new Dexie('pocketUpscDatabase');
@@ -186,8 +187,12 @@ export async function seedDatabaseIfEmpty() {
     if (combinedDetailsArray.length > 0) {
       const recordsToPut = combinedDetailsArray.map(entry => ({
         subtopicKey: entry.subtopicKey,
-        paragraphs: entry.paragraphs,
-        imageBlob: null 
+        paragraphs: formatContentHtml(entry.paragraphs),
+        imageBlob: null,
+        videoUrl: entry.videoUrl || null,
+        videoTitle: entry.videoTitle || null,
+        hasInteractiveDiagram: Boolean(entry.hasInteractiveDiagram),
+        hasVideo: Boolean(entry.hasVideo)
       }));
 
       if (isDevelopment) {

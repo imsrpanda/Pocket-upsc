@@ -1,851 +1,851 @@
 {
   "eco_1": {
-  "title": "National Income Accounting (GDP, GNP, NNP, Real vs Nominal)",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Core Aggregates & Formula Frameworks",
-      "subtopics": [
-        {
-          "name": "Gross Domestic Product (GDP) vs Gross National Product (GNP)",
-          "bullets": [
-            " <b>GDP Definition: </b> The total monetary value of all final goods and services produced strictly <b>within the geographical boundaries </b> of a country during a specific financial year. It emphasizes <i>where</i> production takes place, regardless of the nationality of the producer.",
-            " <b>GNP Definition: </b> The total monetary value of all final goods and services produced exclusively by the <b>normal residents of a country </b>, irrespective of their location. It emphasizes <i>who</i> produces it.",
-            " <b>The Linking Formula: </b> Mapped via the equation: <b>GNP = GDP + Net Factor Income from Abroad (NFIA) </b>. For India, NFIA is historically <b>negative </b> due to high outbound profit/remittance outflows matching our heavy foreign capital dependancies, making India's GDP structurally larger than its GNP."
-          ]
-        },
-        {
-          "name": "Market Price vs Factor Cost & Net Aggregates",
-          "bullets": [
-            " <b>Factor Cost (FC): </b> The total cost of all inputs or factors of production used to manufacture goods (Land, Labor, Capital, Entrepreneurship). It represents the factory-gate price <b>before any government interventions </b>.",
-            " <b>Market Price (MP): </b> The actual retail price paid by consumers in the market. Calculated using the formula: <b>Market Price = Factor Cost + Net Indirect Taxes (Production/Product Taxes - Production/Product Subsidies) </b>.",
-            " <b>The Depreciation Factor: </b> Gross indicators turn into Net indicators by subtracting the monetary value of wear and tear. Formulaic anchor: <b>Net Domestic Product (NDP) = GDP - Depreciation </b>, and <b>Net National Product (NNP) = GNP - Depreciation </b>.",
-            " <b>National Income Identity: </b> In India's modern accounting matrix, <b>NNP at Market Price </b> is officially designated as the true, pure <b>National Income </b> of the country."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: The Valuation Dimensions (Real vs Nominal)",
-      "subtopics": [
-        {
-          "name": "Price Changes & Inflation Masking",
-          "bullets": [
-            " <b>Nominal GDP: </b> The market value of final goods and services calculated using <b>current year prices </b>. It can rise purely because prices went up due to inflation, even if actual physical production remained completely unchanged.",
-            " <b>Real GDP: </b> The market value of goods and services calculated using prices from a fixed, neutral <b>Base Year </b> (currently <b>2011-12 </b> in India). It eliminates the distortionary effects of inflation, acting as the true measure of actual physical economic output expansion.",
-            " <b>GDP Deflator Matrix: </b> The ultimate comprehensive measure of price levels in an economy. Calculated via the formula: <b>GDP Deflator = (Nominal GDP / Real GDP) x 100 </b>. Unlike WPI or CPI, the GDP Deflator is non-fixed; it encompasses <b>every single good and service </b> produced inside the domestic territory."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Measurement Methods & Base Year Shifts",
-      "subtopics": [
-        {
-          "name": "The Three Methodologies",
-          "bullets": [
-            " <b>Product / Value Added Method: </b> Measures the distinct monetary value added to raw materials at each progressive stage of production across sectors, summing up to total **Gross Value Added (GVA)** to prevent the trap of double-counting.",
-            " <b>Expenditure Method: </b> Tracks total final spending inside the economy. Captured by the standard identity: <b>GDP = C + I + G + (X - M) </b>, where C is Private Consumption, I is Private Investment, G is Government Spending, and (X - M) represents Net Exports.",
-            " <b>Income Method: </b> Aggregates all factor incomes generated inside the boundaries, calculating the sum of total wages (Labor), rent (Land), interest (Capital), and profit (Corporate margins)."
-          ]
-        },
-        {
-          "name": "Modern Structural Alterations",
-          "bullets": [
-            " <b>The 2015 Structural Shift: </b> The Central Statistics Office (CSO) permanently overhauled national accounting methodologies: 1. Changed the base year framework from 2004-05 up to <b>2011-12 </b>. 2. Shifted headline economic growth measurements from old GDP at Factor Cost over to modern <b>GDP at Market Price </b>.",
-            " <b>GVA at Basic Prices: </b> Introduced a middle layer between Factor Cost and Market Price to align with UN System of National Accounts (SNA 2008) protocols, clearly separating **Production Taxes/Subsidies** (asset-linked like land revenue) from **Product Taxes/Subsidies** (volume-linked like GST)."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "National Income Accounting (GDP, GNP, NNP, Real vs Nominal)",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Core Aggregates & Formula Frameworks",
+        "subtopics": [
+          {
+            "name": "Gross Domestic Product (GDP) vs Gross National Product (GNP)",
+            "bullets": [
+              " <b>GDP Definition: </b> The total monetary value of all final goods and services produced strictly <b>within the geographical boundaries </b> of a country during a specific financial year. It emphasizes <i>where</i> production takes place, regardless of the nationality of the producer.",
+              " <b>GNP Definition: </b> The total monetary value of all final goods and services produced exclusively by the <b>normal residents of a country </b>, irrespective of their location. It emphasizes <i>who</i> produces it.",
+              " <b>The Linking Formula: </b> Mapped via the equation: <b>GNP = GDP + Net Factor Income from Abroad (NFIA) </b>. For India, NFIA is historically <b>negative </b> due to high outbound profit/remittance outflows matching our heavy foreign capital dependancies, making India's GDP structurally larger than its GNP."
+            ]
+          },
+          {
+            "name": "Market Price vs Factor Cost & Net Aggregates",
+            "bullets": [
+              " <b>Factor Cost (FC): </b> The total cost of all inputs or factors of production used to manufacture goods (Land, Labor, Capital, Entrepreneurship). It represents the factory-gate price <b>before any government interventions </b>.",
+              " <b>Market Price (MP): </b> The actual retail price paid by consumers in the market. Calculated using the formula: <b>Market Price = Factor Cost + Net Indirect Taxes (Production/Product Taxes - Production/Product Subsidies) </b>.",
+              " <b>The Depreciation Factor: </b> Gross indicators turn into Net indicators by subtracting the monetary value of wear and tear. Formulaic anchor: <b>Net Domestic Product (NDP) = GDP - Depreciation </b>, and <b>Net National Product (NNP) = GNP - Depreciation </b>.",
+              " <b>National Income Identity: </b> In India's modern accounting matrix, <b>NNP at Market Price </b> is officially designated as the true, pure <b>National Income </b> of the country."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: The Valuation Dimensions (Real vs Nominal)",
+        "subtopics": [
+          {
+            "name": "Price Changes & Inflation Masking",
+            "bullets": [
+              " <b>Nominal GDP: </b> The market value of final goods and services calculated using <b>current year prices </b>. It can rise purely because prices went up due to inflation, even if actual physical production remained completely unchanged.",
+              " <b>Real GDP: </b> The market value of goods and services calculated using prices from a fixed, neutral <b>Base Year </b> (currently <b>2011-12 </b> in India). It eliminates the distortionary effects of inflation, acting as the true measure of actual physical economic output expansion.",
+              " <b>GDP Deflator Matrix: </b> The ultimate comprehensive measure of price levels in an economy. Calculated via the formula: <b>GDP Deflator = (Nominal GDP / Real GDP) x 100 </b>. Unlike WPI or CPI, the GDP Deflator is non-fixed; it encompasses <b>every single good and service </b> produced inside the domestic territory."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Measurement Methods & Base Year Shifts",
+        "subtopics": [
+          {
+            "name": "The Three Methodologies",
+            "bullets": [
+              " <b>Product / Value Added Method: </b> Measures the distinct monetary value added to raw materials at each progressive stage of production across sectors, summing up to total <b>Gross Value Added (GVA)</b> to prevent the trap of double-counting.",
+              " <b>Expenditure Method: </b> Tracks total final spending inside the economy. Captured by the standard identity: <b>GDP = C + I + G + (X - M) </b>, where C is Private Consumption, I is Private Investment, G is Government Spending, and (X - M) represents Net Exports.",
+              " <b>Income Method: </b> Aggregates all factor incomes generated inside the boundaries, calculating the sum of total wages (Labor), rent (Land), interest (Capital), and profit (Corporate margins)."
+            ]
+          },
+          {
+            "name": "Modern Structural Alterations",
+            "bullets": [
+              " <b>The 2015 Structural Shift: </b> The Central Statistics Office (CSO) permanently overhauled national accounting methodologies: 1. Changed the base year framework from 2004-05 up to <b>2011-12 </b>. 2. Shifted headline economic growth measurements from old GDP at Factor Cost over to modern <b>GDP at Market Price </b>.",
+              " <b>GVA at Basic Prices: </b> Introduced a middle layer between Factor Cost and Market Price to align with UN System of National Accounts (SNA 2008) protocols, clearly separating <b>Production Taxes/Subsidies</b> (asset-linked like land revenue) from <b>Product Taxes/Subsidies</b> (volume-linked like GST)."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_2": {
-  "title": "Growth, Development & Planning Philosophy (LPG Reforms, NITI Aayog)",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Post-Independence Planning & Structural Evolution",
-      "subtopics": [
-        {
-          "name": "The Pre-Reforms Era & Growth Performance",
-          "bullets": [
-            " <b>The Hindu Rate of Growth: </b> A term coined by economist Raj Krishna to describe the low, sluggish trajectory of economic expansion (averaging around <b>3.5% annually </b>) observed in India from the 1950s through the 1970s under inward-looking socialist policies.",
-            " <b>The Mahalanobis Model: </b> The structural bedrock of the <b>Second Five-Year Plan (1956-61) </b>. It prioritized rapid industrialization with a heavy emphasis on building state-owned <b>basic and heavy capital-goods industries </b> (like steel and machine tools) to achieve long-term self-reliance.",
-            " <b>Structural Shifts in GDP: </b> India underwent an unconventional economic transition—<b>bypassing the traditional manufacturing stage </b>. The primary sector (Agriculture) declined rapidly in its contribution to total GDP, while the tertiary sector (Services) jumped ahead to contribute over 50%, creating a structural mismatch where the majority of the workforce remains trapped in low-yielding agricultural employment."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: The 1991 Crisis & LPG Structural Reforms",
-      "subtopics": [
-        {
-          "name": "The Balance of Payments (BoP) Trigger",
-          "bullets": [
-            " <b>The 1991 Sovereign Crisis: </b> Triggered by fiscal profligacy, high current account deficits, and external shocks like the Gulf War, which sent oil prices soaring and choked remittances. India's foreign exchange reserves plummeted to a point where they could barely cover <b>two weeks of essential imports </b>, forcing the government to airlift gold reserves to Europe as collateral for emergency loans.",
-            " <b>Stabilization vs Structural Adjustment: </b> The International Monetary Fund (IMF) and World Bank bailed out India on the strict condition that it dismantle its command economy framework, launching immediate macroeconomic stabilization (short-term crisis control like currency devaluation) and deep <b>Structural Adjustment Reforms </b> (long-term supply-side market overhauls)."
-          ]
-        },
-        {
-          "name": "The Core Pillars of LPG",
-          "bullets": [
-            " <b>Liberalization (Dismantling the License Raj): </b> Abolished the restrictive industrial licensing system for all but a handful of hazardous/strategic industries. It ended the monopoly checks under the <b>MRTP Act </b> and allowed market forces to determine production capacities and prices.",
-            " <b>Privatization (De-reservation of the State): </b> Drastically reduced the number of industries reserved exclusively for the public sector. It introduced <b>disinvestment </b> (selling government equity in Public Sector Undertakings to private hands) and opened core infrastructure domains to private sector competition.",
-            " <b>Globalization (Integrating with World Markets): </b> Systematically reduced steep import tariffs and dismantled quantitative restrictions on trade. It replaced the draconian, criminal-liability-driven FERA with the modern, civil-liability-oriented <b>Foreign Exchange Management Act (FEMA) </b> to simplify capital flows and cross-border trade."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Modern Planning Paradigm & NITI Aayog",
-      "subtopics": [
-        {
-          "name": "The Planning Commission vs NITI Aayog Divergence",
-          "bullets": [
-            " <b>The Centralized Old Guard: </b> The old Planning Commission (established in 1950) relied on a highly centralized, <b>top-down planning model </b>. Crucially, it possessed final statutory power to <b>allocate financial grants </b> to states, which often created political friction and dependency on central mandates.",
-            " <b>The Think-Tank Shift (2015): </b> Replaced by the National Institution for Transforming India (NITI Aayog) via an executive resolution on January 1, 2015. NITI Aayog operates strictly as a policy think-tank and possesses <b>zero financial allocation powers </b>, shifting the fiscal distribution role entirely back to the Finance Commission and Ministry of Finance.",
-            " <b>Cooperative vs Competitive Federalism: </b> NITI Aayog enforces a <b>bottom-up approach </b> through its Governing Council, which gives all state Chief Ministers a direct voice in national strategy (Cooperative). Simultaneously, it fosters <b>Competitive Federalism </b> by publishing data-driven benchmark performance indices, such as the <i>School Education Quality Index (SEQI)</i> and the <i>State Health Index</i>."
-          ]
-        },
-        {
-          "name": "The Three-Tier Planning Horizon",
-          "bullets": [
-            " <b>Abandoning the 5-Year Framework: </b> With the conclusion of the 12th Five-Year Plan (2012-17), the old rigid five-year planning framework was permanently abandoned.",
-            " <b>The Modern Matrix: </b> NITI Aayog replaced it with a multi-layered strategic implementation pipeline consisting of a long-term <b>15-Year Vision Document </b> (setting the macro destination), a mid-term <b>7-Year Strategy </b> framework, and a short-term, action-oriented <b>3-Year Action Agenda </b> for immediate execution tracking."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Growth, Development & Planning Philosophy (LPG Reforms, NITI Aayog)",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Post-Independence Planning & Structural Evolution",
+        "subtopics": [
+          {
+            "name": "The Pre-Reforms Era & Growth Performance",
+            "bullets": [
+              " <b>The Hindu Rate of Growth: </b> A term coined by economist Raj Krishna to describe the low, sluggish trajectory of economic expansion (averaging around <b>3.5% annually </b>) observed in India from the 1950s through the 1970s under inward-looking socialist policies.",
+              " <b>The Mahalanobis Model: </b> The structural bedrock of the <b>Second Five-Year Plan (1956-61) </b>. It prioritized rapid industrialization with a heavy emphasis on building state-owned <b>basic and heavy capital-goods industries </b> (like steel and machine tools) to achieve long-term self-reliance.",
+              " <b>Structural Shifts in GDP: </b> India underwent an unconventional economic transition—<b>bypassing the traditional manufacturing stage </b>. The primary sector (Agriculture) declined rapidly in its contribution to total GDP, while the tertiary sector (Services) jumped ahead to contribute over 50%, creating a structural mismatch where the majority of the workforce remains trapped in low-yielding agricultural employment."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: The 1991 Crisis & LPG Structural Reforms",
+        "subtopics": [
+          {
+            "name": "The Balance of Payments (BoP) Trigger",
+            "bullets": [
+              " <b>The 1991 Sovereign Crisis: </b> Triggered by fiscal profligacy, high current account deficits, and external shocks like the Gulf War, which sent oil prices soaring and choked remittances. India's foreign exchange reserves plummeted to a point where they could barely cover <b>two weeks of essential imports </b>, forcing the government to airlift gold reserves to Europe as collateral for emergency loans.",
+              " <b>Stabilization vs Structural Adjustment: </b> The International Monetary Fund (IMF) and World Bank bailed out India on the strict condition that it dismantle its command economy framework, launching immediate macroeconomic stabilization (short-term crisis control like currency devaluation) and deep <b>Structural Adjustment Reforms </b> (long-term supply-side market overhauls)."
+            ]
+          },
+          {
+            "name": "The Core Pillars of LPG",
+            "bullets": [
+              " <b>Liberalization (Dismantling the License Raj): </b> Abolished the restrictive industrial licensing system for all but a handful of hazardous/strategic industries. It ended the monopoly checks under the <b>MRTP Act </b> and allowed market forces to determine production capacities and prices.",
+              " <b>Privatization (De-reservation of the State): </b> Drastically reduced the number of industries reserved exclusively for the public sector. It introduced <b>disinvestment </b> (selling government equity in Public Sector Undertakings to private hands) and opened core infrastructure domains to private sector competition.",
+              " <b>Globalization (Integrating with World Markets): </b> Systematically reduced steep import tariffs and dismantled quantitative restrictions on trade. It replaced the draconian, criminal-liability-driven FERA with the modern, civil-liability-oriented <b>Foreign Exchange Management Act (FEMA) </b> to simplify capital flows and cross-border trade."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Modern Planning Paradigm & NITI Aayog",
+        "subtopics": [
+          {
+            "name": "The Planning Commission vs NITI Aayog Divergence",
+            "bullets": [
+              " <b>The Centralized Old Guard: </b> The old Planning Commission (established in 1950) relied on a highly centralized, <b>top-down planning model </b>. Crucially, it possessed final statutory power to <b>allocate financial grants </b> to states, which often created political friction and dependency on central mandates.",
+              " <b>The Think-Tank Shift (2015): </b> Replaced by the National Institution for Transforming India (NITI Aayog) via an executive resolution on January 1, 2015. NITI Aayog operates strictly as a policy think-tank and possesses <b>zero financial allocation powers </b>, shifting the fiscal distribution role entirely back to the Finance Commission and Ministry of Finance.",
+              " <b>Cooperative vs Competitive Federalism: </b> NITI Aayog enforces a <b>bottom-up approach </b> through its Governing Council, which gives all state Chief Ministers a direct voice in national strategy (Cooperative). Simultaneously, it fosters <b>Competitive Federalism </b> by publishing data-driven benchmark performance indices, such as the <i>School Education Quality Index (SEQI)</i> and the <i>State Health Index</i>."
+            ]
+          },
+          {
+            "name": "The Three-Tier Planning Horizon",
+            "bullets": [
+              " <b>Abandoning the 5-Year Framework: </b> With the conclusion of the 12th Five-Year Plan (2012-17), the old rigid five-year planning framework was permanently abandoned.",
+              " <b>The Modern Matrix: </b> NITI Aayog replaced it with a multi-layered strategic implementation pipeline consisting of a long-term <b>15-Year Vision Document </b> (setting the macro destination), a mid-term <b>7-Year Strategy </b> framework, and a short-term, action-oriented <b>3-Year Action Agenda </b> for immediate execution tracking."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_3": {
-  "title": "Monetary Policy & RBI Instruments (Repo, Reverse Repo, CRR, SLR)",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Objectives & Institutional Framework",
-      "subtopics": [
-        {
-          "name": "The Monetary Policy Committee (MPC)",
-          "bullets": [
-            " <b>Statutory Origin: </b> Set up as a statutory body following an amendment to the <b>Reserve Bank of India Act, 1934 </b> (modified in 2016). It replaced the old system where the RBI Governor held unilateral, non-binding veto power over interest rates.",
-            " <b>Composition and Voting: </b> A balanced <b>6-member panel </b> consisting of 3 internal members from the RBI (including the Governor) and 3 external members appointed directly by the Central Government. Each member holds one vote; in the case of an equality of votes, the <b>RBI Governor exercises a casting vote </b>.",
-            " <b>The Mandate (Flexible Inflation Targeting): </b> Tasked with maintaining price stability while keeping growth parameters in mind. Operating under an explicit mandate to target consumer-price-index (CPI) inflation at <b>4% with a tolerance band of +/- 2% </b> (a strict operational corridor of 2% to 6%). Failure is defined if inflation stays outside this band for <b>3 consecutive quarters </b>."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: Quantitative Tools — Reserve Ratios & The LAF Corridor",
-      "subtopics": [
-        {
-          "name": "Reserve Ratios (CRR and SLR)",
-          "bullets": [
-            " <b>Cash Reserve Ratio (CRR): </b> The specific fraction of total <b>Net Demand and Time Liabilities (NDTL) </b> that commercial banks must maintain strictly as <b>liquid cash balances with the RBI </b>. Crucially, the RBI pays <b>zero interest </b> on these balances, and banks cannot use CRR cash to buy government securities.",
-            " <b>Statutory Liquidity Ratio (SLR): </b> The defined percentage of NDTL that commercial banks must maintain <b>within themselves </b> at the close of every business day. SLR assets can be held in safe gold, cash, or unencumbered <b>government securities (G-Secs) </b>. It prevents reckless commercial lending and guarantees a ready captive market for government borrowing."
-          ]
-        },
-        {
-          "name": "The Liquidity Adjustment Facility (LAF) Corridor Mechanics",
-          "bullets": [
-            " <b>Repo Rate (The Policy Anchor): </b> The benchmark interest rate at which the RBI lends short-term liquidity to commercial banks against the collateral of government securities. It serves as the primary signaling rate for pricing credit across the economy.",
-            " <b>Standing Deposit Facility (SDF - The Modern Floor): </b> Introduced as the formal floor of the LAF corridor, effectively replacing the old fixed Reverse Repo rate for daily liquidity absorption. The SDF empowers the RBI to lock away excess cash from commercial banks <b>without providing any government securities as collateral </b>.",
-            " <b>Marginal Standing Facility (MSF - The Ceiling): </b> A penal rate window allowing commercial banks to borrow emergency overnight funds from the RBI by dipping into their fixed SLR quotas up to a specified limit, priced at a premium above the Repo rate."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Qualitative Tools & Open Market Operations",
-      "subtopics": [
-        {
-          "name": "Open Market Operations (OMO) & Twist Mechanisms",
-          "bullets": [
-            " <b>Standard OMO: </b> The outright buying or selling of government securities in the open market by the RBI to permanently inject or absorb durable rupee liquidity from the financial system.",
-            " <b>Operation Twist: </b> A specialized simultaneous OMO maneuver where the RBI <b>buys long-term government bonds </b> while simultaneously <b>selling short-term Treasury bills </b>. This targeted action flattens the yield curve, bringing down long-term interest rates to boost structural infrastructure investment without expanding the total money supply."
-          ]
-        },
-        {
-          "name": "Qualitative or Selective Controls",
-          "bullets": [
-            " <b>Margin Requirements (LTV Ratio): </b> Controlling the Loan-to-Value gap. For example, if the RBI mandates a 20% margin on gold loans, banks can lend up to 80% of the asset value; raising the margin cools speculative credit demand in specific asset classes.",
-            " <b>Moral Suasion & Moral Measures: </b> Informal, non-statutory pressure applied by the central bank via closed-door meetings, policy speeches, and official directives to push commercial banking boards into passing on rate cuts (monetary transmission) or tightening credit underwriting standards without resorting to legal penalties."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Monetary Policy & RBI Instruments (Repo, Reverse Repo, CRR, SLR)",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Objectives & Institutional Framework",
+        "subtopics": [
+          {
+            "name": "The Monetary Policy Committee (MPC)",
+            "bullets": [
+              " <b>Statutory Origin: </b> Set up as a statutory body following an amendment to the <b>Reserve Bank of India Act, 1934 </b> (modified in 2016). It replaced the old system where the RBI Governor held unilateral, non-binding veto power over interest rates.",
+              " <b>Composition and Voting: </b> A balanced <b>6-member panel </b> consisting of 3 internal members from the RBI (including the Governor) and 3 external members appointed directly by the Central Government. Each member holds one vote; in the case of an equality of votes, the <b>RBI Governor exercises a casting vote </b>.",
+              " <b>The Mandate (Flexible Inflation Targeting): </b> Tasked with maintaining price stability while keeping growth parameters in mind. Operating under an explicit mandate to target consumer-price-index (CPI) inflation at <b>4% with a tolerance band of +/- 2% </b> (a strict operational corridor of 2% to 6%). Failure is defined if inflation stays outside this band for <b>3 consecutive quarters </b>."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Quantitative Tools — Reserve Ratios & The LAF Corridor",
+        "subtopics": [
+          {
+            "name": "Reserve Ratios (CRR and SLR)",
+            "bullets": [
+              " <b>Cash Reserve Ratio (CRR): </b> The specific fraction of total <b>Net Demand and Time Liabilities (NDTL) </b> that commercial banks must maintain strictly as <b>liquid cash balances with the RBI </b>. Crucially, the RBI pays <b>zero interest </b> on these balances, and banks cannot use CRR cash to buy government securities.",
+              " <b>Statutory Liquidity Ratio (SLR): </b> The defined percentage of NDTL that commercial banks must maintain <b>within themselves </b> at the close of every business day. SLR assets can be held in safe gold, cash, or unencumbered <b>government securities (G-Secs) </b>. It prevents reckless commercial lending and guarantees a ready captive market for government borrowing."
+            ]
+          },
+          {
+            "name": "The Liquidity Adjustment Facility (LAF) Corridor Mechanics",
+            "bullets": [
+              " <b>Repo Rate (The Policy Anchor): </b> The benchmark interest rate at which the RBI lends short-term liquidity to commercial banks against the collateral of government securities. It serves as the primary signaling rate for pricing credit across the economy.",
+              " <b>Standing Deposit Facility (SDF - The Modern Floor): </b> Introduced as the formal floor of the LAF corridor, effectively replacing the old fixed Reverse Repo rate for daily liquidity absorption. The SDF empowers the RBI to lock away excess cash from commercial banks <b>without providing any government securities as collateral </b>.",
+              " <b>Marginal Standing Facility (MSF - The Ceiling): </b> A penal rate window allowing commercial banks to borrow emergency overnight funds from the RBI by dipping into their fixed SLR quotas up to a specified limit, priced at a premium above the Repo rate."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Qualitative Tools & Open Market Operations",
+        "subtopics": [
+          {
+            "name": "Open Market Operations (OMO) & Twist Mechanisms",
+            "bullets": [
+              " <b>Standard OMO: </b> The outright buying or selling of government securities in the open market by the RBI to permanently inject or absorb durable rupee liquidity from the financial system.",
+              " <b>Operation Twist: </b> A specialized simultaneous OMO maneuver where the RBI <b>buys long-term government bonds </b> while simultaneously <b>selling short-term Treasury bills </b>. This targeted action flattens the yield curve, bringing down long-term interest rates to boost structural infrastructure investment without expanding the total money supply."
+            ]
+          },
+          {
+            "name": "Qualitative or Selective Controls",
+            "bullets": [
+              " <b>Margin Requirements (LTV Ratio): </b> Controlling the Loan-to-Value gap. For example, if the RBI mandates a 20% margin on gold loans, banks can lend up to 80% of the asset value; raising the margin cools speculative credit demand in specific asset classes.",
+              " <b>Moral Suasion & Moral Measures: </b> Informal, non-statutory pressure applied by the central bank via closed-door meetings, policy speeches, and official directives to push commercial banking boards into passing on rate cuts (monetary transmission) or tightening credit underwriting standards without resorting to legal penalties."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_4": {
-  "title": "Banking System in India, NPA Crisis & Financial Reforms",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Structure & Classification of the Banking Sector",
-      "subtopics": [
-        {
-          "name": "Scheduled Commercial Banks (SCBs) & D-SIBs",
-          "bullets": [
-            " <b>Scheduled Status: </b> Banks included in the <b>Second Schedule of the Reserve Bank of India Act, 1934 </b>. To qualify, a bank must satisfy the RBI that its affairs are not being conducted in a manner detrimental to the interests of its depositors.",
-            " <b>Domestic Systemically Important Banks (D-SIBs): </b> Banks designated by the RBI as <b>'Too Big to Fail' </b>. Due to their sheer size and deep cross-jurisdictional interconnectedness, their distress would cause systemic disruption. D-SIBs (historically including SBI, ICICI, and HDFC) are mandated to maintain <b>higher Common Equity Tier 1 (CET1) capital </b> requirements.",
-            " <b>Differentiated Banks vs Universal Banks: </b> Regulated niche entities like **Payments Banks** (can accept deposits up to ₹2 Lakhs but are <b>fundamentally barred from lending </b> or issuing credit cards) and **Small Finance Banks** (must direct <b>75% of their net credit to the Adjusted Priority Sector Lending </b> target, compared to 40% for standard commercial banks)."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: The Non-Performing Asset (NPA) Crisis",
-      "subtopics": [
-        {
-          "name": "NPA Asset Classification Timelines",
-          "bullets": [
-            " <b>The 90-Day Standard Trigger: </b> A loan or advance is officially classified as an NPA when the interest or installment of principal remains <b>overdue for a period of more than 90 days </b> in standard commercial lending.",
-            " <b>Agricultural Loan Exclusions: </b> A highly targeted UPSC trap area. For agricultural credit, a loan turns into an NPA if interest/principal remains overdue for <b>two crop seasons </b> in the case of short-duration crops, or for <b>one crop season </b> in the case of long-duration crops.",
-            " <b>The Three Degradation Tiers: </b> 1. <i>Sub-standard Assets:</i> Remaining an NPA for a period less than or equal to 12 months. 2. <i>Doubtful Assets:</i> Exceeding the initial 12-month sub-standard threshold. 3. <i>Loss Assets:</i> Identified by the bank or RBI auditors as completely uncollectible, where its value must be fully written off.",
-            " <b>Twin Balance Sheet Problem: </b> A major macroeconomic stress phenomenon where severe financial distress on the balance sheets of **corporate borrowers** (over-leveraged with bad debts) directly causes severe stress on the balance sheets of **public sector banks** (choked with non-performing loans), leading to a freezing of credit growth."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Financial Reforms & Resolution Frameworks",
-      "subtopics": [
-        {
-          "name": "Statutory & Institutional Cleanup Frameworks",
-          "bullets": [
-            " <b>SARFAESI Act, 2002: </b> Empowers banks and financial institutions to auction residential or commercial properties of defaults to recover loans <b>without any intervention from judicial courts </b>. However, it applies strictly to secured loans and cannot be invoked if the remaining principal debt falls below 20% of the original asset value.",
-            " <b>Insolvency and Bankruptcy Code (IBC), 2016: </b> A landmark statutory consolidation that shifted the legal framework from a 'debtor-in-possession' model to a <b>'creditor-in-control' model </b>. It mandates a time-bound insolvency resolution process, processed through the **National Company Law Tribunal (NCLT)** for corporates.",
-            " <b>The Bad Bank Architecture (NARCL & IDRCL): </b> Formed to clean institutional balance sheets. The **National Asset Reconstruction Company Limited (NARCL)** acquires highly stressed legacy assets from commercial banks, while the **India Debt Resolution Company Limited (IDRCL)** handles the operational turnaround and final market offloading of those assets."
-          ]
-        },
-        {
-          "name": "Governance Reforms & Capital Standards",
-          "bullets": [
-            " <b>Basel III Accords: </b> Global regulatory standards implemented to fortify banking resilience against systemic shocks. Focuses on the <b>Capital Adequacy Ratio (CAR) </b>, forcing banks to maintain a minimum safety ratio of risk-weighted capital to total risk assets.",
-            " <b>Financial Services Institutions Bureau (FSIB): </b> Established by the Central Government to replace the old **Banks Board Bureau (BBB)**. Operating under an upgraded statutory mandate, the FSIB acts as the independent, centralized body responsible for recommending the appointment of <b>full-time directors and non-executive chairpersons </b> across public sector banks, state-owned insurance firms, and premier financial institutions."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Banking System in India, NPA Crisis & Financial Reforms",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Structure & Classification of the Banking Sector",
+        "subtopics": [
+          {
+            "name": "Scheduled Commercial Banks (SCBs) & D-SIBs",
+            "bullets": [
+              " <b>Scheduled Status: </b> Banks included in the <b>Second Schedule of the Reserve Bank of India Act, 1934 </b>. To qualify, a bank must satisfy the RBI that its affairs are not being conducted in a manner detrimental to the interests of its depositors.",
+              " <b>Domestic Systemically Important Banks (D-SIBs): </b> Banks designated by the RBI as <b>'Too Big to Fail' </b>. Due to their sheer size and deep cross-jurisdictional interconnectedness, their distress would cause systemic disruption. D-SIBs (historically including SBI, ICICI, and HDFC) are mandated to maintain <b>higher Common Equity Tier 1 (CET1) capital </b> requirements.",
+              " <b>Differentiated Banks vs Universal Banks: </b> Regulated niche entities like <b>Payments Banks</b> (can accept deposits up to ₹2 Lakhs but are <b>fundamentally barred from lending </b> or issuing credit cards) and <b>Small Finance Banks</b> (must direct <b>75% of their net credit to the Adjusted Priority Sector Lending </b> target, compared to 40% for standard commercial banks)."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: The Non-Performing Asset (NPA) Crisis",
+        "subtopics": [
+          {
+            "name": "NPA Asset Classification Timelines",
+            "bullets": [
+              " <b>The 90-Day Standard Trigger: </b> A loan or advance is officially classified as an NPA when the interest or installment of principal remains <b>overdue for a period of more than 90 days </b> in standard commercial lending.",
+              " <b>Agricultural Loan Exclusions: </b> A highly targeted UPSC trap area. For agricultural credit, a loan turns into an NPA if interest/principal remains overdue for <b>two crop seasons </b> in the case of short-duration crops, or for <b>one crop season </b> in the case of long-duration crops.",
+              " <b>The Three Degradation Tiers: </b> 1. <i>Sub-standard Assets:</i> Remaining an NPA for a period less than or equal to 12 months. 2. <i>Doubtful Assets:</i> Exceeding the initial 12-month sub-standard threshold. 3. <i>Loss Assets:</i> Identified by the bank or RBI auditors as completely uncollectible, where its value must be fully written off.",
+              " <b>Twin Balance Sheet Problem: </b> A major macroeconomic stress phenomenon where severe financial distress on the balance sheets of <b>corporate borrowers</b> (over-leveraged with bad debts) directly causes severe stress on the balance sheets of <b>public sector banks</b> (choked with non-performing loans), leading to a freezing of credit growth."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Financial Reforms & Resolution Frameworks",
+        "subtopics": [
+          {
+            "name": "Statutory & Institutional Cleanup Frameworks",
+            "bullets": [
+              " <b>SARFAESI Act, 2002: </b> Empowers banks and financial institutions to auction residential or commercial properties of defaults to recover loans <b>without any intervention from judicial courts </b>. However, it applies strictly to secured loans and cannot be invoked if the remaining principal debt falls below 20% of the original asset value.",
+              " <b>Insolvency and Bankruptcy Code (IBC), 2016: </b> A landmark statutory consolidation that shifted the legal framework from a 'debtor-in-possession' model to a <b>'creditor-in-control' model </b>. It mandates a time-bound insolvency resolution process, processed through the <b>National Company Law Tribunal (NCLT)</b> for corporates.",
+              " <b>The Bad Bank Architecture (NARCL & IDRCL): </b> Formed to clean institutional balance sheets. The <b>National Asset Reconstruction Company Limited (NARCL)</b> acquires highly stressed legacy assets from commercial banks, while the <b>India Debt Resolution Company Limited (IDRCL)</b> handles the operational turnaround and final market offloading of those assets."
+            ]
+          },
+          {
+            "name": "Governance Reforms & Capital Standards",
+            "bullets": [
+              " <b>Basel III Accords: </b> Global regulatory standards implemented to fortify banking resilience against systemic shocks. Focuses on the <b>Capital Adequacy Ratio (CAR) </b>, forcing banks to maintain a minimum safety ratio of risk-weighted capital to total risk assets.",
+              " <b>Financial Services Institutions Bureau (FSIB): </b> Established by the Central Government to replace the old <b>Banks Board Bureau (BBB)</b>. Operating under an upgraded statutory mandate, the FSIB acts as the independent, centralized body responsible for recommending the appointment of <b>full-time directors and non-executive chairpersons </b> across public sector banks, state-owned insurance firms, and premier financial institutions."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_5": {
-  "title": "Fiscal Policy, Union Budget Framework & Deficit Indicators",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Structure of the Union Budget",
-      "subtopics": [
-        {
-          "name": "Revenue Account vs Capital Account Matrix",
-          "bullets": [
-            " <b>Revenue Account Dynamics: </b> Handles short-term, operational flows that <b>do NOT alter the asset-liability status </b> of the government. Divided into **Revenue Receipts** (Tax revenues like GST, Income Tax, and Non-Tax revenues like RBI dividends, interest received, fees) and **Revenue Expenditure** (Day-to-day spending that creates no physical assets, such as subsidies, salaries, pensions, and <b>interest payments </b>).",
-            " <b>Capital Account Dynamics: </b> Handles long-term, structural transactions that <b>directly alter the asset or liability status </b> of the government. Divided into **Capital Receipts** (Debt-creating flows like market borrowings, or non-debt flows like disinvestment and recovery of loans) and **Capital Expenditure** (Spending that directly constructs physical assets or reduces liability, such as building highways, defense equipment, and <b>granting loans to states </b>)."
-          ]
-        },
-        {
-          "name": "High-Yield Expenditure Classifications",
-          "bullets": [
-            " <b>Interest Payments Burden: </b> Formally classified under Revenue Expenditure. It structurally constitutes the <b>single largest component </b> of the Union Government's total revenue expenditure, acting as a legacy drag on fiscal maneuvering space.",
-            " <b>Grants-in-Aid to States Trap: </b> A premier UPSC statement trap. Even if the Central Government gives grants to states explicitly for building capital assets (like schools or hospitals), these grants are written down as <b>Revenue Expenditure </b> in the Union Budget because they do not directly create an asset on the Union's own asset ledger."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: Macroeconomic Deficit Indicators & Calculations",
-      "subtopics": [
-        {
-          "name": "Deficit Formulas & Mathematical Identities",
-          "bullets": [
-            " <b>Fiscal Deficit (The Sovereign Borrowing Metric): </b> Measures the total gap between the government's total expenditure and its non-borrowed receipts. Calculated via the identity: <b>Fiscal Deficit = Total Expenditure - (Revenue Receipts + Non-Debt Capital Receipts like Disinvestment/Loan Recovery) </b>. It represents the exact quantum of total <b>market borrowing </b> the government must raise.",
-            " <b>Revenue Deficit: </b> Tracks structural mismatch in day-to-day governance. Formula: <b>Revenue Deficit = Revenue Expenditure - Revenue Receipts </b>. It indicates that the nation is borrowing money merely to fund consumption rather than asset creation.",
-            " <b>Effective Revenue Deficit (ERD): </b> Introduced into India's budget accounting to correct the asset-creation distortion of state grants. Formulaic metric: <b>Effective Revenue Deficit = Revenue Deficit - Grants-in-Aid given to States for Capital Asset Creation </b>.",
-            " <b>Primary Deficit (The Current Fiscal Health Indicator): </b> Isolates the government's present-year fiscal behavior from the burden of historical debts. Calculated via the formula: <b>Primary Deficit = Fiscal Deficit - Interest Payments </b>. A zero or negative primary deficit shows that current tax collections completely cover current expenses, and new borrowing is going entirely toward servicing old interest debts."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Fiscal Discipline & The FRBM Framework",
-      "subtopics": [
-        {
-          "name": "FRBM Act Architecture & Mandated Statements",
-          "bullets": [
-            " <b>Statutory Mandate: </b> The <b>Fiscal Responsibility and Budget Management (FRBM) Act, 2003 </b> was enacted to institutionalize financial discipline, reduce fiscal deficits, and eliminate revenue deficits over a rolling timeline.",
-            " <b>Mandated Budget Documents: </b> The Act strictly obligates the government to lay three diagnostic macroeconomic policy statements before Parliament alongside the budget: 1. <i>Macro-Economic Framework Statement</i>. 2. <i>Medium-Term Fiscal Policy Statement</i>. 3. <i>Fiscal Policy Strategy Statement</i>.",
-            " <b>Escape Clause Mechanisms: </b> Following amendments based on the **N.K. Singh Committee** recommendations, the government can trigger an <b>Escape Clause </b> to breach the fiscal deficit target by a maximum of <b>0.5 percentage points </b> in a year, restricted strictly to exceptional triggers: national security, acts of war, severe agricultural collapse, or structural economic overhauls with clear revenue drops."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Fiscal Policy, Union Budget Framework & Deficit Indicators",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Structure of the Union Budget",
+        "subtopics": [
+          {
+            "name": "Revenue Account vs Capital Account Matrix",
+            "bullets": [
+              " <b>Revenue Account Dynamics: </b> Handles short-term, operational flows that <b>do NOT alter the asset-liability status </b> of the government. Divided into <b>Revenue Receipts</b> (Tax revenues like GST, Income Tax, and Non-Tax revenues like RBI dividends, interest received, fees) and <b>Revenue Expenditure</b> (Day-to-day spending that creates no physical assets, such as subsidies, salaries, pensions, and <b>interest payments </b>).",
+              " <b>Capital Account Dynamics: </b> Handles long-term, structural transactions that <b>directly alter the asset or liability status </b> of the government. Divided into <b>Capital Receipts</b> (Debt-creating flows like market borrowings, or non-debt flows like disinvestment and recovery of loans) and <b>Capital Expenditure</b> (Spending that directly constructs physical assets or reduces liability, such as building highways, defense equipment, and <b>granting loans to states </b>)."
+            ]
+          },
+          {
+            "name": "High-Yield Expenditure Classifications",
+            "bullets": [
+              " <b>Interest Payments Burden: </b> Formally classified under Revenue Expenditure. It structurally constitutes the <b>single largest component </b> of the Union Government's total revenue expenditure, acting as a legacy drag on fiscal maneuvering space.",
+              " <b>Grants-in-Aid to States Trap: </b> A premier UPSC statement trap. Even if the Central Government gives grants to states explicitly for building capital assets (like schools or hospitals), these grants are written down as <b>Revenue Expenditure </b> in the Union Budget because they do not directly create an asset on the Union's own asset ledger."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Macroeconomic Deficit Indicators & Calculations",
+        "subtopics": [
+          {
+            "name": "Deficit Formulas & Mathematical Identities",
+            "bullets": [
+              " <b>Fiscal Deficit (The Sovereign Borrowing Metric): </b> Measures the total gap between the government's total expenditure and its non-borrowed receipts. Calculated via the identity: <b>Fiscal Deficit = Total Expenditure - (Revenue Receipts + Non-Debt Capital Receipts like Disinvestment/Loan Recovery) </b>. It represents the exact quantum of total <b>market borrowing </b> the government must raise.",
+              " <b>Revenue Deficit: </b> Tracks structural mismatch in day-to-day governance. Formula: <b>Revenue Deficit = Revenue Expenditure - Revenue Receipts </b>. It indicates that the nation is borrowing money merely to fund consumption rather than asset creation.",
+              " <b>Effective Revenue Deficit (ERD): </b> Introduced into India's budget accounting to correct the asset-creation distortion of state grants. Formulaic metric: <b>Effective Revenue Deficit = Revenue Deficit - Grants-in-Aid given to States for Capital Asset Creation </b>.",
+              " <b>Primary Deficit (The Current Fiscal Health Indicator): </b> Isolates the government's present-year fiscal behavior from the burden of historical debts. Calculated via the formula: <b>Primary Deficit = Fiscal Deficit - Interest Payments </b>. A zero or negative primary deficit shows that current tax collections completely cover current expenses, and new borrowing is going entirely toward servicing old interest debts."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Fiscal Discipline & The FRBM Framework",
+        "subtopics": [
+          {
+            "name": "FRBM Act Architecture & Mandated Statements",
+            "bullets": [
+              " <b>Statutory Mandate: </b> The <b>Fiscal Responsibility and Budget Management (FRBM) Act, 2003 </b> was enacted to institutionalize financial discipline, reduce fiscal deficits, and eliminate revenue deficits over a rolling timeline.",
+              " <b>Mandated Budget Documents: </b> The Act strictly obligates the government to lay three diagnostic macroeconomic policy statements before Parliament alongside the budget: 1. <i>Macro-Economic Framework Statement</i>. 2. <i>Medium-Term Fiscal Policy Statement</i>. 3. <i>Fiscal Policy Strategy Statement</i>.",
+              " <b>Escape Clause Mechanisms: </b> Following amendments based on the <b>N.K. Singh Committee</b> recommendations, the government can trigger an <b>Escape Clause </b> to breach the fiscal deficit target by a maximum of <b>0.5 percentage points </b> in a year, restricted strictly to exceptional triggers: national security, acts of war, severe agricultural collapse, or structural economic overhauls with clear revenue drops."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_6": {
-  "title": "Taxation Structure in India (Direct vs Indirect Taxes, GST Council)",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Direct Taxes & Substantive Legal Overhauls",
-      "subtopics": [
-        {
-          "name": "The Income Tax Act, 2025 Paradigm",
-          "bullets": [
-            " <b>The Legislative Reset: </b> Completely repeals and replaces the six-decade-old <i>Income Tax Act, 1961</i>. It strips out redundant provisos, reducing total sections from 819 down to 536 to significantly lower compliance friction and minimize interpretational legal disputes.",
-            " <b>Introduction of 'Tax Year': </b> Eliminates the historically confusing, dual administrative concepts of **'Previous Year'** and **'Assessment Year'**, merging them permanently into a single, uniform term: <b>The Tax Year </b>.",
-            " <b>Progressive Direct Tax Slabs: </b> The simplified default New Tax Regime structures progressive tax rates from 0% (up to ₹4 Lakhs), scaling up to a 30% ceiling for incomes above ₹24 Lakhs. Under Section 87A rebates, active taxable income up to <b>₹12 Lakhs remains effectively tax-free </b>."
-          ]
-        },
-        {
-          "name": "Direct Tax Concepts & Principles",
-          "bullets": [
-            " <b>Progressive vs Regressive Profiles: </b> Direct taxes are strictly <b>progressive </b> (the tax rate escalates as the taxpayer's income increases, matching equity principles). Conversely, indirect taxes are structurally <b>regressive </b>, as a billionaire and a daily wage worker pay the exact same tax quantum on a loaf of bread or a bar of soap.",
-            " <b>Tax Buoyancy: </b> An essential diagnostic macroeconomic indicator that measures the responsiveness of tax revenue growth relative to changes in the country's Gross Domestic Product (GDP). If tax revenue expands faster than GDP growth, the tax buoyancy ratio is <b>greater than 1 </b>, signaling efficient tax administration and an expanding tax base."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: Indirect Taxes & The Next-Gen GST 2.0 Architecture",
-      "subtopics": [
-        {
-          "name": "The Two-Slab Structural Simplification",
-          "bullets": [
-            " <b>The Rate Rationalization: </b> The landmark **Next-Gen GST 2.0** reforms permanently collapsed the old, fragmented multi-slab structure (5%, 12%, 18%, 28%) into a clean, highly simplified <b>two-primary-slab system of 5% and 18% </b> to reduce litigation and clear up classification deadlocks.",
-            " <b>Slab Re-alignments: </b> Core daily essentials, agricultural machinery, and universal healthcare equipment sit at the concessional 5% tier (with life-saving medicines and unprocessed grains completely exempted at 0%). Electronics, commercial vehicles, and standard appliances are standardized at the 18% tier.",
-            " <b>The Flat 40% Sin Tax: </b> The old, complex layer of 28% GST + variable Compensation Cess was completely dismantled for luxury and sin items (such as SUVs, high-end motorbikes, tobacco, casinos, and online gaming), replaced entirely by a uniform, flat <b>40% GST rate </b>."
-          ]
-        },
-        {
-          "name": "Tax Cascading & Subsumption Rules",
-          "bullets": [
-            " <b>Eliminating the Cascading Effect: </b> GST operates strictly as a destination-based, consumption tax collected at the final point of sale. By utilizing the <b>Input Tax Credit (ITC) </b> mechanism, it allows businesses to offset taxes paid on inputs against their final output tax liabilities, permanently ending the distortionary 'tax-on-tax' cascading trap.",
-            " <b>The Excluded Items Wall: </b> A premier UPSC Prelims target area. Major revenue sectors remain completely outside the constitutional net of GST, meaning <b>Crude Oil, Petrol, Diesel, Aviation Turbine Fuel, Natural Gas, and Alcohol for human consumption </b> continue to be taxed under legacy State VAT and Central Excise grids."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: The Constitutional Voting Machine (Article 279A)",
-      "subtopics": [
-        {
-          "name": "The GST Council Composition & Voting Weightages",
-          "bullets": [
-            " <b>Constitutional Identity: </b> Enacted under <b>Article 279A </b> by the 101st Amendment Act. It functions as a powerful joint federal forum chaired exclusively by the <b>Union Finance Minister </b>, with the Union Minister of State for Finance and the Finance/Taxation Ministers of all individual States acting as members.",
-            " <b>Asymmetric Voting Mathematics: </b> Decisions within the Council must be carried by a strict <b>three-fourths (75%) majority </b> of the weighted votes cast during the forum. The Constitution distributes this voting power with an explicit federal split: 1. The Central Government holds exactly a <b>one-third (33.33%) weightage </b> of total votes cast. 2. All State Governments taken together command a <b>two-thirds (66.66%) weightage </b>.",
-            " <b>The Double Veto Dynamic: </b> This structural mathematics creates an absolute mutual check: the Center requires the backing of at least a significant chunk of states to pass a resolution, while the States taken together can never pass an item if the Central Government exercises a unilateral block."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Taxation Structure in India (Direct vs Indirect Taxes, GST Council)",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Direct Taxes & Substantive Legal Overhauls",
+        "subtopics": [
+          {
+            "name": "The Income Tax Act, 2025 Paradigm",
+            "bullets": [
+              " <b>The Legislative Reset: </b> Completely repeals and replaces the six-decade-old <i>Income Tax Act, 1961</i>. It strips out redundant provisos, reducing total sections from 819 down to 536 to significantly lower compliance friction and minimize interpretational legal disputes.",
+              " <b>Introduction of 'Tax Year': </b> Eliminates the historically confusing, dual administrative concepts of <b>'Previous Year'</b> and <b>'Assessment Year'</b>, merging them permanently into a single, uniform term: <b>The Tax Year </b>.",
+              " <b>Progressive Direct Tax Slabs: </b> The simplified default New Tax Regime structures progressive tax rates from 0% (up to ₹4 Lakhs), scaling up to a 30% ceiling for incomes above ₹24 Lakhs. Under Section 87A rebates, active taxable income up to <b>₹12 Lakhs remains effectively tax-free </b>."
+            ]
+          },
+          {
+            "name": "Direct Tax Concepts & Principles",
+            "bullets": [
+              " <b>Progressive vs Regressive Profiles: </b> Direct taxes are strictly <b>progressive </b> (the tax rate escalates as the taxpayer's income increases, matching equity principles). Conversely, indirect taxes are structurally <b>regressive </b>, as a billionaire and a daily wage worker pay the exact same tax quantum on a loaf of bread or a bar of soap.",
+              " <b>Tax Buoyancy: </b> An essential diagnostic macroeconomic indicator that measures the responsiveness of tax revenue growth relative to changes in the country's Gross Domestic Product (GDP). If tax revenue expands faster than GDP growth, the tax buoyancy ratio is <b>greater than 1 </b>, signaling efficient tax administration and an expanding tax base."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Indirect Taxes & The Next-Gen GST 2.0 Architecture",
+        "subtopics": [
+          {
+            "name": "The Two-Slab Structural Simplification",
+            "bullets": [
+              " <b>The Rate Rationalization: </b> The landmark <b>Next-Gen GST 2.0</b> reforms permanently collapsed the old, fragmented multi-slab structure (5%, 12%, 18%, 28%) into a clean, highly simplified <b>two-primary-slab system of 5% and 18% </b> to reduce litigation and clear up classification deadlocks.",
+              " <b>Slab Re-alignments: </b> Core daily essentials, agricultural machinery, and universal healthcare equipment sit at the concessional 5% tier (with life-saving medicines and unprocessed grains completely exempted at 0%). Electronics, commercial vehicles, and standard appliances are standardized at the 18% tier.",
+              " <b>The Flat 40% Sin Tax: </b> The old, complex layer of 28% GST + variable Compensation Cess was completely dismantled for luxury and sin items (such as SUVs, high-end motorbikes, tobacco, casinos, and online gaming), replaced entirely by a uniform, flat <b>40% GST rate </b>."
+            ]
+          },
+          {
+            "name": "Tax Cascading & Subsumption Rules",
+            "bullets": [
+              " <b>Eliminating the Cascading Effect: </b> GST operates strictly as a destination-based, consumption tax collected at the final point of sale. By utilizing the <b>Input Tax Credit (ITC) </b> mechanism, it allows businesses to offset taxes paid on inputs against their final output tax liabilities, permanently ending the distortionary 'tax-on-tax' cascading trap.",
+              " <b>The Excluded Items Wall: </b> A premier UPSC Prelims target area. Major revenue sectors remain completely outside the constitutional net of GST, meaning <b>Crude Oil, Petrol, Diesel, Aviation Turbine Fuel, Natural Gas, and Alcohol for human consumption </b> continue to be taxed under legacy State VAT and Central Excise grids."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: The Constitutional Voting Machine (Article 279A)",
+        "subtopics": [
+          {
+            "name": "The GST Council Composition & Voting Weightages",
+            "bullets": [
+              " <b>Constitutional Identity: </b> Enacted under <b>Article 279A </b> by the 101st Amendment Act. It functions as a powerful joint federal forum chaired exclusively by the <b>Union Finance Minister </b>, with the Union Minister of State for Finance and the Finance/Taxation Ministers of all individual States acting as members.",
+              " <b>Asymmetric Voting Mathematics: </b> Decisions within the Council must be carried by a strict <b>three-fourths (75%) majority </b> of the weighted votes cast during the forum. The Constitution distributes this voting power with an explicit federal split: 1. The Central Government holds exactly a <b>one-third (33.33%) weightage </b> of total votes cast. 2. All State Governments taken together command a <b>two-thirds (66.66%) weightage </b>.",
+              " <b>The Double Veto Dynamic: </b> This structural mathematics creates an absolute mutual check: the Center requires the backing of at least a significant chunk of states to pass a resolution, while the States taken together can never pass an item if the Central Government exercises a unilateral block."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_7": {
-  "title": "Inflation - Types, Measuring Indices (WPI, CPI) & Control Mechanisms",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Conceptual Classifications & Inflation Types",
-      "subtopics": [
-        {
-          "name": "Demand-Pull vs Cost-Push Mechanics",
-          "bullets": [
-            " <b>Demand-Pull Inflation: </b> Occurs when the aggregate demand for goods and services outpaces corporate aggregate supply capability (<i>'too much money chasing too few goods'</i>). Driven by expansionary fiscal spending, RBI interest rate cuts, rapid population expansion, or rising black money flows.",
-            " <b>Cost-Push Inflation: </b> Triggered by a sharp escalation in the cost of inputs and production factors. Driven by rising global crude oil costs, currency depreciation pushing up import expenses, sudden crop failures, or high indirect product tax additions."
-          ]
-        },
-        {
-          "name": "Structural Speed Triggers & Core Concepts",
-          "bullets": [
-            " <b>The Velocity Slabs: </b> Inflation speeds are structurally classified into four tiers: 1. <i>Creeping Inflation</i> (slow, manageable single-digit rises up to 3% annually). 2. <i>Walking Inflation</i> (moderate warnings between 3% to 10%). 3. <i>Running Inflation</i> (rapid drops in purchasing power above 10%). 4. <i>Hyperinflation</i> (catastrophic monetary collapse where prices double inside days).",
-            " <b>Headline vs Core Inflation: </b> Headline inflation represents the total raw inflation figure across the entire economic index basket. <b>Core Inflation </b> isolates structural trends by completely subtracting the highly volatile <b>Food and Fuel sectors </b> from the headline index calculation.",
-            " <b>Stagflation: </b> A highly destructive macroeconomic paradox characterized by the simultaneous convergence of three severe stress markers: stagnant or <b>low economic growth </b>, stubbornly <b>high inflation rates </b>, and expanding national <b>unemployment levels </b>."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: India's Measuring Indices & Next-Gen Overhauls",
-      "subtopics": [
-        {
-          "name": "Consumer Price Index (CPI) — Retail Framework",
-          "bullets": [
-            " <b>The MoSPI 2024 Base Series: </b> Officially compiled on the updated <b>Base Year of 2024 </b> by the National Statistical Office (NSO). It tracks prices at the final retail consumer level, capturing the real-world cost of living.",
-            " <b>Composition Weights: </b> The CPI basket contains both goods and services. Crucially, the **Food and Beverages** division commands the absolute largest structural weightage (nearly <b>45% of the combined index </b>), making India's retail inflation indicator highly sensitive to monsoon and agricultural disruptions.",
-            " <b>The Sector Splits: </b> NSO publishes separate monthly indices for CPI-Rural, CPI-Urban, and CPI-Combined. Specialized labor indices like CPI-Industrial Workers (IW) and CPI-Agricultural Labourers (AL) continue to be published separately by the **Labour Bureau** to peg dearness allowances."
-          ]
-        },
-        {
-          "name": "Wholesale Price Index (WPI) — Factory Gate Framework",
-          "bullets": [
-            " <b>The DPIIT 2022-23 Series: </b> Formally released by the Office of Economic Adviser (Ministry of Commerce & Industry) based on the updated <b>Base Year of 2022-23 </b>. It tracks price movements strictly at the wholesale bulk transaction stage.",
-            " <b>Basket Characteristics: </b> The WPI basket is divided into three major blocks: **Manufactured Products** (holding the largest structural weight at roughly 63%), **Primary Articles** (including food articles, weighing around 23%), and **Fuel & Power** (weighing around 14%). Crucially, WPI tracks <b>goods only </b> and completely excludes the services sector."
-          ]
-        },
-        {
-          "name": "The Producer Price Index (PPI) Transition",
-          "bullets": [
-            " <b>The Modern PPI Alignment: </b> Launched to systematically transition the country away from legacy WPI metrics over a rolling multi-year timeline to adopt standard UN/IMF guidelines.",
-            " <b>The Definitive Structural Shift: </b> Unlike WPI, which captures bulk market prices, the Producer Price Index measures the average change in commodity prices received by domestic producers at the basic factory gate. Crucially, PPI **excludes trade margins, transport markups, and net indirect product taxes (like GST)**, providing an unadulterated view of supply-side input price pressures."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Impact Profiles & Control Mechanisms",
-      "subtopics": [
-        {
-          "name": "Asymmetric Wealth Redistribution Effects",
-          "bullets": [
-            " <b>Debtors vs Creditors Trap: </b> Inflation systematically **benefits debtors (borrowers)** and **hurts creditors (lenders)**. This occurs because the real value of the currency drops; the borrower pays back their loan using money that holds significantly less purchasing power than the capital they originally received.",
-            " <b>Bond Yield Inversions: </b> Rising inflation expectations erode the fixed real return profiles of long-term financial assets, causing immediate sell-offs in debt markets that drive **bond yields upward**."
-          ]
-        },
-        {
-          "name": "The Policy Control Machinery",
-          "bullets": [
-            " <b>Monetary Contractions: </b> Executed by the RBI's Monetary Policy Committee via hawkish maneuvers: raising the benchmark **Repo Rate** or tightening reserve parameters like the **Cash Reserve Ratio (CRR)** to mop up liquidity and cool aggregate demand.",
-            " <b>Fiscal and Administrative Measures: </b> Executed by the Central Government via supply-side interventions: cutting customs duties on essential imports (like edible oils), imposing export bans/quotas on domestic staples (like non-basmati rice) to secure local supply, and releasing buffer stocks into wholesale open markets via targeted channels."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Inflation - Types, Measuring Indices (WPI, CPI) & Control Mechanisms",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Conceptual Classifications & Inflation Types",
+        "subtopics": [
+          {
+            "name": "Demand-Pull vs Cost-Push Mechanics",
+            "bullets": [
+              " <b>Demand-Pull Inflation: </b> Occurs when the aggregate demand for goods and services outpaces corporate aggregate supply capability (<i>'too much money chasing too few goods'</i>). Driven by expansionary fiscal spending, RBI interest rate cuts, rapid population expansion, or rising black money flows.",
+              " <b>Cost-Push Inflation: </b> Triggered by a sharp escalation in the cost of inputs and production factors. Driven by rising global crude oil costs, currency depreciation pushing up import expenses, sudden crop failures, or high indirect product tax additions."
+            ]
+          },
+          {
+            "name": "Structural Speed Triggers & Core Concepts",
+            "bullets": [
+              " <b>The Velocity Slabs: </b> Inflation speeds are structurally classified into four tiers: 1. <i>Creeping Inflation</i> (slow, manageable single-digit rises up to 3% annually). 2. <i>Walking Inflation</i> (moderate warnings between 3% to 10%). 3. <i>Running Inflation</i> (rapid drops in purchasing power above 10%). 4. <i>Hyperinflation</i> (catastrophic monetary collapse where prices double inside days).",
+              " <b>Headline vs Core Inflation: </b> Headline inflation represents the total raw inflation figure across the entire economic index basket. <b>Core Inflation </b> isolates structural trends by completely subtracting the highly volatile <b>Food and Fuel sectors </b> from the headline index calculation.",
+              " <b>Stagflation: </b> A highly destructive macroeconomic paradox characterized by the simultaneous convergence of three severe stress markers: stagnant or <b>low economic growth </b>, stubbornly <b>high inflation rates </b>, and expanding national <b>unemployment levels </b>."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: India's Measuring Indices & Next-Gen Overhauls",
+        "subtopics": [
+          {
+            "name": "Consumer Price Index (CPI) — Retail Framework",
+            "bullets": [
+              " <b>The MoSPI 2024 Base Series: </b> Officially compiled on the updated <b>Base Year of 2024 </b> by the National Statistical Office (NSO). It tracks prices at the final retail consumer level, capturing the real-world cost of living.",
+              " <b>Composition Weights: </b> The CPI basket contains both goods and services. Crucially, the <b>Food and Beverages</b> division commands the absolute largest structural weightage (nearly <b>45% of the combined index </b>), making India's retail inflation indicator highly sensitive to monsoon and agricultural disruptions.",
+              " <b>The Sector Splits: </b> NSO publishes separate monthly indices for CPI-Rural, CPI-Urban, and CPI-Combined. Specialized labor indices like CPI-Industrial Workers (IW) and CPI-Agricultural Labourers (AL) continue to be published separately by the <b>Labour Bureau</b> to peg dearness allowances."
+            ]
+          },
+          {
+            "name": "Wholesale Price Index (WPI) — Factory Gate Framework",
+            "bullets": [
+              " <b>The DPIIT 2022-23 Series: </b> Formally released by the Office of Economic Adviser (Ministry of Commerce & Industry) based on the updated <b>Base Year of 2022-23 </b>. It tracks price movements strictly at the wholesale bulk transaction stage.",
+              " <b>Basket Characteristics: </b> The WPI basket is divided into three major blocks: <b>Manufactured Products</b> (holding the largest structural weight at roughly 63%), <b>Primary Articles</b> (including food articles, weighing around 23%), and <b>Fuel & Power</b> (weighing around 14%). Crucially, WPI tracks <b>goods only </b> and completely excludes the services sector."
+            ]
+          },
+          {
+            "name": "The Producer Price Index (PPI) Transition",
+            "bullets": [
+              " <b>The Modern PPI Alignment: </b> Launched to systematically transition the country away from legacy WPI metrics over a rolling multi-year timeline to adopt standard UN/IMF guidelines.",
+              " <b>The Definitive Structural Shift: </b> Unlike WPI, which captures bulk market prices, the Producer Price Index measures the average change in commodity prices received by domestic producers at the basic factory gate. Crucially, PPI <b>excludes trade margins, transport markups, and net indirect product taxes (like GST)</b>, providing an unadulterated view of supply-side input price pressures."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Impact Profiles & Control Mechanisms",
+        "subtopics": [
+          {
+            "name": "Asymmetric Wealth Redistribution Effects",
+            "bullets": [
+              " <b>Debtors vs Creditors Trap: </b> Inflation systematically <b>benefits debtors (borrowers)</b> and <b>hurts creditors (lenders)</b>. This occurs because the real value of the currency drops; the borrower pays back their loan using money that holds significantly less purchasing power than the capital they originally received.",
+              " <b>Bond Yield Inversions: </b> Rising inflation expectations erode the fixed real return profiles of long-term financial assets, causing immediate sell-offs in debt markets that drive <b>bond yields upward</b>."
+            ]
+          },
+          {
+            "name": "The Policy Control Machinery",
+            "bullets": [
+              " <b>Monetary Contractions: </b> Executed by the RBI's Monetary Policy Committee via hawkish maneuvers: raising the benchmark <b>Repo Rate</b> or tightening reserve parameters like the <b>Cash Reserve Ratio (CRR)</b> to mop up liquidity and cool aggregate demand.",
+              " <b>Fiscal and Administrative Measures: </b> Executed by the Central Government via supply-side interventions: cutting customs duties on essential imports (like edible oils), imposing export bans/quotas on domestic staples (like non-basmati rice) to secure local supply, and releasing buffer stocks into wholesale open markets via targeted channels."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_8": {
-  "title": "Capital Markets & Money Markets (SEBI, Stocks, Bonds, T-Bills)",
-  "phases": [
-    {
-      "phaseName": "Phase 1: The Money Market (Short-Term Debt Framework)",
-      "subtopics": [
-        {
-          "name": "Regulatory Domain & Treasury Bills (T-Bills)",
-          "bullets": [
-            " <b>The Central Bank Umbrella: </b> The Money Market handles highly liquid, short-term financial instruments with a maturity horizon of <b>up to 1 year </b>. This ecosystem is regulated exclusively by the <b>Reserve Bank of India (RBI) </b>.",
-            " <b>Treasury Bills (T-Bills) Mechanics: </b> Issued solely by the Central Government (State Governments <b>cannot issue T-Bills </b>) to manage short-term cash mismatches. They are issued in three standard maturities: <b>91 days, 182 days, and 364 days </b>.",
-            " <b>Zero-Coupon Architecture: </b> T-Bills pay <b>zero interest </b>. Instead, they are issued at a deep discount relative to their nominal face value and are later redeemed at full face value upon maturity (e.g., issued at ₹96 and redeemed at ₹100, where the ₹4 gap represents the investor's yield)."
-          ]
-        },
-        {
-          "name": "Commercial & Inter-Bank Instruments",
-          "bullets": [
-            " <b>Cash Management Bills (CMBs): </b> Highly flexible, short-term non-standard notes issued by the Central Government to meet temporary cash mismatches. They behave exactly like T-Bills but possess a maturity horizon of <b>less than 91 days </b>.",
-            " <b>Commercial Paper (CP) vs Certificate of Deposit (CD): </b> Commercial Paper is an unsecured short-term debt instrument issued strictly by <b>highly rated corporate entities </b> to raise working capital directly from the market. A Certificate of Deposit is a negotiable, short-term money market instrument issued strictly by <b>commercial banks and financial institutions </b> against deposited funds.",
-            " <b>Call Money vs Notice Money: </b> Short-term inter-bank borrowing networks. <i>Call Money</i> relates to overnight loan arrangements (matures in 1 day), whereas <i>Notice Money</i> covers inter-bank loan structures spanning from <b>2 days up to 14 days </b>."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: The Capital Market (Long-Term Capital & Equity Systems)",
-      "subtopics": [
-        {
-          "name": "Regulatory Umbrella & Equity Structures",
-          "bullets": [
-            " <b>The SEBI Command: </b> The Capital Market handles long-term debt and equity instruments with maturities exceeding 1 year. This entire domain is regulated by the <b>Securities and Exchange Board of India (SEBI) </b>, a statutory watchdog formalized via the SEBI Act of 1992.",
-            " <b>Primary vs Secondary Markets: </b> The Primary Market deals with the initial creation and issuance of new securities via <b>Initial Public Offerings (IPOs) </b>, where corporates raise capital directly from investors. The Secondary Market is the stock exchange platform (like BSE and NSE) where previously issued securities are traded among investors, with zero capital flowing to the issuing corporate."
-          ]
-        },
-        {
-          "name": "Sovereign and Specialized Debt Instruments",
-          "bullets": [
-            " <b>Dated Government Securities (G-Secs): </b> Long-term sovereign debt bonds issued by both the Central Government and State Governments, with maturities ranging from 5 years up to 40 years. They carry fixed or floating interest payments (coupons) paid half-yearly. State-issued long-term G-Secs are formally designated as <b>State Development Loans (SDLs) </b>.",
-            " <b>Sovereign Green Bonds (SGrBs): </b> Specialized long-term G-Secs issued by the government where the financial proceeds are strictly ring-fenced and diverted to fund public-sector green infrastructure projects (such as solar plants, clean mass transit, and wind installations) to reduce the carbon intensity of the economy.",
-            " <b>Municipal Bonds (Muni Bonds): </b> Debt instruments issued directly by urban local bodies (Municipal Corporations) to fund specific local infrastructure projects like water supply networks and urban flyovers. They require a mandatory credit rating and offer an important alternative funding pathway that bypasses state budget dependence."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Market Metrics & Investment Intermediaries",
-      "subtopics": [
-        {
-          "name": "Indices & Market Indicators",
-          "bullets": [
-            " <b>SENSEX and NIFTY: </b> SENSEX is the benchmark stock index of the Bombay Stock Exchange (BSE), tracking the market performance of <b>30 financially sound, large-cap companies </b>. NIFTY is the benchmark index of the National Stock Exchange (NSE), tracking <b>50 premier corporate stocks </b> across multiple industrial sectors.",
-            " <b>Participatory Notes (P-Notes): </b> Specialized derivative financial instruments issued by registered Foreign Portfolio Investors (FPIs) to overseas investors who wish to invest in Indian stock markets **without registering themselves** directly with SEBI. Due to tracking and money-laundering risks, SEBI subjects P-Notes to strict KYC compliance norms."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Capital Markets & Money Markets (SEBI, Stocks, Bonds, T-Bills)",
+    "phases": [
+      {
+        "phaseName": "Phase 1: The Money Market (Short-Term Debt Framework)",
+        "subtopics": [
+          {
+            "name": "Regulatory Domain & Treasury Bills (T-Bills)",
+            "bullets": [
+              " <b>The Central Bank Umbrella: </b> The Money Market handles highly liquid, short-term financial instruments with a maturity horizon of <b>up to 1 year </b>. This ecosystem is regulated exclusively by the <b>Reserve Bank of India (RBI) </b>.",
+              " <b>Treasury Bills (T-Bills) Mechanics: </b> Issued solely by the Central Government (State Governments <b>cannot issue T-Bills </b>) to manage short-term cash mismatches. They are issued in three standard maturities: <b>91 days, 182 days, and 364 days </b>.",
+              " <b>Zero-Coupon Architecture: </b> T-Bills pay <b>zero interest </b>. Instead, they are issued at a deep discount relative to their nominal face value and are later redeemed at full face value upon maturity (e.g., issued at ₹96 and redeemed at ₹100, where the ₹4 gap represents the investor's yield)."
+            ]
+          },
+          {
+            "name": "Commercial & Inter-Bank Instruments",
+            "bullets": [
+              " <b>Cash Management Bills (CMBs): </b> Highly flexible, short-term non-standard notes issued by the Central Government to meet temporary cash mismatches. They behave exactly like T-Bills but possess a maturity horizon of <b>less than 91 days </b>.",
+              " <b>Commercial Paper (CP) vs Certificate of Deposit (CD): </b> Commercial Paper is an unsecured short-term debt instrument issued strictly by <b>highly rated corporate entities </b> to raise working capital directly from the market. A Certificate of Deposit is a negotiable, short-term money market instrument issued strictly by <b>commercial banks and financial institutions </b> against deposited funds.",
+              " <b>Call Money vs Notice Money: </b> Short-term inter-bank borrowing networks. <i>Call Money</i> relates to overnight loan arrangements (matures in 1 day), whereas <i>Notice Money</i> covers inter-bank loan structures spanning from <b>2 days up to 14 days </b>."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: The Capital Market (Long-Term Capital & Equity Systems)",
+        "subtopics": [
+          {
+            "name": "Regulatory Umbrella & Equity Structures",
+            "bullets": [
+              " <b>The SEBI Command: </b> The Capital Market handles long-term debt and equity instruments with maturities exceeding 1 year. This entire domain is regulated by the <b>Securities and Exchange Board of India (SEBI) </b>, a statutory watchdog formalized via the SEBI Act of 1992.",
+              " <b>Primary vs Secondary Markets: </b> The Primary Market deals with the initial creation and issuance of new securities via <b>Initial Public Offerings (IPOs) </b>, where corporates raise capital directly from investors. The Secondary Market is the stock exchange platform (like BSE and NSE) where previously issued securities are traded among investors, with zero capital flowing to the issuing corporate."
+            ]
+          },
+          {
+            "name": "Sovereign and Specialized Debt Instruments",
+            "bullets": [
+              " <b>Dated Government Securities (G-Secs): </b> Long-term sovereign debt bonds issued by both the Central Government and State Governments, with maturities ranging from 5 years up to 40 years. They carry fixed or floating interest payments (coupons) paid half-yearly. State-issued long-term G-Secs are formally designated as <b>State Development Loans (SDLs) </b>.",
+              " <b>Sovereign Green Bonds (SGrBs): </b> Specialized long-term G-Secs issued by the government where the financial proceeds are strictly ring-fenced and diverted to fund public-sector green infrastructure projects (such as solar plants, clean mass transit, and wind installations) to reduce the carbon intensity of the economy.",
+              " <b>Municipal Bonds (Muni Bonds): </b> Debt instruments issued directly by urban local bodies (Municipal Corporations) to fund specific local infrastructure projects like water supply networks and urban flyovers. They require a mandatory credit rating and offer an important alternative funding pathway that bypasses state budget dependence."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Market Metrics & Investment Intermediaries",
+        "subtopics": [
+          {
+            "name": "Indices & Market Indicators",
+            "bullets": [
+              " <b>SENSEX and NIFTY: </b> SENSEX is the benchmark stock index of the Bombay Stock Exchange (BSE), tracking the market performance of <b>30 financially sound, large-cap companies </b>. NIFTY is the benchmark index of the National Stock Exchange (NSE), tracking <b>50 premier corporate stocks </b> across multiple industrial sectors.",
+              " <b>Participatory Notes (P-Notes): </b> Specialized derivative financial instruments issued by registered Foreign Portfolio Investors (FPIs) to overseas investors who wish to invest in Indian stock markets <b>without registering themselves</b> directly with SEBI. Due to tracking and money-laundering risks, SEBI subjects P-Notes to strict KYC compliance norms."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_9": {
-  "title": "External Sector - Balance of Payments (BOP), Current & Capital Account",
-  "phases": [
-    {
-      "phaseName": "Phase 1: The Balance of Payments (BoP) Accounting Framework",
-      "subtopics": [
-        {
-          "name": "The Double-Entry Accounting Philosophy",
-          "bullets": [
-            " <b>BoP Definition: </b> A comprehensive, systematic statistical record of all economic transactions conducted between the residents of a country and the rest of the world during a specific financial year. It operates on a strict <b>double-entry bookkeeping system </b>.",
-            " <b>Credit vs Debit Conventions: </b> Any transaction that results in an inflow of foreign exchange into the country is recorded as a **Credit (+)** item (e.g., exports, receiving foreign aid). Conversely, any transaction that causes an outbound flight or outflow of foreign exchange is recorded as a **Debit (-)** item (e.g., imports, overseas investments by Indians).",
-            " <b>The Accounting Balance: </b> From an accounting standpoint, the overall Balance of Payments **must always balance** (sum to zero). Any structural deficit or surplus across the autonomous current and capital accounts is reconciled through adjustments in the country's official **Foreign Exchange Reserves** ledger handled by the RBI."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: The Current Account (Operational Trade Flows)",
-      "subtopics": [
-        {
-          "name": "Visible vs Invisible Trade Splits",
-          "bullets": [
-            " <b>The Visible Trade Balance: </b> Tracks the export and import of tangible physical goods (merchandise). For India, the visible trade balance is perennially and heavily <b>negative </b>, representing a structural trade deficit driven by our deep reliance on inbound shipments of crude oil, gold, electronic components, and coal.",
-            " <b>The Invisible Trade Balance: </b> Comprises three distinct components: 1. <i>Services</i> (Software exports, travel, tourism). 2. <i>Income</i> (Profit, interest, and dividends flowing into or out of the country). 3. <i>Transfers</i> (Unilateral flows requiring no economic return, such as gifts, grants, and <b>foreign remittances </b>).",
-            " <b>India's Remittance Dominance: </b> India ranks as the <b>world's largest recipient of foreign remittances </b>. This massive, continuous inflow under private transfers, alongside our strong software service export earnings, creates a massive surplus in Invisibles that partially cushions our steep merchandise trade deficit."
-          ]
-        },
-        {
-          "name": "Current Account Deficit (CAD) Dynamics",
-          "bullets": [
-            " <b>CAD Formula: </b> Occurs when total debit items in the current account exceed total credit items. Identity: <b>CAD = Trade Deficit + Net Invisibles Balance </b>. Expressed as a percentage of GDP to gauge external vulnerability.",
-            " <b>Macroeconomic Core Imbalance: </b> From an internal savings perspective, a Current Account Deficit is a structural indicator that a country's national **investment level outpaces its domestic savings rate**, forcing it to rely on foreign capital inflows to bridge the resource gap."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: The Capital Account (Asset-Liability Alterations)",
-      "subtopics": [
-        {
-          "name": "Foreign Investments (FDI vs FPI)",
-          "bullets": [
-            " <b>Foreign Direct Investment (FDI): </b> Involves a foreign investor acquiring a lasting interest and significant management control in a domestic enterprise. Officially defined by the Mayaram Committee as a foreign investor purchasing **10% or more of the equity shares** in a listed Indian corporate. It is considered a non-debt, stable, and long-term capital inflow.",
-            " <b>Foreign Portfolio Investor (FPI): </b> Relates to speculative foreign investments in liquid financial assets like stocks and bonds without seeking corporate management control. Encompasses foreign equity holdings **below the 10% threshold**. Famously labeled as <b>'Hot Money' </b> due to its highly volatile nature, prone to sudden, massive outflows (taper tantrums) when global interest rates rise."
-          ]
-        },
-        {
-          "name": "Debt Flows & Foreign Exchange Reserves",
-          "bullets": [
-            " <b>External Commercial Borrowings (ECBs): </b> Commercial loans raised by Indian corporate entities directly from non-resident lenders (foreign banks, international markets) under strict framework ceilings monitored by the RBI. While they boost short-term capital inflows, they increase India's **external debt liabilities**.",
-            " <b>Foreign Exchange Reserves (Forex) Composition: </b> The strategic sovereign buffer managed exclusively by the RBI. It is divided into four distinct components: 1. **Foreign Currency Assets (FCAs)** (holding the absolute largest weight, containing non-dollar currencies like Euro and Yen converted to USD value). 2. **Gold holdings**. 3. **Special Drawing Rights (SDRs)** (allocated by the IMF). 4. **Reserve Tranche Position (RTP)** within the IMF."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "External Sector - Balance of Payments (BOP), Current & Capital Account",
+    "phases": [
+      {
+        "phaseName": "Phase 1: The Balance of Payments (BoP) Accounting Framework",
+        "subtopics": [
+          {
+            "name": "The Double-Entry Accounting Philosophy",
+            "bullets": [
+              " <b>BoP Definition: </b> A comprehensive, systematic statistical record of all economic transactions conducted between the residents of a country and the rest of the world during a specific financial year. It operates on a strict <b>double-entry bookkeeping system </b>.",
+              " <b>Credit vs Debit Conventions: </b> Any transaction that results in an inflow of foreign exchange into the country is recorded as a <b>Credit (+)</b> item (e.g., exports, receiving foreign aid). Conversely, any transaction that causes an outbound flight or outflow of foreign exchange is recorded as a <b>Debit (-)</b> item (e.g., imports, overseas investments by Indians).",
+              " <b>The Accounting Balance: </b> From an accounting standpoint, the overall Balance of Payments <b>must always balance</b> (sum to zero). Any structural deficit or surplus across the autonomous current and capital accounts is reconciled through adjustments in the country's official <b>Foreign Exchange Reserves</b> ledger handled by the RBI."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: The Current Account (Operational Trade Flows)",
+        "subtopics": [
+          {
+            "name": "Visible vs Invisible Trade Splits",
+            "bullets": [
+              " <b>The Visible Trade Balance: </b> Tracks the export and import of tangible physical goods (merchandise). For India, the visible trade balance is perennially and heavily <b>negative </b>, representing a structural trade deficit driven by our deep reliance on inbound shipments of crude oil, gold, electronic components, and coal.",
+              " <b>The Invisible Trade Balance: </b> Comprises three distinct components: 1. <i>Services</i> (Software exports, travel, tourism). 2. <i>Income</i> (Profit, interest, and dividends flowing into or out of the country). 3. <i>Transfers</i> (Unilateral flows requiring no economic return, such as gifts, grants, and <b>foreign remittances </b>).",
+              " <b>India's Remittance Dominance: </b> India ranks as the <b>world's largest recipient of foreign remittances </b>. This massive, continuous inflow under private transfers, alongside our strong software service export earnings, creates a massive surplus in Invisibles that partially cushions our steep merchandise trade deficit."
+            ]
+          },
+          {
+            "name": "Current Account Deficit (CAD) Dynamics",
+            "bullets": [
+              " <b>CAD Formula: </b> Occurs when total debit items in the current account exceed total credit items. Identity: <b>CAD = Trade Deficit + Net Invisibles Balance </b>. Expressed as a percentage of GDP to gauge external vulnerability.",
+              " <b>Macroeconomic Core Imbalance: </b> From an internal savings perspective, a Current Account Deficit is a structural indicator that a country's national <b>investment level outpaces its domestic savings rate</b>, forcing it to rely on foreign capital inflows to bridge the resource gap."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: The Capital Account (Asset-Liability Alterations)",
+        "subtopics": [
+          {
+            "name": "Foreign Investments (FDI vs FPI)",
+            "bullets": [
+              " <b>Foreign Direct Investment (FDI): </b> Involves a foreign investor acquiring a lasting interest and significant management control in a domestic enterprise. Officially defined by the Mayaram Committee as a foreign investor purchasing <b>10% or more of the equity shares</b> in a listed Indian corporate. It is considered a non-debt, stable, and long-term capital inflow.",
+              " <b>Foreign Portfolio Investor (FPI): </b> Relates to speculative foreign investments in liquid financial assets like stocks and bonds without seeking corporate management control. Encompasses foreign equity holdings <b>below the 10% threshold</b>. Famously labeled as <b>'Hot Money' </b> due to its highly volatile nature, prone to sudden, massive outflows (taper tantrums) when global interest rates rise."
+            ]
+          },
+          {
+            "name": "Debt Flows & Foreign Exchange Reserves",
+            "bullets": [
+              " <b>External Commercial Borrowings (ECBs): </b> Commercial loans raised by Indian corporate entities directly from non-resident lenders (foreign banks, international markets) under strict framework ceilings monitored by the RBI. While they boost short-term capital inflows, they increase India's <b>external debt liabilities</b>.",
+              " <b>Foreign Exchange Reserves (Forex) Composition: </b> The strategic sovereign buffer managed exclusively by the RBI. It is divided into four distinct components: 1. <b>Foreign Currency Assets (FCAs)</b> (holding the absolute largest weight, containing non-dollar currencies like Euro and Yen converted to USD value). 2. <b>Gold holdings</b>. 3. <b>Special Drawing Rights (SDRs)</b> (allocated by the IMF). 4. <b>Reserve Tranche Position (RTP)</b> within the IMF."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_10": {
-  "title": "Foreign Exchange Markets, Convertibility & Trade Policies",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Foreign Exchange Rates & Market Mechanisms",
-      "subtopics": [
-        {
-          "name": "Fixed vs Floating Regime Shifts",
-          "bullets": [
-            " <b>Fixed Exchange Rate Regime: </b> A system where the central bank pegs the national currency's exchange value directly to another major global currency (like USD) or a basket of currencies, absorbing all market shocks by buying or selling its own reserves.",
-            " <b>Managed Floating Rate Regime: </b> India's active currency framework, frequently described as a <b>'Managed Float' or 'Dirty Float' </b>. The exchange value of the Indian Rupee (INR) is fundamentally determined by open market demand-supply dynamics. However, the <b>RBI aggressively intervenes </b> in the forex market to buy or sell dollars strictly to smooth out speculative, extreme short-term volatility without targeting a fixed, specific rupee value."
-          ]
-        },
-        {
-          "name": "NEER vs REER Competitive Diagnostics",
-          "bullets": [
-            " <b>Nominal Effective Exchange Rate (NEER): </b> A diagnostic macroeconomic aggregate representing the weighted average of the bilateral exchange rates of the Rupee relative to a basket of major foreign currencies (typically a **40-currency basket**), serving as a raw indicator of currency strength.",
-            " <b>Real Effective Exchange Rate (REER): </b> The ultimate measure of a nation's true trade competitiveness. Calculated by adjusting NEER directly against internal and external <b>inflation differentials </b>. If India's REER rises **above 100**, it signals that the Rupee is structurally overvalued, meaning Indian exports are becoming costlier and losing competitive edge in international markets."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: Currency Convertibility & Capital Controls",
-      "subtopics": [
-        {
-          "name": "The Current vs Capital Account Convertibility Split",
-          "bullets": [
-            " <b>Current Account Convertibility: </b> The absolute freedom to convert the domestic currency into foreign currency for all day-to-day operational trade transactions (such as importing merchandise, paying for software services, travel, or sending short-term interest payments). India achieved <b>full current account convertibility in 1994 </b> under Article VIII of the IMF mandates.",
-            " <b>Capital Account Convertibility: </b> The freedom to convert domestic financial assets into foreign financial assets and vice versa at market-determined exchange rates (e.g., an Indian citizen freely buying property in London or a foreign national buying Indian corporate bonds). India maintains <b>partial capital account convertibility </b>, utilizing strict regulatory ceilings to insulate the domestic economy from sudden global capital flights."
-          ]
-        },
-        {
-          "name": "The Tarapore Committee Milestones",
-          "bullets": [
-            " <b>The Tarapore Committee (1997 & 2006): </b> Appointed by the RBI to lay down a phased roadmap toward **Full Capital Account Convertibility (FCAC)**. The panel recommended that India should only transition to full convertibility after achieving stringent fiscal pre-conditions, including a low gross **NPA ratio below 5%**, an inflation floor between 3% to 5%, and a sustainable fiscal deficit trajectory."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: India's Foreign Trade Policy & Incentive Schemes",
-      "subtopics": [
-        {
-          "name": "The Perpetual FTP Core Framework & Services Surge",
-          "bullets": [
-            " <b>The Dynamic Policy Paradigm: </b> Implemented as a <b>perpetual, open-ended framework </b> that completely discards the legacy system of rigid 5-year expiration dates. Monitored by the **Directorate General of Foreign Trade (DGFT)**, it is dynamically adjusted via real-time notifications to adapt to shifting global geopolitical conditions, aiming to propel cumulative Indian exports to <b>$2 Trillion ($1 Trillion merchandise + $1 Trillion services) by 2030 </b>.",
-            " <b>The Services Export Explosion: </b> Driven by global technological transformations, the structural share of the services sector has expanded to command roughly <b>49% of India's total export value </b>, anchored heavily by the proliferation of **Global Capability Centres (GCCs)** and professional consulting networks.",
-            " <b>Mandatory IEC Compliance: </b> Every business entity wishing to engage in cross-border trade must obtain a unique, permanent 10-digit <b>Import Export Code (IEC) </b> issued online by the DGFT. The IEC serves as the mandatory corporate identification anchor across customs checkpoints and international banking networks."
-          ]
-        },
-        {
-          "name": "Active Trade Incentive & Remission Schemes",
-          "bullets": [
-            " <b>RoDTEP Scheme: </b> The <i>Remission of Duties and Taxes on Exported Products</i>. It functions as a WTO-compliant architecture that systematically **refunds all embedded central, state, and local taxes** incurred during manufacturing and logistics (such as electricity duties and VAT on fuel) that are left un-refunded under standard GST paths.",
-            " <b>Advance Authorisation Scheme: </b> Allows exporters to execute the <b>duty-free import of raw materials </b> and inputs strictly if those inputs are physically required and utilized for manufacturing products earmarked exclusively for export production.",
-            " <b>EPCG Scheme: </b> The <i>Export Promotion Capital Goods</i> scheme. It permits domestic manufacturers to import high-end, heavy **capital goods and machinery at zero customs duty**, on the strict statutory condition that the firm fulfills an **Export Obligation** equivalent to 6 times the duty saved, completed within a maximum window of 6 years."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Foreign Exchange Markets, Convertibility & Trade Policies",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Foreign Exchange Rates & Market Mechanisms",
+        "subtopics": [
+          {
+            "name": "Fixed vs Floating Regime Shifts",
+            "bullets": [
+              " <b>Fixed Exchange Rate Regime: </b> A system where the central bank pegs the national currency's exchange value directly to another major global currency (like USD) or a basket of currencies, absorbing all market shocks by buying or selling its own reserves.",
+              " <b>Managed Floating Rate Regime: </b> India's active currency framework, frequently described as a <b>'Managed Float' or 'Dirty Float' </b>. The exchange value of the Indian Rupee (INR) is fundamentally determined by open market demand-supply dynamics. However, the <b>RBI aggressively intervenes </b> in the forex market to buy or sell dollars strictly to smooth out speculative, extreme short-term volatility without targeting a fixed, specific rupee value."
+            ]
+          },
+          {
+            "name": "NEER vs REER Competitive Diagnostics",
+            "bullets": [
+              " <b>Nominal Effective Exchange Rate (NEER): </b> A diagnostic macroeconomic aggregate representing the weighted average of the bilateral exchange rates of the Rupee relative to a basket of major foreign currencies (typically a <b>40-currency basket</b>), serving as a raw indicator of currency strength.",
+              " <b>Real Effective Exchange Rate (REER): </b> The ultimate measure of a nation's true trade competitiveness. Calculated by adjusting NEER directly against internal and external <b>inflation differentials </b>. If India's REER rises <b>above 100</b>, it signals that the Rupee is structurally overvalued, meaning Indian exports are becoming costlier and losing competitive edge in international markets."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Currency Convertibility & Capital Controls",
+        "subtopics": [
+          {
+            "name": "The Current vs Capital Account Convertibility Split",
+            "bullets": [
+              " <b>Current Account Convertibility: </b> The absolute freedom to convert the domestic currency into foreign currency for all day-to-day operational trade transactions (such as importing merchandise, paying for software services, travel, or sending short-term interest payments). India achieved <b>full current account convertibility in 1994 </b> under Article VIII of the IMF mandates.",
+              " <b>Capital Account Convertibility: </b> The freedom to convert domestic financial assets into foreign financial assets and vice versa at market-determined exchange rates (e.g., an Indian citizen freely buying property in London or a foreign national buying Indian corporate bonds). India maintains <b>partial capital account convertibility </b>, utilizing strict regulatory ceilings to insulate the domestic economy from sudden global capital flights."
+            ]
+          },
+          {
+            "name": "The Tarapore Committee Milestones",
+            "bullets": [
+              " <b>The Tarapore Committee (1997 & 2006): </b> Appointed by the RBI to lay down a phased roadmap toward <b>Full Capital Account Convertibility (FCAC)</b>. The panel recommended that India should only transition to full convertibility after achieving stringent fiscal pre-conditions, including a low gross <b>NPA ratio below 5%</b>, an inflation floor between 3% to 5%, and a sustainable fiscal deficit trajectory."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: India's Foreign Trade Policy & Incentive Schemes",
+        "subtopics": [
+          {
+            "name": "The Perpetual FTP Core Framework & Services Surge",
+            "bullets": [
+              " <b>The Dynamic Policy Paradigm: </b> Implemented as a <b>perpetual, open-ended framework </b> that completely discards the legacy system of rigid 5-year expiration dates. Monitored by the <b>Directorate General of Foreign Trade (DGFT)</b>, it is dynamically adjusted via real-time notifications to adapt to shifting global geopolitical conditions, aiming to propel cumulative Indian exports to <b>$2 Trillion ($1 Trillion merchandise + $1 Trillion services) by 2030 </b>.",
+              " <b>The Services Export Explosion: </b> Driven by global technological transformations, the structural share of the services sector has expanded to command roughly <b>49% of India's total export value </b>, anchored heavily by the proliferation of <b>Global Capability Centres (GCCs)</b> and professional consulting networks.",
+              " <b>Mandatory IEC Compliance: </b> Every business entity wishing to engage in cross-border trade must obtain a unique, permanent 10-digit <b>Import Export Code (IEC) </b> issued online by the DGFT. The IEC serves as the mandatory corporate identification anchor across customs checkpoints and international banking networks."
+            ]
+          },
+          {
+            "name": "Active Trade Incentive & Remission Schemes",
+            "bullets": [
+              " <b>RoDTEP Scheme: </b> The <i>Remission of Duties and Taxes on Exported Products</i>. It functions as a WTO-compliant architecture that systematically <b>refunds all embedded central, state, and local taxes</b> incurred during manufacturing and logistics (such as electricity duties and VAT on fuel) that are left un-refunded under standard GST paths.",
+              " <b>Advance Authorisation Scheme: </b> Allows exporters to execute the <b>duty-free import of raw materials </b> and inputs strictly if those inputs are physically required and utilized for manufacturing products earmarked exclusively for export production.",
+              " <b>EPCG Scheme: </b> The <i>Export Promotion Capital Goods</i> scheme. It permits domestic manufacturers to import high-end, heavy <b>capital goods and machinery at zero customs duty</b>, on the strict statutory condition that the firm fulfills an <b>Export Obligation</b> equivalent to 6 times the duty saved, completed within a maximum window of 6 years."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_11": {
-  "title": "International Financial Institutions (IMF, World Bank, WTO, ADB)",
-  "phases": [
-    {
-      "phaseName": "Phase 1: The Bretton Woods Twins (IMF & World Bank Group)",
-      "subtopics": [
-        {
-          "name": "International Monetary Fund (IMF) Mechanics",
-          "bullets": [
-            " <b>Core Mandates: </b> Established in 1944 to guarantee global financial stability, foster international trade, and provide short-to-medium-term financial assistance to member nations experiencing severe <b>Balance of Payments (BoP) crises </b>.",
-            " <b>The Quota Machine: </b> A member's quota determines its financial subscription obligation, voting weight, and maximum borrowing limit. Quotas are calculated via a weighted formula encompassing GDP size, economic openness, variability, and reserves. Any major quota realignment requires an <b>85% voting majority </b>, effectively giving the United States a unilateral structural veto.",
-            " <b>Special Drawing Rights (SDRs): </b> An artificial, international reserve asset created by the IMF under Article XV. It is not a currency or a direct claim on the IMF, but serves as a potential claim on the usable currencies of members. Its valuation basket is calculated daily based on five premier global currencies: <b>US Dollar, Euro, Chinese Renminbi, Japanese Yen, and British Pound </b>."
-          ]
-        },
-        {
-          "name": "The Five Functional Arms of the World Bank Group",
-          "bullets": [
-            " <b>IBRD & IDA (The Core World Bank): </b> The **International Bank for Reconstruction and Development (IBRD)** provides loans and market-rate development assistance to middle-income sovereign governments. The **International Development Association (IDA)** provides interest-free 'soft loans' and developmental grants to the world's poorest developing nations.",
-            " <b>IFC, MIGA & ICSID: </b> The **International Finance Corporation (IFC)** promotes economic growth by financing <b>private sector investments </b> inside developing economies. The **Multilateral Investment Guarantee Agency (MIGA)** offers political risk insurance and credit guarantees to foreign investors. The **International Centre for Settlement of Investment Disputes (ICSID)** handles arbitration for investment conflicts; crucially, <b>India is NOT a member of ICSID </b>, arguing its rules lean asymmetrically in favor of Western capital exporters."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: World Trade Organization (WTO) & Trade Conflicts",
-      "subtopics": [
-        {
-          "name": "The Legal Subsidies Grids (The WTO Boxes)",
-          "bullets": [
-            " <b>Amber Box (Distortionary Caps): </b> Houses all domestic support measures and subsidies that directly distort international trade by artificially modifying production volumes and market pricing. Subject to strict, legally mandated reduction commitments capped under <b>De Minimis limits </b> (5% of agricultural production value for developed states, 10% for developing states like India).",
-            " <b>Blue Box & Green Box (Non-Distortionary Openings): </b> The **Blue Box** covers Amber Box subsidies linked directly to strict production-limiting quotas, exempted from reduction mandates. The **Green Box** houses public-sector support programs that cause minimal or zero trade distortion (such as agricultural R&D, environmental protections, and domestic food security buffers), allowing unlimited spending.",
-            " <b>The Peace Clause Shield: </b> A critical legal defense negotiated at the Bali Ministerial Conference. It prevents member states from legally challenging a developing country's public stockholding programs for food security (like India's **MSP procurement operations**) under WTO dispute bodies, even if the state breaches the strict 10% Amber Box De Minimis threshold."
-          ]
-        },
-        {
-          "name": "Dispute Settlement Crisis",
-          "bullets": [
-            " <b>The Appellate Body Freeze: </b> The WTO Dispute Settlement mechanism relies on a two-tier framework: panels and a permanent Appellate Body. Crucially, the **Appellate Body has been completely dysfunctional** due to a deliberate structural blockade on the appointment of its judges, forcing trade conflicts into a legal vacuum where states can appeal panel rulings 'into the void'."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: The Asian Development Bank (ADB) Framework",
-      "subtopics": [
-        {
-          "name": "Regional Capital Devolution",
-          "bullets": [
-            " <b>Structure and Voting: </b> Established in 1966 and headquartered in Manila, Philippines, to promote social and economic development across Asia. Modeled closely on the World Bank, it utilizes a weighted voting system where voting power is distributed in direct proportion to a member's capital subscription shares.",
-            " <b>The Asymmetric Dominance Grid: </b> Despite its regional focus, the two largest capital contributors and voting blocs within the ADB are <b>Japan and the United States </b> (holding roughly 15.6% each), followed by the People's Republic of China (6.4%) and India (6.3%), creating an institutional landscape heavily influenced by traditional non-regional and regional advanced economies."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "International Financial Institutions (IMF, World Bank, WTO, ADB)",
+    "phases": [
+      {
+        "phaseName": "Phase 1: The Bretton Woods Twins (IMF & World Bank Group)",
+        "subtopics": [
+          {
+            "name": "International Monetary Fund (IMF) Mechanics",
+            "bullets": [
+              " <b>Core Mandates: </b> Established in 1944 to guarantee global financial stability, foster international trade, and provide short-to-medium-term financial assistance to member nations experiencing severe <b>Balance of Payments (BoP) crises </b>.",
+              " <b>The Quota Machine: </b> A member's quota determines its financial subscription obligation, voting weight, and maximum borrowing limit. Quotas are calculated via a weighted formula encompassing GDP size, economic openness, variability, and reserves. Any major quota realignment requires an <b>85% voting majority </b>, effectively giving the United States a unilateral structural veto.",
+              " <b>Special Drawing Rights (SDRs): </b> An artificial, international reserve asset created by the IMF under Article XV. It is not a currency or a direct claim on the IMF, but serves as a potential claim on the usable currencies of members. Its valuation basket is calculated daily based on five premier global currencies: <b>US Dollar, Euro, Chinese Renminbi, Japanese Yen, and British Pound </b>."
+            ]
+          },
+          {
+            "name": "The Five Functional Arms of the World Bank Group",
+            "bullets": [
+              " <b>IBRD & IDA (The Core World Bank): </b> The <b>International Bank for Reconstruction and Development (IBRD)</b> provides loans and market-rate development assistance to middle-income sovereign governments. The <b>International Development Association (IDA)</b> provides interest-free 'soft loans' and developmental grants to the world's poorest developing nations.",
+              " <b>IFC, MIGA & ICSID: </b> The <b>International Finance Corporation (IFC)</b> promotes economic growth by financing <b>private sector investments </b> inside developing economies. The <b>Multilateral Investment Guarantee Agency (MIGA)</b> offers political risk insurance and credit guarantees to foreign investors. The <b>International Centre for Settlement of Investment Disputes (ICSID)</b> handles arbitration for investment conflicts; crucially, <b>India is NOT a member of ICSID </b>, arguing its rules lean asymmetrically in favor of Western capital exporters."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: World Trade Organization (WTO) & Trade Conflicts",
+        "subtopics": [
+          {
+            "name": "The Legal Subsidies Grids (The WTO Boxes)",
+            "bullets": [
+              " <b>Amber Box (Distortionary Caps): </b> Houses all domestic support measures and subsidies that directly distort international trade by artificially modifying production volumes and market pricing. Subject to strict, legally mandated reduction commitments capped under <b>De Minimis limits </b> (5% of agricultural production value for developed states, 10% for developing states like India).",
+              " <b>Blue Box & Green Box (Non-Distortionary Openings): </b> The <b>Blue Box</b> covers Amber Box subsidies linked directly to strict production-limiting quotas, exempted from reduction mandates. The <b>Green Box</b> houses public-sector support programs that cause minimal or zero trade distortion (such as agricultural R&D, environmental protections, and domestic food security buffers), allowing unlimited spending.",
+              " <b>The Peace Clause Shield: </b> A critical legal defense negotiated at the Bali Ministerial Conference. It prevents member states from legally challenging a developing country's public stockholding programs for food security (like India's <b>MSP procurement operations</b>) under WTO dispute bodies, even if the state breaches the strict 10% Amber Box De Minimis threshold."
+            ]
+          },
+          {
+            "name": "Dispute Settlement Crisis",
+            "bullets": [
+              " <b>The Appellate Body Freeze: </b> The WTO Dispute Settlement mechanism relies on a two-tier framework: panels and a permanent Appellate Body. Crucially, the <b>Appellate Body has been completely dysfunctional</b> due to a deliberate structural blockade on the appointment of its judges, forcing trade conflicts into a legal vacuum where states can appeal panel rulings 'into the void'."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: The Asian Development Bank (ADB) Framework",
+        "subtopics": [
+          {
+            "name": "Regional Capital Devolution",
+            "bullets": [
+              " <b>Structure and Voting: </b> Established in 1966 and headquartered in Manila, Philippines, to promote social and economic development across Asia. Modeled closely on the World Bank, it utilizes a weighted voting system where voting power is distributed in direct proportion to a member's capital subscription shares.",
+              " <b>The Asymmetric Dominance Grid: </b> Despite its regional focus, the two largest capital contributors and voting blocs within the ADB are <b>Japan and the United States </b> (holding roughly 15.6% each), followed by the People's Republic of China (6.4%) and India (6.3%), creating an institutional landscape heavily influenced by traditional non-regional and regional advanced economies."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_12": {
-  "title": "Industrial Sector, Infrastructure Metrics & Investment Models",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Industrial Policy & Structural Performance Metrics",
-      "subtopics": [
-        {
-          "name": "The Index of Industrial Production (IIP)",
-          "bullets": [
-            " <b>The Volume Watchdog: </b> A premier macroeconomic short-term indicator compiled and released monthly by the **National Statistical Office (NSO)**, Ministry of Statistics and Programme Implementation (MoSPI). It measures the real-world volume changes in industrial production using a baseline <b>Base Year of 2011-12 </b>.",
-            " <b>The Sectoral Breakdown: </b> Evaluated across three broad, non-overlapping traditional sectors: <b>Manufacturing </b> (holding the absolute highest structural weight at roughly <b>77.6% </b>), followed by Mining (14.4%), and Electricity (8.0%)."
-          ]
-        },
-        {
-          "name": "The Eight Core Industries Matrix",
-          "bullets": [
-            " <b>The Core Anchor: </b> Constitutes nearly <b>40.27% of the total weight </b> of the entire IIP index. Published separately by the Office of Economic Adviser (DPIIT), it tracks the structural performance of eight infrastructure-linked industries.",
-            " <b>The Decreasing Weight Hierarchy: </b> A legendary UPSC Prelims target area. The eight core industries must be memorized in their strict decreasing order of structural weightage: <b>Refinery Products (Highest) -> Electricity -> Steel -> Coal -> Crude Oil -> Natural Gas -> Cement -> Fertilizers (Lowest) </b>."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: National Infrastructure Architecture",
-      "subtopics": [
-        {
-          "name": "Strategic Pipeline and Logistics Engines",
-          "bullets": [
-            " <b>National Infrastructure Pipeline (NIP): </b> A forward-looking, multi-trillion-rupee capital expenditure program to provide world-class infrastructure across energy, roads, railways, and urban sectors. It utilizes a joint financial funding model split across a <b>39:39:22 matrix </b> (39% Central share, 39% State share, and 22% private sector investments).",
-            " <b>PM GatiShakti National Master Plan: </b> An integrated digital GIS-platform designed to break institutional silos and orchestrate multi-modal connectivity logistics. It brings 16 ministries together to ensure synchronized planning, eliminating the common structural lag where telecom, power, and gas pipelines cut through newly constructed highways."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Public-Private Partnership (PPP) Investment Models",
-      "subtopics": [
-        {
-          "name": "The Evolution of PPP Risk Distributions",
-          "bullets": [
-            " <b>Engineering, Procurement, and Construction (EPC) Model: </b> A completely public-funded framework where the private player acts purely as a contractor. The **government provides 100% of the financial capital** and bears all long-term traffic and financial risks; the private firm simply builds the asset to exact specifications, collects their payment, and exits.",
-            " <b>Build-Operate-Transfer (BOT-Annuity vs BOT-Toll): </b> Under **BOT-Toll**, the private developer handles 100% of the initial financing, construction, and operation, recovering their capital over a 20-30 year concession period by directly collecting toll fees (bearing heavy commercial traffic risk). Under **BOT-Annuity**, the private player still builds, but the **government collects the toll and pays fixed, guaranteed annual payments (annuities)** to the developer, wiping out their traffic volume risk.",
-            " <b>Hybrid Annuity Model (HAM): </b> A highly innovative layout that blends EPC and BOT elements to revive stalled private infrastructure investments. The financial structure utilizes a shared risk model: the **government provides 40% of the project cost** in fixed milestones, while the private developer covers the remaining 60%. The government collects the toll and pays the private developer via guaranteed annuity tranches, efficiently absorbing all initial cash-flow and commercial traffic volume risks."
-          ]
-        }
-      ]
-    }
-  ]
-},
+    "title": "Industrial Sector, Infrastructure Metrics & Investment Models",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Industrial Policy & Structural Performance Metrics",
+        "subtopics": [
+          {
+            "name": "The Index of Industrial Production (IIP)",
+            "bullets": [
+              " <b>The Volume Watchdog: </b> A premier macroeconomic short-term indicator compiled and released monthly by the <b>National Statistical Office (NSO)</b>, Ministry of Statistics and Programme Implementation (MoSPI). It measures the real-world volume changes in industrial production using a baseline <b>Base Year of 2011-12 </b>.",
+              " <b>The Sectoral Breakdown: </b> Evaluated across three broad, non-overlapping traditional sectors: <b>Manufacturing </b> (holding the absolute highest structural weight at roughly <b>77.6% </b>), followed by Mining (14.4%), and Electricity (8.0%)."
+            ]
+          },
+          {
+            "name": "The Eight Core Industries Matrix",
+            "bullets": [
+              " <b>The Core Anchor: </b> Constitutes nearly <b>40.27% of the total weight </b> of the entire IIP index. Published separately by the Office of Economic Adviser (DPIIT), it tracks the structural performance of eight infrastructure-linked industries.",
+              " <b>The Decreasing Weight Hierarchy: </b> A legendary UPSC Prelims target area. The eight core industries must be memorized in their strict decreasing order of structural weightage: <b>Refinery Products (Highest) -> Electricity -> Steel -> Coal -> Crude Oil -> Natural Gas -> Cement -> Fertilizers (Lowest) </b>."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: National Infrastructure Architecture",
+        "subtopics": [
+          {
+            "name": "Strategic Pipeline and Logistics Engines",
+            "bullets": [
+              " <b>National Infrastructure Pipeline (NIP): </b> A forward-looking, multi-trillion-rupee capital expenditure program to provide world-class infrastructure across energy, roads, railways, and urban sectors. It utilizes a joint financial funding model split across a <b>39:39:22 matrix </b> (39% Central share, 39% State share, and 22% private sector investments).",
+              " <b>PM GatiShakti National Master Plan: </b> An integrated digital GIS-platform designed to break institutional silos and orchestrate multi-modal connectivity logistics. It brings 16 ministries together to ensure synchronized planning, eliminating the common structural lag where telecom, power, and gas pipelines cut through newly constructed highways."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Public-Private Partnership (PPP) Investment Models",
+        "subtopics": [
+          {
+            "name": "The Evolution of PPP Risk Distributions",
+            "bullets": [
+              " <b>Engineering, Procurement, and Construction (EPC) Model: </b> A completely public-funded framework where the private player acts purely as a contractor. The <b>government provides 100% of the financial capital</b> and bears all long-term traffic and financial risks; the private firm simply builds the asset to exact specifications, collects their payment, and exits.",
+              " <b>Build-Operate-Transfer (BOT-Annuity vs BOT-Toll): </b> Under <b>BOT-Toll</b>, the private developer handles 100% of the initial financing, construction, and operation, recovering their capital over a 20-30 year concession period by directly collecting toll fees (bearing heavy commercial traffic risk). Under <b>BOT-Annuity</b>, the private player still builds, but the <b>government collects the toll and pays fixed, guaranteed annual payments (annuities)</b> to the developer, wiping out their traffic volume risk.",
+              " <b>Hybrid Annuity Model (HAM): </b> A highly innovative layout that blends EPC and BOT elements to revive stalled private infrastructure investments. The financial structure utilizes a shared risk model: the <b>government provides 40% of the project cost</b> in fixed milestones, while the private developer covers the remaining 60%. The government collects the toll and pays the private developer via guaranteed annuity tranches, efficiently absorbing all initial cash-flow and commercial traffic volume risks."
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "eco_13": {
-  "title": "Agriculture Sector - Land Reforms, Subsidies, MSP & Food Security",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Legacy Land Reforms & Structural Progression",
-      "subtopics": [
-        {
-          "name": "Dismantling Feudal Systems & Land Ceilings",
-          "bullets": [
-            " <b>Abolition of Intermediaries: </b> The initial institutional reform post-independence. It systematically dismantled exploitative colonial land revenue networks like the **Zamindari, Ryotwari, and Mahalwari** systems, transferring legal ownership rights to millions of actual tenant cultivators.",
-            " <b>Tenancy Reforms: </b> Focused on three critical parameters: regulation of rent ceilings (capping rents at 20% to 25% of gross produce), security of tenure to prevent arbitrary evictions, and granting tenants the statutory right to purchase ownership of the land they tilled.",
-            " <b>Land Ceilings & Fragmentation: </b> Imposed a legal statutory limit on the maximum quantum of agricultural land an individual or family could hold, redistributing surplus lands to landless laborers. To correct severe **land fragmentation** (which prevents mechanization), the state introduced voluntary and mandatory schemes for the **Consolidation of Holdings**."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: Agricultural Pricing Machinery (MSP & FRP)",
-      "subtopics": [
-        {
-          "name": "The Minimum Support Price (MSP) Framework",
-          "bullets": [
-            " <b>The Mandatory Basket: </b> Announced at the beginning of the sowing season for <b>22 mandated crops </b> plus a fair price for sugarcane. Includes 7 cereals, 5 pulses, 7 oilseeds, and 3 commercial crops (Copra, Raw Cotton, Raw Jute). It is a recommendatory floor price; the government is not legally bound to procure every grain.",
-            " <b>Institutional Flow: </b> The **Commission for Agricultural Costs and Prices (CACP)** conducts extensive field evaluations and recommends MSP levels. The final, absolute authorizing decision rests with the <b>Cabinet Committee on Economic Affairs (CCEA) </b> chaired by the Prime Minister.",
-            " <b>The Three Cost Valuation Formulas: </b> A premier UPSC Prelims target: 1. <b>A2 Cost: </b> Covers all actual out-of-pocket expenses incurred by the farmer (seeds, fertilizers, hired labor, fuel, irrigation). 2. <b>A2+FL Cost: </b> Adds the imputed monetary value of **Unpaid Family Labor** on top of actual cash expenses. 3. <b>C2 Cost: </b> The comprehensive economic cost, adding the imputed rent of owned land and interest on owned fixed capital assets. The government officially pegs standard MSPs to guarantee a minimum <b>50% margin over the A2+FL cost line </b>."
-          ]
-        },
-        {
-          "name": "The Sugarcane Fair and Remunerative Price (FRP) Exception",
-          "bullets": [
-            " <b>Statutory Identity: </b> Sugarcane does not utilize standard recommendatory MSP. Instead, it is governed by the <b>Fair and Remunerative Price (FRP) </b>, which is a mandatory statutory floor price fixed under the **Sugarcane (Control) Order, 1966**. Private and cooperative sugar mills are **legally obligated** to pay this price to farmers within 14 days of delivery.",
-            " <b>The CACP Matrix Factors: </b> CACP recommends FRP based on a legal list of statutory parameters: cost of production, recovery rate of sugar from the cane, the market selling price of sugar and its by-products (molasses, bagasse, press mud), and a reasonable profit margin for growers.",
-            " <b>State Advised Price (SAP) Conflict: </b> Major sugarcane-producing states (like Uttar Pradesh and Punjab) frequently bypass the central pricing framework by declaring a separate **State Advised Price (SAP)**, which sits substantially higher than the central FRP, creating persistent financial friction and cane price arrears across milling networks."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Farm Subsidies & The Food Security Net",
-      "subtopics": [
-        {
-          "name": "Direct vs Indirect Subsidy Distributions",
-          "bullets": [
-            " <b>Input Subsidies (Indirect): </b> Government programs that lower production costs by providing farming inputs below market rates, such as heavily subsidized canal water, power for tube wells, and fertilizers (anchored by the **Nutrient Based Subsidy** policy for non-urea fertilizers).",
-            " <b>Direct Income Support: </b> Central cash transfers like **PM-KISAN**, which bypasses input markets entirely by depositing direct cash tranches into small and marginal farmers' bank accounts, minimizing market distortions and reducing leaks."
-          ]
-        },
-        {
-          "name": "National Food Security Act (NFSA), 2013 Architecture",
-          "bullets": [
-            " <b>The Legal Right to Food: </b> Transformed welfare provisioning from a general development scheme into a strict **legal statutory entitlement**, covering up to <b>75% of the rural population </b> and up to <b>50% of the urban population </b> (roughly 67% of the total national population).",
-            " <b>Procurement & Distribution Mechanics: </b> Entitles targeted beneficiaries to receive 5 kg of foodgrains per person per month at heavily subsidized prices. Under the **Antyodaya Anna Yojana (AAY)**, the poorest of the poor households are guaranteed 35 kg of foodgrains per month. The **Food Corporation of India (FCI)** acts as the apex central nodal agency responsible for procuring grains at MSP, managing strategic buffer stocks, and transferring stocks to state depots for final distribution via the **Public Distribution System (PDS)**."
-          ]
-        }
-      ]
-    }
-  ]
-},
-"eco_14": {
-  "title": "Poverty, Inequality, Unemployment Metrics & Human Development",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Poverty Measurement & Multidimensionality",
-      "subtopics": [
-        {
-          "name": "From Consumption Thresholds to MPI",
-          "bullets": [
-            " <b>The Consumption Anchor: </b> Historically, Indian poverty lines were determined by the **Lakdawala and Tendulkar Committees**, which utilized a monthly per capita consumption expenditure (MPCE) floor based on calorie requirements. These were frequently criticized for being 'starvation lines' rather than 'poverty lines.'",
-            " <b>Multidimensional Poverty Index (MPI): </b> The current global and national standard. Developed by the Oxford Poverty and Human Development Initiative (OPHI) and adopted by NITI Aayog. It moves beyond income to track <b>3 dimensions (Health, Education, and Standard of Living) </b> broken into 12 distinct indicators (like access to clean cooking fuel, maternal health, and school attendance).",
-            " <b>Absolute vs Relative Poverty: </b> Absolute poverty measures the inability to meet basic physiological survival needs (food, shelter). Relative poverty measures <b>income inequality </b>, tracking the gap in wealth between the richest and poorest strata within the same society, often visualized through the **Lorenz Curve** and **Gini Coefficient**."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: Unemployment Metrics & Labour Dynamics",
-      "subtopics": [
-        {
-          "name": "Types of Unemployment in India",
-          "bullets": [
-            " <b>Disguised Unemployment: </b> A structural phenomenon where more people are engaged in a job than actually required (common in agriculture). If the 'excess' labor were removed, the total output would remain <b>entirely unchanged </b>.",
-            " <b>Structural Unemployment: </b> Arises from a fundamental mismatch between the <b>skills possessed by the workforce </b> and the <b>technical skills demanded </b> by the evolving industrial market (the 'employability gap').",
-            " <b>Frictional Unemployment: </b> A temporary, natural period of unemployment that occurs when workers are in the process of <b>switching jobs </b> or searching for their first employment post-graduation."
-          ]
-        },
-        {
-          "name": "Measurement Frameworks",
-          "bullets": [
-            " <b>PLFS Data: </b> The <b>Periodic Labour Force Survey (PLFS) </b>, conducted by the NSO, is the definitive source for India's employment data. It uses the <b>Current Weekly Status (CWS) </b> approach, which classifies a person as unemployed if they did not work for even one hour during the reference week despite being available for work.",
-            " <b>Labour Force Participation Rate (LFPR): </b> The percentage of the working-age population (15-59 years) that is <b>either employed or actively looking for employment </b>. A falling LFPR is a red flag, indicating that people are dropping out of the job market entirely due to discouragement."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Inequality & Human Development",
-      "subtopics": [
-        {
-          "name": "Inequality Indicators",
-          "bullets": [
-            " <b>Gini Coefficient: </b> A statistical measure of inequality ranging from 0 to 1. A score of <b>0 represents absolute equality </b> (everyone has the same income), while <b>1 represents absolute inequality </b> (one person holds all the income).",
-            " <b>Kuznets Curve: </b> An economic hypothesis suggesting that as an economy develops, market forces first increase economic inequality, but then decrease it as the economy matures and structural social safety nets are established."
-          ]
-        },
-        {
-          "name": "Human Development Index (HDI)",
-          "bullets": [
-            " <b>The Triad Dimensions: </b> Published by the UNDP, the HDI aggregates three key development pillars: 1. <b>Long and Healthy Life </b> (measured by life expectancy at birth). 2. <b>Knowledge </b> (measured by mean years of schooling and expected years of schooling). 3. <b>Decent Standard of Living </b> (measured by Gross National Income per capita).",
-            " <b>India's HDI Position: </b> India historically occupies the 'Medium Human Development' category. UPSC frequently tests the fact that while India makes progress in GNI per capita, its <b>mean years of schooling </b> remains a significant dragging variable on the total index score."
-          ]
-        }
-      ]
-    }
-  ]
-},
-"eco_15": {
-  "title": "Social Sector Initiatives, Sustainable Development & Inclusive Growth",
-  "phases": [
-    {
-      "phaseName": "Phase 1: Social Security & The Welfare Grid",
-      "subtopics": [
-        {
-          "name": "The Institutional Safety Nets",
-          "bullets": [
-            " <b>MGNREGA Framework: </b> The <i>Mahatma Gandhi National Rural Employment Guarantee Act, 2005 </i> remains the largest social security program in the world. It provides a legal guarantee of <b>100 days of wage employment </b> in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
-            " <b>Direct Benefit Transfer (DBT) & JAM Trinity: </b> The structural backbone of modern welfare, utilizing the <b>JAM Trinity (Jan Dhan-Aadhaar-Mobile) </b> to eliminate middlemen and plug massive leakages in subsidy distribution by transferring funds directly into the bank accounts of legitimate beneficiaries.",
-            " <b>Social Protection Schemes: </b> Distinguishes between <i>Contributory</i> (like the <b>Atal Pension Yojana </b>, where the beneficiary pays a premium) and <i>Non-contributory</i> (like the <b>Pradhan Mantri Matru Vandana Yojana </b>, which is a pure maternity cash incentive) frameworks."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 2: Sustainable Development & Green Growth",
-      "subtopics": [
-        {
-          "name": "The Green Growth Paradigm",
-          "bullets": [
-            " <b>Panchamrit Targets: </b> India’s strategic commitment to achieving **Net Zero emissions by 2070**. Includes specific interim milestones: reaching 500 GW of non-fossil energy capacity by 2030, and reducing the total projected carbon emissions by 1 billion tonnes.",
-            " <b>Circular Economy Framework: </b> A systemic transition away from the traditional 'take-make-dispose' model toward a restorative framework that designs out waste, keeps products and materials in use for longer, and regenerates natural systems.",
-            " <b>Carbon Markets: </b> The transition from voluntary to mandatory carbon trading, where firms that emit below their assigned carbon quota can trade their excess **Carbon Emission Units (CEUs)** to high-polluting firms, internalizing the economic cost of pollution."
-          ]
-        }
-      ]
-    },
-    {
-      "phaseName": "Phase 3: Fostering Inclusive Growth",
-      "subtopics": [
-        {
-          "name": "Structural Drivers of Inclusivity",
-          "bullets": [
-            " <b>Inclusive Growth Definition: </b> Growth that is both broad-based and poverty-reducing. It focuses on the <b>'trickle-down' </b> plus <b>'broad-base' </b> approach, ensuring that marginalized sections—including women, SC/ST populations, and rural workers—gain access to the opportunity pipelines of the formal economy.",
-            " <b>Gender Budgeting: </b> A fiscal tool that does not necessarily create a separate budget for women, but rather disaggregates the mainstream Union Budget to track how fiscal outlays specifically benefit women, aiming to narrow the gender-based gap in economic participation and literacy.",
-            " <b>Financial Inclusion Anchors: </b> The expansion of the formal credit net through programs like **PM-SVANidhi** (micro-credit for street vendors) and the **MUDRA Yojana** (providing non-collateralized loans to micro-enterprises), shifting millions from the informal, predatory lending sector into the mainstream banking grid."
-          ]
-        }
-      ]
-    }
-  ]
-}
+    "title": "Agriculture Sector - Land Reforms, Subsidies, MSP & Food Security",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Legacy Land Reforms & Structural Progression",
+        "subtopics": [
+          {
+            "name": "Dismantling Feudal Systems & Land Ceilings",
+            "bullets": [
+              " <b>Abolition of Intermediaries: </b> The initial institutional reform post-independence. It systematically dismantled exploitative colonial land revenue networks like the <b>Zamindari, Ryotwari, and Mahalwari</b> systems, transferring legal ownership rights to millions of actual tenant cultivators.",
+              " <b>Tenancy Reforms: </b> Focused on three critical parameters: regulation of rent ceilings (capping rents at 20% to 25% of gross produce), security of tenure to prevent arbitrary evictions, and granting tenants the statutory right to purchase ownership of the land they tilled.",
+              " <b>Land Ceilings & Fragmentation: </b> Imposed a legal statutory limit on the maximum quantum of agricultural land an individual or family could hold, redistributing surplus lands to landless laborers. To correct severe <b>land fragmentation</b> (which prevents mechanization), the state introduced voluntary and mandatory schemes for the <b>Consolidation of Holdings</b>."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Agricultural Pricing Machinery (MSP & FRP)",
+        "subtopics": [
+          {
+            "name": "The Minimum Support Price (MSP) Framework",
+            "bullets": [
+              " <b>The Mandatory Basket: </b> Announced at the beginning of the sowing season for <b>22 mandated crops </b> plus a fair price for sugarcane. Includes 7 cereals, 5 pulses, 7 oilseeds, and 3 commercial crops (Copra, Raw Cotton, Raw Jute). It is a recommendatory floor price; the government is not legally bound to procure every grain.",
+              " <b>Institutional Flow: </b> The <b>Commission for Agricultural Costs and Prices (CACP)</b> conducts extensive field evaluations and recommends MSP levels. The final, absolute authorizing decision rests with the <b>Cabinet Committee on Economic Affairs (CCEA) </b> chaired by the Prime Minister.",
+              " <b>The Three Cost Valuation Formulas: </b> A premier UPSC Prelims target: 1. <b>A2 Cost: </b> Covers all actual out-of-pocket expenses incurred by the farmer (seeds, fertilizers, hired labor, fuel, irrigation). 2. <b>A2+FL Cost: </b> Adds the imputed monetary value of <b>Unpaid Family Labor</b> on top of actual cash expenses. 3. <b>C2 Cost: </b> The comprehensive economic cost, adding the imputed rent of owned land and interest on owned fixed capital assets. The government officially pegs standard MSPs to guarantee a minimum <b>50% margin over the A2+FL cost line </b>."
+            ]
+          },
+          {
+            "name": "The Sugarcane Fair and Remunerative Price (FRP) Exception",
+            "bullets": [
+              " <b>Statutory Identity: </b> Sugarcane does not utilize standard recommendatory MSP. Instead, it is governed by the <b>Fair and Remunerative Price (FRP) </b>, which is a mandatory statutory floor price fixed under the <b>Sugarcane (Control) Order, 1966</b>. Private and cooperative sugar mills are <b>legally obligated</b> to pay this price to farmers within 14 days of delivery.",
+              " <b>The CACP Matrix Factors: </b> CACP recommends FRP based on a legal list of statutory parameters: cost of production, recovery rate of sugar from the cane, the market selling price of sugar and its by-products (molasses, bagasse, press mud), and a reasonable profit margin for growers.",
+              " <b>State Advised Price (SAP) Conflict: </b> Major sugarcane-producing states (like Uttar Pradesh and Punjab) frequently bypass the central pricing framework by declaring a separate <b>State Advised Price (SAP)</b>, which sits substantially higher than the central FRP, creating persistent financial friction and cane price arrears across milling networks."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Farm Subsidies & The Food Security Net",
+        "subtopics": [
+          {
+            "name": "Direct vs Indirect Subsidy Distributions",
+            "bullets": [
+              " <b>Input Subsidies (Indirect): </b> Government programs that lower production costs by providing farming inputs below market rates, such as heavily subsidized canal water, power for tube wells, and fertilizers (anchored by the <b>Nutrient Based Subsidy</b> policy for non-urea fertilizers).",
+              " <b>Direct Income Support: </b> Central cash transfers like <b>PM-KISAN</b>, which bypasses input markets entirely by depositing direct cash tranches into small and marginal farmers' bank accounts, minimizing market distortions and reducing leaks."
+            ]
+          },
+          {
+            "name": "National Food Security Act (NFSA), 2013 Architecture",
+            "bullets": [
+              " <b>The Legal Right to Food: </b> Transformed welfare provisioning from a general development scheme into a strict <b>legal statutory entitlement</b>, covering up to <b>75% of the rural population </b> and up to <b>50% of the urban population </b> (roughly 67% of the total national population).",
+              " <b>Procurement & Distribution Mechanics: </b> Entitles targeted beneficiaries to receive 5 kg of foodgrains per person per month at heavily subsidized prices. Under the <b>Antyodaya Anna Yojana (AAY)</b>, the poorest of the poor households are guaranteed 35 kg of foodgrains per month. The <b>Food Corporation of India (FCI)</b> acts as the apex central nodal agency responsible for procuring grains at MSP, managing strategic buffer stocks, and transferring stocks to state depots for final distribution via the <b>Public Distribution System (PDS)</b>."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "eco_14": {
+    "title": "Poverty, Inequality, Unemployment Metrics & Human Development",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Poverty Measurement & Multidimensionality",
+        "subtopics": [
+          {
+            "name": "From Consumption Thresholds to MPI",
+            "bullets": [
+              " <b>The Consumption Anchor: </b> Historically, Indian poverty lines were determined by the <b>Lakdawala and Tendulkar Committees</b>, which utilized a monthly per capita consumption expenditure (MPCE) floor based on calorie requirements. These were frequently criticized for being 'starvation lines' rather than 'poverty lines.'",
+              " <b>Multidimensional Poverty Index (MPI): </b> The current global and national standard. Developed by the Oxford Poverty and Human Development Initiative (OPHI) and adopted by NITI Aayog. It moves beyond income to track <b>3 dimensions (Health, Education, and Standard of Living) </b> broken into 12 distinct indicators (like access to clean cooking fuel, maternal health, and school attendance).",
+              " <b>Absolute vs Relative Poverty: </b> Absolute poverty measures the inability to meet basic physiological survival needs (food, shelter). Relative poverty measures <b>income inequality </b>, tracking the gap in wealth between the richest and poorest strata within the same society, often visualized through the <b>Lorenz Curve</b> and <b>Gini Coefficient</b>."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Unemployment Metrics & Labour Dynamics",
+        "subtopics": [
+          {
+            "name": "Types of Unemployment in India",
+            "bullets": [
+              " <b>Disguised Unemployment: </b> A structural phenomenon where more people are engaged in a job than actually required (common in agriculture). If the 'excess' labor were removed, the total output would remain <b>entirely unchanged </b>.",
+              " <b>Structural Unemployment: </b> Arises from a fundamental mismatch between the <b>skills possessed by the workforce </b> and the <b>technical skills demanded </b> by the evolving industrial market (the 'employability gap').",
+              " <b>Frictional Unemployment: </b> A temporary, natural period of unemployment that occurs when workers are in the process of <b>switching jobs </b> or searching for their first employment post-graduation."
+            ]
+          },
+          {
+            "name": "Measurement Frameworks",
+            "bullets": [
+              " <b>PLFS Data: </b> The <b>Periodic Labour Force Survey (PLFS) </b>, conducted by the NSO, is the definitive source for India's employment data. It uses the <b>Current Weekly Status (CWS) </b> approach, which classifies a person as unemployed if they did not work for even one hour during the reference week despite being available for work.",
+              " <b>Labour Force Participation Rate (LFPR): </b> The percentage of the working-age population (15-59 years) that is <b>either employed or actively looking for employment </b>. A falling LFPR is a red flag, indicating that people are dropping out of the job market entirely due to discouragement."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Inequality & Human Development",
+        "subtopics": [
+          {
+            "name": "Inequality Indicators",
+            "bullets": [
+              " <b>Gini Coefficient: </b> A statistical measure of inequality ranging from 0 to 1. A score of <b>0 represents absolute equality </b> (everyone has the same income), while <b>1 represents absolute inequality </b> (one person holds all the income).",
+              " <b>Kuznets Curve: </b> An economic hypothesis suggesting that as an economy develops, market forces first increase economic inequality, but then decrease it as the economy matures and structural social safety nets are established."
+            ]
+          },
+          {
+            "name": "Human Development Index (HDI)",
+            "bullets": [
+              " <b>The Triad Dimensions: </b> Published by the UNDP, the HDI aggregates three key development pillars: 1. <b>Long and Healthy Life </b> (measured by life expectancy at birth). 2. <b>Knowledge </b> (measured by mean years of schooling and expected years of schooling). 3. <b>Decent Standard of Living </b> (measured by Gross National Income per capita).",
+              " <b>India's HDI Position: </b> India historically occupies the 'Medium Human Development' category. UPSC frequently tests the fact that while India makes progress in GNI per capita, its <b>mean years of schooling </b> remains a significant dragging variable on the total index score."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "eco_15": {
+    "title": "Social Sector Initiatives, Sustainable Development & Inclusive Growth",
+    "phases": [
+      {
+        "phaseName": "Phase 1: Social Security & The Welfare Grid",
+        "subtopics": [
+          {
+            "name": "The Institutional Safety Nets",
+            "bullets": [
+              " <b>MGNREGA Framework: </b> The <i>Mahatma Gandhi National Rural Employment Guarantee Act, 2005 </i> remains the largest social security program in the world. It provides a legal guarantee of <b>100 days of wage employment </b> in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
+              " <b>Direct Benefit Transfer (DBT) & JAM Trinity: </b> The structural backbone of modern welfare, utilizing the <b>JAM Trinity (Jan Dhan-Aadhaar-Mobile) </b> to eliminate middlemen and plug massive leakages in subsidy distribution by transferring funds directly into the bank accounts of legitimate beneficiaries.",
+              " <b>Social Protection Schemes: </b> Distinguishes between <i>Contributory</i> (like the <b>Atal Pension Yojana </b>, where the beneficiary pays a premium) and <i>Non-contributory</i> (like the <b>Pradhan Mantri Matru Vandana Yojana </b>, which is a pure maternity cash incentive) frameworks."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 2: Sustainable Development & Green Growth",
+        "subtopics": [
+          {
+            "name": "The Green Growth Paradigm",
+            "bullets": [
+              " <b>Panchamrit Targets: </b> India’s strategic commitment to achieving <b>Net Zero emissions by 2070</b>. Includes specific interim milestones: reaching 500 GW of non-fossil energy capacity by 2030, and reducing the total projected carbon emissions by 1 billion tonnes.",
+              " <b>Circular Economy Framework: </b> A systemic transition away from the traditional 'take-make-dispose' model toward a restorative framework that designs out waste, keeps products and materials in use for longer, and regenerates natural systems.",
+              " <b>Carbon Markets: </b> The transition from voluntary to mandatory carbon trading, where firms that emit below their assigned carbon quota can trade their excess <b>Carbon Emission Units (CEUs)</b> to high-polluting firms, internalizing the economic cost of pollution."
+            ]
+          }
+        ]
+      },
+      {
+        "phaseName": "Phase 3: Fostering Inclusive Growth",
+        "subtopics": [
+          {
+            "name": "Structural Drivers of Inclusivity",
+            "bullets": [
+              " <b>Inclusive Growth Definition: </b> Growth that is both broad-based and poverty-reducing. It focuses on the <b>'trickle-down' </b> plus <b>'broad-base' </b> approach, ensuring that marginalized sections—including women, SC/ST populations, and rural workers—gain access to the opportunity pipelines of the formal economy.",
+              " <b>Gender Budgeting: </b> A fiscal tool that does not necessarily create a separate budget for women, but rather disaggregates the mainstream Union Budget to track how fiscal outlays specifically benefit women, aiming to narrow the gender-based gap in economic participation and literacy.",
+              " <b>Financial Inclusion Anchors: </b> The expansion of the formal credit net through programs like <b>PM-SVANidhi</b> (micro-credit for street vendors) and the <b>MUDRA Yojana</b> (providing non-collateralized loans to micro-enterprises), shifting millions from the informal, predatory lending sector into the mainstream banking grid."
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

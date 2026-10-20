@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../data/db';
+import { formatContentHtml } from '../utils/formatContent';
 
 // Official UPSC Mains Paper to Topic mapping
 const MAINS_PAPER_TOPICS = {
@@ -294,7 +295,7 @@ export default function MainsHub({ onBack }) {
                       <div className="font-black text-xs text-indigo-600 dark:text-indigo-400 uppercase tracking-wider flex items-center gap-1.5">
                         <span>✍️</span> Official Structured Model Answer & Value Addition:
                       </div>
-                      <div dangerouslySetInnerHTML={{ __html: item.modelAnswer }} className="space-y-3 font-medium leading-relaxed" />
+                      <div dangerouslySetInnerHTML={{ __html: formatContentHtml(item.modelAnswer) }} className="space-y-3 font-medium leading-relaxed" />
                     </div>
                   )}
 
